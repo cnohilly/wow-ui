@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Scongi|Darkspear|Horde|90|HUNTER", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Scongi - Darkspear"] = "Scongi - Darkspear",
+	},
+	["profiles"] = {
+		["Scongi - Darkspear"] = {
+		},
+	},
+}

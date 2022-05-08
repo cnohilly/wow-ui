@@ -1,0 +1,36 @@
+VER 3 010000000000000F "execute" "INV_SWORD_48"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]execute
+END
+VER 3 0100000000000011 "fear" "ABILITY_GOLEMTHUNDERCLAP"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]intimidating shout
+END
+VER 3 0100000000000014 "hamstring" "ABILITY_SHOCKWAVE"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]hamstring
+END
+VER 3 0100000000000010 "heroic throw" "INV_AXE_66"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]heroic throw
+END
+VER 3 0100000000000012 "pummel" "INV_GAUNTLETS_04"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]pummel
+END
+VER 3 0100000000000017 "shield slam" "INV_SHIELD_05"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]shield slam
+END
+VER 3 0100000000000016 "slam" "ABILITY_WARRIOR_DECISIVESTRIKE"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]slam
+END
+VER 3 0100000000000015 "smash" "ABILITY_WARRIOR_COLOSSUSSMASH"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]colossus smash
+END
+VER 3 0100000000000013 "taunt" "SPELL_NATURE_REINCARNATION"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]taunt
+END

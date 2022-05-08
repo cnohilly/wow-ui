@@ -1,0 +1,10 @@
+
+BestInSlotDB = {
+	["profileKeys"] = {
+		["Sockk - Bleeding Hollow"] = "Sockk - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Sockk - Bleeding Hollow"] = {
+		},
+	},
+}

@@ -1,0 +1,10 @@
+lightweight tag c62dd92cd56dcce0b173cd45abc8ffd415626dee 0.8.9
+Author:	Bob Schumaker <bobschu@microsoft.com>
+Date:	Wed Jul 25 19:59:00 2018 -0700
+
+commit c62dd92cd56dcce0b173cd45abc8ffd415626dee
+Author: Bob Schumaker <bobschu@microsoft.com>
+Date:   Wed Jul 25 19:59:00 2018 -0700
+
+    Sync Embeds and pkgmeta.
+

@@ -1,0 +1,52 @@
+VER 3 0100000000000004 "Bubble" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Power Word: Shield; Power Word: Shield
+END
+VER 3 0100000000000011 "Feather" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Angelic Feather
+END
+VER 3 0100000000000007 "Flash Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Flash Heal; Flash Heal
+END
+VER 3 010000000000000D "GA" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Guardian Spirit;Guardian Spirit
+END
+VER 3 0100000000000009 "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Heal;Heal
+END
+VER 3 010000000000000F "Leap of Faith" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Leap of Faith; Leap of Faith
+END
+VER 3 010000000000000E "Light of Tuure" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Light of T'uure;Light of T'uure
+END
+VER 3 0100000000000006 "penn mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Penance; Penance
+END
+VER 3 0100000000000010 "PoH" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Prayer of Healing; Prayer of Healing
+END
+VER 3 010000000000000B "PoM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Prayer of Mending;Prayer of Mending
+END
+VER 3 010000000000000C "Purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Purify;Purify
+END
+VER 3 0100000000000008 "Renew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Renew; Renew
+END
+VER 3 010000000000000A "Serenity" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Holy Word: Serenity;Holy Word: Serenity
+END

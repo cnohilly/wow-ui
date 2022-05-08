@@ -1,0 +1,63 @@
+VER 3 010000000000000D "AS + Canc Aura" "INV_MISC_QUESTIONMARK"
+#showtooltip Avenger's Shield
+/cast Avenger's Shield
+/cancelaura Hand of Protection
+END
+VER 3 0100000000000018 "Blessing of Free" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Blessing of Freedom; Blessing of Freedom
+END
+VER 3 0100000000000019 "Blessing of Sac" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Blessing of Sacrifice; Blessing of Sacrifice
+END
+VER 3 010000000000001A "BlindLight/Repen" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Repentance
+/cast Blinding Light
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Repentance" or G"Blinding Light")
+END
+VER 3 0100000000000012 "Cancel Bubbles" "SPELL_HOLY_HOLYPROTECTION"
+/cancelaura Blessing of Protection
+/cancelaura Divine Shield
+END
+VER 3 0100000000000017 "Clease Toxins" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Cleanse Toxins; Cleanse Toxins
+END
+VER 3 010000000000000A "Flash Mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Flash of Light; Flash of Light
+END
+VER 3 0100000000000013 "Holy Light" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Holy Light; Holy Light
+END
+VER 3 0100000000000015 "Holy Shock" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Holy Shock; Holy Shock
+END
+VER 3 0100000000000007 "HoP mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Blessing of Protection; Blessing of Protection
+END
+VER 3 010000000000000B "lay on hands" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Lay on Hands; Lay on Hands
+END
+VER 3 0100000000000014 "Martyr" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Light of the Martyr; Light of the Martyr
+END
+VER 3 0100000000000006 "pulltimer" "INV_SWORD_1H_ORGRIMMARRAID_D_01"
+/pull 10
+END
+VER 3 0100000000000011 "rep/blind" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Repentance
+/cast Blinding Light
+END
+VER 3 010000000000000C "Word mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Word of Glory; Word of Glory
+END

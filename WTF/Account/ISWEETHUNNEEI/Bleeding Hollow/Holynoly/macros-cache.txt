@@ -1,0 +1,40 @@
+VER 3 010000000000000C "leap of faith" "PRIEST_SPELL_LEAPOFFAITH_A"
+#showtooltip
+/cast [@mouseover] Leap of Faith
+END
+VER 3 010000000000001E "levitate" "SPELL_HOLY_LAYONHANDS"
+#showtooltip
+/cast [@mouseover,help] Levitate; Levitate
+END
+VER 3 0100000000000031 "Penance" "237545"
+#showtooltip
+/cast [@mouseover, help] Penance; [@mouseover, harm] Penance; Penance
+END
+VER 3 0100000000000007 "PW: Shield" "SPELL_HOLY_POWERWORDSHIELD"
+#showtooltip
+/cast [@mouseover, help] Power Word: Shield; Power Word: Shield
+END
+VER 3 0100000000000026 "PW: Solace" "ABILITY_PRIEST_FLASHOFLIGHT"
+#showtooltip
+/cast [@mouseover,harm] [] Power Word: Solace
+END
+VER 3 0100000000000032 "Shadow Mend" "136202"
+#showtooltip
+/cast [@mouseover,help] Shadow Mend; Shadow Mend
+END
+VER 3 010000000000001A "SW: Death" "SPELL_SHADOW_DEMONICFORTITUDE"
+#showtooltip
+/cast [@mouseover,harm] [] Shadow Word: Death
+END
+VER 3 0100000000000018 "SW: Pain" "SPELL_SHADOW_SHADOWWORDPAIN"
+#showtooltip
+/cast [@mouseover,harm] [] Shadow Word: Pain
+END
+VER 3 0100000000000019 "Vampiric Touch" "SPELL_HOLY_STOICISM"
+#showtooltip
+/cast [@mouseover,harm] [] Vampiric Touch
+END
+VER 3 0100000000000033 "Void Eruption" "1386548"
+#showtooltip
+/cast [@mouseover,harm] [] Void Eruption
+END

@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Card Flipping
+## Author: TheGenomeWhisperer
+## Version: 1.1.3
+## Notes: Tracks Omens and Mysterious Fortune Card Flip data and calculates it all.
+## SavedVariables: cardFlipTableOmens_Save,cardFlipTableMFC_Save
+
+Card_Flipping.lua

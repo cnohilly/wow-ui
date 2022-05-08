@@ -1,0 +1,35 @@
+VER 3 0100000000000008 "counterspell" "SPELL_FROST_ICESHOCK"
+#showtooltip
+/cast [@mouseover,harm] [] Counterspell
+END
+VER 3 0100000000000017 "Living Bomb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm] [] Living Bomb
+END
+VER 3 0100000000000018 "Phoenix's Flames" "ARTIFACTABILITY_FIREMAGE_PHOENIXBOLT"
+#showtooltip
+/cast [@mouseover,harm] [] Phoenix's Flames
+/cast Fire Blast
+END
+VER 3 0100000000000012 "polymorph" "ACHIEVEMENT_HALLOWEEN_CAT_01"
+#showtooltip
+/cast [@mouseover,harm] [] polymorph(black cat)
+END
+VER 3 0100000000000016 "slow" "SPELL_NATURE_SLOW"
+#showtooltip
+/cast [@mouseover,harm] [] slow
+END
+VER 3 0100000000000015 "slow fall" "SPELL_MAGIC_FEATHERFALL"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]slow fall
+END
+VER 3 0100000000000009 "spellsteal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm] [] Spellsteal
+END
+VER 3 0100000000000019 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000001A "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tru[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

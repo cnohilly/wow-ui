@@ -1,0 +1,10 @@
+
+infPaladinDB = {
+	["height"] = 24,
+	["xpos"] = -434.999816894531,
+	["moveable"] = true,
+	["scale"] = 1,
+	["ypos"] = -160.999908447266,
+	["icon"] = true,
+	["width"] = 120,
+}

@@ -1,0 +1,49 @@
+VER 3 010000000000000C "Burning Rush" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Burning Rush
+END
+VER 3 0100000000000009 "cancel circle" "237560"
+/cancelaura Demonic Circle
+END
+VER 3 010000000000000B "Cataclysm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Cataclysm
+END
+VER 3 010000000000000D "Dark Pact" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Dark Pact
+END
+VER 3 0100000000000003 "grim doomguard" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Grimoire: Doomguard
+END
+VER 3 0100000000000006 "grim fel hunter" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Grimoire: Felhunter
+END
+VER 3 0100000000000005 "grim imp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Grimoire: Imp
+END
+VER 3 0100000000000004 "grim infernal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Grimoire: Infernal
+END
+VER 3 0100000000000008 "grim succubus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Grimoire: Succubus
+END
+VER 3 0100000000000007 "grim voidwalker" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Grimoire: Voidwalker
+END
+VER 3 0100000000000001 "petdismiss" "SPELL_NATURE_REMOVECURSE"
+/script PetDismiss()
+END
+VER 3 0100000000000002 "Sacrifice" "WARLOCK_GRIMOIREOFSACRIFICE"
+/cast Grimoire of Sacrifice
+END
+VER 3 010000000000000A "Shadowburn" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shadowburn
+END

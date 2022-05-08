@@ -1,10 +1,8 @@
 # BigWigs
 
-## [v241.1](https://github.com/BigWigsMods/BigWigs/tree/v241.1) (2022-04-26)
-[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v241...v241.1) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
+## [v241.2](https://github.com/BigWigsMods/BigWigs/tree/v241.2) (2022-05-02)
+[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v241.1...v241.2) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
 
-- SepulcherOfTheFirstOnes/PrototypePantheon: Locale fix  
-- Update deDE (#1212)  
-- Update itIT (#1211)  
-- Update itIT (#1210)  
-- SepulcherOfTheFirstOnes/PrototypePantheon: Add a text explaining how marking is done for Night Hunter  
+- SepulcherOfTheFirstOnes/TheJailer: cleanup rename options table  
+- Update ruRU (#1215)  
+- Core/BossPrototype: Change the :GetGossipOptions return to a table  

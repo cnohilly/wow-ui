@@ -449,7 +449,7 @@ L["TOO_MANY_SEARCH_RESULTS"] = "Zu viele Suchergebnisse. Es werden nicht alle Er
 L["TOO_SMALL_PERCENTAGE"] = "%% muss >= 0 (eingegeben wurde %s)"
 L["TOTAL_ITEMS_COLORED"] = "|cFFAAAAFF %s Gegenstände|r gesamt"
 L["TOTAL_ON_SALE"] = "Insgesamt zum Verkauf: %s"
-L["TOTAL_PENDING"] = "(%s ausstehend)"
+L["TOTAL_PENDING"] = "(%s anstehend)"
 L["TOTAL_PRICE"] = "Gesamtpreis:"
 L["TRANSLATORS_BRAZIL_PORTUGUEUSE"] = "Brasilianisches Portugiesisch"
 L["TRANSLATORS_FRENCH"] = "Französisch"

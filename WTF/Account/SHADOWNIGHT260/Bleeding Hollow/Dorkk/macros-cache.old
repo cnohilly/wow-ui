@@ -1,0 +1,95 @@
+VER 3 0100000000000024 "Barbed Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Barbed Shot
+/use [@pettarget] Claw
+/use [@pettarget] Bite
+/use [@pettarget] Smack 
+END
+VER 3 010000000000002F "Binding Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Binding Shot
+END
+VER 3 0100000000000033 "camo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Camouflage
+END
+VER 3 010000000000001F "Cancel Turtle" "132349"
+/cancelaura Aspect of the Turtle
+END
+VER 3 0100000000000020 "Cobra Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Cobra Shot
+/use [@pettarget] Claw
+/use [@pettarget] Bite
+/use [@pettarget] Smack 
+END
+VER 3 0100000000000014 "Counter" "INV_MISC_QUESTIONMARK"
+#showtooltip Counter Shot
+/stopcasting
+/stopcasting
+/cast Counter Shot
+END
+VER 3 0100000000000031 "Counter Special" "INV_MISC_QUESTIONMARK"
+#showtooltip Counter Shot
+/stopcasting
+/stopcasting
+/tar Terror Orb
+/cast Counter Shot
+END
+VER 3 0100000000000025 "disen" "INV_MISC_QUESTIONMARK"
+#showtooltip Disengage
+/stopcasting
+/stopcasting
+/cast Disengage
+END
+VER 3 0100000000000007 "Flare" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Flare
+END
+VER 3 0100000000000027 "Freezing Trap" "INV_MISC_QUESTIONMARK"
+#showtooltip Freezing Trap
+/cast [@cursor,nomod] Freezing Trap; [mod:ctrl] Freezing Trap
+END
+VER 3 010000000000002E "Mend Pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Spirit Mend
+END
+VER 3 010000000000002D "Misdirect" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Misdirection
+/cast [@mouseover] Misdirection
+/cast [@pet] Misdirection
+END
+VER 3 0100000000000034 "pettarget KC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pet] Kill Command; Call Pet 2
+/use [@pettarget] Claw
+/use [@pettarget] Bite
+/use [@pettarget] Smack 
+END
+VER 3 0100000000000035 "Resonating Arrow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Resonating Arrow
+/cast Flayed Shot
+/cast Death Chakram
+/cast [@cursor] Wild Spirits
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Resonating Arrow" or G"Flayed Shot" or G"Death Chakram"or G"Wild Spirits")
+END
+VER 3 0100000000000022 "Spirits / Resona" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Wild Spirits
+END
+VER 3 0100000000000032 "stopcastturtle" "INV_MISC_QUESTIONMARK"
+#showtooltip Aspect of the Turtle
+/stopcasting
+/stopcasting
+/cast !Aspect of the Turtle
+END
+VER 3 0100000000000026 "Tar Trap" "INV_MISC_QUESTIONMARK"
+#showtooltip Tar Trap
+/cast [@cursor] Tar Trap
+END
+VER 3 0100000000000030 "Volley" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Volley
+END

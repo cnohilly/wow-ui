@@ -1,0 +1,19 @@
+
+ShieldMaidConfig = {
+	["showGlow"] = true,
+	["shieldBarrierAnchor"] = "CENTER",
+	["shieldBarrierX"] = -150.999549943577,
+	["shieldChargeAnchor"] = "CENTER",
+	["scale"] = 1,
+	["shieldBlockX"] = -217.000252006977,
+	["showFrames"] = false,
+	["shieldBlockY"] = -5.00023422629515,
+	["size"] = 60,
+	["shieldChargeX"] = -34,
+	["shieldBlockAnchor"] = "CENTER",
+	["showCooldown"] = true,
+	["shieldBarrierY"] = -5.00003727104551,
+	["shieldChargeY"] = -200,
+	["margin"] = 2,
+	["hiddenOutOfCombat"] = false,
+}

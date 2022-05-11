@@ -1,0 +1,68 @@
+VER 3 0000000000000018 "belt" "INV_MISC_QUESTIONMARK"
+#showtooltip 6
+/use 6
+END
+VER 3 000000000000003F "Camera" "462340"
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 0000000000000019 "cloak" "INV_MISC_QUESTIONMARK"
+#showtooltip 15
+/use 15
+END
+VER 3 000000000000004A "cov gen abil" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Door of Shadows
+/cast Soulshape
+/cast Fleshcraft
+/cast Summon Steward
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft"or G"Summon Steward")
+END
+VER 3 0000000000000042 "Garrison Report" "134330"
+/run ShowGarrisonLandingPage(2)
+END
+VER 3 000000000000004D "halo bomb" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1 
+/wm [@cursor] 1
+END
+VER 3 0000000000000046 "Heavy Desolate A" "INV_MISC_QUESTIONMARK"
+/use Heavy Desolate Armor Kit
+/use 5
+END
+VER 3 0000000000000025 "Int" "TRADE_ENGINEERING"
+/interact [cursor]
+END
+VER 3 0000000000000029 "mouse heal examp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Wild Growth;Wild Growth
+END
+VER 3 0000000000000031 "Pull 15" "INV_SWORD_04"
+/pull 15
+END
+VER 3 000000000000004C "quest" "INV_MISC_QUESTIONMARK"
+/tar Malfunctioned
+/use Kinematic Micro-Life Recalibrator
+END
+VER 3 0000000000000049 "scare beast" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/tar Jormog the Behemoth
+/cast Scare Beast
+/targetlasttarget
+END
+VER 3 000000000000004B "sharpening" "INV_MISC_QUESTIONMARK"
+/use Shaded Sharpening Stone
+/use 16
+END
+VER 3 0000000000000017 "ss eject" "INV_MISC_QUESTIONMARK"
+/run EjectPassengerFromSeat(1)
+END
+VER 3 0000000000000047 "tar" "INV_MISC_QUESTIONMARK"
+/focus mouseover
+END
+VER 3 000000000000002E "Trinket 1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0000000000000040 "Trinket 2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END

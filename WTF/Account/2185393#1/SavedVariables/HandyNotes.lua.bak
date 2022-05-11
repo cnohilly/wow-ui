@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Jerkk - Bleeding Hollow"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Jerkk - Bleeding Hollow"] = {
+		},
+	},
+}

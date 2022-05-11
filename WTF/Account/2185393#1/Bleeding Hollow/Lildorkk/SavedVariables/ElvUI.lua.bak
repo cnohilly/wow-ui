@@ -1,0 +1,15 @@
+
+ElvCharacterDB = {
+	["ChatLog"] = {
+	},
+	["ChatEditHistory"] = {
+		"/who nightmare unending", -- [1]
+		"/ginvite Wardorkk ", -- [2]
+	},
+	["BodyGuard"] = {
+		["IsInValidZone"] = false,
+		["MaxHealth"] = 0,
+		["Health"] = 0,
+		["Active"] = false,
+	},
+}

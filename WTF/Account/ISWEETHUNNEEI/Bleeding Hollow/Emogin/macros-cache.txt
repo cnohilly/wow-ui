@@ -1,0 +1,66 @@
+VER 3 0100000000000009 "agony" "SPELL_SHADOW_CURSEOFSARGERAS"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]agony
+END
+VER 3 0100000000000010 "chaos bolt" "ABILITY_WARLOCK_CHAOSBOLT"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]chaos bolt
+END
+VER 3 010000000000000F "conflagrate" "SPELL_FIRE_FIREBALL"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]conflagrate
+END
+VER 3 010000000000000A "corruption" "SPELL_SHADOW_ABOMINATIONEXPLOSION"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]corruption
+END
+VER 3 0100000000000014 "DB_DemoAoE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_DemoAoE
+END
+VER 3 0100000000000006 "drain life" "SPELL_SHADOW_LIFEDRAIN02"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]drain life
+END
+VER 3 0100000000000004 "fear" "SPELL_SHADOW_POSSESSION"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]fear
+END
+VER 3 010000000000000E "havoc" "ABILITY_WARLOCK_BANEOFHAVOC"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]havoc
+END
+VER 3 0100000000000011 "immolate" "SPELL_FIRE_IMMOLATION"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]immolate
+END
+VER 3 0100000000000017 "mill" "INV_MISC_QUESTIONMARK"
+/cast Milling
+/use Death Blossom
+END
+VER 3 0100000000000008 "seed" "SPELL_SHADOW_SEEDOFDESTRUCTION"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]seed of corruption
+END
+VER 3 010000000000000C "siphon" "SPELL_SHADOW_REQUIEM"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]siphon life
+END
+VER 3 010000000000000B "ss" "SPELL_SHADOW_SOULGEM"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]soulstone
+END
+VER 3 0100000000000007 "UA" "SPELL_SHADOW_UNSTABLEAFFLICTION_3"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]unstable affliction
+END
+VER 3 0100000000000015 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 0100000000000016 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Emo[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Vee
+END
+VER 3 0100000000000005 "water breathing" "SPELL_SHADOW_DEMONBREATH"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]unending breath
+END

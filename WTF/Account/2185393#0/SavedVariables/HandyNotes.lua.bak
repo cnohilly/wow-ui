@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Scongi - Darkspear"] = "Scongi - Darkspear",
+	},
+	["profiles"] = {
+		["Scongi - Darkspear"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Scongi - Darkspear"] = "Scongi - Darkspear",
+	},
+	["profiles"] = {
+		["Scongi - Darkspear"] = {
+		},
+	},
+}

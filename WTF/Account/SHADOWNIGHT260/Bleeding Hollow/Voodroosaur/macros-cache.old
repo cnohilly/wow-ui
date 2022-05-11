@@ -1,0 +1,87 @@
+VER 3 0100000000000010 "dispel mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Nature's Cure; Nature's Cure
+END
+VER 3 0100000000000007 "displacer" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Wild Charge
+/cast Displacer Beast
+/cancelaura Cat Form
+END
+VER 3 0100000000000011 "feral healing" "INV_MISC_QUESTIONMARK"
+#showtooltip Regrowth
+/console autounshift 0
+/cast [@mouseover,help] Regrowth;Regrowth
+/console autounshift 1
+END
+VER 3 0100000000000006 "Guarm Pull" "ABILITY_RACIAL_BEARFORM"
+/cast Bear Form
+/cast Growl
+/cast Barkskin
+/cast Rage of the Sleeper
+/cast Berserking
+/cast Mangle
+END
+VER 3 010000000000000E "healtouch mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Remove Corruption; Remove Corruption
+END
+VER 3 0100000000000014 "HT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/console autounshift 0
+/cast Healing Touch
+/console autounshift 1
+END
+VER 3 0100000000000004 "Incarnation" "SPELL_DRUID_INCARNATION"
+#showtooltip
+/cast Incarnation: King of the Jungle
+/cast Nature's Vigil
+END
+VER 3 010000000000000D "Ironbark mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Ironbark;Ironbark
+END
+VER 3 0100000000000009 "Lifebloom mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Lifebloom;Lifebloom
+END
+VER 3 010000000000000F "Mushroom mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Wild Mushroom; Wild Mushroom
+END
+VER 3 010000000000000A "Regrowth mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Regrowth;Regrowth
+END
+VER 3 0100000000000008 "rejuv mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Rejuvenation; Rejuvenation
+END
+VER 3 0100000000000013 "skullbash" "INV_MISC_QUESTIONMARK"
+/cast [@boss1] Skull Bash
+END
+VER 3 010000000000000C "Swiftmend mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Swiftmend;Swiftmend
+END
+VER 3 0100000000000012 "Tank Incarn" "ABILITY_RACIAL_BEARFORM"
+/cast Wild Charge
+/cast Growl
+/cast Barkskin
+/cast Rage of the Sleeper
+/cast Berserking
+END
+VER 3 0100000000000005 "touch" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Cenarion Ward; Cenarion Ward
+END
+VER 3 010000000000000B "Wildgrowth mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help] Wild Growth;Wild Growth
+END
+VER 3 0100000000000003 "X Form Charge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bear Form
+/cancelaura Cat Form
+/cast [@mouseover][help] Wild Charge
+END

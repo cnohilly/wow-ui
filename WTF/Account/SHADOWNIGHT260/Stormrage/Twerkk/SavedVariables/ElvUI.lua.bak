@@ -1,0 +1,35 @@
+
+ElvCharacterDB = {
+	["ChatLog"] = {
+		["1455237963.537"] = {
+			"the dream is real", -- [1]
+			"|Kb1721|k0000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1970, -- [11]
+			false, -- [12]
+			1721, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			nil, -- [18]
+			nil, -- [19]
+			"CHAT_MSG_BN_WHISPER_INFORM", -- [20]
+		},
+	},
+	["ChatEditHistory"] = {
+	},
+	["BodyGuard"] = {
+		["IsInValidZone"] = false,
+		["MaxHealth"] = 0,
+		["Health"] = 0,
+		["Active"] = false,
+	},
+}

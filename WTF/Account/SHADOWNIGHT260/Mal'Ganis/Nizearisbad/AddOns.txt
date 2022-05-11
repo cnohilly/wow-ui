@@ -1,0 +1,5 @@
+epgp_lootmaster_ml: disabled
+AngryAssignments: enabled
+ExtraCD: disabled
+HandyNotes: enabled
+HandyNotes_DraenorTreasures: enabled

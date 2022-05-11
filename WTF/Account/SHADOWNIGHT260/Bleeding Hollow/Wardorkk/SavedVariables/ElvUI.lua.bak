@@ -1,0 +1,2252 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatHistoryLog"] = {
+		{
+			"LF BS", -- [1]
+			"Canarsie-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Canarsie-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1290, -- [11]
+			"Player-73-0E02CD64", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cCanarsie|r",
+			[51] = 1643231307,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"WTS >M+ 0-27||Key&Timed +20=472K|| +15 ONLY 109K||Buy 2 GET FREE ARMOR STACK>||3x+15 ONLY 279K (WITH ARMOR 288K)|| 3xKSM Keys 118k PER KEY<WTS  SOD  H & M > WTS Torghast 12/Tazavesh Hardmode /(Leveling 51-60)/ ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
+			"Silowertss-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Silowertss-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1291, -- [11]
+			"Player-73-0EA3D9C6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Silowertss|r",
+			[51] = 1643231311,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"<<<<HUOKAN>>>> WTS> M+0-27 M+15 109K BUY 2 GET A FREE LOOTFUNNEL || BUY 3X15 WITH FUNNEL PER 288K)||PORTAL DEAL M+20 SPEC KEY TIMED 472K||+25 1.5M||KSM DEAL 4X15 TIMED SPECIFIC KEY 472K||SOD HEROIC AND MYTHIC ||<ONLY GOLD> <3", -- [1]
+			"Hdealbd-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hdealbd-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1292, -- [11]
+			"Player-73-0E9BE69A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeHdealbd|r",
+			[51] = 1643231326,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"paying for mage port to orb", -- [1]
+			"Kembauer-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kembauer-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1293, -- [11]
+			"Player-73-007AEBB0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cKembauer|r",
+			[51] = 1643231350,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"WTS M+15 (109K) - BUY 2 GET FREE ARMOR STACK > DEALS x3+15 (93k or 96k WITH STACK EACH) / +20 (472K) SPECIFIC KEY TIMED / M+keys 21-27 / leveling50-60 / Torghast / KSM / SoD FullClearH (295K) / AOTC (60K) / Only Gold / HUOKAN COMMUNITY", -- [1]
+			"Renwerd-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Renwerd-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1294, -- [11]
+			"Player-73-0EA299EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaRenwerd|r",
+			[51] = 1643231363,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"[WТS] Sanctum of Domination Heroic & Mythic Carry! Order a Trial run to test our service with no risks! Up to 12 guild runs daily. Get 239-259 ilvl gear and AOTC. We have over 18207 Trustpilot reviews. Visit WowVendor.org for more info!", -- [1]
+			"Aququvonyma-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aququvonyma-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1298, -- [11]
+			"Player-73-0EA42E81", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAququvonyma|r",
+			[51] = 1643231377,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			"[WТS] Mythic +15-20 fast CARRY now. Order a Trial run to test our service with no risks! Runs start every hour. Get ilvl 233-252+ Gear, Rating, and KSM Season 2. We have over 18207 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
+			"Aququvonyma-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aququvonyma-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1300, -- [11]
+			"Player-73-0EA42E81", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAququvonyma|r",
+			[51] = 1643231474,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"WTS M+15 ONLY 109k> BUY 2 GET FREE ARMOR STACK> M14 105K|| M12 99K|| M10 69K||SPECIFIC KEY 20+ TIMED 472k|| WTS M+25 1.5KK||3xM15 93k ea|| 3xM14 84k ea || 3xM12 75k ea||3xM10 52k ea || SOD HC&M||WTS TAZ/TORG/ LVL ||GOLD ONLY >>HUOKAN<<", -- [1]
+			"Yoshisama-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Yoshisama-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1301, -- [11]
+			"Player-73-0E8DFD11", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Yoshisama|r",
+			[51] = 1643231487,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
+		{
+			"paying 100 mage port lock summon orb", -- [1]
+			"Kembauer-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kembauer-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1302, -- [11]
+			"Player-73-007AEBB0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cKembauer|r",
+			[51] = 1643231493,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"WTS  full clear SOD H 295k  << +15 = 109k >> Buy two and get free lootfunnel || x3 +15s each 93k ||  Portal offer mythic 20s time gurante specfic key 472 k || Torghast|| Tazavesh ||Legacy Run  || PVP 2v2 or 3v3 || M SOD sylvanas + mount || 15-27 keys", -- [1]
+			"Norasara-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Norasara-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1303, -- [11]
+			"Player-73-0E9F04CE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNorasara|r",
+			[51] = 1643231518,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [10]
+		{
+			"WTS >>>Mythic Sanctum Of Domination <<< PACKAGES  >>>> FIRST 3 /// FIRST 6  /// CE +MOUNT///FUNNELS Etc. <<<< TONIGHT 8:30 p.m. EST. /W For more Info. Gold only.", -- [1]
+			"Gernardboost-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gernardboost-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1304, -- [11]
+			"Player-73-0E8E1D9E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGernardboost|r",
+			[51] = 1643231521,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [11]
+		{
+			"paying 100g mage port to orb lock summon orb 100g", -- [1]
+			"Kembauer-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kembauer-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1305, -- [11]
+			"Player-73-007AEBB0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cKembauer|r",
+			[51] = 1643231529,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [12]
+		{
+			"< WTS SoD Full Clear H 5:30PM - 295K / Gold Only / Huokan Community", -- [1]
+			"Renwerd-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Renwerd-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1306, -- [11]
+			"Player-73-0EA299EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaRenwerd|r",
+			[51] = 1643231554,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [13]
+		{
+			"[WТS] Sanctum of Domination Heroic & Mythic Carry! Order a Trial run to test our service with no risks! Up to 12 guild runs daily. Get 239-259 ilvl gear and AOTC. We have over 18207 Trustpilot reviews. Visit WowVendor.org for more info!", -- [1]
+			"Aququvonyma-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aququvonyma-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1307, -- [11]
+			"Player-73-0EA42E81", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAququvonyma|r",
+			[51] = 1643231574,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [14]
+		{
+			"WTS FULL HEROIC RUN|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rFast and smooth run. Closest raid 5:00PM SERVER TIME! JUST FEW SPOTS LEFT!Get your 239+ iLvl gear TONIGHT !Discord verify! BEST PRICE!  /w me for more info!", -- [1]
+			"Evfiz-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Evfiz-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1308, -- [11]
+			"Player-73-0E9B7D0E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Evfiz|r",
+			[51] = 1643231607,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [15]
+		{
+			"LF BLACKSMITH", -- [1]
+			"Canarsie-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Canarsie-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1310, -- [11]
+			"Player-73-0E02CD64", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cCanarsie|r",
+			[51] = 1643231628,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [16]
+		{
+			"WTS |cffa335ee|Hitem:41508::::::::60:63:::::::::|h[Mechano-Hog]|h|r 40k ", -- [1]
+			"Slapmage-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Slapmage-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12605, -- [11]
+			"Player-73-0CD15F26", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaSlapmage|r",
+			[51] = 1643585355,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [17]
+		{
+			"<Ascension> is recruiting for 9.2 Currently 4/10 Mythic SoD. Looking for Ranged Dps Spriest Warlock Mage Hunter. All are Welcome Friendly Helpul Raids M+ Pvp Raid Days Tues Thurs Sun 7:30pm - 11pm EST. Pst for More Information", -- [1]
+			"Epicdoom-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Epicdoom-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12606, -- [11]
+			"Player-73-0E975FF2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Epicdoom|r",
+			[51] = 1643585357,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [18]
+		{
+			"[WТS] Mythic +15-20 fast CARRY now. Order a Trial run to test our service with no risks! Runs start every hour. Get ilvl 233-252+ Gear, Rating, and KSM Season 2. We have over 18207 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
+			"Aququvonyma-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aququvonyma-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12636, -- [11]
+			"Player-73-0EA42E81", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAququvonyma|r",
+			[51] = 1643585374,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [19]
+		{
+			"GLORY OF DOMINATION STARTING SOON 9PM EST for just 350k. Full Achievement and Mount!.  Best Raiding Deals Always! Stormrage Community, visit https://discord.gg/gnH2dgdxy2 for info.", -- [1]
+			"Goldboostmon-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goldboostmon-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12637, -- [11]
+			"Player-73-0E9B6548", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGoldboostmon|r",
+			[51] = 1643585378,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [20]
+		{
+			"WTS  full clear SOD H 295k  << +15 = 109k >> Buy two and get free lootfunnel || x3 +15s each 93k ||  Portal offer mythic 20s time gurante specfic key 472 k || Torghast|| Tazavesh ||Legacy Run  || PVP 2v2 or 3v3 || M SOD sylvanas + mount || 15-27 keys", -- [1]
+			"Norasara-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Norasara-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12638, -- [11]
+			"Player-73-0E9F04CE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNorasara|r",
+			[51] = 1643585384,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [21]
+		{
+			"<<HUOKAN>>M+15 109k(Buy2 get free Stack),(Lootfunnel)15x3=288k,(Any Stacks)15x3=279k,Tazavesh(HM)189k,Layer9x3=57.6k,H SOD 295k(full clear),Aotc 59k,M Slv Killed 6.5M,[M+20 Timed 472k,M+25 Untime 1.5M],PvP(GOLD ONLY)", -- [1]
+			"Xieobuu-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Xieobuu-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12639, -- [11]
+			"Player-73-0EA274D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Xieobuu|r",
+			[51] = 1643585389,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [22]
+		{
+			"WTS |cffffff00|Hachievement:12861:Player-3678-0D148C36:0:0:0:-1:0:0:0:0|h[Master of Duels]|h|r + \"Contender\" title+ |cff0070dd|Hitem:163055::::::::10:62:::1:3524::::::|h[Dueler's Tabard]|h|r + 8 achivs ! (gold only) ! /w me for more info !", -- [1]
+			"Ameldai-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ameldai-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12640, -- [11]
+			"Player-73-0E75697C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaAmeldai|r",
+			[51] = 1643585391,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [23]
+		{
+			"WTS |cffffff00|Hachievement:12604:Player-3678-0D148C36:0:0:0:-1:4:0:0:0|h[Conqueror of Azeroth]|h|r title + |cffa335ee|Hitem:163577::::::::10:62:::::::::|h[Conqueror's Scythemaw]|h|r also selling \"The Alliance slayer\" title /w for price ! (gold only)", -- [1]
+			"Ameldai-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ameldai-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12641, -- [11]
+			"Player-73-0E75697C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaAmeldai|r",
+			[51] = 1643585391,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [24]
+		{
+			"is buttcheeks 1 word or should i spread them apart?", -- [1]
+			"Footodor-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Footodor-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12643, -- [11]
+			"Player-73-0A189699", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Footodor|r",
+			[51] = 1643585419,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [25]
+		{
+			"<<WTS>> HAVE THE BEST PRICES--> +20 timed =472k, +15 109k,  3x 93K each one,   <Mythic 0-27s  Keys BIG DEALS  !> KSM < POWER LEVELING 51-60 ! > <<RAID N/H/M>> >BUY 2 AND GET FREE ARMOR STACK> < < TORGHAST & TC > GOLD ONLY < Huokan boosting, DM ME ", -- [1]
+			"Dreamër-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dreamër-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12644, -- [11]
+			"Player-73-0EA409C8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Dreamër|r",
+			[51] = 1643585428,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [26]
+		{
+			"(WTS) -- HEROIC |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r on THURSDAY @ 8:30pmEST -- Personal loot and CLOTH || LEATHER || MAIL || PLATE Funnels are available! GOLD ONLY! with <Edgy Noun> on BleedingHollow <3", -- [1]
+			"Phillydealz-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Phillydealz-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			7868, -- [11]
+			"Player-73-0E7AEAF4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Phillydealz|r",
+			[51] = 1643849369,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [27]
+		{
+			"<Tabbed Out> is selling Mythic SoD tonight at 8:30 PM EST.  All bosses available including Mythic Sylvanas (with mount).  Funnels available.  Gold only.  Pst if interested.", -- [1]
+			"Cíle-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cíle-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			7869, -- [11]
+			"Player-73-0B050024", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Cíle|r",
+			[51] = 1643849435,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [28]
+		{
+			"(WTS) -- HEROIC |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r on THURSDAY @ 8:30pmEST -- Personal loot and CLOTH || LEATHER || MAIL || PLATE Funnels are available! GOLD ONLY! with <Edgy Noun> on BleedingHollow <3", -- [1]
+			"Phillydealz-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Phillydealz-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8067, -- [11]
+			"Player-73-0E7AEAF4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Phillydealz|r",
+			[51] = 1643849767,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [29]
+		{
+			"<Tabbed Out> is selling Mythic SoD tonight at 8:30 PM EST.  All bosses available including Mythic Sylvanas (with mount).  Funnels available.  Gold only.  Pst if interested.", -- [1]
+			"Cíle-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cíle-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8080, -- [11]
+			"Player-73-0B050024", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Cíle|r",
+			[51] = 1643849804,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [30]
+		{
+			"finish this song's  lyrics: \"around the world, around the world!\"", -- [1]
+			"Ginjuice-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ginjuice-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8083, -- [11]
+			"Player-73-0AD011F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Ginjuice|r",
+			[51] = 1643849822,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [31]
+		{
+			"u r gay", -- [1]
+			"Clapp-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Clapp-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8085, -- [11]
+			"Player-73-06DF0E86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeClapp|r",
+			[51] = 1643849892,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [32]
+		{
+			"around the woooorld", -- [1]
+			"Freeránge-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Freeránge-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8086, -- [11]
+			"Player-73-0AEAA25F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Freeránge|r",
+			[51] = 1643849901,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [33]
+		{
+			"with all the needing 291 item for legendary", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8092, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643849917,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [34]
+		{
+			"i completely neglected to think of the other part of it ", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8093, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643849925,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [35]
+		{
+			"is there more layers of torghast", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8094, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643849931,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [36]
+		{
+			"and a new currency ?", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8095, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643849933,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [37]
+		{
+			"new currency yes but dont need to do torghast for it]", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8096, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643849944,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [38]
+		{
+			"new torghast layers yes, 13 and 14", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8098, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643849962,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [39]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15102:Player-73-0972DE5C:1:2:2:22:4294967295:4294967295:4294967295:4294967295|h[It's Off the Chain!]|h|r!", -- [1]
+			"ßloodvengnce-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"ßloodvengnce-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8106, -- [11]
+			"Player-73-0972DE5C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9ßloodvengnce|r",
+			[51] = 1643850358,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [40]
+		{
+			"1-300 Engineering is cheaper than I thought it'd be  so that's nice", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8107, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643850448,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [41]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15076:Player-73-0972DE5C:1:2:2:22:4294967295:4294967295:4294967295:4294967295|h[The Box of Many Things]|h|r!", -- [1]
+			"ßloodvengnce-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"ßloodvengnce-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8108, -- [11]
+			"Player-73-0972DE5C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9ßloodvengnce|r",
+			[51] = 1643850563,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [42]
+		{
+			"lol nice", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8109, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643850863,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [43]
+		{
+			"im trying to figure out how to fix my trinket weakauras", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8110, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643850883,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [44]
+		{
+			"i have it set where it will automatically work for on use trinkets ", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8111, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643850895,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [45]
+		{
+			"rather than needing to make a new aura for each trinket", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8112, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643850904,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [46]
+		{
+			"but some trinkets work weird and dont work correctly for it ", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8113, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643850925,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [47]
+		{
+			"|Hitem:178809::::::::60:267::23:5:7595:7359:6652:1524:6646::::::|h[Soulletting Ruby]|h being one of them", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8114, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643850931,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [48]
+		{
+			"Weird", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8167, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643851607,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [49]
+		{
+			"Not sure why that would be the case", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8168, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643851611,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [50]
+		{
+			"soulletting ruby casts a spell ", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8169, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643851635,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [51]
+		{
+			"that that spells then in turn gives you the buff", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8170, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643851647,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [52]
+		{
+			"|Hspell:345801:0|h[Soulletting Ruby]|h is the spell it casts ", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8171, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643851754,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [53]
+		{
+			"which then gives you |Hspell:345802:0|h[Soul Fragment]|h", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8172, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851797,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [54]
+		{
+			"i belive", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8173, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851825,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [55]
+		{
+			"believe", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8174, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851828,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [56]
+		{
+			"|Hspell:345805:0|h[Soul Infusion]|h this one ", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8175, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851879,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [57]
+		{
+			"somebody legit posted 47x |Hitem:184480::::::::60:63::::::::Player-73-0CD15F26:|h[Lightless Silk Pouch]|h at 300g each", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8176, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851889,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [58]
+		{
+			"when next highest is 500g", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8177, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851894,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [59]
+		{
+			"same thing but for some reason does that ", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8178, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851894,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [60]
+		{
+			"ah", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8179, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851906,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [61]
+		{
+			"thats neat", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8180, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851910,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [62]
+		{
+			"love when they do that", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8181, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851914,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [63]
+		{
+			"ye same", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8182, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851932,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [64]
+		{
+			"its great", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8183, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643851933,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [65]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14478:Player-73-0EA59604:1:2:2:22:4294967295:4294967295:4294967295:4294967295|h[The Soulforges]|h|r!", -- [1]
+			"Bungul-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bungul-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8185, -- [11]
+			"Player-73-0EA59604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeBungul|r",
+			[51] = 1643852134,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [66]
+		{
+			"can I get a raider  volunteer for a science experiment?", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8197, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1643852988,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [67]
+		{
+			"i am science", -- [1]
+			"Bungul-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8198, -- [11]
+			"Player-73-0EA59604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeBungul|r",
+			[51] = 1643852999,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [68]
+		{
+			"sure", -- [1]
+			"Taladras-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8199, -- [11]
+			"Player-73-0E66416C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cTaladras|r",
+			[51] = 1643853005,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [69]
+		{
+			"I'm outside the raid if you need me inside", -- [1]
+			"Taladras-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8200, -- [11]
+			"Player-73-0E66416C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cTaladras|r",
+			[51] = 1643853012,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [70]
+		{
+			"using sorg ty", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8201, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1643853014,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [71]
+		{
+			"i am not science", -- [1]
+			"Bungul-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8202, -- [11]
+			"Player-73-0EA59604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeBungul|r",
+			[51] = 1643853023,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [72]
+		{
+			"ROMAN ", -- [1]
+			"Penancillin-MoonGuard", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Penancillin-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8204, -- [11]
+			"Player-3675-0A3B38E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefePenancillin-MoonGuard|r",
+			[51] = 1643853136,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [73]
+		{
+			"engineering is a scam", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8206, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Party|r",
+			[51] = 1643853260,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [74]
+		{
+			"outland engineering costs a firstborn child to level", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8207, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Party",
+			[51] = 1643853280,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [75]
+		{
+			"lmao", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8209, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Party|r",
+			[51] = 1643853360,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [76]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15080:Player-73-0EA59604:1:2:2:22:4294967295:4294967295:4294967295:4294967295|h[So Blessed]|h|r!", -- [1]
+			"Bungul-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bungul-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8210, -- [11]
+			"Player-73-0EA59604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeBungul|r",
+			[51] = 1643853374,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [77]
+		{
+			"so", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8211, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643853490,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [78]
+		{
+			"tier tokens wont be tradeable", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8212, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643853495,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [79]
+		{
+			"unless you have an equivalent ilvl tier piece in that slot", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8213, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643853503,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [80]
+		{
+			"not just higher ilvl piece of gear", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8214, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643853509,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [81]
+		{
+			"eh", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8215, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643853698,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [82]
+		{
+			"i guess makes sense", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8216, -- [11]
+			false, -- [12]
+			56, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1643853701,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [83]
+		{
+			"is my 215 warlock ready for painsmith ?", -- [1]
+			"Wardorkk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8228, -- [11]
+			"Player-73-0A3F2E45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edWardorkk|r",
+			[51] = 1643854340,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [84]
+		{
+			"no", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8229, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1643854349,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [85]
+		{
+			"hm", -- [1]
+			"Wardorkk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8230, -- [11]
+			"Player-73-0A3F2E45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edWardorkk|r",
+			[51] = 1643854353,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [86]
+		{
+			"but your ~250 survival might be", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8231, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1643854367,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [87]
+		{
+			"I think the cutoff is 216 Dorkk", -- [1]
+			"Taladras-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8233, -- [11]
+			"Player-73-0E66416C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cTaladras|r",
+			[51] = 1643854373,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [88]
+		{
+			"we wrote the cutoff as wardorkkilvl + 1", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8235, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1643854388,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [89]
+		{
+			"ok neat so somats can come", -- [1]
+			"Xemos-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8236, -- [11]
+			"Player-73-0E63B539", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1643854398,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"also no", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8237, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1643854404,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"wtf", -- [1]
+			"Xemos-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8238, -- [11]
+			"Player-73-0E63B539", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1643854407,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"sadly the survival would do 2 seconds of dps on the adds", -- [1]
+			"Wardorkk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8239, -- [11]
+			"Player-73-0A3F2E45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edWardorkk|r",
+			[51] = 1643854410,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"and then do 0 dps on boss", -- [1]
+			"Wardorkk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8240, -- [11]
+			"Player-73-0A3F2E45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edWardorkk|r",
+			[51] = 1643854414,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"actually yeah if you dont want 6 vault slots go for it", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8241, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1643854416,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"why is this a thing where ally have 100 people out here killing at all times....", -- [1]
+			"ßloodvengnce-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8243, -- [11]
+			"Player-73-0972DE5C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9ßloodvengnce|r",
+			[51] = 1643854483,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"thats just warmode, they cant do it otherswise", -- [1]
+			"Sprootzz-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8244, -- [11]
+			"Player-73-0EA3FBB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Sprootzz|r",
+			[51] = 1643854505,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [97]
+		{
+			"i know ", -- [1]
+			"ßloodvengnce-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8245, -- [11]
+			"Player-73-0972DE5C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9ßloodvengnce|r",
+			[51] = 1643854515,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"was normal pretty much easy ", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			420, -- [11]
+			false, -- [12]
+			12, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Kultamch|r",
+			[51] = 1646677576,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Kultamch",
+		}, -- [99]
+	},
+	["BodyGuard"] = {
+		["IsInValidZone"] = true,
+		["MaxHealth"] = 0,
+		["Health"] = 0,
+		["Active"] = false,
+	},
+	["ChatEditHistory"] = {
+		"/script print(GetSpellLink(345801))", -- [1]
+		"|cff71d5ff|Hspell:345801:0|h[Soulletting Ruby]|h|r is the spell it casts", -- [2]
+		"/script print(GetSpellLink(345802))", -- [3]
+		"which then gives you |cff71d5ff|Hspell:345802:0|h[Soul Fragment]|h|r", -- [4]
+		"i belive", -- [5]
+		"believe", -- [6]
+		"/script print(GetSpellLink(345805))", -- [7]
+		"|cff71d5ff|Hspell:345805:0|h[Soul Infusion]|h|r this one", -- [8]
+		"same thing but for some reason does that", -- [9]
+		"ah", -- [10]
+		"thats neat", -- [11]
+		"love when they do that", -- [12]
+		"lmao", -- [13]
+		"eh", -- [14]
+		"i guess makes sense", -- [15]
+		"/g is my 215 warlock ready for painsmith ?", -- [16]
+		"/g hm", -- [17]
+		"/g sadly the survival would do 2 seconds of dps on the adds", -- [18]
+		"/g and then do 0 dps on boss", -- [19]
+		"/wa", -- [20]
+	},
+}

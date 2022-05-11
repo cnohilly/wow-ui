@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Jerkk|Bleeding Hollow|Horde|100|PALADIN", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Jerkk - Bleeding Hollow"] = {
+		},
+	},
+}

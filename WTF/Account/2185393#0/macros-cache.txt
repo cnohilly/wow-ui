@@ -1,0 +1,63 @@
+VER 3 0000000000000015 "dh" "INV_WEAPON_BOW_02"
+/inv dorkkhunter-bleedinghollow
+END
+VER 3 0000000000000008 "DK inv" "237511"
+/inv Freakk-BleedingHollow
+END
+VER 3 0000000000000003 "Druid inv" "236167"
+/inv Voodroo-BleedingHollow
+END
+VER 3 000000000000000B "holynoly inv" "135940"
+/inv Holynoly-BleedingHollow
+END
+VER 3 0000000000000001 "hunter inv" "INV_WEAPON_BOW_08.BLP"
+/inv Dorkk-BleedingHollow
+END
+VER 3 000000000000000A "Monk inv" "988197"
+/inv Awkk-BleedingHollow
+END
+VER 3 0000000000000013 "nolie dk" "237514"
+/inv Inolie-BleedingHollow
+END
+VER 3 000000000000000F "nolie druid" "132115"
+/inv Katdoge-BleedingHollow
+END
+VER 3 000000000000000E "nolie hunter" "132167"
+/inv Stryfë-BleedingHollow
+END
+VER 3 000000000000000C "nolie mage" "135812"
+/inv Trublmakr-BleedingHollow
+END
+VER 3 0000000000000014 "nolie monk" "651728"
+/inv Blù-BleedingHollow
+END
+VER 3 000000000000000D "nolie pally" "135921"
+/inv Pándan-BleedingHollow
+END
+VER 3 0000000000000012 "nolie rogue" "132299"
+/inv Diá-BleedingHollow
+END
+VER 3 0000000000000011 "nolie warlock" "136145"
+/inv Emogin-BleedingHollow
+END
+VER 3 0000000000000010 "nolie warrior" "132337"
+/inv Noliee-BleedingHollow
+END
+VER 3 0000000000000004 "Pally inv" "236264"
+/inv Jerkk-BleedingHollow
+END
+VER 3 0000000000000005 "Priest inv" "237542"
+/inv Quirkk-BleedingHollow
+END
+VER 3 0000000000000006 "Rogue inv" "236279"
+/inv Trickk-BleedingHollow
+END
+VER 3 0000000000000007 "Shaman inv" "237581"
+/inv Geekk-BleedingHollow
+END
+VER 3 0000000000000009 "Warlock inv" "236298"
+/inv Wardorkk-BleedingHollow
+END
+VER 3 0000000000000002 "Warrior inv" "236319"
+/inv Unorthodorkk-BleedingHollow
+END

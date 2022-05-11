@@ -1,0 +1,2 @@
+
+infPaladinDB = nil

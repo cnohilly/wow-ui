@@ -1,0 +1,10 @@
+
+GladiatorlosSADB = {
+	["profileKeys"] = {
+		["Scongi - Darkspear"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

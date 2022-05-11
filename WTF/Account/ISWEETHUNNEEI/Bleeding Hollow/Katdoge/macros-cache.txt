@@ -1,0 +1,64 @@
+VER 3 010000000000000D "bash" "INV_BONE_SKULL_04"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]skull bash
+END
+VER 3 0100000000000009 "growl" "ABILITY_PHYSICAL_TAUNT"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]growl
+END
+VER 3 0100000000000004 "healing touch" "SPELL_NATURE_HEALINGTOUCH"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]healing touch
+END
+VER 3 0100000000000005 "innervate" "SPELL_NATURE_LIGHTNING"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]innervate
+END
+VER 3 0100000000000010 "ironbark" "SPELL_DRUID_IRONBARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]ironbark
+END
+VER 3 010000000000000F "lifebloom" "INV_MISC_HERB_FELBLOSSOM"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]lifebloom
+END
+VER 3 010000000000000E "maim" "ABILITY_DRUID_MANGLE.TGA"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]maim
+END
+VER 3 0100000000000013 "moonfire" "SPELL_NATURE_STARFALL"
+#showtooltip
+/cast [@mouseover,harm] [] Moonfire
+END
+VER 3 0100000000000007 "rebirth" "SPELL_NATURE_REINCARNATION"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]rebirth
+END
+VER 3 010000000000000B "regrowth" "SPELL_NATURE_RESISTNATURE"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]regrowth
+END
+VER 3 010000000000000C "rejuv" "SPELL_NATURE_REJUVENATION"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]rejuvenation
+END
+VER 3 0100000000000008 "root" "SPELL_NATURE_STRANGLEVINES"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]entangling roots
+END
+VER 3 0100000000000006 "solar beam" "ABILITY_VEHICLE_SONICSHOCKWAVE"
+#showtooltip
+/cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]solar beam
+END
+VER 3 0100000000000012 "sunfire" "ABILITY_MAGE_FIRESTARTER"
+#showtooltip
+/cast [@mouseover,harm] [] Sunfire
+END
+VER 3 010000000000000A "swiftmend" "INV_RELICS_IDOLOFREJUVENATION"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]swiftmend
+END
+VER 3 0100000000000011 "wild growth" "ABILITY_DRUID_FLOURISH"
+#showtooltip
+/cast [@mouseover,help,nodead][@mouseovertarget,help,nodead][]wild growth
+END

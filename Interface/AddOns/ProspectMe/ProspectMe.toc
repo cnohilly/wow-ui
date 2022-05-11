@@ -1,0 +1,19 @@
+## Interface: 70200
+## Title: Prospect Me
+## Notes: An addon for tracking the results of prospecting.
+## Author: Vynn of Khadgar (US)
+## Version: 2.7.2.0
+## SavedVariables: ProspectMe, PM_ResultsTable
+## X-Category: 
+## X-Website: 
+## X-Email: 
+
+localization.lua
+
+Modules\ProspectMe_Value.lua
+Modules\ProspectMe_Tooltip.lua
+Modules\ProspectMe_Config.lua
+Modules\ProspectMe_Migrate.lua
+Modules\ProspectMe_Tables.lua
+
+ProspectMe.lua

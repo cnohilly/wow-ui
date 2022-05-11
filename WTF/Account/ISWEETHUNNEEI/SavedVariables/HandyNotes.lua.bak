@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Holynoly - Bleeding Hollow"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Holynoly - Bleeding Hollow"] = {
+		},
+	},
+}

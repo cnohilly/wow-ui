@@ -1,0 +1,34 @@
+VER 3 0100000000000002 "baleful" "INV_MISC_QUESTIONMARK"
+/use item:127792
+/use item:127797
+/use item:127797
+/use item:127793
+/use item:127796
+END
+VER 3 0100000000000001 "disench" "INV_MISC_QUESTIONMARK"
+/cast Disenchant
+/use item:124576
+/use item:124592
+/use item:124572
+/use item:124588
+/use item:124567
+/use item:124580
+END
+VER 3 0100000000000005 "focus zen sphere" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Zen Sphere
+END
+VER 3 0100000000000003 "serenity" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Serenity
+END
+VER 3 0100000000000006 "taunt statue" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/target Black Ox Statue
+/cast Provoke
+/targetlasttarget
+END
+VER 3 0100000000000004 "xuen" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Invoke Xuen, the White Tiger
+END

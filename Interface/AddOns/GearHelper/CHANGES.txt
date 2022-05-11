@@ -1,0 +1,90 @@
+lightweight tag 386c70c5e33053e5cd07195814250f67b98c4690 3.2.12
+Author:	GitHub <noreply@github.com>
+Date:	Mon Mar 14 07:36:14 2022 +0100
+
+commit 30f0a24d38ca5079c93bde5982e27f5be5f6b70f
+Author: Marsgames <raphdaumas@hotmail.fr>
+Date:   Mon Mar 14 07:31:08 2022 +0100
+
+    Update WeightValues.lua
+    
+    Update stats weights
+
+commit 290eb76754af3770c7652008e907b7de6870ffee
+Author: Marsgames <raphdaumas@hotmail.fr>
+Date:   Tue Mar 1 19:22:45 2022 +0100
+
+    Attempt to fix #39
+
+commit 290eb76754af3770c7652008e907b7de6870ffee
+Author: Marsgames <raphdaumas@hotmail.fr>
+Date:   Tue Mar 1 19:22:45 2022 +0100
+
+    Attempt to fix #39
+
+commit b08b0d62914e607e4ab180cce7d00498b55edc22
+Author: Raphaël Daumas <Marsgames@users.noreply.github.com>
+Date:   Tue Mar 1 18:19:35 2022 +0100
+
+    Update issue templates
+
+commit b08b0d62914e607e4ab180cce7d00498b55edc22
+Author: Raphaël Daumas <Marsgames@users.noreply.github.com>
+Date:   Tue Mar 1 18:19:35 2022 +0100
+
+    Update issue templates
+
+commit 30f0a24d38ca5079c93bde5982e27f5be5f6b70f
+Author: Marsgames <raphdaumas@hotmail.fr>
+Date:   Mon Mar 14 07:31:08 2022 +0100
+
+    Update WeightValues.lua
+    
+    Update stats weights
+
+commit fd9a2f32b7f4e4b5c5fc5dfe8367f153c180b434
+Author: Marsgames <raphdaumas@hotmail.fr>
+Date:   Mon Mar 14 07:30:54 2022 +0100
+
+    Fix issue #123
+    
+    Add check nil to item name
+
+commit 290eb76754af3770c7652008e907b7de6870ffee
+Author: Marsgames <raphdaumas@hotmail.fr>
+Date:   Tue Mar 1 19:22:45 2022 +0100
+
+    Attempt to fix #39
+
+commit b08b0d62914e607e4ab180cce7d00498b55edc22
+Author: Raphaël Daumas <Marsgames@users.noreply.github.com>
+Date:   Tue Mar 1 18:19:35 2022 +0100
+
+    Update issue templates
+
+commit 380a37e41d2286b0277fad4504119a6c208d6fb1
+Author: Raphaël Daumas <Marsgames@users.noreply.github.com>
+Date:   Tue Mar 1 18:18:06 2022 +0100
+
+    Update issue templates
+
+commit 6daa822e6b062ba9c2394ea1ded946dcc2b7f79f
+Author: Restyled.io <commits@restyled.io>
+Date:   Tue Mar 1 07:14:03 2022 +0000
+
+    Restyled by whitespace
+
+commit 6daa822e6b062ba9c2394ea1ded946dcc2b7f79f
+Author: Restyled.io <commits@restyled.io>
+Date:   Tue Mar 1 07:14:03 2022 +0000
+
+    Restyled by whitespace
+
+commit 6079fc0a7b2a8f5ca641e8aabaa9b6276947ffdf
+Author: Marsgames <raphdaumas@hotmail.fr>
+Date:   Tue Mar 1 08:12:31 2022 +0100
+
+    Update stats weights
+    
+    and drop rate values
+

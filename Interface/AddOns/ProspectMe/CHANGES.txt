@@ -1,0 +1,13 @@
+changeset:   73:b5da2520f443
+tag:         v2.7.2.0
+user:        Vynn <mischivin@gmail.com>
+date:        Thu Mar 30 20:08:49 2017 -0400
+summary:     Updated Prospect Me for client v7.2
+
+
+changeset:   72:708946031901
+user:        Vynn <mischivin@gmail.com>
+date:        Sat Feb 18 10:48:31 2017 -0500
+summary:     Updated TOC for next intended version
+
+

@@ -1,0 +1,24 @@
+VER 3 0100000000000006 "Elysian Decree" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Elysian Decree
+END
+VER 3 0100000000000004 "Infernal Strike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Infernal Strike; [mod:ctrl,@player] Infernal Strike; [@cursor] Infernal Strike
+END
+VER 3 0100000000000005 "Sigil of Chains" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Sigil of Chains; [mod:ctrl,@player] Sigil of Chains; [@cursor] Sigil of Chains
+END
+VER 3 0100000000000001 "Sigil of Flame" "1344652"
+#showtooltip
+/cast [mod:alt] Sigil of Flame; [mod:ctrl,@player] Sigil of Flame; [@cursor] Sigil of Flame
+END
+VER 3 0100000000000002 "Sigil of Misery" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Sigil of Misery; [mod:ctrl,@player] Sigil of Misery; [@cursor] Sigil of Misery
+END
+VER 3 0100000000000003 "Sigil of Silence" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Sigil of Silence; [mod:ctrl,@player] Sigil of Silence; [@cursor] Sigil of Silence
+END

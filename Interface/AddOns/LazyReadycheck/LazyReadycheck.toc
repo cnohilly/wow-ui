@@ -1,0 +1,7 @@
+## Interface: 90000
+## Title : LazyReadyCheck
+## Author: Kanro
+## Version: 1.3.10
+## SavedVariables: LazyReadyCheck
+## Notes: Will autoaccept readychecks after enabled
+LazyReadycheck.lua

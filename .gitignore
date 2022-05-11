@@ -1,0 +1,13 @@
+# Which folders and files to ignore
+/Cache
+/Errors
+/Logs
+/UTILS
+
+.curseclient
+.flavor.info
+BlizzardError.exe
+d3d12.dll
+DBGHELP.DLL
+dxilconv7.dll
+Wow.exe

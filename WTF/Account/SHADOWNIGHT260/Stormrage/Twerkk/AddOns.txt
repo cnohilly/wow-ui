@@ -1,2 +1,0 @@
-Auctionator: disabled
-TrufiGCD: disabled

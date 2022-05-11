@@ -1,2 +1,0 @@
-
-infPaladinDB = nil

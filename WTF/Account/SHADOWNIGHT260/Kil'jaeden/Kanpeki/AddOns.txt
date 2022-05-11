@@ -1,9 +1,0 @@
-GladiatorlosSA: disabled
-ExtraCD: enabled
-AngryAssignments: disabled
-Gnosis: disabled
-Gladius: disabled
-TrufiGCD: disabled
-TomTom: disabled
-RCLootCouncil: enabled
-infCombatRess: disabled

@@ -1,4 +1,0 @@
-VER 3 0100000000000001 "death" "ABILITY_RACIAL_RUNNINGWILD"
-/cancelaura Honorless Target
-/run RepopMe()AcceptResurrect()AcceptXPLoss()
-END

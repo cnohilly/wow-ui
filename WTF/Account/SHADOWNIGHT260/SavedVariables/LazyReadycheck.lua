@@ -1,4 +1,0 @@
-
-LazyReadyCheck = {
-	["enabled"] = false,
-}

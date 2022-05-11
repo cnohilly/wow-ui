@@ -1,7 +1,0 @@
-<Ui xmlns="http://www.blizzard.com/wow/ui/">
-  <Script file="IsNotLIFOItemKey.lua"/>
-  <Script file="ItemInfoFromLocation.lua"/>
-  <Script file="DBKeyFromBrowseResult.lua"/>
-  <Script file="GetPetLevelFromLink.lua"/>
-  <Script file="ItemKeyString.lua"/>
-</Ui>

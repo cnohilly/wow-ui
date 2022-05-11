@@ -1,2 +1,0 @@
-
-BuggerDB = nil

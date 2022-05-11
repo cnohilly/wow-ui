@@ -1,8 +1,0 @@
-VER 3 0100000000000001 "mill" "SPELL_ARCANE_STUDENTOFMAGIC"
-/cast Milling
-/use Nagrand Arrowbloom
-/use Talador Orchid
-/use Gorgrond Flytrap
-/use Starflower
-/use Fireweed
-END

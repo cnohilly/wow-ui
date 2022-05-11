@@ -1,4 +1,0 @@
-VER 3 0100000000000001 "kill meeee" "ABILITY_SHOOTWAND"
-/cancelaura Honorless Target
-/run RepopMe()AcceptResurrect()AcceptXPLoss()
-END

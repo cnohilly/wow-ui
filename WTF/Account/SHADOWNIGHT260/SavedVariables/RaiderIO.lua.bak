@@ -1,25 +1,31 @@
 
 RaiderIO_Config = {
-	["enableUnitTooltips"] = true,
-	["enableKeystoneTooltips"] = true,
-	["enableFriendsTooltips"] = true,
 	["disableScoreColors"] = false,
+	["enableKeystoneTooltips"] = true,
 	["alwaysExtendTooltip"] = true,
-	["enableWhoTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["showDropDownCopyURL"] = true,
 	["showAverageScore"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
 RaiderIO_LastCharacter = "us-Dorkk-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Dorkk-Bleeding Hollow"] = true,
-	["us-Ahdeylock-Zul"] = true,
+	["us-Kabz-bleeding-hollow"] = true,
+	["us-Shiftypana-bleeding-hollow"] = true,
+	["us-Khuuler-bleeding-hollow"] = true,
+	["us-Notjoe-Bleeding Hollow"] = true,
+	["us-Toxiccurses-bleeding-hollow"] = true,
+	["us-Pistølpete-bleeding-hollow"] = true,
+	["us-Calamety-bleeding-hollow"] = true,
+	["us-Kinbote-malganis"] = true,
 }
 RaiderIO_MissingServers = {
 }

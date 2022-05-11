@@ -21,27 +21,27 @@ HandyNotesDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Dorkkrip - Mal'Ganis"] = "Dorkkrip - Mal'Ganis",
 		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Navi - Darkspear"] = "Navi - Darkspear",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
+		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
-		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
-		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
-		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
-		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
+		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
+		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
+		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
+		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
+		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
+		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Navi - Darkspear"] = "Navi - Darkspear",
 		["Kanpeki - Kil'jaeden"] = "Kanpeki - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -85,9 +85,9 @@ HandyNotesDB = {
 		},
 		["Voodroosaur - Bleeding Hollow"] = {
 		},
-		["Navi - Darkspear"] = {
+		["Dorkkore - Tichondrius"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
 		["Smíte - The Forgotten Coast"] = {
 		},
@@ -97,7 +97,7 @@ HandyNotesDB = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
-		["Nizearisbad - Mal'Ganis"] = {
+		["Quirkk - Bleeding Hollow"] = {
 		},
 		["Trickk - Bleeding Hollow"] = {
 		},
@@ -105,33 +105,77 @@ HandyNotesDB = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Eisfyre - Bleeding Hollow"] = {
-		},
-		["Zzxzz - Skullcrusher"] = {
-		},
-		["Lildorkk - Mal'Ganis"] = {
+		["Wardorkk - Bleeding Hollow"] = {
 		},
 		["Holynoly - The Forgotten Coast"] = {
 		},
+		["Lildorkk - Mal'Ganis"] = {
+		},
+		["Zzxzz - Skullcrusher"] = {
+		},
 		["Dwarfdorkk - Dalaran"] = {
 		},
-		["Wardorkk - Bleeding Hollow"] = {
+		["Eisfyre - Bleeding Hollow"] = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Quirkk - Bleeding Hollow"] = {
+		["Nizearisbad - Mal'Ganis"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Genericbank - Darkspear"] = {
 		},
-		["Dorkkore - Tichondrius"] = {
+		["Navi - Darkspear"] = {
 		},
 		["Kanpeki - Kil'jaeden"] = {
 		},
 	},
 }
 HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
+		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
+		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
+		["Dorkk - Stormscale"] = "Dorkk - Stormscale",
+		["Jerkk - Arthas"] = "Jerkk - Arthas",
+		["Mailbaleful - Mal'Ganis"] = "Mailbaleful - Mal'Ganis",
+		["Finrunt - The Forgotten Coast"] = "Finrunt - The Forgotten Coast",
+		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
+		["Leatherbale - Mal'Ganis"] = "Leatherbale - Mal'Ganis",
+		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
+		["Dorkk - Kil'jaeden"] = "Dorkk - Kil'jaeden",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
+		["Clothbaleful - Mal'Ganis"] = "Clothbaleful - Mal'Ganis",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Holynohilly - Skullcrusher"] = "Holynohilly - Skullcrusher",
+		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
+		["Twerkk - Stormrage"] = "Twerkk - Stormrage",
+		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
+		["Dorkkrip - Mal'Ganis"] = "Dorkkrip - Mal'Ganis",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
+		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
+		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
+		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
+		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
+		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
+		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
+		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
+		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
+		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
+		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Navi - Darkspear"] = "Navi - Darkspear",
+		["Kanpeki - Kil'jaeden"] = "Kanpeki - Kil'jaeden",
+	},
 	["global"] = {
 		[550] = {
 			[80264977] = {
@@ -156,11 +200,11 @@ HandyNotes_HandyNotesDB = {
 				["icon"] = 8,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp",
 			},
-			[43988438] = {
-				["title"] = "Tainted Maulclaw",
+			[53532976] = {
+				["title"] = "Dark Gazer",
 				["cont"] = false,
 				["icon"] = 8,
-				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
+				["desc"] = "",
 			},
 			[47965362] = {
 				["title"] = "Dreadwalker",
@@ -174,17 +218,17 @@ HandyNotes_HandyNotesDB = {
 				["icon"] = 8,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto third.",
 			},
-			[53532976] = {
-				["title"] = "Dark Gazer",
+			[31903734] = {
+				["title"] = "Cursed Spirit",
 				["cont"] = false,
 				["icon"] = 8,
-				["desc"] = "",
+				["desc"] = "Ikky main pet. \nEmerald Proto-Whelp and whatever else.",
 			},
-			[15284459] = {
-				["title"] = "Bleakclaw",
+			[47693529] = {
+				["title"] = "Netherfist",
 				["cont"] = false,
 				["icon"] = 8,
-				["desc"] = "Water Spirit + Chrominius ?\nEmerald Proto third.",
+				["desc"] = "Unborn Valk + Howl (Chrominius / Stitched Pup).\nThird Emerald Proto-Whelp is good.",
 			},
 			[53416507] = {
 				["title"] = "Corrupted Thundertail",
@@ -192,11 +236,11 @@ HandyNotes_HandyNotesDB = {
 				["icon"] = 8,
 				["desc"] = "Zandalari Anklerender main pet.\nAnubisath good secondary.",
 			},
-			[47693529] = {
-				["title"] = "Netherfist",
+			[15284459] = {
+				["title"] = "Bleakclaw",
 				["cont"] = false,
 				["icon"] = 8,
-				["desc"] = "Unborn Valk + Howl (Chrominius / Stitched Pup).\nThird Emerald Proto-Whelp is good.",
+				["desc"] = "Water Spirit + Chrominius ?\nEmerald Proto third.",
 			},
 			[57643649] = {
 				["title"] = "Direflame",
@@ -234,11 +278,11 @@ HandyNotes_HandyNotesDB = {
 				["icon"] = 8,
 				["desc"] = "Draenei Micro Defender.\nEmerald Proto-Whelp and whatever else.",
 			},
-			[31903734] = {
-				["title"] = "Cursed Spirit",
+			[43988438] = {
+				["title"] = "Tainted Maulclaw",
 				["cont"] = false,
 				["icon"] = 8,
-				["desc"] = "Ikky main pet. \nEmerald Proto-Whelp and whatever else.",
+				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
 			},
 		},
 		[535] = {
@@ -249,50 +293,6 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
-		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
-		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Dorkk - Stormscale"] = "Dorkk - Stormscale",
-		["Jerkk - Arthas"] = "Jerkk - Arthas",
-		["Mailbaleful - Mal'Ganis"] = "Mailbaleful - Mal'Ganis",
-		["Finrunt - The Forgotten Coast"] = "Finrunt - The Forgotten Coast",
-		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
-		["Leatherbale - Mal'Ganis"] = "Leatherbale - Mal'Ganis",
-		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
-		["Dorkk - Kil'jaeden"] = "Dorkk - Kil'jaeden",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
-		["Clothbaleful - Mal'Ganis"] = "Clothbaleful - Mal'Ganis",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Holynohilly - Skullcrusher"] = "Holynohilly - Skullcrusher",
-		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
-		["Twerkk - Stormrage"] = "Twerkk - Stormrage",
-		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
-		["Dorkkrip - Mal'Ganis"] = "Dorkkrip - Mal'Ganis",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Navi - Darkspear"] = "Navi - Darkspear",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
-		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
-		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
-		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
-		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
-		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
-		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
-		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
-		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
-		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
-		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
-		["Kanpeki - Kil'jaeden"] = "Kanpeki - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Freakk - Bleeding Hollow"] = {
@@ -335,9 +335,9 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Voodroosaur - Bleeding Hollow"] = {
 		},
-		["Navi - Darkspear"] = {
+		["Dorkkore - Tichondrius"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
 		["Smíte - The Forgotten Coast"] = {
 		},
@@ -347,7 +347,7 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
-		["Nizearisbad - Mal'Ganis"] = {
+		["Quirkk - Bleeding Hollow"] = {
 		},
 		["Trickk - Bleeding Hollow"] = {
 		},
@@ -355,27 +355,27 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Eisfyre - Bleeding Hollow"] = {
-		},
-		["Zzxzz - Skullcrusher"] = {
-		},
-		["Lildorkk - Mal'Ganis"] = {
+		["Wardorkk - Bleeding Hollow"] = {
 		},
 		["Holynoly - The Forgotten Coast"] = {
 		},
+		["Lildorkk - Mal'Ganis"] = {
+		},
+		["Zzxzz - Skullcrusher"] = {
+		},
 		["Dwarfdorkk - Dalaran"] = {
 		},
-		["Wardorkk - Bleeding Hollow"] = {
+		["Eisfyre - Bleeding Hollow"] = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Quirkk - Bleeding Hollow"] = {
+		["Nizearisbad - Mal'Ganis"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Genericbank - Darkspear"] = {
 		},
-		["Dorkkore - Tichondrius"] = {
+		["Navi - Darkspear"] = {
 		},
 		["Kanpeki - Kil'jaeden"] = {
 		},

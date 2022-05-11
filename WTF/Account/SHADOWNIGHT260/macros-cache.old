@@ -34,6 +34,10 @@ END
 VER 3 0000000000000031 "Pull 15" "INV_SWORD_04"
 /pull 15
 END
+VER 3 000000000000004C "quest" "INV_MISC_QUESTIONMARK"
+/tar Malfunctioned
+/use Kinematic Micro-Life Recalibrator
+END
 VER 3 0000000000000049 "scare beast" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /tar Jormog the Behemoth

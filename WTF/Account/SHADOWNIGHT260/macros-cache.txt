@@ -22,7 +22,7 @@ VER 3 0000000000000042 "Garrison Report" "134330"
 END
 VER 3 000000000000004D "halo bomb" "INV_MISC_QUESTIONMARK"
 /click ExtraActionButton1 
-/wm [@cursor] 1
+/wm [@cursor] 5
 END
 VER 3 0000000000000046 "Heavy Desolate A" "INV_MISC_QUESTIONMARK"
 /use Heavy Desolate Armor Kit

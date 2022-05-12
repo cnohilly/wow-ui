@@ -24,14 +24,14 @@ AstralKeys = {
 	}, -- [2]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 16,
+		["weekly_best"] = 17,
 		["class"] = "DEATHKNIGHT",
 		["key_level"] = 20,
 		["unit"] = "Sprootzz-BleedingHollow",
 		["dungeon_id"] = 378,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 50001,
+		["time_stamp"] = 125908,
 	}, -- [3]
 	{
 		["source"] = "guild",
@@ -42,7 +42,7 @@ AstralKeys = {
 		["dungeon_id"] = 377,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 36940,
+		["time_stamp"] = 127341,
 	}, -- [4]
 	{
 		["source"] = "guild",
@@ -53,7 +53,7 @@ AstralKeys = {
 		["dungeon_id"] = 382,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 39559,
+		["time_stamp"] = 135042,
 	}, -- [5]
 	{
 		["source"] = "guild",
@@ -64,7 +64,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 46907,
+		["time_stamp"] = 135134,
 	}, -- [6]
 	{
 		["btag"] = "Riverb#1333",
@@ -104,14 +104,14 @@ AstralKeys = {
 	}, -- [9]
 	{
 		["btag"] = "Riverb#1333",
-		["weekly_best"] = 0,
+		["weekly_best"] = 18,
 		["class"] = "MAGE",
-		["key_level"] = 17,
+		["key_level"] = 18,
 		["unit"] = "Riverb-BleedingHollow",
-		["dungeon_id"] = 376,
+		["dungeon_id"] = 391,
 		["week"] = 251,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 134393,
 		["source"] = "friend",
 	}, -- [10]
 	{
@@ -128,14 +128,14 @@ AstralKeys = {
 	}, -- [11]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 9,
 		["class"] = "DEMONHUNTER",
 		["key_level"] = 6,
 		["unit"] = "Felbot-BleedingHollow",
 		["dungeon_id"] = 382,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 40397,
+		["time_stamp"] = 131774,
 	}, -- [12]
 	{
 		["source"] = "guild",
@@ -146,7 +146,7 @@ AstralKeys = {
 		["dungeon_id"] = 375,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 41277,
+		["time_stamp"] = 130987,
 	}, -- [13]
 	{
 		["source"] = "guild",
@@ -168,7 +168,7 @@ AstralKeys = {
 		["dungeon_id"] = 377,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 43948,
+		["time_stamp"] = 124089,
 	}, -- [15]
 	{
 		["source"] = "guild",
@@ -238,14 +238,14 @@ AstralKeys = {
 	}, -- [21]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 15,
+		["weekly_best"] = 17,
 		["class"] = "PALADIN",
 		["key_level"] = 17,
 		["unit"] = "Bluegasm-BleedingHollow",
 		["dungeon_id"] = 391,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 3,
+		["time_stamp"] = 130500,
 	}, -- [22]
 	{
 		["source"] = "guild",
@@ -256,7 +256,7 @@ AstralKeys = {
 		["dungeon_id"] = 377,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 46747,
+		["time_stamp"] = 135138,
 	}, -- [23]
 	{
 		["source"] = "guild",
@@ -267,7 +267,7 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 46732,
+		["time_stamp"] = 134682,
 	}, -- [24]
 	{
 		["source"] = "guild",
@@ -290,7 +290,7 @@ AstralKeys = {
 		["dungeon_id"] = 392,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 3,
+		["time_stamp"] = 129456,
 		["btag"] = "Tarnius#11770",
 	}, -- [26]
 	{
@@ -325,7 +325,7 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 251,
 		["faction"] = 1,
-		["time_stamp"] = 1,
+		["time_stamp"] = 132715,
 	}, -- [29]
 	{
 		["source"] = "guild",
@@ -501,7 +501,7 @@ AstralKeys = {
 		["dungeon_id"] = 382,
 		["week"] = 251,
 		["faction"] = "1",
-		["time_stamp"] = 49573,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [44]
 	{
@@ -516,13 +516,37 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [45]
+	{
+		["btag"] = "redcrusher#1113",
+		["weekly_best"] = 16,
+		["class"] = "SHAMAN",
+		["key_level"] = 17,
+		["unit"] = "Lëman-BleedingHollow",
+		["dungeon_id"] = 375,
+		["week"] = 251,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [46]
+	{
+		["btag"] = "Massacre#1875",
+		["weekly_best"] = 5,
+		["class"] = "PRIEST",
+		["key_level"] = 16,
+		["unit"] = "Rypriest-BleedingHollow",
+		["dungeon_id"] = 375,
+		["week"] = 251,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [47]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "HUNTER",
-		["faction"] = 1,
 		["unit"] = "Dorkk-BleedingHollow",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralKeysSettings = {
@@ -536,10 +560,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
 			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -564,7 +588,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -573,11 +599,8 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "weekly_best",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 	},
-	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
@@ -586,6 +609,7 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -602,11 +626,11 @@ AstralMinimap = {
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Quirkk - Bleeding Hollow"] = {
@@ -638,15 +662,15 @@ AstralMinimap = {
 				["minimapPos"] = 210.4257497435631,
 			},
 		},
-		["Unorthodorkk - Bleeding Hollow"] = {
-		},
-		["Scongi - Kil'jaeden"] = {
-		},
-		["Voodroo - Bleeding Hollow"] = {
+		["Eore - The Forgotten Coast"] = {
 		},
 		["Albiorix - Emerald Dream"] = {
 		},
-		["Eore - The Forgotten Coast"] = {
+		["Voodroo - Bleeding Hollow"] = {
+		},
+		["Scongi - Kil'jaeden"] = {
+		},
+		["Unorthodorkk - Bleeding Hollow"] = {
 		},
 	},
 }
@@ -689,77 +713,77 @@ AstralLists = {
 			["Juanty-BleedingHollow"] = true,
 			["Ugar-BleedingHollow"] = "redcrusher#1113",
 			["Igihozo-BleedingHollow"] = true,
-			["Yazzee-BleedingHollow"] = "Mebeblood#1962",
+			["Yugidan-BleedingHollow"] = "JackeyYug#1449",
 			["Geekk-BleedingHollow"] = true,
 			["Balisongdk-BleedingHollow"] = true,
-			["Stealsradios-BleedingHollow"] = true,
+			["Deâthknìght-BleedingHollow"] = true,
 			["Peezuh-BleedingHollow"] = true,
 			["Quynts-BleedingHollow"] = true,
 			["Shinygoombah-BleedingHollow"] = true,
 			["Yuglin-BleedingHollow"] = "JackeyYug#1449",
-			["Hashtagthicc-BleedingHollow"] = true,
+			["Lórnásh-BleedingHollow"] = true,
 			["Liljimbo-BleedingHollow"] = true,
-			["Sunfirechaos-BleedingHollow"] = true,
+			["Riverb-BleedingHollow"] = "Riverb#1333",
 			["Wardorkk-BleedingHollow"] = true,
-			["Greencoomlin-BleedingHollow"] = true,
-			["Sprootzz-BleedingHollow"] = true,
-			["Pegginbros-BleedingHollow"] = true,
 			["Zeepal-BleedingHollow"] = true,
-			["Kyotojones-BleedingHollow"] = true,
-			["Garoppolo-BleedingHollow"] = "redcrusher#1113",
+			["Sprootzz-BleedingHollow"] = true,
+			["Hashtagthicc-BleedingHollow"] = true,
+			["Greencoomlin-BleedingHollow"] = true,
+			["Arbidemic-BleedingHollow"] = true,
+			["Pizzaheetler-BleedingHollow"] = true,
 			["Tarnius-BleedingHollow"] = "Tarnius#11770",
 			["Arbitress-BleedingHollow"] = true,
 			["Kawnvoke-BleedingHollow"] = true,
 			["Valkier-BleedingHollow"] = true,
 			["Revellion-BleedingHollow"] = "Riverb#1333",
-			["Catzap-BleedingHollow"] = true,
+			["Stickyfeet-BleedingHollow"] = true,
 			["Hairbearr-BleedingHollow"] = "Hairbearr#1177",
 			["Batbearcat-BleedingHollow"] = true,
-			["Flavinia-BleedingHollow"] = true,
+			["Sunzipzapzop-BleedingHollow"] = true,
 			["Sprootz-BleedingHollow"] = true,
-			["Balisongdrud-BleedingHollow"] = true,
+			["Talinia-BleedingHollow"] = true,
 			["Wicky-BleedingHollow"] = true,
 			["Cocogoat-BleedingHollow"] = true,
 			["Uwulock-BleedingHollow"] = true,
 			["Prìést-BleedingHollow"] = true,
-			["Shägs-BleedingHollow"] = true,
+			["Drúïd-BleedingHollow"] = true,
 			["Cottoncandyy-BleedingHollow"] = true,
+			["Qwey-BleedingHollow"] = true,
+			["Pâladin-BleedingHollow"] = true,
 			["Xanissa-BleedingHollow"] = true,
-			["Discgolfer-BleedingHollow"] = true,
-			["Noitanivid-BleedingHollow"] = true,
 			["Rogtar-BleedingHollow"] = true,
 			["Humblebooty-BleedingHollow"] = true,
-			["Leojx-BleedingHollow"] = true,
+			["Trithca-BleedingHollow"] = "Novatal#1265",
 			["Angrón-BleedingHollow"] = true,
 			["Shiftsrus-BleedingHollow"] = "Tarnius#11770",
-			["Okthrom-BleedingHollow"] = true,
-			["Wârlòck-BleedingHollow"] = true,
+			["Eric-BleedingHollow"] = true,
+			["Phycoz-BleedingHollow"] = true,
 			["Oogaboogapog-BleedingHollow"] = true,
 			["Nitrogasm-BleedingHollow"] = true,
 			["Florinia-BleedingHollow"] = true,
-			["Phycoz-BleedingHollow"] = true,
-			["Eric-BleedingHollow"] = true,
-			["Trithca-BleedingHollow"] = "Novatal#1265",
-			["Pâladin-BleedingHollow"] = true,
-			["Qwey-BleedingHollow"] = true,
-			["Drúïd-BleedingHollow"] = true,
+			["Wârlòck-BleedingHollow"] = true,
+			["Okthrom-BleedingHollow"] = true,
+			["Leojx-BleedingHollow"] = true,
+			["Noitanivid-BleedingHollow"] = true,
+			["Discgolfer-BleedingHollow"] = true,
+			["Shägs-BleedingHollow"] = true,
 			["Ultiem-BleedingHollow"] = "redcrusher#1113",
 			["Peterepeat-BleedingHollow"] = true,
-			["Talinia-BleedingHollow"] = true,
-			["Sunzipzapzop-BleedingHollow"] = true,
+			["Balisongdrud-BleedingHollow"] = true,
+			["Flavinia-BleedingHollow"] = true,
 			["Shamootz-BleedingHollow"] = true,
 			["Brewseph-BleedingHollow"] = true,
-			["Stickyfeet-BleedingHollow"] = true,
+			["Catzap-BleedingHollow"] = true,
 			["Scuzzymage-BleedingHollow"] = true,
-			["Pizzaheetler-BleedingHollow"] = true,
-			["Arbidemic-BleedingHollow"] = true,
+			["Garoppolo-BleedingHollow"] = "redcrusher#1113",
+			["Kyotojones-BleedingHollow"] = true,
 			["Trickyx-BleedingHollow"] = true,
-			["Riverb-BleedingHollow"] = "Riverb#1333",
-			["Lórnásh-BleedingHollow"] = true,
+			["Sunfirechaos-BleedingHollow"] = true,
+			["Pegginbros-BleedingHollow"] = true,
 			["Lëman-BleedingHollow"] = "redcrusher#1113",
-			["Deâthknìght-BleedingHollow"] = true,
+			["Stealsradios-BleedingHollow"] = true,
 			["Jerkk-BleedingHollow"] = true,
-			["Yugidan-BleedingHollow"] = "JackeyYug#1449",
+			["Yazzee-BleedingHollow"] = "Mebeblood#1962",
 		},
 	}, -- [1]
 	{
@@ -804,33 +828,33 @@ AstralLists = {
 			["Essper-BleedingHollow"] = "Novatal#1265",
 			["Shiftsrus-BleedingHollow"] = "Tarnius#11770",
 			["Demoncupcake-Area52"] = "DeathCupcake#11236",
-			["Yugidan-BleedingHollow"] = "JackeyYug#1449",
-			["Empalagoso-Illidan"] = "Kazaya#1804",
+			["Yazzee-BleedingHollow"] = "Mebeblood#1962",
+			["Voltrois-BleedingHollow"] = "Riverb#1333",
 			["Asqueroso-BleedingHollow"] = "Kazaya#1804",
 			["Alphyan-Mug'thol"] = "Brom#1805",
-			["Räwkus-BleedingHollow"] = "Riverb#1333",
+			["Kazzes-Illidan"] = "Zero88#11398",
 			["Kalestroz-BleedingHollow"] = "Riverb#1333",
 			["Trithca-BleedingHollow"] = "Novatal#1265",
 			["Zedbaby-Area52"] = "Dew#12858",
-			["Hairbearr-BleedingHollow"] = "Hairbearr#1177",
-			["Miedosa-Illidan"] = "Kazaya#1804",
-			["Ultiem-BleedingHollow"] = "redcrusher#1113",
-			["Valanoir-BleedingHollow"] = "Riverb#1333",
-			["Travieso-BleedingHollow"] = "Kazaya#1804",
-			["Furuhashii-Ragnaros"] = "Zorses#1400",
-			["Tarnius-BleedingHollow"] = "Tarnius#11770",
-			["Invierno-Illidan"] = "Kazaya#1804",
-			["Volkhal-BleedingHollow"] = "Riverb#1333",
-			["Bearrtrap-BleedingHollow"] = "Hairbearr#1177",
-			["Garoppolo-BleedingHollow"] = "redcrusher#1113",
-			["Rob-Smolderthorn"] = "arroyo#1701",
-			["Zreax-BleedingHollow"] = "Nizear#1646",
 			["Riverb-BleedingHollow"] = "Riverb#1333",
-			["Kazzes-Illidan"] = "Zero88#11398",
+			["Zreax-BleedingHollow"] = "Nizear#1646",
+			["Ultiem-BleedingHollow"] = "redcrusher#1113",
+			["Rob-Smolderthorn"] = "arroyo#1701",
+			["Travieso-BleedingHollow"] = "Kazaya#1804",
+			["Bearrtrap-BleedingHollow"] = "Hairbearr#1177",
+			["Volkhal-BleedingHollow"] = "Riverb#1333",
+			["Invierno-Illidan"] = "Kazaya#1804",
+			["Tarnius-BleedingHollow"] = "Tarnius#11770",
+			["Furuhashii-Ragnaros"] = "Zorses#1400",
+			["Garoppolo-BleedingHollow"] = "redcrusher#1113",
+			["Valanoir-BleedingHollow"] = "Riverb#1333",
+			["Miedosa-Illidan"] = "Kazaya#1804",
+			["Hairbearr-BleedingHollow"] = "Hairbearr#1177",
+			["Räwkus-BleedingHollow"] = "Riverb#1333",
 			["Lëman-BleedingHollow"] = "redcrusher#1113",
 			["Banditdin-Kel'Thuzad"] = "Bandit#1117",
-			["Voltrois-BleedingHollow"] = "Riverb#1333",
-			["Yazzee-BleedingHollow"] = "Mebeblood#1962",
+			["Empalagoso-Illidan"] = "Kazaya#1804",
+			["Yugidan-BleedingHollow"] = "JackeyYug#1449",
 		},
 	}, -- [2]
 }

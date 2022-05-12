@@ -7,6 +7,12 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 6 (3.106)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["ABuez5CbYBwA"] = "ABuez5CbYBwP",
+				["ABuez5CbYBw5"] = "ABuez5CbYBwa",
+				["ABuex3AJa0r"] = "ABuex3AJa0e",
+				["ABuez5CbYBwH"] = "ABuez5CbYBw0",
+			},
 			["Bindings"] = {
 				["TrinketSlots"] = false,
 				["ngiDevices"] = "ALT-B",
@@ -14,12 +20,6 @@ OneRing_Config = {
 				["CommonTrades"] = "K",
 				["Travel"] = "SHIFT-B",
 				["onsumables"] = "CTRL-B",
-			},
-			["RotationTokens"] = {
-				["ABuez5CbYBwA"] = "ABuez5CbYBwP",
-				["ABuez5CbYBw5"] = "ABuez5CbYBwa",
-				["ABuex3AJa0r"] = "ABuex3AJa0e",
-				["ABuez5CbYBwH"] = "ABuez5CbYBw0",
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -55,42 +55,84 @@ OneRing_Config = {
 				["name"] = "EngiDevices",
 				["save"] = true,
 			},
-			["Food"] = {
+			["hadowlands"] = {
 				{
-					"item", -- [1]
-					172041, -- [2]
-					["sliceToken"] = "ABuez5CbYBwd",
+					["sliceToken"] = "ABuex3AJa0e",
+					["id"] = 354469,
 				}, -- [1]
 				{
-					"item", -- [1]
-					172051, -- [2]
-					["sliceToken"] = "ABuez5CbYBw3",
+					["sliceToken"] = "ABuexm9a/p1",
+					["id"] = 354466,
 				}, -- [2]
 				{
-					"item", -- [1]
-					172045, -- [2]
-					["sliceToken"] = "ABuez5CbYBws",
+					["sliceToken"] = "ABuexm9a/pr",
+					["id"] = 354462,
 				}, -- [3]
 				{
-					"item", -- [1]
-					172049, -- [2]
-					["sliceToken"] = "ABuez5CbYBwa",
+					["sliceToken"] = "ABuexLWYFre",
+					["id"] = 354468,
 				}, -- [4]
-				["name"] = "Food",
+				["name"] = "Hero's Path: Shadowlands",
 				["save"] = true,
 			},
-			["Fishing"] = {
+			["CommonTrades"] = {
 				{
-					["sliceToken"] = "ABuez5CbYBwP",
-					["id"] = 271990,
+					["id"] = "/cast {{spell:3908/51309}}",
+					["sliceToken"] = "OPCCTt",
 				}, -- [1]
 				{
-					"toy", -- [1]
-					85500, -- [2]
-					["sliceToken"] = "ABuez5CbYBwO",
+					["sliceToken"] = "OPCCTl",
+					["id"] = "/cast {{spell:2108/51302}}",
 				}, -- [2]
-				["name"] = "Fishing",
+				{
+					["id"] = "/cast {{spell:2018/51300}}",
+					["sliceToken"] = "OPCCTb",
+				}, -- [3]
+				{
+					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+					["sliceToken"] = "OPCCTe",
+				}, -- [4]
+				{
+					["id"] = "/cast {{spell:2259/51304}}",
+					["sliceToken"] = "OPCCTa",
+				}, -- [5]
+				{
+					["sliceToken"] = "OPCCTg",
+					["id"] = "/cast {{spell:4036/51306}}",
+				}, -- [6]
+				{
+					["id"] = 2656,
+					["sliceToken"] = "OPCCTm",
+				}, -- [7]
+				{
+					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}};",
+					["sliceToken"] = "OPCCTj",
+				}, -- [8]
+				{
+					["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
+					["sliceToken"] = "OPCCTi",
+				}, -- [9]
+				{
+					["sliceToken"] = "OPCCTr",
+					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+				}, -- [10]
+				{
+					["id"] = 53428,
+					["sliceToken"] = "OPCCTu",
+				}, -- [11]
+				{
+					"ring", -- [1]
+					"Fishing", -- [2]
+					["sliceToken"] = "ABuez5CbYBwA",
+				}, -- [12]
+				{
+					"ring", -- [1]
+					"Cooking", -- [2]
+					["sliceToken"] = "ABuez5CbYBwH",
+				}, -- [13]
+				["name"] = "Trade Skills",
 				["save"] = true,
+				["hotkey"] = "ALT-T",
 			},
 			["Travel"] = {
 				{
@@ -149,18 +191,21 @@ OneRing_Config = {
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},
-			["Oil"] = {
+			["Cooking"] = {
 				{
-					"item", -- [1]
-					171286, -- [2]
-					["sliceToken"] = "ABuez5CbYBwh",
+					["sliceToken"] = "ABuez5CbYBw0",
+					["id"] = 195128,
 				}, -- [1]
 				{
-					"item", -- [1]
-					171285, -- [2]
-					["sliceToken"] = "ABuez5CbYBwg",
+					["sliceToken"] = "ABuez5CbYBwG",
+					["id"] = 818,
 				}, -- [2]
-				["name"] = "Oil",
+				{
+					"battlepet", -- [1]
+					"BattlePet-0-000006BDFF4F", -- [2]
+					["sliceToken"] = "ABuez5CbYBwF",
+				}, -- [3]
+				["name"] = "Cooking",
 				["save"] = true,
 			},
 			["TrinketSlots"] = {
@@ -231,100 +276,55 @@ OneRing_Config = {
 				["name"] = "Consumables",
 				["save"] = true,
 			},
-			["CommonTrades"] = {
+			["Fishing"] = {
 				{
-					["id"] = "/cast {{spell:3908/51309}}",
-					["sliceToken"] = "OPCCTt",
+					["sliceToken"] = "ABuez5CbYBwP",
+					["id"] = 271990,
 				}, -- [1]
 				{
-					["sliceToken"] = "OPCCTl",
-					["id"] = "/cast {{spell:2108/51302}}",
+					"toy", -- [1]
+					85500, -- [2]
+					["sliceToken"] = "ABuez5CbYBwO",
 				}, -- [2]
-				{
-					["id"] = "/cast {{spell:2018/51300}}",
-					["sliceToken"] = "OPCCTb",
-				}, -- [3]
-				{
-					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
-					["sliceToken"] = "OPCCTe",
-				}, -- [4]
-				{
-					["id"] = "/cast {{spell:2259/51304}}",
-					["sliceToken"] = "OPCCTa",
-				}, -- [5]
-				{
-					["sliceToken"] = "OPCCTg",
-					["id"] = "/cast {{spell:4036/51306}}",
-				}, -- [6]
-				{
-					["id"] = 2656,
-					["sliceToken"] = "OPCCTm",
-				}, -- [7]
-				{
-					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}};",
-					["sliceToken"] = "OPCCTj",
-				}, -- [8]
-				{
-					["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
-					["sliceToken"] = "OPCCTi",
-				}, -- [9]
-				{
-					["sliceToken"] = "OPCCTr",
-					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
-				}, -- [10]
-				{
-					["id"] = 53428,
-					["sliceToken"] = "OPCCTu",
-				}, -- [11]
-				{
-					"ring", -- [1]
-					"Fishing", -- [2]
-					["sliceToken"] = "ABuez5CbYBwA",
-				}, -- [12]
-				{
-					"ring", -- [1]
-					"Cooking", -- [2]
-					["sliceToken"] = "ABuez5CbYBwH",
-				}, -- [13]
-				["name"] = "Trade Skills",
-				["save"] = true,
-				["hotkey"] = "ALT-T",
-			},
-			["hadowlands"] = {
-				{
-					["sliceToken"] = "ABuex3AJa0e",
-					["id"] = 354469,
-				}, -- [1]
-				{
-					["sliceToken"] = "ABuexm9a/p1",
-					["id"] = 354466,
-				}, -- [2]
-				{
-					["sliceToken"] = "ABuexm9a/pr",
-					["id"] = 354462,
-				}, -- [3]
-				{
-					["sliceToken"] = "ABuexLWYFre",
-					["id"] = 354468,
-				}, -- [4]
-				["name"] = "Hero's Path: Shadowlands",
+				["name"] = "Fishing",
 				["save"] = true,
 			},
-			["Cooking"] = {
+			["Food"] = {
 				{
-					["sliceToken"] = "ABuez5CbYBw0",
-					["id"] = 195128,
+					"item", -- [1]
+					172041, -- [2]
+					["sliceToken"] = "ABuez5CbYBwd",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuez5CbYBwG",
-					["id"] = 818,
+					"item", -- [1]
+					172051, -- [2]
+					["sliceToken"] = "ABuez5CbYBw3",
 				}, -- [2]
 				{
-					"battlepet", -- [1]
-					"BattlePet-0-000006BDFF4F", -- [2]
-					["sliceToken"] = "ABuez5CbYBwF",
+					"item", -- [1]
+					172045, -- [2]
+					["sliceToken"] = "ABuez5CbYBws",
 				}, -- [3]
-				["name"] = "Cooking",
+				{
+					"item", -- [1]
+					172049, -- [2]
+					["sliceToken"] = "ABuez5CbYBwa",
+				}, -- [4]
+				["name"] = "Food",
+				["save"] = true,
+			},
+			["Oil"] = {
+				{
+					"item", -- [1]
+					171286, -- [2]
+					["sliceToken"] = "ABuez5CbYBwh",
+				}, -- [1]
+				{
+					"item", -- [1]
+					171285, -- [2]
+					["sliceToken"] = "ABuez5CbYBwg",
+				}, -- [2]
+				["name"] = "Oil",
 				["save"] = true,
 			},
 		},

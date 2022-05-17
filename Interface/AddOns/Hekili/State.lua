@@ -375,7 +375,7 @@ local mt_trinket = {
         if k == "up" or k == "ticking" or k == "active" then
             return isEnabled and class.trinkets[ t.id ].buff and state.buff[ class.trinkets[ t.id ].buff ].up or false
         elseif k == "react" or k == "stack" or k == "stacks" then
-            return isEnabled and class.trinkets[ t.id ].buff and state.buff[ class.trinkets[ t.id ].buff ][k] or 0
+            return isEnabled and class.trinkets[ t.id ].buff and state.buff[ class.trinkets[ t.id ].buff ][ k ] or 0
         elseif k == "remains" then
             return isEnabled and class.trinkets[ t.id ].buff and state.buff[ class.trinkets[ t.id ].buff ].remains or 0
         elseif k == "has_cooldown" then
@@ -612,13 +612,13 @@ state._G = 0
 -- Place an ability on cooldown in the simulated game state.
 local function setCooldown( action, duration )
     local cd = state.cooldown[ action ] or {}
-    cd.duration = duration
+    cd.duration = duration > 0 and duration or cd.duration
     cd.expires = state.query_time + duration
 
     cd.charge = 0
     cd.recharge_began = state.query_time
     cd.next_charge = cd.expires
-    cd.recharge = duration
+    cd.recharge = duration > 0 and duration or cd.recharge
 
     state.cooldown[ action ] = cd
 end
@@ -639,18 +639,14 @@ local function spendCharges( action, charges )
     if cd.next_charge <= state.query_time then
         cd.recharge_began = state.query_time
         cd.next_charge = state.query_time + ( ability.recharge or ability.cooldown )
-        cd.recharge = ability.recharge
+        cd.recharge = ability.recharge > 0 and ability.recharge or cd.recharge
     end
 
     cd.charge = max( 0, cd.charge - charges )
 
-    if cd.charge == 0 then
-        cd.duration = ability.recharge or ability.cooldown
-        cd.expires = cd.next_charge
-    else
-        cd.duration = ability.recharge or ability.cooldown
-        cd.expires = 0
-    end
+    local dur = ability.recharge or ability.cooldown
+    cd.duration = dur > 0 and dur or cd.duration
+    cd.expires = cd.charge == 0 and cd.next_charge or 0
 end
 state.spendCharges = spendCharges
 
@@ -662,13 +658,13 @@ local function gainCharges( action, charges )
 
         -- resolve cooldown state.
         if state.cooldown[ action ].charge > 0 then
-            state.cooldown[ action ].duration = 0
+            -- state.cooldown[ action ].duration = 0
             state.cooldown[ action ].expires = 0
         end
 
         if state.cooldown[ action ].charge == class.abilities[ action ].charges then
             state.cooldown[ action ].next_charge = 0
-            state.cooldown[ action ].recharge = 0
+            -- state.cooldown[ action ].recharge = 0
             state.cooldown[ action ].recharge_began = 0
         end
 
@@ -711,12 +707,12 @@ function state.gainChargeTime( action, time, debug )
 
         if cooldown.charge == ability.charges then
             cooldown.next_charge = 0
-            cooldown.recharge = 0
+            -- cooldown.recharge = 0
             cooldown.recharge_began = 0
         else
             cooldown.recharge_began = cooldown.next_charge
             cooldown.next_charge = cooldown.next_charge + ability.recharge
-            cooldown.recharge = ability.recharge
+            -- cooldown.recharge = ability.recharge
         end
     end
 end
@@ -1035,7 +1031,9 @@ local function applyDebuff( unit, aura, duration, stacks, value, noPandemic )
         end
 
         -- state.debuff[ aura ] = state.debuff[ aura ] or {}
-        d.duration = ( noPandemic and 0 or min( d.remains, 0.3 * ( class.auras[ aura ].duration or 15 ) ) ) + duration
+        if not noPandemic then duration = min( 1.3 * duration, d.remains + duration ) end
+
+        d.duration = duration
         d.expires = state.query_time + d.duration
 
         d.lastCount = d.count or 0
@@ -2110,13 +2108,15 @@ local mt_state = {
 
         end
 
+        local aura_name = ability and ability.aura or t.this_action
+        local aura = class.auras[ aura_name ]
+        local app = aura and ( ( t.buff[ aura_name ].up and t.buff[ aura_name ] ) or ( t.debuff[ aura_name ].up and t.debuff[ aura_name ] ) ) or nil
+        local value = app and app[ k ]
+
+        if value ~= nil then return value end
 
         if class.knownAuraAttributes[ k ] then
             -- Buffs, debuffs...
-            local aura_name = ability and ability.aura or t.this_action
-            local aura = class.auras[ aura_name ]
-
-            local app = aura and ( ( t.buff[ aura_name ].up and t.buff[ aura_name ] ) or ( t.debuff[ aura_name ].up and t.debuff[ aura_name ] ) ) or nil
 
             -- This uses the default aura duration (if available) to keep pandemic windows accurate.
             local duration = aura and aura.duration or 15
@@ -2889,7 +2889,7 @@ local mt_default_cooldown = {
                     end
                 end
 
-                if t.charge < ability.charges then
+                if t.charge < ability.charges and t.recharge > 0 then
                     return min( ability.charges, t.charge + ( max( 0, state.query_time - t.recharge_began ) / t.recharge ) )
                     -- return t.charges + ( 1 - ( class.abilities[ t.key ].recharge - t.recharge_time ) / class.abilities[ t.key ].recharge )
                 end
@@ -3104,6 +3104,31 @@ function state:AddResourceMetaFunction( name, f )
 end
 
 
+function state:CombinedResourceRegen( t )
+    local regen = t.regen
+
+    local model = t.regenModel
+    if not model then return regen end
+
+    for name, source in pairs( model ) do
+        local value = type( source.value ) == "function" and source.value() or source.value
+        local interval = type( source.interval ) == "function" and source.interval() or source.interval
+
+        local aura = source.aura
+
+        if aura then
+            aura = source.debuff and state.debuff[ aura ] or state.buff[ aura ]
+
+            if aura.up then
+                regen = regen + ( value / interval )
+            end
+        end
+    end
+
+    return regen
+end
+
+
 function state:TimeToResource( t, amount )
     if not amount or amount > t.max then return 3600
     elseif t.current >= amount then return 0 end
@@ -3259,8 +3284,7 @@ local mt_resource = {
             return ( state.time > 0 and t.active_regen or t.inactive_regen ) or 0
 
         elseif k == "regen_combined" then
-            -- Assassination, April 2021
-            return max( t.regen, state:TimeToResource( t, t.max ) / t.deficit )
+            return max( t.regen, state:CombinedResourceRegen( t ) )
 
         elseif k == "modmax" then
             return t.max

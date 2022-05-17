@@ -1,8 +1,8 @@
 # BigWigs
 
-## [v241.2](https://github.com/BigWigsMods/BigWigs/tree/v241.2) (2022-05-02)
-[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v241.1...v241.2) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
+## [v242](https://github.com/BigWigsMods/BigWigs/tree/v242) (2022-05-16)
+[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v241.4...v242) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
 
-- SepulcherOfTheFirstOnes/TheJailer: cleanup rename options table  
-- Update ruRU (#1215)  
-- Core/BossPrototype: Change the :GetGossipOptions return to a table  
+- bump version  
+- Core/BossPrototype: Expand :Dispeller to cover root/snare dispel (#1220)  
+- SepulcherOfTheFirstOnes/PrototypePantheon: Also sort nighthunters alphabetically to avoid randomness between lists  

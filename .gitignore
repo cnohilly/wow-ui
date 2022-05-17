@@ -11,3 +11,8 @@ d3d12.dll
 DBGHELP.DLL
 dxilconv7.dll
 Wow.exe
+
+Interface/Addons/ElvUI
+Interface/Addons/elvui.git
+Interface/Addons/ElvUI_ExtraActionBars
+Interface/Addons/ElvUI_OptionsUI

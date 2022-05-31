@@ -261,9 +261,9 @@ DataStore_PetsDB = {
 				[167397] = 83588,
 				[62561] = 33226,
 				[123778] = 63365,
+				[170272] = 88103,
 				[10706] = 7555,
 				[137568] = 69649,
-				[170272] = 88103,
 				[12243] = 8376,
 				[10714] = 7565,
 				[210671] = 97174,
@@ -445,7 +445,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1632947881,
 			},
 			["Default.Bleeding Hollow.Dorkk"] = {
-				["lastUpdate"] = 1652233349,
+				["lastUpdate"] = 1653453818,
 			},
 			["Default.Bleeding Hollow.Moodroo"] = {
 				["lastUpdate"] = 1619646484,

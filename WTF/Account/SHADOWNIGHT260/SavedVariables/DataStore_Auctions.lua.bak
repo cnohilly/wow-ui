@@ -71,8 +71,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2021/05/20 15:02",
 			},
 			["Default.Bleeding Hollow.Dorkk"] = {
-				["lastUpdate"] = 1652205758,
-				["lastVisitDate"] = "2022/05/10 13:56",
+				["lastUpdate"] = 1653418346,
+				["lastVisitDate"] = "2022/05/24 14:52",
 			},
 			["Default.Tichondrius.Prodigie"] = {
 				["lastUpdate"] = 1554097105,

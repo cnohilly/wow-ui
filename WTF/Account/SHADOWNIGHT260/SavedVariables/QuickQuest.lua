@@ -16,11 +16,11 @@ QuickQuestDB2 = {
 		["Eisfyre - Bleeding Hollow"] = "Default",
 		["Illidorkk - Bleeding Hollow"] = "Default",
 		["Jerkk - Bleeding Hollow"] = "Default",
-		["Eore - The Forgotten Coast"] = "Default",
-		["Albiorix - Emerald Dream"] = "Default",
-		["Voodroo - Bleeding Hollow"] = "Default",
-		["Scongi - Kil'jaeden"] = "Default",
 		["Unorthodorkk - Bleeding Hollow"] = "Default",
+		["Scongi - Kil'jaeden"] = "Default",
+		["Voodroo - Bleeding Hollow"] = "Default",
+		["Albiorix - Emerald Dream"] = "Default",
+		["Eore - The Forgotten Coast"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

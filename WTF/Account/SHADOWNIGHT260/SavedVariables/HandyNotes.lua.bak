@@ -133,119 +133,119 @@ HandyNotesDB = {
 }
 HandyNotes_HandyNotesDB = {
 	["global"] = {
-		[535] = {
-			[51266312] = {
-				["icon"] = 1,
+		[550] = {
+			[80264977] = {
 				["cont"] = false,
-				["title"] = "knight pepe",
+				["title"] = "ninja pepe",
+				["icon"] = 1,
 				["desc"] = "",
 			},
 		},
 		[543] = {
 			[47234179] = {
-				["icon"] = 1,
 				["cont"] = false,
 				["title"] = "viking pepe",
+				["icon"] = 1,
 				["desc"] = "",
 			},
 		},
 		[534] = {
 			[25643166] = {
-				["icon"] = 8,
 				["title"] = "Felsworn Sentry",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp",
 			},
 			[43988438] = {
-				["icon"] = 8,
 				["title"] = "Tainted Maulclaw",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
 			},
 			[47965362] = {
-				["icon"] = 8,
 				["title"] = "Dreadwalker",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Can get by using the Zandalari Anklerender.\nEmerald Proto-Whelp very good secondary.",
 			},
 			[75933789] = {
-				["icon"] = 8,
 				["title"] = "Defiled Earth",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto third.",
 			},
 			[31903734] = {
-				["icon"] = 8,
 				["title"] = "Cursed Spirit",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Ikky main pet. \nEmerald Proto-Whelp and whatever else.",
 			},
 			[15284459] = {
-				["icon"] = 8,
 				["title"] = "Bleakclaw",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Water Spirit + Chrominius ?\nEmerald Proto third.",
 			},
 			[53416507] = {
-				["icon"] = 8,
 				["title"] = "Corrupted Thundertail",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Zandalari Anklerender main pet.\nAnubisath good secondary.",
 			},
 			[47693529] = {
-				["icon"] = 8,
 				["title"] = "Netherfist",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Unborn Valk + Howl (Chrominius / Stitched Pup).\nThird Emerald Proto-Whelp is good.",
 			},
 			[57643649] = {
-				["icon"] = 8,
 				["title"] = "Direflame",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp third.",
 			},
 			[55648063] = {
-				["icon"] = 8,
 				["title"] = "Felfly",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Chrominius.\nEmerald Proto-Whelp and whatever else.",
 			},
 			[47843218] = {
-				["icon"] = 8,
 				["title"] = "Skrillix",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "In cave. \nUnborn Valk + Stitched Pup (or Chrominius).\nEmerald Proto third.",
 			},
 			[42207089] = {
-				["icon"] = 8,
 				["title"] = "Mirecroak",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
 			},
 			[43624502] = {
-				["icon"] = 8,
 				["title"] = "Vile Blood of Draenor",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Zandalari Anklerender main pet. (Mine is slow so skip slow)\nEmerald Proto-Whelp and whatever.",
 			},
 			[25337493] = {
-				["icon"] = 8,
 				["title"] = "Chaos Pup",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "Draenei Micro Defender.\nEmerald Proto-Whelp and whatever else.",
 			},
 			[53532976] = {
-				["icon"] = 8,
 				["title"] = "Dark Gazer",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "",
 			},
 		},
-		[550] = {
-			[80264977] = {
-				["icon"] = 1,
+		[535] = {
+			[51266312] = {
 				["cont"] = false,
-				["title"] = "ninja pepe",
+				["title"] = "knight pepe",
+				["icon"] = 1,
 				["desc"] = "",
 			},
 		},

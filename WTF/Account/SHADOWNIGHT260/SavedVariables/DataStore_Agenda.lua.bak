@@ -36,7 +36,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2022-05-17",
+			["NextWeeklyReset"] = "2022-05-31",
 		},
 		["Characters"] = {
 			["Default.Bleeding Hollow.Jerkk"] = {
@@ -97,9 +97,9 @@ DataStore_AgendaDB = {
 					--[[ skipped entry with table key ]]
 					--[[ skipped entry with table key ]]
 				},
-				["lastUpdate"] = 1652233418,
+				["lastUpdate"] = 1653453827,
 				["DungeonIDs"] = {
-					["Sepulcher of the First Ones Mythic|796583697"] = "566182|1652233418|0|1",
+					["Sepulcher of the First Ones Mythic|796991985"] = "555372|1653453827|0|1",
 				},
 			},
 			["Default.Bleeding Hollow.Moodroo"] = {

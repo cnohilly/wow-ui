@@ -24,16 +24,16 @@ if L then
 	L.custom_on_autotalk = "自動對話"
 	L.custom_on_autotalk_desc = "交易游戲結束後，立即選擇正確的密碼。"
 	L.password_triggers = {
-		["Ivory Shell"] = "象牙貝殼",
-		["Sapphire Oasis"] = "寶藍綠洲",
-		["Jade Palm"] = "翠玉棕櫚",
-		["Golden Sands"] = "金黃沙粒",
-		["Amber Sunset"] = "琥珀日落",
-		["Emerald Ocean"] = "翡翠海洋",
-		["Ruby Gem"] = "深紅寶石",
-		["Pewter Stone"] = "白鑞石塊",
-		["Pale Flower"] = "蒼白花朵",
-		["Crimson Knife"] = "赤紅小刀"
+		["象牙貝殼"] = true,
+		["寶藍綠洲"] = true,
+		["翠玉棕櫚"] = true,
+		["金黃沙粒"] = true,
+		["琥珀日落"] = true,
+		["翡翠海洋"] = true,
+		["深紅寶石"] = true,
+		["白鑞石塊"] = true,
+		["蒼白花朵"] = true,
+		["赤紅小刀"] = true
 	}
 
 	L.interrogation_specialist = "審問專家"
@@ -52,6 +52,7 @@ if L then
 	L.commerce_enforcer_commander_zofar = "貿易執法者 / 指揮官佐發"
 	L.commander_zofar = "指揮官佐發"
 
+	L.tazavesh_soleahs_gambit = "塔札維許：索利亞的險招"
 	L.murkbrine_scalebinder = "暗洋縛鱗者"
 	L.murkbrine_shellcrusher = "暗洋碎殼者"
 	L.coastwalker_goliath = "岸行者巨人"

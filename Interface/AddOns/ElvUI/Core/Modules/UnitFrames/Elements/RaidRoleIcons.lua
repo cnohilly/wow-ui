@@ -76,6 +76,12 @@ function UF:RaidRoleUpdate()
 		local right = strfind(pos, 'RIGHT')
 		local pos1 = right and 'RIGHT' or 'LEFT'
 		local pos2 = right and 'LEFT' or 'RIGHT'
+		local size = 12 * (db.raidRoleIcons.scale or 1)
+
+		leader:Size(size)
+		assistant:Size(size)
+		masterlooter:Size(size)
+		mamt:Size(size)
 
 		if isLeader then
 			leader:Point(pos, anchor, x, y)
@@ -94,12 +100,12 @@ function UF:RaidRoleUpdate()
 		end
 
 		if isML then
-			if isLeader then
+			if isMAMT then
+				masterlooter:Point(pos1, mamt, pos2)
+			elseif isLeader then
 				masterlooter:Point(pos1, leader, pos2)
 			elseif isAssist then
 				masterlooter:Point(pos1, assistant, pos2)
-			elseif isMAMT then
-				masterlooter:Point(pos1, mamt, pos2)
 			else
 				masterlooter:Point(pos, anchor, x, y)
 			end

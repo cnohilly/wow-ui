@@ -8,16 +8,16 @@ RADataBase = {
 		["Moodroo - Bleeding Hollow"] = "Default",
 		["Engidorkk - Tichondrius"] = "Default",
 		["Awkk - Bleeding Hollow"] = "Default",
-		["Dorkkore - Tichondrius"] = "Default",
-		["Trickk - Bleeding Hollow"] = "Default",
+		["Voodroosaur - Bleeding Hollow"] = "Default",
+		["Geekk - Bleeding Hollow"] = "Default",
 		["Wardorkk - Bleeding Hollow"] = "Default",
 		["Voodroo - Bleeding Hollow"] = "Default",
 		["Smíte - The Forgotten Coast"] = "Default",
 		["Lickk - Bleeding Hollow"] = "Default",
-		["Voodroosaur - Bleeding Hollow"] = "Default",
+		["Scongi - Kil'jaeden"] = "Default",
 		["Dorkk - Bleeding Hollow"] = "Default",
 		["Eore - The Forgotten Coast"] = "Default",
-		["Geekk - Bleeding Hollow"] = "Default",
+		["Trickk - Bleeding Hollow"] = "Default",
 		["Prodigie - Tichondrius"] = "Default",
 		["Eisfyre - Bleeding Hollow"] = "Default",
 		["Illidorkk - Bleeding Hollow"] = "Default",
@@ -30,7 +30,7 @@ RADataBase = {
 		["Platebaleful - Mal'Ganis"] = "Default",
 		["Sasúke - Gilneas"] = "Default",
 		["Genericbank - Darkspear"] = "Default",
-		["Scongi - Kil'jaeden"] = "Default",
+		["Dorkkore - Tichondrius"] = "Default",
 		["Pricecheckin - Area 52"] = "Default",
 	},
 	["profiles"] = {
@@ -53,7 +53,7 @@ RADataBase = {
 						["g"] = 0,
 						["b"] = 0,
 					},
-					["panel_locked"] = false,
+					["panel_width"] = 130,
 					["RABattleResMainFrame"] = {
 						["position"] = {
 							["y"] = -6.103515625e-05,
@@ -61,7 +61,7 @@ RADataBase = {
 						},
 						["IsLocked"] = false,
 					},
-					["panel_width"] = 130,
+					["panel_locked"] = false,
 					["panel_show_res"] = true,
 					["text_color"] = {
 						["a"] = 1,
@@ -76,8 +76,8 @@ RADataBase = {
 						["g"] = 0,
 						["b"] = 0,
 					},
-					["text_anchor"] = "center",
 					["panel_height"] = 30,
+					["text_anchor"] = "center",
 				},
 				["Paste Text"] = {
 					["enabled"] = true,
@@ -200,9 +200,9 @@ RADataBase = {
 						["IsLocked"] = false,
 					},
 					["menu_priority"] = 90,
+					["auto_accept_invites"] = false,
 					["invite_msg_repeats"] = true,
 					["auto_accept_invites_limited"] = true,
-					["auto_accept_invites"] = false,
 					["auto_invite_limited"] = true,
 					["invite_interval"] = 60,
 					["auto_invite"] = false,
@@ -457,12 +457,6 @@ RADataBase = {
 							},
 							["lastInUse"] = 1,
 						},
-						[2456] = {
-							["bossId"] = 2456,
-							["notes"] = {
-							},
-							["lastInUse"] = 1,
-						},
 						[2425] = {
 							["bossId"] = 2425,
 							["notes"] = {
@@ -471,6 +465,12 @@ RADataBase = {
 						},
 						[2394] = {
 							["bossId"] = 2394,
+							["notes"] = {
+							},
+							["lastInUse"] = 1,
+						},
+						[2456] = {
+							["bossId"] = 2456,
 							["notes"] = {
 							},
 							["lastInUse"] = 1,
@@ -508,6 +508,8 @@ RADataBase = {
 					["currently_shown"] = false,
 					["currently_shown_noteId"] = 0,
 					["editing_boss_id"] = 2446,
+					["text_face"] = "Friz Quadrata TT",
+					["text_size"] = 12,
 					["bw_boss_timers"] = {
 						["53472"] = {
 							1973, -- [1]
@@ -1373,14 +1375,14 @@ RADataBase = {
 							35, -- [6]
 							1115906, -- [7]
 						},
-						["349985"] = {
-							2434, -- [1]
-							2445, -- [2]
-							"Soulrender Dormazain", -- [3]
-							"349985", -- [4]
-							"Dance (3)", -- [5]
-							161.1, -- [6]
-							3528313, -- [7]
+						["362275"] = {
+							2549, -- [1]
+							2467, -- [2]
+							"Rygelon", -- [3]
+							"362275", -- [4]
+							"Quasars (1)", -- [5]
+							13.4, -- [6]
+							512960, -- [7]
 						},
 						["356377"] = {
 							2435, -- [1]
@@ -1418,14 +1420,14 @@ RADataBase = {
 							40, -- [6]
 							1467588, -- [7]
 						},
-						["362275"] = {
-							2549, -- [1]
-							2467, -- [2]
-							"Rygelon", -- [3]
-							"362275", -- [4]
-							"Quasars (1)", -- [5]
-							13.4, -- [6]
-							512960, -- [7]
+						["349985"] = {
+							2434, -- [1]
+							2445, -- [2]
+							"Soulrender Dormazain", -- [3]
+							"349985", -- [4]
+							"Dance (3)", -- [5]
+							161.1, -- [6]
+							3528313, -- [7]
 						},
 						["350342"] = {
 							2429, -- [1]
@@ -1760,23 +1762,23 @@ RADataBase = {
 							15.8, -- [6]
 							589068, -- [7]
 						},
-						["153994"] = {
-							1685, -- [1]
-							1186, -- [2]
-							"Soulbinder Nyami", -- [3]
-							"153994", -- [4]
-							"Torn Spirits", -- [5]
-							32, -- [6]
-							237563, -- [7]
+						["365212"] = {
+							2537, -- [1]
+							2464, -- [2]
+							"The Jailer", -- [3]
+							"365212", -- [4]
+							"Spread Chains (2)", -- [5]
+							55, -- [6]
+							4067363, -- [7]
 						},
-						["347949"] = {
-							2425, -- [1]
-							2437, -- [2]
-							"Zo'phex the Sentinel", -- [3]
-							"347949", -- [4]
-							"<Cast: Interrogation>", -- [5]
-							5, -- [6]
-							132284, -- [7]
+						["chains_active"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"chains_active", -- [4]
+							"Chains Active (1)", -- [5]
+							7.2, -- [6]
+							236922, -- [7]
 						},
 						["368969"] = {
 							2529, -- [1]
@@ -1787,14 +1789,14 @@ RADataBase = {
 							10, -- [6]
 							4038106, -- [7]
 						},
-						["365212"] = {
+						["360562"] = {
 							2537, -- [1]
 							2464, -- [2]
 							"The Jailer", -- [3]
-							"365212", -- [4]
-							"Spread Chains (2)", -- [5]
-							55, -- [6]
-							4067363, -- [7]
+							"360562", -- [4]
+							"Knockback (3)", -- [5]
+							47, -- [6]
+							237274, -- [7]
 						},
 						["322746"] = {
 							2395, -- [1]
@@ -1832,23 +1834,23 @@ RADataBase = {
 							38.8, -- [6]
 							4038100, -- [7]
 						},
-						["360562"] = {
+						["153994"] = {
+							1685, -- [1]
+							1186, -- [2]
+							"Soulbinder Nyami", -- [3]
+							"153994", -- [4]
+							"Torn Spirits", -- [5]
+							32, -- [6]
+							237563, -- [7]
+						},
+						["365436"] = {
 							2537, -- [1]
 							2464, -- [2]
 							"The Jailer", -- [3]
-							"360562", -- [4]
-							"Knockback (3)", -- [5]
-							47, -- [6]
-							237274, -- [7]
-						},
-						["355055"] = {
-							2422, -- [1]
-							2440, -- [2]
-							"Kel'Thuzad", -- [3]
-							"355055", -- [4]
-							"Tornadoes", -- [5]
-							13.5, -- [6]
-							1029585, -- [7]
+							"365436", -- [4]
+							"Torment (2)", -- [5]
+							75, -- [6]
+							1354410, -- [7]
 						},
 						["322651"] = {
 							2393, -- [1]
@@ -1922,15 +1924,6 @@ RADataBase = {
 							16, -- [6]
 							236316, -- [7]
 						},
-						["360284"] = {
-							2543, -- [1]
-							2457, -- [2]
-							"Lords of Dread", -- [3]
-							"360284", -- [4]
-							"Frontal (K)", -- [5]
-							9.7, -- [6]
-							462324, -- [7]
-						},
 						["365033"] = {
 							2537, -- [1]
 							2464, -- [2]
@@ -1939,6 +1932,15 @@ RADataBase = {
 							"Azeroth Soak (2)", -- [5]
 							60, -- [6]
 							3528302, -- [7]
+						},
+						["360284"] = {
+							2543, -- [1]
+							2457, -- [2]
+							"Lords of Dread", -- [3]
+							"360284", -- [4]
+							"Frontal (K)", -- [5]
+							9.7, -- [6]
+							462324, -- [7]
 						},
 						["340300"] = {
 							2397, -- [1]
@@ -2093,14 +2095,14 @@ RADataBase = {
 							12, -- [6]
 							1325309, -- [7]
 						},
-						["192517"] = {
-							1816, -- [1]
-							1468, -- [2]
-							"Ashgolm", -- [3]
-							"192517", -- [4]
-							"Brittle", -- [5]
-							20, -- [6]
-							460686, -- [7]
+						["352538"] = {
+							2436, -- [1]
+							2446, -- [2]
+							"Guardian of the First Ones", -- [3]
+							"352538", -- [4]
+							"<Cast: Purging Protocol (1)>", -- [5]
+							5, -- [6]
+							4038100, -- [7]
 						},
 						["256405"] = {
 							2095, -- [1]
@@ -2120,14 +2122,14 @@ RADataBase = {
 							31, -- [6]
 							3199068, -- [7]
 						},
-						["352538"] = {
-							2436, -- [1]
-							2446, -- [2]
-							"Guardian of the First Ones", -- [3]
-							"352538", -- [4]
-							"<Cast: Purging Protocol (1)>", -- [5]
-							5, -- [6]
-							4038100, -- [7]
+						["192517"] = {
+							1816, -- [1]
+							1468, -- [2]
+							"Ashgolm", -- [3]
+							"192517", -- [4]
+							"Brittle", -- [5]
+							20, -- [6]
+							460686, -- [7]
 						},
 						["119684"] = {
 							1441, -- [1]
@@ -2363,6 +2365,15 @@ RADataBase = {
 							21, -- [6]
 							3528275, -- [7]
 						},
+						["68912"] = {
+							2007, -- [1]
+							616, -- [2]
+							"Devourer of Souls", -- [3]
+							"68912", -- [4]
+							"Wailing Souls", -- [5]
+							15, -- [6]
+							136211, -- [7]
+						},
 						["325258"] = {
 							2396, -- [1]
 							2410, -- [2]
@@ -2372,23 +2383,14 @@ RADataBase = {
 							32, -- [6]
 							3163624, -- [7]
 						},
-						["350421"] = {
-							2431, -- [1]
-							2447, -- [2]
-							"Fatescribe Roh-Kalo", -- [3]
-							"350421", -- [4]
-							"Beams (2)", -- [5]
-							75.7, -- [6]
-							3528298, -- [7]
-						},
-						["68912"] = {
-							2007, -- [1]
-							616, -- [2]
-							"Devourer of Souls", -- [3]
-							"68912", -- [4]
-							"Wailing Souls", -- [5]
-							15, -- [6]
-							136211, -- [7]
+						["120195"] = {
+							1442, -- [1]
+							708, -- [2]
+							"Trial of the King", -- [3]
+							"120195", -- [4]
+							"Meteor", -- [5]
+							40, -- [6]
+							135821, -- [7]
 						},
 						["363200"] = {
 							2540, -- [1]
@@ -2413,8 +2415,8 @@ RADataBase = {
 							2469, -- [2]
 							"Anduin Wrynn", -- [3]
 							"365021", -- [4]
-							"Star (3)", -- [5]
-							30, -- [6]
+							"Star (2)", -- [5]
+							35, -- [6]
 							1029718, -- [7]
 						},
 						["321948"] = {
@@ -2494,7 +2496,7 @@ RADataBase = {
 							2469, -- [2]
 							"Anduin Wrynn", -- [3]
 							"361815", -- [4]
-							"Hopebreaker (5)", -- [5]
+							"Hopebreaker (4)", -- [5]
 							30, -- [6]
 							3528300, -- [7]
 						},
@@ -2516,15 +2518,6 @@ RADataBase = {
 							1.2, -- [6]
 							1396971, -- [7]
 						},
-						["256005"] = {
-							2093, -- [1]
-							2102, -- [2]
-							"Skycap'n Kragg", -- [3]
-							"256005", -- [4]
-							"Vile Bombardment", -- [5]
-							6, -- [6]
-							1500941, -- [7]
-						},
 						["362885"] = {
 							2553, -- [1]
 							2470, -- [2]
@@ -2533,6 +2526,15 @@ RADataBase = {
 							"Traps (12)", -- [5]
 							33.3, -- [6]
 							4037120, -- [7]
+						},
+						["256005"] = {
+							2093, -- [1]
+							2102, -- [2]
+							"Skycap'n Kragg", -- [3]
+							"256005", -- [4]
+							"Vile Bombardment", -- [5]
+							6, -- [6]
+							1500941, -- [7]
 						},
 						["362405"] = {
 							2546, -- [1]
@@ -2687,14 +2689,14 @@ RADataBase = {
 							42, -- [6]
 							413583, -- [7]
 						},
-						["334051"] = {
-							2394, -- [1]
-							2409, -- [2]
-							"De Other Side Trash", -- [3]
-							"334051", -- [4]
-							"<Cast: Erupting Darkness>", -- [5]
-							4, -- [6]
-							136181, -- [7]
+						["347149"] = {
+							2419, -- [1]
+							2449, -- [2]
+							"Timecap'n Hooktail", -- [3]
+							"347149", -- [4]
+							"Infinite Breath", -- [5]
+							12, -- [6]
+							1029007, -- [7]
 						},
 						["258381"] = {
 							2094, -- [1]
@@ -2705,23 +2707,23 @@ RADataBase = {
 							30.4, -- [6]
 							1773651, -- [7]
 						},
-						["347149"] = {
-							2419, -- [1]
-							2449, -- [2]
-							"Timecap'n Hooktail", -- [3]
-							"347149", -- [4]
-							"Infinite Breath", -- [5]
-							12, -- [6]
-							1029007, -- [7]
+						["322232"] = {
+							2386, -- [1]
+							2404, -- [2]
+							"Margrave Stradama", -- [3]
+							"322232", -- [4]
+							"Infectious Rain", -- [5]
+							20.5, -- [6]
+							132100, -- [7]
 						},
-						["351086"] = {
-							2442, -- [1]
-							2455, -- [2]
-							"So'leah", -- [3]
-							"351086", -- [4]
-							"Power Overwhelming", -- [5]
-							65, -- [6]
-							1033914, -- [7]
+						["347094"] = {
+							2381, -- [1]
+							2413, -- [2]
+							"Hylbrande", -- [3]
+							"347094", -- [4]
+							"Titanic Crash", -- [5]
+							23.1, -- [6]
+							236312, -- [7]
 						},
 						["-12727"] = {
 							1816, -- [1]
@@ -2741,15 +2743,6 @@ RADataBase = {
 							5, -- [6]
 							1385913, -- [7]
 						},
-						["352271"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"352271", -- [4]
-							"Wave (8)", -- [5]
-							26, -- [6]
-							2492256, -- [7]
-						},
 						["350365"] = {
 							2429, -- [1]
 							2439, -- [2]
@@ -2758,6 +2751,15 @@ RADataBase = {
 							"<Cast: Run Away>", -- [5]
 							10, -- [6]
 							2103869, -- [7]
+						},
+						["352271"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"352271", -- [4]
+							"Wave (8)", -- [5]
+							26, -- [6]
+							2492256, -- [7]
 						},
 						["363332"] = {
 							2537, -- [1]
@@ -2939,14 +2941,14 @@ RADataBase = {
 							15.2, -- [6]
 							237555, -- [7]
 						},
-						["352530"] = {
-							2422, -- [1]
-							2440, -- [2]
-							"Kel'Thuzad", -- [3]
-							"352530", -- [4]
-							"Dark Evocation (2)", -- [5]
-							111, -- [6]
-							136179, -- [7]
+						["360229"] = {
+							2543, -- [1]
+							2457, -- [2]
+							"Lords of Dread", -- [3]
+							"360229", -- [4]
+							"Clouds (6)", -- [5]
+							72, -- [6]
+							1390943, -- [7]
 						},
 						["157001"] = {
 							1678, -- [1]
@@ -3007,9 +3009,9 @@ RADataBase = {
 							2469, -- [2]
 							"Anduin Wrynn", -- [3]
 							"stages", -- [4]
-							"Stage 2", -- [5]
-							85.5, -- [6]
-							343637, -- [7]
+							"Intermission", -- [5]
+							151, -- [6]
+							636332, -- [7]
 						},
 						["323608"] = {
 							2404, -- [1]
@@ -3128,14 +3130,14 @@ RADataBase = {
 							25.6, -- [6]
 							132097, -- [7]
 						},
-						["323943"] = {
-							2359, -- [1]
-							2412, -- [2]
-							"Devos, Paragon of Doubt", -- [3]
-							"323943", -- [4]
-							"Run Through", -- [5]
-							20.6, -- [6]
-							132337, -- [7]
+						["357739"] = {
+							2431, -- [1]
+							2447, -- [2]
+							"Fatescribe Roh-Kalo", -- [3]
+							"357739", -- [4]
+							"Rings Active", -- [5]
+							17.5, -- [6]
+							252188, -- [7]
 						},
 						["328206"] = {
 							2380, -- [1]
@@ -3245,24 +3247,6 @@ RADataBase = {
 							14.6, -- [6]
 							237517, -- [7]
 						},
-						["359483"] = {
-							2540, -- [1]
-							2459, -- [2]
-							"Dausegne, the Fallen Oracle", -- [3]
-							"359483", -- [4]
-							"Add (2)", -- [5]
-							33.5, -- [6]
-							4038107, -- [7]
-						},
-						["359610"] = {
-							2512, -- [1]
-							2458, -- [2]
-							"Vigilant Guardian", -- [3]
-							"359610", -- [4]
-							"Deresolution (5)", -- [5]
-							35, -- [6]
-							1357794, -- [7]
-						},
 						["154442"] = {
 							1682, -- [1]
 							1160, -- [2]
@@ -3271,6 +3255,24 @@ RADataBase = {
 							"Malevolence", -- [5]
 							9, -- [6]
 							237557, -- [7]
+						},
+						["324368"] = {
+							2357, -- [1]
+							2399, -- [2]
+							"Kin-Tara", -- [3]
+							"324368", -- [4]
+							"Attenuated Barrage", -- [5]
+							6, -- [6]
+							3528304, -- [7]
+						},
+						["359483"] = {
+							2540, -- [1]
+							2459, -- [2]
+							"Dausegne, the Fallen Oracle", -- [3]
+							"359483", -- [4]
+							"Add (2)", -- [5]
+							33.5, -- [6]
+							4038107, -- [7]
 						},
 						["334970"] = {
 							2396, -- [1]
@@ -3389,14 +3391,14 @@ RADataBase = {
 							35, -- [6]
 							1360978, -- [7]
 						},
-						["362849"] = {
-							2553, -- [1]
-							2470, -- [2]
-							"Artificer Xy'mox v2", -- [3]
-							"362849", -- [4]
-							"Sparknova (5)", -- [5]
-							33.3, -- [6]
-							4037124, -- [7]
+						["-23517"] = {
+							2434, -- [1]
+							2445, -- [2]
+							"Soulrender Dormazain", -- [3]
+							"-23517", -- [4]
+							"Big Add", -- [5]
+							9, -- [6]
+							3605497, -- [7]
 						},
 						["318406"] = {
 							2365, -- [1]
@@ -3425,23 +3427,23 @@ RADataBase = {
 							32, -- [6]
 							1778225, -- [7]
 						},
-						["350828"] = {
-							2433, -- [1]
-							2442, -- [2]
-							"The Eye of the Jailer", -- [3]
-							"350828", -- [4]
-							"Deathlink", -- [5]
-							11, -- [6]
-							1117882, -- [7]
+						["106872"] = {
+							1305, -- [1]
+							685, -- [2]
+							"Sha of Violence", -- [3]
+							"106872", -- [4]
+							"Smash on YOU", -- [5]
+							4, -- [6]
+							132318, -- [7]
 						},
-						["366285"] = {
-							2537, -- [1]
-							2464, -- [2]
-							"The Jailer", -- [3]
-							"366285", -- [4]
-							"Charms (4)", -- [5]
-							47, -- [6]
-							4005157, -- [7]
+						["362803"] = {
+							2553, -- [1]
+							2470, -- [2]
+							"Artificer Xy'mox v2", -- [3]
+							"362803", -- [4]
+							"Bomb: Kyotojones", -- [5]
+							5, -- [6]
+							3954409, -- [7]
 						},
 						["350735"] = {
 							2436, -- [1]
@@ -3461,32 +3463,32 @@ RADataBase = {
 							23, -- [6]
 							132622, -- [7]
 						},
-						["326389"] = {
-							2380, -- [1]
-							2387, -- [2]
-							"Echelon", -- [3]
-							"326389", -- [4]
-							"Blood Torrent", -- [5]
-							17, -- [6]
-							1394887, -- [7]
+						["323059"] = {
+							2397, -- [1]
+							2400, -- [2]
+							"Ingra Maloch", -- [3]
+							"323059", -- [4]
+							"Droman's Wrath", -- [5]
+							12, -- [6]
+							134218, -- [7]
 						},
-						["-23517"] = {
-							2434, -- [1]
-							2445, -- [2]
-							"Soulrender Dormazain", -- [3]
-							"-23517", -- [4]
-							"Big Add", -- [5]
-							9, -- [6]
-							3605497, -- [7]
+						["362849"] = {
+							2553, -- [1]
+							2470, -- [2]
+							"Artificer Xy'mox v2", -- [3]
+							"362849", -- [4]
+							"Sparknova (5)", -- [5]
+							33.3, -- [6]
+							4037124, -- [7]
 						},
-						["106872"] = {
-							1305, -- [1]
-							685, -- [2]
-							"Sha of Violence", -- [3]
-							"106872", -- [4]
-							"Smash on YOU", -- [5]
-							4, -- [6]
-							132318, -- [7]
+						["350828"] = {
+							2433, -- [1]
+							2442, -- [2]
+							"The Eye of the Jailer", -- [3]
+							"350828", -- [4]
+							"Deathlink", -- [5]
+							11, -- [6]
+							1117882, -- [7]
 						},
 						["361513"] = {
 							2540, -- [1]
@@ -3497,23 +3499,23 @@ RADataBase = {
 							17, -- [6]
 							4038104, -- [7]
 						},
-						["335141"] = {
-							2387, -- [1]
-							2395, -- [2]
-							"The Necrotic Wake Trash", -- [3]
-							"335141", -- [4]
-							"Dark Shroud", -- [5]
-							23.5, -- [6]
-							2576096, -- [7]
+						["352355"] = {
+							2422, -- [1]
+							2440, -- [2]
+							"Kel'Thuzad", -- [3]
+							"352355", -- [4]
+							"<Cast: Undying Wrath>", -- [5]
+							10, -- [6]
+							136188, -- [7]
 						},
-						["363893"] = {
-							2537, -- [1]
-							2464, -- [2]
-							"The Jailer", -- [3]
-							"363893", -- [4]
-							"Tank Combo (4)", -- [5]
-							39, -- [6]
-							517163, -- [7]
+						["350647"] = {
+							2434, -- [1]
+							2445, -- [2]
+							"Soulrender Dormazain", -- [3]
+							"350647", -- [4]
+							"Brands (6)", -- [5]
+							15.7, -- [6]
+							1100175, -- [7]
 						},
 						["363795"] = {
 							2539, -- [1]
@@ -3524,14 +3526,14 @@ RADataBase = {
 							38.8, -- [6]
 							4287471, -- [7]
 						},
-						["361676"] = {
-							2529, -- [1]
-							2463, -- [2]
-							"Halondrus the Reclaimer", -- [3]
-							"361676", -- [4]
-							"Missiles (2)", -- [5]
-							26, -- [6]
-							134293, -- [7]
+						["197422"] = {
+							1818, -- [1]
+							1470, -- [2]
+							"Cordana Felsong", -- [3]
+							"197422", -- [4]
+							"<Cast: Creeping Doom>", -- [5]
+							35, -- [6]
+							1022944, -- [7]
 						},
 						["153623"] = {
 							1688, -- [1]
@@ -3542,15 +3544,6 @@ RADataBase = {
 							77, -- [6]
 							237560, -- [7]
 						},
-						["364522"] = {
-							2542, -- [1]
-							2465, -- [2]
-							"Skolex, the Insatiable Ravener", -- [3]
-							"364522", -- [4]
-							"Devouring Blood", -- [5]
-							6.75, -- [6]
-							576310, -- [7]
-						},
 						["360295"] = {
 							2544, -- [1]
 							2460, -- [2]
@@ -3560,14 +3553,23 @@ RADataBase = {
 							17.5, -- [6]
 							460696, -- [7]
 						},
-						["328791"] = {
-							2381, -- [1]
-							2413, -- [2]
-							"Lord Chamberlain", -- [3]
-							"328791", -- [4]
-							"Ritual of Woe", -- [5]
-							35, -- [6]
-							237536, -- [7]
+						["321247"] = {
+							2388, -- [1]
+							2391, -- [2]
+							"Amarth, The Reanimator", -- [3]
+							"321247", -- [4]
+							"<Cast: Final Harvest>", -- [5]
+							4, -- [6]
+							2576087, -- [7]
+						},
+						["321406"] = {
+							2384, -- [1]
+							2403, -- [2]
+							"Doctor Ickus", -- [3]
+							"321406", -- [4]
+							"<Cast: Virulent Explosion>", -- [5]
+							30, -- [6]
+							840194, -- [7]
 						},
 						["353635"] = {
 							2442, -- [1]
@@ -3587,14 +3589,14 @@ RADataBase = {
 							110.2, -- [6]
 							136224, -- [7]
 						},
-						["321406"] = {
-							2384, -- [1]
-							2403, -- [2]
-							"Doctor Ickus", -- [3]
-							"321406", -- [4]
-							"<Cast: Virulent Explosion>", -- [5]
-							30, -- [6]
-							840194, -- [7]
+						["328791"] = {
+							2381, -- [1]
+							2413, -- [2]
+							"Lord Chamberlain", -- [3]
+							"328791", -- [4]
+							"Ritual of Woe", -- [5]
+							35, -- [6]
+							237536, -- [7]
 						},
 						["364465"] = {
 							2553, -- [1]
@@ -3650,14 +3652,14 @@ RADataBase = {
 							18, -- [6]
 							4038107, -- [7]
 						},
-						["321247"] = {
-							2388, -- [1]
-							2391, -- [2]
-							"Amarth, The Reanimator", -- [3]
-							"321247", -- [4]
-							"<Cast: Final Harvest>", -- [5]
-							4, -- [6]
-							2576087, -- [7]
+						["364522"] = {
+							2542, -- [1]
+							2465, -- [2]
+							"Skolex, the Insatiable Ravener", -- [3]
+							"364522", -- [4]
+							"Devouring Blood", -- [5]
+							6.75, -- [6]
+							576310, -- [7]
 						},
 						["320050"] = {
 							2366, -- [1]
@@ -3668,32 +3670,32 @@ RADataBase = {
 							30, -- [6]
 							1115905, -- [7]
 						},
-						["197422"] = {
-							1818, -- [1]
-							1470, -- [2]
-							"Cordana Felsong", -- [3]
-							"197422", -- [4]
-							"<Cast: Creeping Doom>", -- [5]
-							35, -- [6]
-							1022944, -- [7]
+						["361676"] = {
+							2529, -- [1]
+							2463, -- [2]
+							"Halondrus the Reclaimer", -- [3]
+							"361676", -- [4]
+							"Missiles (2)", -- [5]
+							26, -- [6]
+							134293, -- [7]
 						},
-						["350647"] = {
-							2434, -- [1]
-							2445, -- [2]
-							"Soulrender Dormazain", -- [3]
-							"350647", -- [4]
-							"Brands (6)", -- [5]
-							15.7, -- [6]
-							1100175, -- [7]
+						["363893"] = {
+							2537, -- [1]
+							2464, -- [2]
+							"The Jailer", -- [3]
+							"363893", -- [4]
+							"Tank Combo (4)", -- [5]
+							39, -- [6]
+							517163, -- [7]
 						},
-						["352355"] = {
-							2422, -- [1]
-							2440, -- [2]
-							"Kel'Thuzad", -- [3]
-							"352355", -- [4]
-							"<Cast: Undying Wrath>", -- [5]
-							10, -- [6]
-							136188, -- [7]
+						["335141"] = {
+							2387, -- [1]
+							2395, -- [2]
+							"The Necrotic Wake Trash", -- [3]
+							"335141", -- [4]
+							"Dark Shroud", -- [5]
+							23.5, -- [6]
+							2576096, -- [7]
 						},
 						["339706"] = {
 							2404, -- [1]
@@ -3704,23 +3706,23 @@ RADataBase = {
 							24.3, -- [6]
 							3511738, -- [7]
 						},
-						["362803"] = {
-							2553, -- [1]
-							2470, -- [2]
-							"Artificer Xy'mox v2", -- [3]
-							"362803", -- [4]
-							"Bomb: Kyotojones", -- [5]
-							5, -- [6]
-							3954409, -- [7]
+						["366285"] = {
+							2537, -- [1]
+							2464, -- [2]
+							"The Jailer", -- [3]
+							"366285", -- [4]
+							"Charms (4)", -- [5]
+							47, -- [6]
+							4005157, -- [7]
 						},
-						["323059"] = {
-							2397, -- [1]
-							2400, -- [2]
-							"Ingra Maloch", -- [3]
-							"323059", -- [4]
-							"Droman's Wrath", -- [5]
-							12, -- [6]
-							134218, -- [7]
+						["326389"] = {
+							2380, -- [1]
+							2387, -- [2]
+							"Echelon", -- [3]
+							"326389", -- [4]
+							"Blood Torrent", -- [5]
+							17, -- [6]
+							1394887, -- [7]
 						},
 						["floors_open"] = {
 							2537, -- [1]
@@ -3749,14 +3751,14 @@ RADataBase = {
 							15.4, -- [6]
 							237297, -- [7]
 						},
-						["324368"] = {
-							2357, -- [1]
-							2399, -- [2]
-							"Kin-Tara", -- [3]
-							"324368", -- [4]
-							"Attenuated Barrage", -- [5]
-							6, -- [6]
-							3528304, -- [7]
+						["359610"] = {
+							2512, -- [1]
+							2458, -- [2]
+							"Vigilant Guardian", -- [3]
+							"359610", -- [4]
+							"Deresolution (5)", -- [5]
+							35, -- [6]
+							1357794, -- [7]
 						},
 						["163447"] = {
 							1736, -- [1]
@@ -3848,14 +3850,14 @@ RADataBase = {
 							24.2, -- [6]
 							458718, -- [7]
 						},
-						["357739"] = {
-							2431, -- [1]
-							2447, -- [2]
-							"Fatescribe Roh-Kalo", -- [3]
-							"357739", -- [4]
-							"Rings Active", -- [5]
-							17.5, -- [6]
-							252188, -- [7]
+						["323943"] = {
+							2359, -- [1]
+							2412, -- [2]
+							"Devos, Paragon of Doubt", -- [3]
+							"323943", -- [4]
+							"Run Through", -- [5]
+							20.6, -- [6]
+							132337, -- [7]
 						},
 						["361568"] = {
 							2544, -- [1]
@@ -3929,14 +3931,14 @@ RADataBase = {
 							9, -- [6]
 							4037121, -- [7]
 						},
-						["360229"] = {
-							2543, -- [1]
-							2457, -- [2]
-							"Lords of Dread", -- [3]
-							"360229", -- [4]
-							"Clouds (6)", -- [5]
-							72, -- [6]
-							1390943, -- [7]
+						["352530"] = {
+							2422, -- [1]
+							2440, -- [2]
+							"Kel'Thuzad", -- [3]
+							"352530", -- [4]
+							"Dark Evocation (2)", -- [5]
+							111, -- [6]
+							136179, -- [7]
 						},
 						["323150"] = {
 							2381, -- [1]
@@ -4019,23 +4021,23 @@ RADataBase = {
 							35, -- [6]
 							1044089, -- [7]
 						},
-						["322232"] = {
-							2386, -- [1]
-							2404, -- [2]
-							"Margrave Stradama", -- [3]
-							"322232", -- [4]
-							"Infectious Rain", -- [5]
-							20.5, -- [6]
-							132100, -- [7]
+						["334051"] = {
+							2394, -- [1]
+							2409, -- [2]
+							"De Other Side Trash", -- [3]
+							"334051", -- [4]
+							"<Cast: Erupting Darkness>", -- [5]
+							4, -- [6]
+							136181, -- [7]
 						},
-						["347094"] = {
-							2381, -- [1]
-							2413, -- [2]
-							"Hylbrande", -- [3]
-							"347094", -- [4]
-							"Titanic Crash", -- [5]
-							23.1, -- [6]
-							236312, -- [7]
+						["351086"] = {
+							2442, -- [1]
+							2455, -- [2]
+							"So'leah", -- [3]
+							"351086", -- [4]
+							"Power Overwhelming", -- [5]
+							65, -- [6]
+							1033914, -- [7]
 						},
 						["255952"] = {
 							2093, -- [1]
@@ -4181,14 +4183,14 @@ RADataBase = {
 							26.7, -- [6]
 							3528299, -- [7]
 						},
-						["120195"] = {
-							1442, -- [1]
-							708, -- [2]
-							"Trial of the King", -- [3]
-							"120195", -- [4]
-							"Meteor", -- [5]
-							40, -- [6]
-							135821, -- [7]
+						["350421"] = {
+							2431, -- [1]
+							2447, -- [2]
+							"Fatescribe Roh-Kalo", -- [3]
+							"350421", -- [4]
+							"Beams (2)", -- [5]
+							75.7, -- [6]
+							3528298, -- [7]
 						},
 						["351413"] = {
 							2433, -- [1]
@@ -4388,14 +4390,14 @@ RADataBase = {
 							5, -- [6]
 							1778225, -- [7]
 						},
-						["365436"] = {
-							2537, -- [1]
-							2464, -- [2]
-							"The Jailer", -- [3]
-							"365436", -- [4]
-							"Torment (2)", -- [5]
-							75, -- [6]
-							1354410, -- [7]
+						["355055"] = {
+							2422, -- [1]
+							2440, -- [2]
+							"Kel'Thuzad", -- [3]
+							"355055", -- [4]
+							"Tornadoes", -- [5]
+							13.5, -- [6]
+							1029585, -- [7]
 						},
 						["350202"] = {
 							2429, -- [1]
@@ -4406,14 +4408,14 @@ RADataBase = {
 							6, -- [6]
 							135718, -- [7]
 						},
-						["chains_active"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"chains_active", -- [4]
-							"Chains Active (1)", -- [5]
-							7.2, -- [6]
-							236922, -- [7]
+						["347949"] = {
+							2425, -- [1]
+							2437, -- [2]
+							"Zo'phex the Sentinel", -- [3]
+							"347949", -- [4]
+							"<Cast: Interrogation>", -- [5]
+							5, -- [6]
+							132284, -- [7]
 						},
 						["326171"] = {
 							2396, -- [1]
@@ -4641,8 +4643,6 @@ RADataBase = {
 							1032476, -- [7]
 						},
 					},
-					["text_size"] = 12,
-					["text_face"] = "Friz Quadrata TT",
 					["latest_menu_option_note_selected"] = 1,
 					["editor_alpha"] = 0.5,
 					["auto_complete"] = true,
@@ -4752,8 +4752,8 @@ RADataBase = {
 						["IsLocked"] = false,
 					},
 					["enabled"] = true,
-					["show_level"] = true,
 					["filter"] = false,
+					["show_level"] = true,
 					["text_shadow"] = false,
 					["auto_refresh_roster"] = true,
 					["show_role_icon"] = true,
@@ -4791,14 +4791,13 @@ RADataBase = {
 						[97462] = true,
 						[116849] = true,
 						[115310] = true,
-						[322118] = true,
 						[15286] = true,
 						[102342] = true,
 						[51052] = true,
+						[322118] = true,
 						[47788] = true,
 						[77761] = true,
 						[633] = true,
-						[196718] = true,
 						[64843] = true,
 					},
 					["cooldowns_panels"] = {
@@ -4824,20 +4823,19 @@ RADataBase = {
 						["b"] = 0,
 					},
 					["units_in_the_group"] = {
-						["Pteargrifon"] = true,
+						["Horza"] = true,
+						["Sprootzz"] = true,
 						["Solzare"] = true,
-						["Boomkinboy"] = true,
 						["Notjoe"] = true,
 						["Plumper"] = true,
 						["Kharissa"] = true,
-						["Phycoz"] = true,
-						["Worobeam"] = true,
 						["Shpack"] = true,
-						["Sprootzz"] = true,
-						["Glarbaciouss"] = true,
-						["Replicate"] = true,
-						["Swayzexd"] = true,
+						["Phycoz"] = true,
+						["Boomkinboy"] = true,
 						["Hashtagthicc"] = true,
+						["Pteargrifon"] = true,
+						["Swayzexd"] = true,
+						["Worobeam"] = true,
 					},
 					["only_inside_instances"] = false,
 					["enabled"] = true,
@@ -4895,7 +4893,6 @@ RADataBase = {
 						["g"] = 1,
 						["b"] = 1,
 					},
-					["bar_class_color"] = true,
 					["roster_cache"] = {
 						{
 							["Shpack"] = {
@@ -4904,13 +4901,13 @@ RADataBase = {
 								["name"] = "Shpack",
 								["spells"] = {
 									[97462] = {
-										["charges_next"] = 1684063.627,
-										["charges_start_time"] = 1683883.627,
+										["charges_next"] = 1770685.179,
+										["charges_start_time"] = 1770505.179,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 97462,
-										["latest_usage"] = 1683883.627,
+										["latest_usage"] = 1770505.179,
 									},
 								},
 								["class"] = "WARRIOR",
@@ -4925,31 +4922,29 @@ RADataBase = {
 								["name"] = "Plumper",
 								["spells"] = {
 									[1022] = {
-										["charges_next"] = 1684167.186,
-										["charges_start_time"] = 1683867.186,
+										["charges_next"] = 1770806.254,
+										["charges_start_time"] = 1770506.254,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 1022,
-										["latest_usage"] = 1683867.186,
+										["latest_usage"] = 1770506.254,
 									},
 									[633] = {
-										["charges_next"] = 1684745.255,
-										["charges_start_time"] = 1684145.255,
+										["charges_next"] = 1769421.546,
+										["charges_start_time"] = 1768821.546,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 633,
-										["latest_usage"] = 1684145.255,
+										["latest_usage"] = 1768821.546,
 									},
 									[6940] = {
-										["charges_next"] = 1683621.103,
-										["charges_start_time"] = 1683501.103,
+										["charges_next"] = 0,
 										["charges_max"] = 1,
-										["type"] = 3,
-										["charges_amt"] = 0,
+										["charges_amt"] = 1,
 										["spellid"] = 6940,
-										["latest_usage"] = 1683501.103,
+										["type"] = 3,
 									},
 								},
 								["class"] = "PALADIN",
@@ -4958,35 +4953,31 @@ RADataBase = {
 							},
 							["Pteargrifon"] = {
 								["connected"] = true,
-								["alive"] = false,
+								["alive"] = true,
 								["name"] = "Pteargrifon",
 								["spells"] = {
 									[1022] = {
-										["charges_next"] = 1677346.895,
-										["charges_start_time"] = 1677046.895,
+										["charges_next"] = 0,
 										["charges_max"] = 1,
-										["type"] = 3,
-										["charges_amt"] = 0,
+										["charges_amt"] = 1,
 										["spellid"] = 1022,
-										["latest_usage"] = 1677046.895,
+										["type"] = 3,
 									},
 									[633] = {
-										["charges_next"] = 1684795.189,
-										["charges_start_time"] = 1684195.189,
+										["charges_next"] = 1771121.617,
+										["charges_start_time"] = 1770521.617,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 633,
-										["latest_usage"] = 1684195.189,
+										["latest_usage"] = 1770521.617,
 									},
 									[6940] = {
-										["charges_next"] = 1683618.55,
-										["charges_start_time"] = 1683498.55,
+										["charges_next"] = 0,
 										["charges_max"] = 1,
-										["type"] = 3,
-										["charges_amt"] = 0,
+										["charges_amt"] = 1,
 										["spellid"] = 6940,
-										["latest_usage"] = 1683498.55,
+										["type"] = 3,
 									},
 								},
 								["class"] = "PALADIN",
@@ -4999,65 +4990,19 @@ RADataBase = {
 						{
 						}, -- [4]
 						{
-							["Replicate"] = {
-								["connected"] = true,
-								["alive"] = false,
-								["name"] = "Replicate",
-								["spells"] = {
-									[64901] = {
-										["charges_next"] = 1682494.195,
-										["charges_start_time"] = 1682194.195,
-										["charges_max"] = 1,
-										["type"] = 4,
-										["charges_amt"] = 0,
-										["spellid"] = 64901,
-										["latest_usage"] = 1682194.195,
-									},
-									[265202] = {
-										["charges_next"] = 1684411.107,
-										["charges_start_time"] = 1683691.107,
-										["charges_max"] = 1,
-										["type"] = 4,
-										["charges_amt"] = 0,
-										["spellid"] = 265202,
-										["latest_usage"] = 1683691.107,
-									},
-									[47788] = {
-										["charges_next"] = 1684374.336,
-										["charges_start_time"] = 1684194.336,
-										["charges_max"] = 1,
-										["type"] = 3,
-										["charges_amt"] = 0,
-										["spellid"] = 47788,
-										["latest_usage"] = 1684194.336,
-									},
-									[64843] = {
-										["charges_next"] = 1684317.859,
-										["charges_start_time"] = 1684137.859,
-										["charges_max"] = 1,
-										["type"] = 4,
-										["charges_amt"] = 0,
-										["spellid"] = 64843,
-										["latest_usage"] = 1684137.859,
-									},
-								},
-								["class"] = "PRIEST",
-								["raidgroup"] = 1,
-								["spec"] = 257,
-							},
 							["Phycoz"] = {
 								["connected"] = true,
 								["alive"] = false,
 								["name"] = "Phycoz",
 								["spells"] = {
 									[15286] = {
-										["charges_next"] = 1684312.475,
-										["charges_start_time"] = 1684192.475,
+										["charges_next"] = 1770735.385,
+										["charges_start_time"] = 1770615.385,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 15286,
-										["latest_usage"] = 1684192.475,
+										["latest_usage"] = 1770615.385,
 									},
 								},
 								["class"] = "PRIEST",
@@ -5070,40 +5015,40 @@ RADataBase = {
 								["name"] = "Hashtagthicc",
 								["spells"] = {
 									[64901] = {
-										["charges_next"] = 1684471.471,
-										["charges_start_time"] = 1684171.471,
+										["charges_next"] = 1770835.927,
+										["charges_start_time"] = 1770535.927,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 64901,
-										["latest_usage"] = 1684171.471,
+										["latest_usage"] = 1770535.927,
 									},
 									[265202] = {
-										["charges_next"] = 1684891.471,
-										["charges_start_time"] = 1684171.471,
+										["charges_next"] = 1771338.621,
+										["charges_start_time"] = 1770618.621,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 265202,
-										["latest_usage"] = 1684171.471,
+										["latest_usage"] = 1770618.621,
 									},
 									[47788] = {
-										["charges_next"] = 1684305.697,
-										["charges_start_time"] = 1684125.697,
+										["charges_next"] = 1770765.981,
+										["charges_start_time"] = 1770585.981,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 47788,
-										["latest_usage"] = 1684125.697,
+										["latest_usage"] = 1770585.981,
 									},
 									[64843] = {
-										["charges_next"] = 1684373.378,
-										["charges_start_time"] = 1684193.378,
+										["charges_next"] = 1770960.315,
+										["charges_start_time"] = 1770780.315,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 64843,
-										["latest_usage"] = 1684193.378,
+										["latest_usage"] = 1770780.315,
 									},
 								},
 								["class"] = "PRIEST",
@@ -5136,17 +5081,17 @@ RADataBase = {
 								["spells"] = {
 									[51052] = {
 										["charges_next"] = 0,
-										["charges_start_time"] = 1684119.786,
+										["charges_start_time"] = 1770503.848,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 1,
 										["spellid"] = 51052,
-										["latest_usage"] = 1684119.786,
+										["latest_usage"] = 1770503.848,
 									},
 								},
 								["class"] = "DEATHKNIGHT",
 								["raidgroup"] = 1,
-								["spec"] = 252,
+								["spec"] = 251,
 							},
 						}, -- [6]
 						{
@@ -5158,35 +5103,35 @@ RADataBase = {
 						{
 							["Notjoe"] = {
 								["connected"] = true,
-								["alive"] = false,
+								["alive"] = true,
 								["name"] = "Notjoe",
 								["spells"] = {
 									[322118] = {
-										["charges_next"] = 1684264.762,
-										["charges_start_time"] = 1684084.762,
+										["charges_next"] = 1770951.058,
+										["charges_start_time"] = 1770771.058,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 322118,
-										["latest_usage"] = 1684084.762,
+										["latest_usage"] = 1770771.058,
 									},
 									[116849] = {
-										["charges_next"] = 1683997.885,
-										["charges_start_time"] = 1683877.885,
+										["charges_next"] = 1770924.377,
+										["charges_start_time"] = 1770804.377,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 116849,
-										["latest_usage"] = 1683877.885,
+										["latest_usage"] = 1770804.377,
 									},
 									[115310] = {
-										["charges_next"] = 1684375.659,
-										["charges_start_time"] = 1684195.659,
+										["charges_next"] = 1770988.379,
+										["charges_start_time"] = 1770808.379,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 115310,
-										["latest_usage"] = 1684195.659,
+										["latest_usage"] = 1770808.379,
 									},
 								},
 								["class"] = "MONK",
@@ -5195,19 +5140,74 @@ RADataBase = {
 							},
 						}, -- [10]
 						{
+							["Horza"] = {
+								["connected"] = true,
+								["alive"] = false,
+								["name"] = "Horza",
+								["spells"] = {
+									[740] = {
+										["charges_next"] = 1770797.118,
+										["charges_start_time"] = 1770617.118,
+										["charges_max"] = 1,
+										["type"] = 4,
+										["charges_amt"] = 0,
+										["spellid"] = 740,
+										["latest_usage"] = 1770617.118,
+									},
+									[197721] = {
+										["charges_next"] = 1770705.873,
+										["charges_start_time"] = 1770615.873,
+										["charges_max"] = 1,
+										["type"] = 4,
+										["charges_amt"] = 0,
+										["spellid"] = 197721,
+										["latest_usage"] = 1770615.873,
+									},
+									[102342] = {
+										["charges_next"] = 1770685.955,
+										["charges_start_time"] = 1770625.955,
+										["charges_max"] = 1,
+										["type"] = 3,
+										["charges_amt"] = 0,
+										["spellid"] = 102342,
+										["latest_usage"] = 1770625.955,
+									},
+									[77761] = {
+										["charges_next"] = 0,
+										["charges_start_time"] = 1768672.637,
+										["charges_max"] = 1,
+										["type"] = 4,
+										["charges_amt"] = 1,
+										["spellid"] = 77761,
+										["latest_usage"] = 1768672.637,
+									},
+									[29166] = {
+										["charges_next"] = 0,
+										["charges_start_time"] = 1770455.661,
+										["charges_max"] = 1,
+										["type"] = 3,
+										["charges_amt"] = 1,
+										["spellid"] = 29166,
+										["latest_usage"] = 1770455.661,
+									},
+								},
+								["class"] = "DRUID",
+								["raidgroup"] = 1,
+								["spec"] = 105,
+							},
 							["Swayzexd"] = {
 								["connected"] = true,
 								["alive"] = false,
 								["name"] = "Swayzexd",
 								["spells"] = {
 									[29166] = {
-										["charges_next"] = 1684301.591,
-										["charges_start_time"] = 1684121.591,
+										["charges_next"] = 0,
+										["charges_start_time"] = 1770331.53,
 										["charges_max"] = 1,
 										["type"] = 3,
-										["charges_amt"] = 0,
+										["charges_amt"] = 1,
 										["spellid"] = 29166,
-										["latest_usage"] = 1684121.591,
+										["latest_usage"] = 1770331.53,
 									},
 									[77761] = {
 										["charges_next"] = 0,
@@ -5227,31 +5227,31 @@ RADataBase = {
 								["name"] = "Boomkinboy",
 								["spells"] = {
 									[740] = {
-										["charges_next"] = 1684378.22,
-										["charges_start_time"] = 1684198.22,
+										["charges_next"] = 0,
+										["charges_start_time"] = 1770406.013,
 										["charges_max"] = 1,
 										["type"] = 4,
-										["charges_amt"] = 0,
+										["charges_amt"] = 1,
 										["spellid"] = 740,
-										["latest_usage"] = 1684198.22,
+										["latest_usage"] = 1770406.013,
 									},
 									[197721] = {
-										["charges_next"] = 1684287.019,
-										["charges_start_time"] = 1684197.019,
+										["charges_next"] = 0,
+										["charges_start_time"] = 1770412.729,
 										["charges_max"] = 1,
 										["type"] = 4,
-										["charges_amt"] = 0,
+										["charges_amt"] = 1,
 										["spellid"] = 197721,
-										["latest_usage"] = 1684197.019,
+										["latest_usage"] = 1770412.729,
 									},
 									[102342] = {
-										["charges_next"] = 0,
-										["charges_start_time"] = 1683861.498,
+										["charges_next"] = 1770887.249,
+										["charges_start_time"] = 1770827.249,
 										["charges_max"] = 1,
 										["type"] = 3,
-										["charges_amt"] = 1,
+										["charges_amt"] = 0,
 										["spellid"] = 102342,
-										["latest_usage"] = 1683861.498,
+										["latest_usage"] = 1770827.249,
 									},
 									[77761] = {
 										["charges_next"] = 0,
@@ -5261,13 +5261,13 @@ RADataBase = {
 										["type"] = 4,
 									},
 									[29166] = {
-										["charges_next"] = 1684366.65,
-										["charges_start_time"] = 1684186.65,
+										["charges_next"] = 1770765.133,
+										["charges_start_time"] = 1770585.133,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 29166,
-										["latest_usage"] = 1684186.65,
+										["latest_usage"] = 1770585.133,
 									},
 								},
 								["class"] = "DRUID",
@@ -5280,31 +5280,31 @@ RADataBase = {
 								["name"] = "Kharissa",
 								["spells"] = {
 									[740] = {
-										["charges_next"] = 1684328.386,
-										["charges_start_time"] = 1684148.386,
+										["charges_next"] = 1770984.237,
+										["charges_start_time"] = 1770804.237,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 740,
-										["latest_usage"] = 1684148.386,
+										["latest_usage"] = 1770804.237,
 									},
 									[197721] = {
-										["charges_next"] = 1684285.189,
-										["charges_start_time"] = 1684195.189,
+										["charges_next"] = 1770709.956,
+										["charges_start_time"] = 1770619.956,
 										["charges_max"] = 1,
 										["type"] = 4,
 										["charges_amt"] = 0,
 										["spellid"] = 197721,
-										["latest_usage"] = 1684195.189,
+										["latest_usage"] = 1770619.956,
 									},
 									[102342] = {
-										["charges_next"] = 1684258.894,
-										["charges_start_time"] = 1684198.894,
+										["charges_next"] = 1770667.641,
+										["charges_start_time"] = 1770607.641,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 102342,
-										["latest_usage"] = 1684198.894,
+										["latest_usage"] = 1770607.641,
 									},
 									[77761] = {
 										["charges_next"] = 0,
@@ -5314,13 +5314,13 @@ RADataBase = {
 										["type"] = 4,
 									},
 									[29166] = {
-										["charges_next"] = 1684308.304,
-										["charges_start_time"] = 1684128.304,
+										["charges_next"] = 1770699.705,
+										["charges_start_time"] = 1770519.705,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 29166,
-										["latest_usage"] = 1684128.304,
+										["latest_usage"] = 1770519.705,
 									},
 								},
 								["class"] = "DRUID",
@@ -5333,13 +5333,13 @@ RADataBase = {
 								["name"] = "Worobeam",
 								["spells"] = {
 									[29166] = {
-										["charges_next"] = 1684264.868,
-										["charges_start_time"] = 1684084.868,
+										["charges_next"] = 1770951.058,
+										["charges_start_time"] = 1770771.058,
 										["charges_max"] = 1,
 										["type"] = 3,
 										["charges_amt"] = 0,
 										["spellid"] = 29166,
-										["latest_usage"] = 1684084.868,
+										["latest_usage"] = 1770771.058,
 									},
 									[77761] = {
 										["charges_next"] = 0,
@@ -5355,25 +5355,9 @@ RADataBase = {
 							},
 						}, -- [11]
 						{
-							["Glarbaciouss"] = {
-								["connected"] = true,
-								["alive"] = false,
-								["name"] = "Glarbaciouss",
-								["spells"] = {
-									[196718] = {
-										["charges_next"] = 0,
-										["charges_max"] = 1,
-										["charges_amt"] = 1,
-										["spellid"] = 196718,
-										["type"] = 4,
-									},
-								},
-								["class"] = "DEMONHUNTER",
-								["raidgroup"] = 1,
-								["spec"] = 577,
-							},
 						}, -- [12]
 					},
+					["bar_class_color"] = true,
 					["panel_positions"] = {
 					},
 					["only_in_combat"] = false,

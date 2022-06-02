@@ -27,8 +27,8 @@ HandyNotesDB = {
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
@@ -97,9 +97,9 @@ HandyNotesDB = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
-		["Nizearisbad - Mal'Ganis"] = {
-		},
 		["Trickk - Bleeding Hollow"] = {
+		},
+		["Nizearisbad - Mal'Ganis"] = {
 		},
 		["Dorkkborne - Area 52"] = {
 		},
@@ -133,120 +133,120 @@ HandyNotesDB = {
 }
 HandyNotes_HandyNotesDB = {
 	["global"] = {
-		[535] = {
-			[51266312] = {
-				["icon"] = 1,
-				["cont"] = false,
-				["title"] = "knight pepe",
-				["desc"] = "",
-			},
-		},
 		[550] = {
 			[80264977] = {
+				["title"] = "ninja pepe",
 				["icon"] = 1,
 				["cont"] = false,
-				["title"] = "ninja pepe",
 				["desc"] = "",
 			},
 		},
-		[543] = {
-			[47234179] = {
+		[535] = {
+			[51266312] = {
+				["title"] = "knight pepe",
 				["icon"] = 1,
 				["cont"] = false,
-				["title"] = "viking pepe",
 				["desc"] = "",
 			},
 		},
 		[534] = {
 			[25643166] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Felsworn Sentry",
-				["cont"] = false,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp",
 			},
 			[43988438] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Tainted Maulclaw",
-				["cont"] = false,
 				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
 			},
 			[47965362] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Dreadwalker",
-				["cont"] = false,
 				["desc"] = "Can get by using the Zandalari Anklerender.\nEmerald Proto-Whelp very good secondary.",
 			},
 			[75933789] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Defiled Earth",
-				["cont"] = false,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto third.",
 			},
-			[53532976] = {
-				["icon"] = 8,
-				["title"] = "Dark Gazer",
+			[31903734] = {
 				["cont"] = false,
-				["desc"] = "",
+				["icon"] = 8,
+				["title"] = "Cursed Spirit",
+				["desc"] = "Ikky main pet. \nEmerald Proto-Whelp and whatever else.",
 			},
 			[15284459] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Bleakclaw",
-				["cont"] = false,
 				["desc"] = "Water Spirit + Chrominius ?\nEmerald Proto third.",
 			},
 			[53416507] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Corrupted Thundertail",
-				["cont"] = false,
 				["desc"] = "Zandalari Anklerender main pet.\nAnubisath good secondary.",
 			},
 			[47693529] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Netherfist",
-				["cont"] = false,
 				["desc"] = "Unborn Valk + Howl (Chrominius / Stitched Pup).\nThird Emerald Proto-Whelp is good.",
 			},
 			[57643649] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Direflame",
-				["cont"] = false,
 				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp third.",
 			},
 			[55648063] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Felfly",
-				["cont"] = false,
 				["desc"] = "Chrominius.\nEmerald Proto-Whelp and whatever else.",
 			},
 			[47843218] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Skrillix",
-				["cont"] = false,
 				["desc"] = "In cave. \nUnborn Valk + Stitched Pup (or Chrominius).\nEmerald Proto third.",
 			},
 			[42207089] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Mirecroak",
-				["cont"] = false,
 				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
 			},
 			[43624502] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Vile Blood of Draenor",
-				["cont"] = false,
 				["desc"] = "Zandalari Anklerender main pet. (Mine is slow so skip slow)\nEmerald Proto-Whelp and whatever.",
 			},
 			[25337493] = {
+				["cont"] = false,
 				["icon"] = 8,
 				["title"] = "Chaos Pup",
-				["cont"] = false,
 				["desc"] = "Draenei Micro Defender.\nEmerald Proto-Whelp and whatever else.",
 			},
-			[31903734] = {
-				["icon"] = 8,
-				["title"] = "Cursed Spirit",
+			[53532976] = {
 				["cont"] = false,
-				["desc"] = "Ikky main pet. \nEmerald Proto-Whelp and whatever else.",
+				["icon"] = 8,
+				["title"] = "Dark Gazer",
+				["desc"] = "",
+			},
+		},
+		[543] = {
+			[47234179] = {
+				["title"] = "viking pepe",
+				["icon"] = 1,
+				["cont"] = false,
+				["desc"] = "",
 			},
 		},
 	},
@@ -277,8 +277,8 @@ HandyNotes_HandyNotesDB = {
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
@@ -347,9 +347,9 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
-		["Nizearisbad - Mal'Ganis"] = {
-		},
 		["Trickk - Bleeding Hollow"] = {
+		},
+		["Nizearisbad - Mal'Ganis"] = {
 		},
 		["Dorkkborne - Area 52"] = {
 		},

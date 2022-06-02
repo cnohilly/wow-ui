@@ -6,13 +6,13 @@ Details_StreamerDB = {
 		["Moodroo - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Engidorkk - Tichondrius"] = "Jerkk - Bleeding Hollow",
 		["Awkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Genericbank - Darkspear"] = "Jerkk - Bleeding Hollow",
-		["Dorkkore - Tichondrius"] = "Jerkk - Bleeding Hollow",
-		["Wardorkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Albiorix - Emerald Dream"] = "Jerkk - Bleeding Hollow",
+		["Voodroosaur - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Wardorkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Genericbank - Darkspear"] = "Jerkk - Bleeding Hollow",
 		["Smíte - The Forgotten Coast"] = "Jerkk - Bleeding Hollow",
 		["Lickk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Voodroosaur - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Jerkk - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Jerkk - Bleeding Hollow",
 		["Geekk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
@@ -28,7 +28,7 @@ Details_StreamerDB = {
 		["Platebaleful - Mal'Ganis"] = "Jerkk - Bleeding Hollow",
 		["Sasúke - Gilneas"] = "Jerkk - Bleeding Hollow",
 		["Voodroo - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Jerkk - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Jerkk - Bleeding Hollow",
 		["Pricecheckin - Area 52"] = "Jerkk - Bleeding Hollow",
 	},
 	["profiles"] = {
@@ -61,17 +61,17 @@ Details_StreamerDB = {
 			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
 			["point"] = "CENTER",
+			["main_frame_strata"] = "LOW",
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["y"] = 4.57763671875e-05,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -81,6 +81,11 @@ Details_StreamerDB = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -92,11 +97,6 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["y"] = 4.57763671875e-05,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
-			["font_size"] = 10,
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
 			["use_square_mode"] = false,

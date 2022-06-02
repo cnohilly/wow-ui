@@ -180,4 +180,4 @@ Anchor: TOPLEFT
 X: 352
 Y: -19
 W: 300
-H: 90
+H: 107

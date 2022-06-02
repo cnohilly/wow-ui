@@ -14,8 +14,8 @@ SimulationCraftDB = {
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
@@ -53,9 +53,9 @@ SimulationCraftDB = {
 		},
 		["Eore - The Forgotten Coast"] = {
 		},
-		["Unorthodorkk - Bleeding Hollow"] = {
-		},
 		["Jerkk - Bleeding Hollow"] = {
+		},
+		["Unorthodorkk - Bleeding Hollow"] = {
 		},
 		["Voodroo - Bleeding Hollow"] = {
 		},

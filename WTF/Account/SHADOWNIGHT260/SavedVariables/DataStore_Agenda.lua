@@ -4,20 +4,20 @@ DataStore_AgendaDB = {
 		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
 		["Moodroo - Bleeding Hollow"] = "Moodroo - Bleeding Hollow",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
 		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
+		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
@@ -26,7 +26,7 @@ DataStore_AgendaDB = {
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
@@ -68,11 +68,11 @@ DataStore_AgendaDB = {
 			["Default.Bleeding Hollow.Voodroo"] = {
 				["lastUpdate"] = 1647885045,
 			},
-			["Default.Bleeding Hollow.Quirkk"] = {
-				["lastUpdate"] = 1650904710,
-			},
 			["Default.Bleeding Hollow.Lickk"] = {
 				["lastUpdate"] = 1550624971,
+			},
+			["Default.Bleeding Hollow.Quirkk"] = {
+				["lastUpdate"] = 1650904710,
 			},
 			["Default.Bleeding Hollow.Unorthodorkk"] = {
 				["lastUpdate"] = 1650904636,
@@ -92,8 +92,15 @@ DataStore_AgendaDB = {
 			["Default.Bleeding Hollow.Eisfyre"] = {
 				["lastUpdate"] = 1632947886,
 			},
-			["Default.Bleeding Hollow.Geekk"] = {
-				["lastUpdate"] = 1650904571,
+			["Default.Bleeding Hollow.Dorkk"] = {
+				["Contacts"] = {
+					--[[ skipped entry with table key ]]
+					--[[ skipped entry with table key ]]
+				},
+				["DungeonIDs"] = {
+					["Sepulcher of the First Ones Mythic|796991985"] = "478598|1654135362|0|1",
+				},
+				["lastUpdate"] = 1654144117,
 			},
 			["Default.Bleeding Hollow.Moodroo"] = {
 				["lastUpdate"] = 1619646481,
@@ -110,27 +117,20 @@ DataStore_AgendaDB = {
 			["Default.Bleeding Hollow.Voodroosaur"] = {
 				["lastUpdate"] = 1646176859,
 			},
-			["Default.Bleeding Hollow.Dorkk"] = {
-				["lastUpdate"] = 1654057850,
-				["Contacts"] = {
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-				},
-				["DungeonIDs"] = {
-					["Sepulcher of the First Ones Mythic|796991985"] = "556112|1654057850|0|1",
-				},
+			["Default.Bleeding Hollow.Geekk"] = {
+				["lastUpdate"] = 1650904571,
 			},
 			["Default.Bleeding Hollow.Illidorkk"] = {
 				["lastUpdate"] = 1650904472,
 			},
-			["Default.Area 52.Dorkkborne"] = {
-				["lastUpdate"] = 1629836764,
+			["Default.Mal'Ganis.Platebaleful"] = {
+				["lastUpdate"] = 1551677732,
 			},
 			["Default.Bleeding Hollow.Awkk"] = {
 				["lastUpdate"] = 1630523147,
 			},
-			["Default.Mal'Ganis.Platebaleful"] = {
-				["lastUpdate"] = 1551677732,
+			["Default.Area 52.Dorkkborne"] = {
+				["lastUpdate"] = 1629836764,
 			},
 			["Default.Bleeding Hollow.Wardorkk"] = {
 				["lastUpdate"] = 1649736079,

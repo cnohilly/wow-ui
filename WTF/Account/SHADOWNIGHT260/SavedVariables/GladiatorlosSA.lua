@@ -25,7 +25,7 @@ GladiatorlosSADB = {
 		["Dorkkore - Tichondrius"] = "Default",
 		["Dorkk - Bleeding Hollow"] = "Default",
 		["Genericbank - Darkspear"] = "Default",
-		["Geekk - Bleeding Hollow"] = "Default",
+		["Trickk - Bleeding Hollow"] = "Default",
 		["Dorkkborne - Area 52"] = "Default",
 		["Awkk - Bleeding Hollow"] = "Default",
 		["Nizearisbad - Mal'Ganis"] = "Default",
@@ -38,7 +38,7 @@ GladiatorlosSADB = {
 		["Wardorkk - Bleeding Hollow"] = "Default",
 		["Eore - The Forgotten Coast"] = "Default",
 		["Albiorix - Emerald Dream"] = "Default",
-		["Trickk - Bleeding Hollow"] = "Default",
+		["Geekk - Bleeding Hollow"] = "Default",
 		["Quirkk - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {

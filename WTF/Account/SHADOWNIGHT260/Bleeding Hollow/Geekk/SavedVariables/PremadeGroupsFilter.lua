@@ -210,8 +210,8 @@ PremadeGroupsFilterState = {
 		},
 		["sorting"] = "",
 	},
-	["expert"] = false,
 	["moveable"] = false,
+	["expert"] = false,
 	["t1c1f0"] = {
 		["enabled"] = false,
 		["tanks"] = {

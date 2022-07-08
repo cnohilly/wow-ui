@@ -22,9 +22,9 @@ W: 10
 H: 10
 Frame: ItemRefTooltip
 FrameLevel: 1
-Anchor: LEFT
-X: 28
-Y: -151
+Anchor: CENTER
+X: 103
+Y: 33
 W: 128
 H: 64
 Frame: ColorPickerFrame

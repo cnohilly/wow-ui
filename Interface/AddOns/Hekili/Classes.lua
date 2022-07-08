@@ -524,6 +524,7 @@ local HekiliSpecMixin = {
         } )
 
         a.key = ability
+        a.from = self.id
 
         if not data.id then
             if data.item then
@@ -1026,8 +1027,11 @@ function Hekili:NewSpecialization( specID, isRanged )
         return nil
     end
 
+    local token = getSpecializationKey( id )
+
     local spec = class.specs[ id ] or {
         id = id,
+        key = token,
         name = name,
         texture = texture,
         role = role,
@@ -1299,6 +1303,13 @@ all:RegisterAuras( {
         id = 10060,
         duration = 20,
         max_stack = 1
+    },
+
+    -- SL Season 3
+    decrypted_urh_cypher = {
+        id = 368239,
+        duration = 10,
+        max_stack = 1,
     },
 
     old_war = {

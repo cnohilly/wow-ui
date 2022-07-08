@@ -1,21 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
-		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
-		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
-		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
-		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
-		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
-		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -36,6 +20,22 @@ Postal3DB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+	},
 	["profiles"] = {
 		["Katdoge - Bleeding Hollow"] = {
 			["BlackBook"] = {
@@ -48,11 +48,11 @@ Postal3DB = {
 				},
 			},
 		},
-		["Pándan - Bleeding Hollow"] = {
+		["Nolieper - Bleeding Hollow"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Stryfë|Bleeding Hollow|Horde", -- [1]
-					"Holynoly|Bleeding Hollow|Horde", -- [2]
+					"Holynoly|Bleeding Hollow|Horde", -- [1]
+					"Trublmakr|Bleeding Hollow|Horde", -- [2]
 				},
 			},
 		},
@@ -63,12 +63,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Diá - Bleeding Hollow"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Unorthodorkk|Bleeding Hollow|Horde", -- [1]
-				},
-			},
+		["Dorkks - Wyrmrest Accord"] = {
 		},
 		["Emogin - Bleeding Hollow"] = {
 			["BlackBook"] = {
@@ -101,18 +96,18 @@ Postal3DB = {
 				},
 			},
 		},
-		["Blù - Bleeding Hollow"] = {
+		["Pándan - Bleeding Hollow"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"unorthodorkk|Bleeding Hollow|Horde", -- [1]
+					"Stryfë|Bleeding Hollow|Horde", -- [1]
+					"Holynoly|Bleeding Hollow|Horde", -- [2]
 				},
 			},
 		},
-		["Nolieper - Bleeding Hollow"] = {
+		["Diá - Bleeding Hollow"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Holynoly|Bleeding Hollow|Horde", -- [1]
-					"Trublmakr|Bleeding Hollow|Horde", -- [2]
+					"Unorthodorkk|Bleeding Hollow|Horde", -- [1]
 				},
 			},
 		},
@@ -132,13 +127,18 @@ Postal3DB = {
 				},
 			},
 		},
-		["Inolie - Bleeding Hollow"] = {
+		["Blù - Bleeding Hollow"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"unorthodorkk|Bleeding Hollow|Horde", -- [1]
+				},
+			},
 		},
 		["Happybirth - Tichondrius"] = {
 		},
 		["Emoclëw - Bleeding Hollow"] = {
 		},
-		["Dorkks - Wyrmrest Accord"] = {
+		["Inolie - Bleeding Hollow"] = {
 		},
 	},
 }

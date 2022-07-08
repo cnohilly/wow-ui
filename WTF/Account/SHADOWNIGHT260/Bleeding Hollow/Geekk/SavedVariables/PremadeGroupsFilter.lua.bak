@@ -126,7 +126,7 @@ PremadeGroupsFilterState = {
 		},
 		["sorting"] = "",
 	},
-	["expert"] = false,
+	["moveable"] = false,
 	["t1c3f1"] = {
 		["enabled"] = true,
 		["tanks"] = {
@@ -169,7 +169,7 @@ PremadeGroupsFilterState = {
 		},
 		["sorting"] = "",
 	},
-	["moveable"] = false,
+	["expert"] = false,
 	["t2c2f0"] = {
 		["enabled"] = true,
 		["tanks"] = {

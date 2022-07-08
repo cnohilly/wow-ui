@@ -1,161 +1,141 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"/elvui", -- [1]
-		" i've really kinda run out of names", -- [2]
-		" this was the best i could think of", -- [3]
-		" well i have, Dorkk, Jerkk, Quirkk, Freakk, Geekk, Trickk, Awkk, Unorthodorkk, Illidorkk", -- [4]
-		" and my other account has Sockk", -- [5]
-		" shaman is Geekk", -- [6]
-		" i was considering doing Magikk ", -- [7]
-		" but i think it should have been a real word spelled with a k", -- [8]
-		" and Kickk and Sickk idk", -- [9]
-		" i need it to be a little weird", -- [10]
-		" like all the other names kinda are", -- [11]
-		" lol", -- [12]
-	},
 	["ChatHistoryLog"] = {
 		{
-			"i've really kinda run out of names", -- [1]
-			"|Kq44|k", -- [2]
+			"WTS |cffa335ee|Hitem:190626::::::::60:577::6:7:7187:8132:8116:6652:7580:1524:6646:1:28:2167:::::|h[Caperuza de eternidades vacías]|h|r 278 ilvl. Have SLOT! Can upgrade to TIER. Cheaper than AH!", -- [1]
+			"Jswaifu-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Jswaifu-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1185, -- [11]
-			false, -- [12]
-			44, -- [13]
+			365, -- [11]
+			"Player-73-0E6FE86B", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624787,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cffa22fc8Jswaifu|r",
+			[51] = 1656119200,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [1]
 		{
-			"this was the best i could think of", -- [1]
-			"|Kq44|k", -- [2]
+			"WTS |cffffffff|Hitem:153635::::::::45:103:::::::::|h[Ultramarine Pigment]|h|r|cff1eff00|Hitem:153669::::::::45:103:::::::::|h[Viridescent Pigment]|h|r in bulk. You have 30 seconds to message me teehee", -- [1]
+			"Eightsix-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Eightsix-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1187, -- [11]
-			false, -- [12]
-			44, -- [13]
+			375, -- [11]
+			"Player-73-0BFEF3B2", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624797,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cfffe7b09Eightsix|r",
+			[51] = 1656119160,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"lickk", -- [1]
-			"|Kq44|k", -- [2]
+			"and when I say bulk i mean an entire gbank", -- [1]
+			"Eightsix-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Eightsix-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1191, -- [11]
-			false, -- [12]
-			44, -- [13]
+			389, -- [11]
+			"Player-73-0BFEF3B2", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624825,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cfffe7b09Eightsix|r",
+			[51] = 1656119171,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			"hmm", -- [1]
-			"|Kq44|k", -- [2]
+			"WTS|cffa335ee|Hitem:190334::::::::60:252::6:7:7187:6652:8033:8132:8138:1498:6646:1:28:2167:::::|h[Origin of the Fireflash]|h|r", -- [1]
+			"Ryse-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Ryse-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1192, -- [11]
-			false, -- [12]
-			44, -- [13]
+			399, -- [11]
+			"Player-73-0E6E1C83", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624826,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cffc31d39Ryse|r",
+			[51] = 1656119192,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"interesting", -- [1]
-			"|Kq44|k", -- [2]
+			"wts m+15 pst", -- [1]
+			"Bÿ-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Bÿ-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1193, -- [11]
-			false, -- [12]
-			44, -- [13]
+			430, -- [11]
+			"Player-73-0EAE2043", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624827,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cffa22fc8Bÿ|r",
+			[51] = 1656119222,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [5]
 		{
-			"well i have, Dorkk, Jerkk, Quirkk, Freakk, Geekk, Trickk, Awkk, Unorthodorkk, Illidorkk", -- [1]
-			"|Kq44|k", -- [2]
+			"Wts Aeonaxx Deepholm Ultra rare mount spawn Come and get your mount up right now", -- [1]
+			"Sllerd-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Sllerd-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1194, -- [11]
-			false, -- [12]
-			44, -- [13]
+			467, -- [11]
+			"Player-73-0E555071", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624855,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cffc31d39Sllerd|r",
+			[51] = 1656119335,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [6]
 		{
-			"and my other account has Sockk", -- [1]
-			"|Kq44|k", -- [2]
+			"welp time to play warlock before they nerf it tuesday", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -164,21 +144,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1195, -- [11]
+			564, -- [11]
 			false, -- [12]
-			44, -- [13]
+			61, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624860,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff8687edParty|r",
+			[51] = 1656121338,
+			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
 		}, -- [7]
 		{
-			"Shockk", -- [1]
-			"|Kq44|k", -- [2]
+			"gg", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -187,21 +167,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1196, -- [11]
+			565, -- [11]
 			false, -- [12]
-			44, -- [13]
+			61, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624870,
+			[52] = "|cff8687edParty|r",
+			[51] = 1656121338,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
 		}, -- [8]
 		{
-			"for a shaman", -- [1]
-			"|Kq44|k", -- [2]
+			"no nerfs", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -210,21 +190,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1197, -- [11]
+			567, -- [11]
 			false, -- [12]
-			44, -- [13]
+			61, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624872,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cff8687edParty|r",
+			[51] = 1656121556,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
 		}, -- [9]
 		{
-			":^)", -- [1]
-			"|Kq44|k", -- [2]
+			"only up from here", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -233,21 +213,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1198, -- [11]
+			568, -- [11]
 			false, -- [12]
-			44, -- [13]
+			61, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624873,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cff8687edParty|r",
+			[51] = 1656121559,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
 		}, -- [10]
 		{
-			"shaman is Geekk", -- [1]
-			"|Kq44|k", -- [2]
+			"nah destro is getting nerfed", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -256,136 +236,417 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1199, -- [11]
+			569, -- [11]
 			false, -- [12]
-			44, -- [13]
+			61, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624878,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff8687edParty|r",
+			[51] = 1656121822,
+			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
 		}, -- [11]
 		{
-			"Kickk", -- [1]
-			"|Kq44|k", -- [2]
+			"Guild run, tank queueing whisper to join", -- [1]
+			"Lagnerok-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Lagnerok-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1200, -- [11]
-			false, -- [12]
-			44, -- [13]
+			79, -- [11]
+			"Player-73-0EBC18D3", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624895,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cffc31d39Lagnerok|r",
+			[51] = 1656259187,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"i was considering doing Magikk ", -- [1]
-			"|Kq44|k", -- [2]
+			"of?", -- [1]
+			"Letsgetdrunk-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Letsgetdrunk-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1201, -- [11]
-			false, -- [12]
-			44, -- [13]
+			80, -- [11]
+			"Player-73-0CC153D0", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624896,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cff3ec6eaLetsgetdrunk|r",
+			[51] = 1656259142,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"Sickk]", -- [1]
-			"|Kq44|k", -- [2]
+			"Shift click him and you can see he's lvl 37. Prolly dungeon spam for leveling.", -- [1]
+			"Kaeg-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Kaeg-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1202, -- [11]
-			false, -- [12]
-			44, -- [13]
+			81, -- [11]
+			"Player-73-0BF8F9B0", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624896,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cfff38bb9Kaeg|r",
+			[51] = 1656259222,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [14]
 		{
-			"but i think it should have been a real word spelled with a k", -- [1]
-			"|Kq44|k", -- [2]
+			"Akkaris 97.99% ~(64.77, 33.58) |cffffff00|Hworldmap:1970:6477:3358|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Kaggadin-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Zereth Mortis", -- [4]
+			"Kaggadin-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
 			0, -- [10]
-			1203, -- [11]
-			false, -- [12]
-			44, -- [13]
+			103, -- [11]
+			"Player-73-0AE46493", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624908,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cfff38bb9Kaggadin|r",
+			[51] = 1656259440,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"and Kickk and Sickk idk", -- [1]
-			"|Kq44|k", -- [2]
+			"|cffffff00|Hworldmap:1970:5451:3479|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Gorrgonn-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Zereth Mortis", -- [4]
+			"Gorrgonn-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
 			0, -- [10]
-			1204, -- [11]
-			false, -- [12]
-			44, -- [13]
+			110, -- [11]
+			"Player-73-0444F0FC", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624925,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			true, -- [17]
+			[52] = "|cffa9d271Gorrgonn|r",
+			[51] = 1656259667,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"i need it to be a little weird", -- [1]
-			"|Kq44|k", -- [2]
+			"mother", -- [1]
+			"Gorrgonn-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Gorrgonn-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			113, -- [11]
+			"Player-73-0444F0FC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Gorrgonn|r",
+			[51] = 1656259674,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [17]
+		{
+			"Mother Phestis 100.00% ~(54.58, 34.01) |cffffff00|Hworldmap:1970:5457:3401|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Ayedriañ-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Ayedriañ-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			115, -- [11]
+			"Player-73-0BE1DAE3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Ayedriañ|r",
+			[51] = 1656259689,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [18]
+		{
+			"tahkitz is up", -- [1]
+			"Uglyguy-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Uglyguy-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			143, -- [11]
+			"Player-73-0E17C7D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Uglyguy|r",
+			[51] = 1656259865,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [19]
+		{
+			"|cffffff00|Hworldmap:1970:4991:3951|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Uglyguy-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Uglyguy-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			144, -- [11]
+			"Player-73-0E17C7D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Uglyguy|r",
+			[51] = 1656259932,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [20]
+		{
+			"Tahkwitz 53.88% ~(48.89, 42.11) |cffffff00|Hworldmap:1970:4889:4211|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Kaggadin-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Kaggadin-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			145, -- [11]
+			"Player-73-0AE46493", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kaggadin|r",
+			[51] = 1656260031,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [21]
+		{
+			"Gluttonous Overgrowth 99.10% ~(53.1, 93.17) |cffffff00|Hworldmap:1970:5310:9317|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Kaggadin-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Kaggadin-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			152, -- [11]
+			"Player-73-0AE46493", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kaggadin|r",
+			[51] = 1656260285,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [22]
+		{
+			"Furidian 98.06% ~(64.18, 58.68) |cffffff00|Hworldmap:1970:6418:5868|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Shöötsalöt-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Shöötsalöt-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			153, -- [11]
+			"Player-73-0E9A3442", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Shöötsalöt|r",
+			[51] = 1656260456,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [23]
+		{
+			"when do i get flying here?", -- [1]
+			"Kronicdeath-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Kronicdeath-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			154, -- [11]
+			"Player-73-064D34CB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kronicdeath|r",
+			[51] = 1656260591,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [24]
+		{
+			"never, all the rares will be dead before you can get to them and you'll never complete the achievement", -- [1]
+			"Hustlin-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Hustlin-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			155, -- [11]
+			"Player-73-0C14EBDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edHustlin|r",
+			[51] = 1656260609,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [25]
+		{
+			"www.wowhead.comn", -- [1]
+			"Kaggadin-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Kaggadin-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			156, -- [11]
+			"Player-73-0AE46493", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kaggadin|r",
+			[51] = 1656260609,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [26]
+		{
+			"oop", -- [1]
+			"Kaggadin-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Kaggadin-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			157, -- [11]
+			"Player-73-0AE46493", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kaggadin|r",
+			[51] = 1656260615,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [27]
+		{
+			"<RTC> Garudeon (100%) seen at |cffffff00|Hworldmap:1970:6906:3663|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Siionnach-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Siionnach-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			159, -- [11]
+			"Player-73-0C71E70E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Siionnach|r",
+			[51] = 1656260658,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [28]
+		{
+			"complete |cffffff00|Hachievement:15514:Player-73-0E9A3442:1:3:15:22:4294967295:4294967295:4294967295:4294967295|h[Unlocking the Secrets]|h|r", -- [1]
+			"Shöötsalöt-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Shöötsalöt-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			160, -- [11]
+			"Player-73-0E9A3442", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Shöötsalöt|r",
+			[51] = 1656260660,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [29]
+		{
+			"is DoS wep good for BM", -- [1]
+			"|Kq11|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -394,21 +655,476 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1205, -- [11]
+			236, -- [11]
 			false, -- [12]
-			44, -- [13]
+			60, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624930,
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656447957,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [30]
+		{
+			"or do you even play BM", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			237, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656447901,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [31]
+		{
+			"pretty good", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			238, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656447928,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
-		}, -- [17]
+		}, -- [32]
 		{
-			"like all the other names kinda are", -- [1]
-			"|Kq44|k", -- [2]
+			"not great tho", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			239, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656447938,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [33]
+		{
+			"Pog I got 278 from vault", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			240, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656447940,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [34]
+		{
+			"bm wants crit", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			241, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656447942,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [35]
+		{
+			"but does not want mast", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656447946,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [36]
+		{
+			"ye i read that", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			244, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656448026,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [37]
+		{
+			"but hey 278 wep", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			245, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656448028,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [38]
+		{
+			"pog", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			246, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656448028,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [39]
+		{
+			"i can play MM / BM now", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			247, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656448035,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [40]
+		{
+			"ye grats", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			248, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656448036,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [41]
+		{
+			"its bis mm weapom", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656448044,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Party",
+		}, -- [42]
+		{
+			"ye its nice", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			256, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656449585,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [43]
+		{
+			"also got 278 pox on my monk", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			257, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656449590,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [44]
+		{
+			"was a good vault day", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			258, -- [11]
+			false, -- [12]
+			60, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Party|r",
+			[51] = 1656449594,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Party",
+		}, -- [45]
+		{
+			"yeah i did", -- [1]
+			"Murmaidmurdr-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Murmaidmurdr-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-73-0EBF35FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Murmaidmurdr|r",
+			[51] = 1656620220,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"isnt it so hot", -- [1]
+			"Datvoodoomon-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Datvoodoomon-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-73-0E7CDDD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcDatvoodoomon|r",
+			[51] = 1656620227,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-115039-73-90881548|h[Guild: Evicted]|h|r is recruiting for SFO Mythic prog! 11/11H 1/11 M. We raid Tuesday/Thursday 8:30-11:00 server. We actively push and sell M+ keys! ", -- [1]
+			"Simpdemon-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Simpdemon-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1115, -- [11]
+			"Player-73-0AF2480A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Simpdemon|r",
+			[51] = 1657153512,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"wts |cff0070dd|Hbattlepet:277:1:3:158:10:12:0000000000000000:36211|h[Clockwork Gnome]|h|r |cff0070dd|Hbattlepet:1328:25:3:1481:276:276:0000000000000000:51271|h[Ruby Droplet]|h|r pst offer cheaper than ah", -- [1]
+			"Ewwtred-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ewwtred-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1156, -- [11]
+			"Player-73-0EBF7394", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cEwwtred|r",
+			[51] = 1657153677,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"|cffa335ee|Hitem:178783::::::::60:257::23:5:7773:7359:6652:1550:6646::::::|h[Siphoning Phylactery Shard]|h|r", -- [1]
+			"Kyá-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kyá-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1163, -- [11]
+			"Player-3676-0DDCDB07", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeKyá-Area52|r",
+			[51] = 1657153628,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [50]
+		{
+			"garrisons will kick you out if i log off but ill just leave nolies thing open", -- [1]
+			"|Kq33|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -419,107 +1135,1094 @@ ElvCharacterDB = {
 			0, -- [10]
 			1206, -- [11]
 			false, -- [12]
-			44, -- [13]
+			61, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624936,
+			[52] = "|cff3ec6eaParty|r",
+			[51] = 1657153874,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
-		}, -- [18]
+		}, -- [51]
 		{
-			"well", -- [1]
-			"|Kq44|k", -- [2]
+			"fr also sounds like his main is on ragnaros or quel'thalas", -- [1]
+			"Shaddux-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shaddux-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1337, -- [11]
+			"Player-73-0E7779AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcShaddux|r",
+			[51] = 1657154127,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [52]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-180524-3676-79102211|h[Guild: Trash Bandits]|h|r is an AOTC prog guild. (1/11 M). We raid/M+/PvP. Raid is (Tues and Thurs 830-1130 server). Getting ready for season 4! Apply or send a PM. ", -- [1]
+			"ßahåmut-Area52", -- [2]
+			"", -- [3]
+			"1. General - Oribos", -- [4]
+			"ßahåmut-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
+			0, -- [10]
+			1371, -- [11]
+			"Player-3676-0DCF9576", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edßahåmut-Area52|r",
+			[51] = 1657154452,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [53]
+		{
+			"hi", -- [1]
+			"Irtweaver-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Irtweaver-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1207, -- [11]
-			false, -- [12]
-			44, -- [13]
+			1425, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624939,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
-		}, -- [19]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657154562,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [54]
 		{
-			"Lickk gets you there", -- [1]
-			"|Kq44|k", -- [2]
+			"3 minutes ang im ready", -- [1]
+			"Sillestra-Dalaran", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sillestra-Dalaran", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1208, -- [11]
-			false, -- [12]
-			44, -- [13]
+			1430, -- [11]
+			"Player-3683-0D21553C", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624943,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
-		}, -- [20]
+			[52] = "|cffa22fc8Sillestra-Dalaran|r",
+			[51] = 1657154577,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [55]
 		{
-			":^)", -- [1]
-			"|Kq44|k", -- [2]
+			"r monk?", -- [1]
+			"Kyá-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kyá-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1209, -- [11]
-			false, -- [12]
-			44, -- [13]
+			1445, -- [11]
+			"Player-3676-0DDCDB07", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624944,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
-		}, -- [21]
+			[52] = "|cfffefefeKyá-Area52|r",
+			[51] = 1657154716,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [56]
+		{
+			"ye", -- [1]
+			"Irtweaver-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Irtweaver-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1446, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657154719,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [57]
+		{
+			"Interrupted Drust Harvester's |cff71d5ff|Hspell:322767:0|h[Spirit Bolt]|h|r!", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1448, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657154773,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [58]
+		{
+			"the luck", -- [1]
+			"Irtweaver-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Irtweaver-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1451, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657154912,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [59]
 		{
 			"lol", -- [1]
-			"|Kq44|k", -- [2]
+			"Irtweaver-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Irtweaver-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1210, -- [11]
-			false, -- [12]
-			44, -- [13]
+			1452, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Party|r",
-			[51] = 1550624947,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
-		}, -- [22]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657154912,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"Interrupted Ingra Maloch's |cff71d5ff|Hspell:323057:0|h[Spirit Bolt]|h|r!", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1463, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155042,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [61]
+		{
+			"Interrupted Mistveil Shaper's |cff71d5ff|Hspell:324776:0|h[Bramblethorn Coat]|h|r!", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1474, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155087,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [62]
+		{
+			"Interrupted Mistveil Tender's |cff71d5ff|Hspell:324914:0|h[Nourish the Forest]|h|r!", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1483, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155390,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [63]
+		{
+			"Freeze Tag Fixation on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1500, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155576,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"Freeze Tag Fixation on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1512, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155647,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"Volatile Acid on Kyá", -- [1]
+			"Kyá-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kyá-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1520, -- [11]
+			"Player-3676-0DDCDB07", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeKyá-Area52|r",
+			[51] = 1657155632,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [66]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1521, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155697,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1522, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155700,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1523, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155713,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1524, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155716,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [70]
+		{
+			"Volatile Acid on Huntbumper", -- [1]
+			"Huntbumper-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Huntbumper-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1527, -- [11]
+			"Player-3683-0D1D0E6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Huntbumper-Dalaran|r",
+			[51] = 1657155778,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:340544:0|h[Stimulate Regeneration]|h|r!", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1528, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155720,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [72]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1529, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155731,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1530, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155733,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1531, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155817,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1532, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155819,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"Volatile Acid on Irtweaver", -- [1]
+			"Irtweaver-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Irtweaver-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1533, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657155822,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1534, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155831,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [78]
+		{
+			"Volatile Acid on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1535, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155834,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [79]
+		{
+			"Volatile Acid on Huntbumper", -- [1]
+			"Huntbumper-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Huntbumper-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1536, -- [11]
+			"Player-3683-0D1D0E6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Huntbumper-Dalaran|r",
+			[51] = 1657155836,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [80]
+		{
+			"Mind Link on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1541, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155882,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [81]
+		{
+			"Mind Link on Kyá", -- [1]
+			"Kyá-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kyá-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1549, -- [11]
+			"Player-3676-0DDCDB07", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeKyá-Area52|r",
+			[51] = 1657155899,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"Mind Link on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1550, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155899,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [83]
+		{
+			"Mind Link on Sillestra", -- [1]
+			"Sillestra-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sillestra-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1554, -- [11]
+			"Player-3683-0D21553C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Sillestra-Dalaran|r",
+			[51] = 1657155899,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [84]
+		{
+			"Mind Link on Irtweaver", -- [1]
+			"Irtweaver-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Irtweaver-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1555, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657155899,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [85]
+		{
+			"mb", -- [1]
+			"Irtweaver-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Irtweaver-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1557, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657155854,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
+		{
+			"Infester", -- [1]
+			"Huntbumper-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Huntbumper-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1558, -- [11]
+			"Player-3683-0D1D0E6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Huntbumper-Dalaran|r",
+			[51] = 1657155857,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [87]
+		{
+			"Infester", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1563, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155949,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [88]
+		{
+			"Parasitic Domination on Lickk", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1564, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155951,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [89]
+		{
+			"Mind Link on Sillestra", -- [1]
+			"Sillestra-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sillestra-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1569, -- [11]
+			"Player-3683-0D21553C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Sillestra-Dalaran|r",
+			[51] = 1657155904,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [90]
+		{
+			"Mind Link on Irtweaver", -- [1]
+			"Irtweaver-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Irtweaver-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1570, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657155904,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [91]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:382:7:9:8:124:0|h[Keystone: Theater of Pain (7)]|h|r (Kyrian)", -- [1]
+			"Kyá-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kyá-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1588, -- [11]
+			"Player-3676-0DDCDB07", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeKyá-Area52|r",
+			[51] = 1657156002,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [92]
+		{
+			"gg", -- [1]
+			"Irtweaver-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Irtweaver-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1599, -- [11]
+			"Player-3676-09C7544F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Irtweaver-Area52|r",
+			[51] = 1657156008,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [93]
+		{
+			"gg", -- [1]
+			"Lickk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lickk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1610, -- [11]
+			"Player-73-0EBE0978", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaLickk|r",
+			[51] = 1657155969,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [94]
+		{
+			"Wassup. <KITTY DEMON>'s a new guild lf commited tanks, healers, & dps wanting to progress for AOTC/KSM every tier/season and prepare for DragonFlight! PvE, PvP, & social. Free repairs too! Pst if interested. :)", -- [1]
+			"Starffox-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Starffox-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1618, -- [11]
+			"Player-73-0E93E7CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Starffox|r",
+			[51] = 1657156034,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [95]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-115039-73-90881548|h[Guild: Evicted]|h|r is recruiting for SFO Mythic prog! 11/11H 1/11 M. We raid Tuesday/Thursday 8:30-11:00 server. We actively push and sell M+ keys! ", -- [1]
+			"Simpdemon-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Simpdemon-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1629, -- [11]
+			"Player-73-0AF2480A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Simpdemon|r",
+			[51] = 1657156138,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTS 2v2 boosts up to 2100 for gold pst", -- [1]
+			"Kraftyx-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kraftyx-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1656, -- [11]
+			"Player-73-0E9F2139", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cKraftyx|r",
+			[51] = 1657156239,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"check calendar look at july 22nd", -- [1]
+			"Evilsushi-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Evilsushi-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1666, -- [11]
+			"Player-73-0837FB29", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Evilsushi|r",
+			[51] = 1657156317,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"|cffffff00|Hworldmap:1970:4423:7488|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Torpedovegas-BleedingHollow", -- [2]
+			"", -- [3]
+			"1. General - Zereth Mortis", -- [4]
+			"Torpedovegas-BleedingHollow", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Zereth Mortis", -- [9]
+			0, -- [10]
+			1679, -- [11]
+			"Player-73-0E9FDBFB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cTorpedovegas|r",
+			[51] = 1657156485,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
 	},
+	["ChatEditHistory"] = {
+		"we're mage boys now", -- [1]
+		"just like that time we were warlock mains", -- [2]
+		"but the reality is that i had my level 60 boost for DF", -- [3]
+		"and i have every single class at or above leve 45 already on this realm", -- [4]
+		"except mage", -- [5]
+		"and have 3 druids", -- [6]
+		"so it was time for a mage", -- [7]
+		"my mages were both either alliance on this server or on my second, inactive account", -- [8]
+		"do it", -- [9]
+		"if you apply as a warlock theres a chance", -- [10]
+		"/kb", -- [11]
+		"no nerfs", -- [12]
+		"only up from here", -- [13]
+		"pretty good", -- [14]
+		"not great tho", -- [15]
+		"bm wants crit", -- [16]
+		"but does not want mast", -- [17]
+		"ye grats", -- [18]
+		"its bis mm weapom", -- [19]
+		"/p gg", -- [20]
+	},
+	["ConvertKeybindings"] = true,
 }

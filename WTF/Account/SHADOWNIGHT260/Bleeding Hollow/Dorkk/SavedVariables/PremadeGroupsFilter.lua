@@ -315,7 +315,7 @@ PremadeGroupsFilterState = {
 		["noilvl"] = {
 			["act"] = false,
 		},
-		["expression"] = "partyfit",
+		["expression"] = "partyfit and (strt)",
 		["difficulty"] = {
 			["act"] = true,
 			["val"] = 4,

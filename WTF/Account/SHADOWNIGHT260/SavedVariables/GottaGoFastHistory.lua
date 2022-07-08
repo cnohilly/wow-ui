@@ -4,14 +4,15 @@ GottaGoFastHistoryDB = {
 		["Quirkk - Bleeding Hollow"] = "Default",
 		["Freakk - Bleeding Hollow"] = "Default",
 		["Moodroo - Bleeding Hollow"] = "Default",
+		["Albiorix - Emerald Dream"] = "Default",
 		["Engidorkk - Tichondrius"] = "Default",
 		["Awkk - Bleeding Hollow"] = "Default",
 		["Voodroosaur - Bleeding Hollow"] = "Default",
-		["Albiorix - Emerald Dream"] = "Default",
-		["Wardorkk - Bleeding Hollow"] = "Default",
 		["Voodroo - Bleeding Hollow"] = "Default",
-		["Smíte - The Forgotten Coast"] = "Default",
+		["Wardorkk - Bleeding Hollow"] = "Default",
 		["Scongi - Kil'jaeden"] = "Default",
+		["Smíte - The Forgotten Coast"] = "Default",
+		["Lickk - Bleeding Hollow"] = "Default",
 		["Dorkkore - Tichondrius"] = "Default",
 		["Dorkk - Bleeding Hollow"] = "Default",
 		["Trickk - Bleeding Hollow"] = "Default",
@@ -799,6 +800,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 13,
 							["affixes"] = {
+								[12] = {
+									["name"] = "Grievous",
+									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
+								},
 								[9] = {
 									["name"] = "Tyrannical",
 									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
@@ -806,10 +811,6 @@ GottaGoFastHistoryDB = {
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
-								},
-								[12] = {
-									["name"] = "Grievous",
-									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
 								},
 							},
 							["active"] = false,
@@ -862,6 +863,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 1,
 							["affixes"] = {
+								[12] = {
+									["name"] = "Grievous",
+									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
+								},
 								[9] = {
 									["name"] = "Tyrannical",
 									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
@@ -869,10 +874,6 @@ GottaGoFastHistoryDB = {
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
-								},
-								[12] = {
-									["name"] = "Grievous",
-									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
 								},
 							},
 							["active"] = false,
@@ -1889,6 +1890,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 3,
 							["affixes"] = {
+								[9] = {
+									["name"] = "Tyrannical",
+									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
+								},
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
@@ -1896,10 +1901,6 @@ GottaGoFastHistoryDB = {
 								[12] = {
 									["name"] = "Grievous",
 									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
-								},
-								[9] = {
-									["name"] = "Tyrannical",
-									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
 								},
 							},
 							["active"] = false,
@@ -2318,6 +2319,18 @@ GottaGoFastHistoryDB = {
 							},
 							["level"] = 8,
 						}, -- [27]
+					},
+				},
+				[2290] = {
+					["objectives"] = {
+						"Ingra Maloch", -- [1]
+						"Mistcaller", -- [2]
+						"Tred'ova", -- [3]
+						"Enemy Forces", -- [4]
+					},
+					["zoneID"] = 2290,
+					["name"] = "Mists of Tirna Scithe",
+					["runs"] = {
 					},
 				},
 				[1753] = {
@@ -6686,6 +6699,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 7,
 							["affixes"] = {
+								[12] = {
+									["name"] = "Grievous",
+									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
+								},
 								[9] = {
 									["name"] = "Tyrannical",
 									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
@@ -6693,10 +6710,6 @@ GottaGoFastHistoryDB = {
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
-								},
-								[12] = {
-									["name"] = "Grievous",
-									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
 								},
 							},
 							["active"] = false,
@@ -6748,6 +6761,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 16,
 							["affixes"] = {
+								[12] = {
+									["name"] = "Grievous",
+									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
+								},
 								[9] = {
 									["name"] = "Tyrannical",
 									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
@@ -6755,10 +6772,6 @@ GottaGoFastHistoryDB = {
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
-								},
-								[12] = {
-									["name"] = "Grievous",
-									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
 								},
 							},
 							["active"] = false,
@@ -8176,6 +8189,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 11,
 							["affixes"] = {
+								[9] = {
+									["name"] = "Tyrannical",
+									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
+								},
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
@@ -8183,10 +8200,6 @@ GottaGoFastHistoryDB = {
 								[12] = {
 									["name"] = "Grievous",
 									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
-								},
-								[9] = {
-									["name"] = "Tyrannical",
-									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
 								},
 							},
 							["active"] = false,
@@ -12178,6 +12191,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 23,
 							["affixes"] = {
+								[9] = {
+									["name"] = "Tyrannical",
+									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
+								},
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
@@ -12185,10 +12202,6 @@ GottaGoFastHistoryDB = {
 								[12] = {
 									["name"] = "Grievous",
 									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
-								},
-								[9] = {
-									["name"] = "Tyrannical",
-									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
 								},
 							},
 							["active"] = false,
@@ -13378,6 +13391,10 @@ GottaGoFastHistoryDB = {
 							["corrupt"] = false,
 							["deaths"] = 2,
 							["affixes"] = {
+								[9] = {
+									["name"] = "Tyrannical",
+									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
+								},
 								[7] = {
 									["name"] = "Bolstering",
 									["desc"] = "When any non-boss enemy dies, its death cry empowers nearby allies, increasing their maximum health and damage by 20%.",
@@ -13385,10 +13402,6 @@ GottaGoFastHistoryDB = {
 								[12] = {
 									["name"] = "Grievous",
 									["desc"] = "When injured below 90% health, players will suffer increasing damage over time until healed above 90% health.",
-								},
-								[9] = {
-									["name"] = "Tyrannical",
-									["desc"] = "Boss enemies have 40% more health and inflict up to 15% increased damage.",
 								},
 							},
 							["active"] = false,

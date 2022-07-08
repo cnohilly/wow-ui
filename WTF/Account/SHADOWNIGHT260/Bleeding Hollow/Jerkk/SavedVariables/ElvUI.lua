@@ -1,30 +1,8 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"/p nice", -- [1]
-		"/p ty for key", -- [2]
-		"/p kill wo", -- [3]
-		"/p after first boss kill wo", -- [4]
-		"/wa", -- [5]
-		"/p yeah its hard for me to position it well for you", -- [6]
-		"/p especially with all the weapons", -- [7]
-		"/cw Sprootzz-BleedingHollow this my last one D:", -- [8]
-		"/mdt", -- [9]
-		"/cw Shamootz-BleedingHollow this my last one D: got shit i gotta do", -- [10]
-		"/p gg", -- [11]
-		"havent opened yet", -- [12]
-		"but i did realize i did the 4 mythic dungeons for the quest last week and didnt hand it in", -- [13]
-		"rip", -- [14]
-		"jfc", -- [15]
-		"|cffa335ee|Hitem:185836::::::::60:66::35:5:7786:7359:6652:1595:6646::::::|h[Codex of the First Technique]|h|r i already have this", -- [16]
-		"and its apparently not even good for pally", -- [17]
-		"trolling me", -- [18]
-		"|cffa335ee|Hitem:178933::::::::60:66::35:6:7800:7359:6652:7578:1592:6646::::::|h[Arachnid Cipher Ring]|h|r is decent i guess. haste best stat, crit best dps stat i think", -- [19]
-		"eh. i would on nolies hunter but really dont feel like it", -- [20]
-	},
 	["ChatHistoryLog"] = {
 		{
-			"yeah its hard for me to position it well for you ", -- [1]
+			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -34,7 +12,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2212, -- [11]
+			1156, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -42,11 +20,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651532387,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249674,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"especially with all the weapons", -- [1]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -56,7 +34,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2213, -- [11]
+			1157, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -64,11 +42,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651532391,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249676,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [2]
 		{
-			"Interrupted Support Officer's |cff71d5ff|Hspell:355934:0|h[Hard Light Barrier]|h|r!", -- [1]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -78,7 +56,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2214, -- [11]
+			1158, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -86,33 +64,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651532392,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249621,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [3]
 		{
-			"Interrupted Ancient Core Hound's |cff71d5ff|Hspell:356407:0|h[Ancient Dread]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"2", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2222, -- [11]
-			"Player-73-083743C5", -- [12]
+			1161, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651528864,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657249630,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Interrupted Ancient Core Hound's |cff71d5ff|Hspell:356404:0|h[Lava Breath]|h|r!", -- [1]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -122,7 +100,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2223, -- [11]
+			1162, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -130,11 +108,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651528866,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249707,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [5]
 		{
-			"Interrupted Ancient Core Hound's |cff71d5ff|Hspell:356404:0|h[Lava Breath]|h|r!", -- [1]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -144,7 +122,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2224, -- [11]
+			1163, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -152,11 +130,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651532481,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249702,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [6]
 		{
-			"Interrupted Ancient Core Hound's |cff71d5ff|Hspell:356404:0|h[Lava Breath]|h|r!", -- [1]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -166,7 +144,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2225, -- [11]
+			1164, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -174,143 +152,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651532484,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249766,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [7]
 		{
-			"Gluttony on Ikill", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2236, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1165, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532636,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249775,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [8]
 		{
-			"inv me after", -- [1]
-			"Sprootzz-BleedingHollow", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sprootzz-BleedingHollow", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2237, -- [11]
-			"Player-73-0EA3FBB1", -- [12]
+			1166, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Sprootzz|r",
-			[51] = 1651532643,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249781,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [9]
 		{
-			"[BigWigs] I'm busy in combat with 'The Grand Menagerie' (Mythic Keystone) and 5/5 people are alive: Alcruux (54.6%)", -- [1]
-			"Sprootzz-BleedingHollow", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sprootzz-BleedingHollow", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2238, -- [11]
-			"Player-73-0EA3FBB1", -- [12]
+			1167, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Sprootzz|r",
-			[51] = 1651532644,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249797,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [10]
 		{
-			"3", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"that was a sick binding shot", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2242, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1168, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532655,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249836,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [11]
 		{
-			"2", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2243, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1170, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532656,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249802,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [12]
 		{
-			"1", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2244, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1171, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532657,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249812,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [13]
 		{
-			"Interrupted Achillite's |cff71d5ff|Hspell:349934:0|h[Flagellation Protocol]|h|r!", -- [1]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -320,7 +298,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2255, -- [11]
+			1172, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -328,55 +306,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651532693,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249820,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [14]
 		{
-			"Gluttony on Beefjoke", -- [1]
-			"Beefjoke-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Beefjoke-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2258, -- [11]
-			"Player-3684-0D842B64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Beefjoke-Mal'Ganis|r",
-			[51] = 1651532700,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"3", -- [1]
-			"Beefjoke-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Beefjoke-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2261, -- [11]
-			"Player-3684-0D842B64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Beefjoke-Mal'Ganis|r",
-			[51] = 1651532718,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Interrupted Achillite's |cff71d5ff|Hspell:349934:0|h[Flagellation Protocol]|h|r!", -- [1]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -386,7 +320,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2262, -- [11]
+			1173, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -394,605 +328,649 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651532719,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657249887,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [15]
+		{
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jerkk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1174, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249892,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [16]
+		{
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jerkk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1175, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249912,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [17]
 		{
-			"2", -- [1]
-			"Beefjoke-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Beefjoke-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2263, -- [11]
-			"Player-3684-0D842B64", -- [12]
+			0, -- [10]
+			1176, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Beefjoke-Mal'Ganis|r",
-			[51] = 1651532719,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249917,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [18]
 		{
-			"1", -- [1]
-			"Beefjoke-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Beefjoke-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2265, -- [11]
-			"Player-3684-0D842B64", -- [12]
+			0, -- [10]
+			1177, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Beefjoke-Mal'Ganis|r",
-			[51] = 1651532720,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657249861,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [19]
 		{
-			"Chains of Damnation on Beefjoke", -- [1]
-			"Beefjoke-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"wo", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Beefjoke-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2275, -- [11]
-			"Player-3684-0D842B64", -- [12]
+			0, -- [10]
+			1181, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Beefjoke-Mal'Ganis|r",
-			[51] = 1651532749,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250148,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [20]
 		{
-			"Gluttony on Ikill", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2282, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1182, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532764,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250103,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [21]
 		{
-			"3", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Wo Drifter's |cff71d5ff|Hspell:366566:0|h[Burst]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2287, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1184, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532782,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250107,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [22]
 		{
-			"2", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2288, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1185, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532783,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250114,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [23]
 		{
-			"1", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2289, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1186, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532784,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250121,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [24]
 		{
-			"Chains of Damnation on Ikill", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2299, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			0, -- [10]
+			1187, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651532833,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250186,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [25]
 		{
-			"|cffa335ee|Hkeystone:180653:376:16:9:11:3:130|h[Keystone: The Necrotic Wake (16)]|h|r", -- [1]
-			"Shamootz-BleedingHollow", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shamootz-BleedingHollow", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2304, -- [11]
-			"Player-73-0EAF6038", -- [12]
+			1188, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamootz|r",
-			[51] = 1651532894,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250190,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [26]
 		{
-			"free", -- [1]
-			"Shamootz-BleedingHollow", -- [2]
+			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shamootz-BleedingHollow", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2305, -- [11]
-			"Player-73-0EAF6038", -- [12]
+			1193, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamootz|r",
-			[51] = 1651532895,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250171,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [27]
 		{
-			"this my last one D: got shit i gotta do", -- [1]
-			"Shamootz-BleedingHollow", -- [2]
+			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shamootz-BleedingHollow", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2314, -- [11]
-			"Player-73-0EAF6038", -- [12]
+			1195, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamootz|r",
-			[51] = 1651533060,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250176,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [28]
 		{
-			"WAAA", -- [1]
-			"Shamootz-BleedingHollow", -- [2]
+			"Leap on Misload", -- [1]
+			"Misload-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shamootz-BleedingHollow", -- [5]
+			"Misload-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2315, -- [11]
-			"Player-73-0EAF6038", -- [12]
+			1197, -- [11]
+			"Player-57-0D02AA48", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamootz|r",
-			[51] = 1651533065,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffa9d271Misload-Illidan|r",
+			[51] = 1657250177,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"Money Order on Drblythe", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"3", -- [1]
+			"Misload-Illidan", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
+			"Misload-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2320, -- [11]
-			"Player-3684-0DD30B36", -- [12]
+			0, -- [10]
+			1198, -- [11]
+			"Player-57-0D02AA48", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533108,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffa9d271Misload-Illidan|r",
+			[51] = 1657250179,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"3", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"2", -- [1]
+			"Misload-Illidan", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
+			"Misload-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2321, -- [11]
-			"Player-3684-0DD30B36", -- [12]
+			0, -- [10]
+			1199, -- [11]
+			"Player-57-0D02AA48", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533112,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffa9d271Misload-Illidan|r",
+			[51] = 1657250180,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"2", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"1", -- [1]
+			"Misload-Illidan", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
+			"Misload-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2322, -- [11]
-			"Player-3684-0DD30B36", -- [12]
+			0, -- [10]
+			1200, -- [11]
+			"Player-57-0D02AA48", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533113,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffa9d271Misload-Illidan|r",
+			[51] = 1657250181,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"1", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2323, -- [11]
-			"Player-3684-0DD30B36", -- [12]
+			0, -- [10]
+			1203, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533114,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250245,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [33]
 		{
-			"Money Order on Yungthugger", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Stone Shattering Leap on Jerkk", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2332, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1208, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533159,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250269,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
 			"3", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2333, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1209, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533163,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250271,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
 			"2", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2334, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1210, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533164,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250272,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
 			"1", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2335, -- [11]
-			"Player-3684-0DD16C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533165,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [37]
-		{
-			"UH", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2341, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			1211, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651533198,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250273,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [37]
+		{
+			"Stone Shattering Leap on Sorgeth", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1217, -- [11]
+			"Player-73-0B33C45A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250237,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
 			"3", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Sorgeth-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2345, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1218, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533214,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250239,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
 			"2", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Sorgeth-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2346, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1219, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533215,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250240,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
 			"1", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Sorgeth-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2347, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1220, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533216,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250241,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"I had no bomb icon", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
+			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2353, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			1226, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651533239,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250328,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [42]
 		{
-			"to throw it ", -- [1]
-			"Ikill-Mal'Ganis", -- [2]
+			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ikill-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2354, -- [11]
-			"Player-3684-0DCEF6C5", -- [12]
+			1227, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Ikill-Mal'Ganis|r",
-			[51] = 1651533242,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250328,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [43]
 		{
-			"close", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
+			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2356, -- [11]
-			"Player-3684-0DD30B36", -- [12]
+			1228, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533243,
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250328,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [44]
 		{
-			"Carry tradeable goods to: Xy'mal!", -- [1]
+			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1002,7 +980,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2367, -- [11]
+			1231, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1010,11 +988,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533275,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250330,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [45]
 		{
-			"Carry tradeable goods to: Xy'ghana!", -- [1]
+			"Stone Shattering Leap on Jerkk", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1024,7 +1002,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2371, -- [11]
+			1232, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1032,11 +1010,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533290,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250331,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"Carry tradeable goods to: Xy'kitaab!", -- [1]
+			"3", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1046,7 +1024,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2373, -- [11]
+			1233, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1054,33 +1032,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533302,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250332,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"Vortex down", -- [1]
-			"Beefjoke-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"2", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Beefjoke-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2377, -- [11]
-			"Player-3684-0D842B64", -- [12]
+			0, -- [10]
+			1234, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Beefjoke-Mal'Ganis|r",
-			[51] = 1651533317,
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250334,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"Interrupted Oasis Security's |cff71d5ff|Hspell:350922:0|h[Menacing Shout]|h|r!", -- [1]
+			"1", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1090,7 +1068,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2388, -- [11]
+			1235, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1098,11 +1076,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533396,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250335,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"Interrupted Disruptive Patron's |cff71d5ff|Hspell:353836:0|h[Hyperlight Bolt]|h|r!", -- [1]
+			"[WA RM+]: We still need 6.96 %", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1112,7 +1090,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2390, -- [11]
+			1242, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1120,11 +1098,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533405,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250362,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [50]
 		{
-			"Interrupted Disruptive Patron's |cff71d5ff|Hspell:353836:0|h[Hyperlight Bolt]|h|r!", -- [1]
+			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1134,7 +1112,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2396, -- [11]
+			1243, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1142,99 +1120,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533442,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250453,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [51]
 		{
-			"Interrupted Disruptive Patron's |cff71d5ff|Hspell:353836:0|h[Hyperlight Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Curse of Obliteration on Sorgeth", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2398, -- [11]
-			"Player-73-083743C5", -- [12]
+			1244, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533446,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250454,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Interrupted Oasis Security's |cff71d5ff|Hspell:350922:0|h[Menacing Shout]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"3", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2400, -- [11]
-			"Player-73-083743C5", -- [12]
+			1245, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533470,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250457,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"Interrupted Disruptive Patron's |cff71d5ff|Hspell:353836:0|h[Hyperlight Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"2", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2401, -- [11]
-			"Player-73-083743C5", -- [12]
+			1246, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533477,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250458,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Interrupted Zo'gron's |cff71d5ff|Hspell:350922:0|h[Menacing Shout]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"1", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2409, -- [11]
-			"Player-73-083743C5", -- [12]
+			1250, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533535,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250459,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Interrupted Zo'gron's |cff71d5ff|Hspell:350922:0|h[Menacing Shout]|h|r!", -- [1]
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323538:0|h[Bolt of Power]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1244,7 +1222,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2414, -- [11]
+			1254, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1252,11 +1230,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533580,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250545,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [56]
 		{
-			"Interrupted So'azmi's |cff71d5ff|Hspell:357188:0|h[Double Technique]|h|r!", -- [1]
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1266,7 +1244,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2434, -- [11]
+			1256, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1274,11 +1252,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533762,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250552,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [57]
 		{
-			"Interrupted So'azmi's |cff71d5ff|Hspell:357188:0|h[Double Technique]|h|r!", -- [1]
+			"Haunting Fixation on Hebiursa", -- [1]
+			"Hebiursa-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hebiursa-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1259, -- [11]
+			"Player-57-0D417AA7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Hebiursa-Illidan|r",
+			[51] = 1657250569,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [58]
+		{
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323538:0|h[Bolt of Power]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1288,7 +1288,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2435, -- [11]
+			1260, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1296,77 +1296,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533764,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
-		{
-			"New Keystone: |cffa335ee|Hkeystone:180653:379:17:9:11:3:130|h[Keystone: Plaguefall (17)]|h|r", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2441, -- [11]
-			"Player-3684-0DD30B36", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533797,
+			[51] = 1657250570,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [59]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:379:17:9:11:3:130|h[Keystone: Plaguefall (17)]|h|r (Night Fae)", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2444, -- [11]
-			"Player-3684-0DD30B36", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533799,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
-		{
-			"gg", -- [1]
-			"Beefjoke-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Beefjoke-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2455, -- [11]
-			"Player-3684-0D842B64", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Beefjoke-Mal'Ganis|r",
-			[51] = 1651533806,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
-		{
-			"gg", -- [1]
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1376,7 +1310,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2463, -- [11]
+			1261, -- [11]
 			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1384,847 +1318,895 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1651533811,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657250577,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [60]
+		{
+			"Haunting Fixation on Misload", -- [1]
+			"Misload-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Misload-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1263, -- [11]
+			"Player-57-0D02AA48", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Misload-Illidan|r",
+			[51] = 1657250532,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jerkk-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1264, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250532,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [62]
 		{
-			"gg", -- [1]
-			"Drblythe-Mal'Ganis", -- [2]
+			"I think I'm dcing?", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drblythe-Mal'Ganis", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2464, -- [11]
-			"Player-3684-0DD30B36", -- [12]
+			1267, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edDrblythe-Mal'Ganis|r",
-			[51] = 1651533815,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250615,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"need ring?", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2465, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1269, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533825,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250617,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [64]
 		{
-			"tyty", -- [1]
-			"Yungthugger-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yungthugger-Mal'Ganis", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			1, -- [10]
-			2467, -- [11]
-			"Player-3684-0DD16C47", -- [12]
+			0, -- [10]
+			1270, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYungthugger-Mal'Ganis|r",
-			[51] = 1651533865,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250627,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [65]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:15075:Player-73-0C528A90:1:5:2:22:4294967295:4294967295:4294967295:4294967295|h[Infiltrators]|h|r!", -- [1]
-			"Sunfirechaos-BleedingHollow", -- [2]
+			"okay the game has caught up lol", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sunfirechaos-BleedingHollow", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2472, -- [11]
-			"Player-73-0C528A90", -- [12]
+			1271, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edSunfirechaos|r",
-			[51] = 1651534092,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657250580,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [66]
 		{
-			"Was the vault POG this week or nah", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1277, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596428,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250664,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [67]
 		{
-			"havent opened yet", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1278, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596475,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250678,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [68]
 		{
-			"but i did realize i did the 4 mythic dungeons for the quest last week and didnt hand it in", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1279, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596486,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250658,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [69]
 		{
-			"rip", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1280, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596487,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250736,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [70]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:648:Player-73-06D7454E:1:5:3:22:4294967295:4294967295:4294967295:4294967295|h[The Blood Furnace]|h|r!", -- [1]
-			"Derek-BleedingHollow", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Derek-BleedingHollow", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7, -- [11]
-			"Player-73-06D7454E", -- [12]
+			1281, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Derek|r",
-			[51] = 1651596490,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250751,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [71]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:668:Player-73-06D7454E:1:5:3:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Blood Furnace]|h|r!", -- [1]
-			"Derek-BleedingHollow", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Derek-BleedingHollow", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8, -- [11]
-			"Player-73-06D7454E", -- [12]
+			1282, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Derek|r",
-			[51] = 1651596490,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250708,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [72]
 		{
-			"Fuuuuuuuuuuck", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			9, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1283, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596493,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250719,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [73]
 		{
-			" <Fierce> 11/11M Selling Heroic Sepulcher of the First Ones this Wednesday! Offering full runs, funnels and aotc. -GOLD ONLY- PM me for pricing/details. |cffffff00|Hachievement:15475:Guild-73-00000560BF74:1:4:26:22:4294967295:4294967295:4294967295:4294967295|h[Hall of Fame: The Jailer (Horde)]|h|r", -- [1]
-			"Bokkee-BleedingHollow", -- [2]
+			"need more % after boss", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bokkee-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12, -- [11]
-			"Player-73-0E8FBEA3", -- [12]
+			1285, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Bokkee|r",
-			[51] = 1651596513,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250792,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [74]
 		{
-			"It's OK", -- [1]
-			"|Kq14|k", -- [2]
+			"[WA RM+]: We still need 5.49 %", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			23, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1307, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596529,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250882,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [75]
 		{
-			"My alts got good vaults", -- [1]
-			"|Kq14|k", -- [2]
+			"take bat to front", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			26, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1308, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596533,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250884,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [76]
 		{
-			"While my mains got sockets", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1309, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596538,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250981,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [77]
 		{
-			"jfc", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1310, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596540,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250984,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [78]
 		{
-			"|Hitem:185836::::::::60:66::35:5:7786:7359:6652:1595:6646::::::|h[Codex of the First Technique]|h i already have this ", -- [1]
-			"|Kq14|k", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			36, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1311, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596544,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250985,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [79]
 		{
-			"and its apparently not even good for pally", -- [1]
-			"|Kq14|k", -- [2]
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:391:16:9:8:124:130|h[Keystone: Tazavesh: Streets of Wonder (16)]|h|r (Kyrian)", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			42, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1316, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596551,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657250943,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [80]
 		{
-			"trolling me ", -- [1]
-			"|Kq14|k", -- [2]
+			"ty", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			46, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1328, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596556,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657251087,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [81]
 		{
-			"|Hitem:178933::::::::60:66::35:6:7800:7359:6652:7578:1592:6646::::::|h[Arachnid Cipher Ring]|h is decent i guess. haste best stat, crit best dps stat i think", -- [1]
-			"|Kq14|k", -- [2]
+			"np", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			63, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1330, -- [11]
+			"Player-73-0B33C45A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596581,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251098,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"I'm about to queue for lfr if you need it on any1", -- [1]
-			"|Kq14|k", -- [2]
+			"you want this |cffa335ee|Hitem:178826::::::::60:65::16:5:7781:7359:6652:1576:6646:1:28:1279:::::|h[Sunblood Amethyst]|h|r?", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			94, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1331, -- [11]
+			"Player-73-0B33C45A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596630,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251104,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"But if I get 1 more tier piece", -- [1]
-			"|Kq14|k", -- [2]
+			"Nolie", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			100, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1332, -- [11]
+			"Player-73-0B33C45A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596638,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251107,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"I can get 4set on monk", -- [1]
-			"|Kq14|k", -- [2]
+			"didnt realize you were dc'ing 3rd boss", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			103, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1334, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596642,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657251064,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [85]
 		{
-			"eh. i would on nolies hunter but really dont feel like it ", -- [1]
-			"|Kq14|k", -- [2]
+			"if you dont need", -- [1]
+			"Holynoly-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Holynoly-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			108, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1335, -- [11]
+			"Player-73-06EE3479", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596649,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Party",
+			[52] = "|cfffefefeHolynoly|r",
+			[51] = 1657251067,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"no worries", -- [1]
-			"|Kq14|k", -- [2]
+			"i just loh you cus i was like he has 1 hp left", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			116, -- [11]
-			false, -- [12]
-			59, -- [13]
+			1336, -- [11]
+			"Player-73-083743C5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Party",
-			[51] = 1651596660,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657251074,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [87]
 		{
-			"YOU SHOULD JOIN MY GUILD", -- [1]
-			"Biscay-BleedingHollow", -- [2]
+			"not sure if it's good, I really haven't played int classes this xpac", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Biscay-BleedingHollow", -- [5]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			53, -- [11]
-			"Player-73-0DF89C28", -- [12]
+			1337, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Biscay|r",
-			[51] = 1651713785,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251142,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"DOES YOUR GUILD USE ALL CAPS?", -- [1]
-			"Footodor-BleedingHollow", -- [2]
+			"yeah I don't need it", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Footodor-BleedingHollow", -- [5]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			54, -- [11]
-			"Player-73-0A189699", -- [12]
+			1338, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Footodor|r",
-			[51] = 1651713800,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251145,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"shrek on vhs is strictly a cute anime boy, or a chad on top.", -- [1]
-			"Shrekonvhs-BleedingHollow", -- [2]
+			"oh you're good, my game like stopped responding for a little bit during 3rd  there", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shrekonvhs-BleedingHollow", -- [5]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			55, -- [11]
-			"Player-73-0CC3598D", -- [12]
+			1339, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Shrekonvhs|r",
-			[51] = 1651713803,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251162,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"Guild is named shrek 2 on dvd....", -- [1]
-			"Biscay-BleedingHollow", -- [2]
+			"so good job keeping us all alive lol", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Biscay-BleedingHollow", -- [5]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			64, -- [11]
-			"Player-73-0DF89C28", -- [12]
+			1342, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Biscay|r",
-			[51] = 1651713814,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251163,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"shrek 2 on dvd was amazing", -- [1]
-			"Punkino-BleedingHollow", -- [2]
+			"ty!", -- [1]
+			"Holynoly-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Punkino-BleedingHollow", -- [5]
+			"", -- [4]
+			"Holynoly-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			65, -- [11]
-			"Player-73-0B6A8BFF", -- [12]
+			1353, -- [11]
+			"Player-73-06EE3479", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Punkino|r",
-			[51] = 1651713832,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeHolynoly|r",
+			[51] = 1657251284,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"dvd is for inbreds. rewind ur vhs tapes or frick off.", -- [1]
-			"Shrekonvhs-BleedingHollow", -- [2]
+			"np!", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shrekonvhs-BleedingHollow", -- [5]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			66, -- [11]
-			"Player-73-0CC3598D", -- [12]
+			1354, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Shrekonvhs|r",
-			[51] = 1651713832,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251287,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"that american idol shit at the end was the bomb", -- [1]
-			"Punkino-BleedingHollow", -- [2]
+			"gonna do some tw so done with keys for now", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Punkino-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			68, -- [11]
-			"Player-73-0B6A8BFF", -- [12]
+			1359, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Punkino|r",
-			[51] = 1651713848,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657251347,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [94]
 		{
-			"Real shit Punk", -- [1]
-			"Vasinn-BleedingHollow", -- [2]
+			"ty for coming and helping", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Vasinn-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			73, -- [11]
-			"Player-73-0CB10E99", -- [12]
+			1360, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcVasinn|r",
-			[51] = 1651713861,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657251358,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [95]
 		{
-			"i cant believe you copied our guild name and did vhs", -- [1]
-			"Biscay-BleedingHollow", -- [2]
+			"kk, thanks for the keys", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Biscay-BleedingHollow", -- [5]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			74, -- [11]
-			"Player-73-0DF89C28", -- [12]
+			1361, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Biscay|r",
-			[51] = 1651713864,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251301,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"kinda of weird", -- [1]
-			"Biscay-BleedingHollow", -- [2]
+			"y'all have a good night", -- [1]
+			"Sorgeth-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Biscay-BleedingHollow", -- [5]
+			"", -- [4]
+			"Sorgeth-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			77, -- [11]
-			"Player-73-0DF89C28", -- [12]
+			1362, -- [11]
+			"Player-73-0B33C45A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Biscay|r",
-			[51] = 1651713867,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Sorgeth|r",
+			[51] = 1657251317,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"WTS |cffa335ee|Hitem:44168::::::::50:102:::::::::|h[Reins of the Time-Lost Proto-Drake]|h|r It's Up! Gold Only! PST", -- [1]
-			"Siyru-BleedingHollow", -- [2]
+			"you too", -- [1]
+			"Jerkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Siyru-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jerkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			78, -- [11]
-			"Player-73-0EADF272", -- [12]
+			1363, -- [11]
+			"Player-73-083743C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Siyru|r",
-			[51] = 1651713868,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Jerkk|r",
+			[51] = 1657251321,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [98]
 		{
-			"Cope.", -- [1]
-			"Shrekonvhs-BleedingHollow", -- [2]
+			"thx for the carry", -- [1]
+			"Holynoly-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shrekonvhs-BleedingHollow", -- [5]
+			"", -- [4]
+			"Holynoly-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			99, -- [11]
-			"Player-73-0CC3598D", -- [12]
+			1364, -- [11]
+			"Player-73-06EE3479", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Shrekonvhs|r",
-			[51] = 1651713904,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeHolynoly|r",
+			[51] = 1657251384,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 	},
-	["BodyGuard"] = {
-		["IsInValidZone"] = true,
-		["MaxHealth"] = 0,
-		["Health"] = 0,
-		["Active"] = false,
-	},
 	["ConvertKeybindings"] = true,
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 0,
+		["MaxHealth"] = 0,
+		["IsInValidZone"] = true,
+	},
+	["ChatEditHistory"] = {
+		"/p yeah he came back briefly i think", -- [1]
+		"/p and was back out", -- [2]
+		"/p just gonna try my 15 hoa i guess", -- [3]
+		"what happened to no retail", -- [4]
+		"wow", -- [5]
+		"i see how it is", -- [6]
+		"/p ey", -- [7]
+		"/p gonna go left start", -- [8]
+		"/readycheck", -- [9]
+		"/pull 10", -- [10]
+		"/g that was a sick binding shot", -- [11]
+		"/p wo", -- [12]
+		"/p need more % after boss", -- [13]
+		"/p take bat to front", -- [14]
+		"/p ty", -- [15]
+		"/p didnt realize you were dc'ing 3rd boss", -- [16]
+		"/p i just loh you cus i was like he has 1 hp left", -- [17]
+		"/p gonna do some tw so done with keys for now", -- [18]
+		"/p ty for coming and helping", -- [19]
+		"/p you too", -- [20]
+	},
 }

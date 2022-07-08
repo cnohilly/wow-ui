@@ -4,33 +4,33 @@ DataStoreDB = {
 		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
 		["Moodroo - Bleeding Hollow"] = "Moodroo - Bleeding Hollow",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
-		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
+		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
-		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 	},
 	["global"] = {
 		["Guilds"] = {
@@ -55,10 +55,10 @@ DataStoreDB = {
 			["Default.Bleeding Hollow.Velkyn Solaris"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Gilneas.Empire of Wrath"] = {
+			["Default.The Forgotten Coast.Avengers of Bloodmoon"] = {
 				["faction"] = "Horde",
 			},
-			["Default.The Forgotten Coast.Avengers of Bloodmoon"] = {
+			["Default.Gilneas.Empire of Wrath"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Bleeding Hollow.Nightmare Unending"] = {
@@ -68,112 +68,112 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Bleeding Hollow.Jerkk"] = {
-				["faction"] = "Horde",
 				["guildName"] = "STARWORLD",
+				["faction"] = "Horde",
 			},
 			["Default.Tichondrius.Dorkkore"] = {
-				["guildName"] = "This is the End",
 				["faction"] = "Horde",
+				["guildName"] = "This is the End",
 			},
 			["Default.Bleeding Hollow.Freakk"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Papercut",
+				["faction"] = "Horde",
 			},
 			["Default.Bleeding Hollow.Trickk"] = {
-				["guildName"] = "Papercut",
 				["faction"] = "Horde",
+				["guildName"] = "Papercut",
 			},
 			["Default.Gilneas.Sasúke"] = {
+				["faction"] = "Horde",
 				["guildName"] = "Empire of Wrath",
-				["faction"] = "Horde",
 			},
-			["Default.Bleeding Hollow.Voodroo"] = {
-				["guildName"] = "Never Lucky",
-				["faction"] = "Horde",
-			},
-			["Default.Darkspear.Genericbank"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Bleeding Hollow.Quirkk"] = {
-				["guildName"] = "Papercut",
-				["faction"] = "Horde",
-			},
-			["Default.Bleeding Hollow.Unorthodorkk"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Papercut",
-			},
-			["Default.Bleeding Hollow.Lickk"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Skullcrusher.Zzxzz"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Mal'Ganis.Lildorkk"] = {
-				["faction"] = "Horde",
-			},
-			["Default.The Forgotten Coast.Eore"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Bleeding Hollow.Eisfyre"] = {
-				["faction"] = "Alliance",
-				["guildName"] = "Wipe Out",
-			},
-			["Default.Bleeding Hollow.Dorkk"] = {
-				["guildName"] = "STARWORLD",
-				["faction"] = "Horde",
-			},
-			["Default.Bleeding Hollow.Moodroo"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Nightmare Unending",
-			},
-			["Default.Kil'jaeden.Scongi"] = {
-				["faction"] = "Alliance",
-			},
-			["Default.The Forgotten Coast.Smíte"] = {
-				["guildName"] = "Avengers of Bloodmoon",
-				["faction"] = "Horde",
-			},
-			["Default.Dalaran.Dwarfdorkk"] = {
-				["faction"] = "Alliance",
-				["guildName"] = "Rival",
-			},
-			["Default.Bleeding Hollow.Voodroosaur"] = {
-				["faction"] = "Horde",
-				["guildName"] = "STARWORLD",
-			},
-			["Default.Bleeding Hollow.Geekk"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Papercut",
-			},
-			["Default.Bleeding Hollow.Illidorkk"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Never Lucky",
-			},
-			["Default.Mal'Ganis.Platebaleful"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Bleeding Hollow.Awkk"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Area 52.Dorkkborne"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Bleeding Hollow.Wardorkk"] = {
-				["guildName"] = "STARWORLD",
-				["faction"] = "Horde",
-			},
-			["Default.Emerald Dream.Albiorix"] = {
-				["faction"] = "Alliance",
-			},
-			["Default.Tichondrius.Engidorkk"] = {
+			["Default.Tichondrius.Prodigie"] = {
+				["guildName"] = "This is the End",
 				["faction"] = "Horde",
 			},
 			["Default.Area 52.Pricecheckin"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Tichondrius.Prodigie"] = {
+			["Default.Bleeding Hollow.Quirkk"] = {
 				["faction"] = "Horde",
-				["guildName"] = "This is the End",
+				["guildName"] = "Papercut",
+			},
+			["Default.Bleeding Hollow.Unorthodorkk"] = {
+				["guildName"] = "Papercut",
+				["faction"] = "Horde",
+			},
+			["Default.Tichondrius.Engidorkk"] = {
+				["faction"] = "Horde",
+			},
+			["Default.The Forgotten Coast.Eore"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Mal'Ganis.Lildorkk"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Skullcrusher.Zzxzz"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Eisfyre"] = {
+				["guildName"] = "Wipe Out",
+				["faction"] = "Alliance",
+			},
+			["Default.Bleeding Hollow.Wardorkk"] = {
+				["faction"] = "Horde",
+				["guildName"] = "STARWORLD",
+			},
+			["Default.Bleeding Hollow.Moodroo"] = {
+				["guildName"] = "Nightmare Unending",
+				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Scongi"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.The Forgotten Coast.Smíte"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Avengers of Bloodmoon",
+			},
+			["Default.Dalaran.Dwarfdorkk"] = {
+				["guildName"] = "Rival",
+				["faction"] = "Alliance",
+			},
+			["Default.Bleeding Hollow.Voodroosaur"] = {
+				["guildName"] = "STARWORLD",
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Geekk"] = {
+				["guildName"] = "Papercut",
+				["faction"] = "Horde",
+			},
+			["Default.Mal'Ganis.Platebaleful"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Area 52.Dorkkborne"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Awkk"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Illidorkk"] = {
+				["guildName"] = "Never Lucky",
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Dorkk"] = {
+				["faction"] = "Horde",
+				["guildName"] = "STARWORLD",
+			},
+			["Default.Emerald Dream.Albiorix"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Bleeding Hollow.Lickk"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Darkspear.Genericbank"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Voodroo"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Never Lucky",
 			},
 		},
 		["ShortToLongRealmNames"] = {
@@ -181,12 +181,12 @@ DataStoreDB = {
 			["Gilneas"] = "Gilneas",
 			["Kil'jaeden"] = "Kil'jaeden",
 			["Area52"] = "Area 52",
-			["Dalaran"] = "Dalaran",
+			["Darkspear"] = "Darkspear",
 			["EmeraldDream"] = "Emerald Dream",
 			["Tichondrius"] = "Tichondrius",
-			["BleedingHollow"] = "Bleeding Hollow",
-			["Darkspear"] = "Darkspear",
 			["Skullcrusher"] = "Skullcrusher",
+			["Dalaran"] = "Dalaran",
+			["BleedingHollow"] = "Bleeding Hollow",
 			["TheForgottenCoast"] = "The Forgotten Coast",
 		},
 	},

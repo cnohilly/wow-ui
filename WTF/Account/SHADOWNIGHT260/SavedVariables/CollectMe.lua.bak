@@ -6,11 +6,12 @@ CollectMeDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
+		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
@@ -27,7 +28,7 @@ CollectMeDB = {
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Quirkk - Bleeding Hollow"] = {
@@ -40,15 +41,17 @@ CollectMeDB = {
 		},
 		["Awkk - Bleeding Hollow"] = {
 		},
+		["Platebaleful - Mal'Ganis"] = {
+		},
 		["Wardorkk - Bleeding Hollow"] = {
 		},
-		["Platebaleful - Mal'Ganis"] = {
+		["Scongi - Kil'jaeden"] = {
 		},
 		["Smíte - The Forgotten Coast"] = {
 		},
-		["Dorkkore - Tichondrius"] = {
+		["Lickk - Bleeding Hollow"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
+		["Dorkkore - Tichondrius"] = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
@@ -82,7 +85,7 @@ CollectMeDB = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Scongi - Kil'jaeden"] = {
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 	},
 }

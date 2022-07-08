@@ -1859,6 +1859,16 @@ local mt_state = {
 
             return t[k]
 
+        elseif k == "stationary_enemies" then
+            t[k] = select( 2, ns.getNumberTargets() )
+
+            if t.min_targets > 0 then t[k] = max( t.min_targets, t[k] ) end
+            if t.max_targets > 0 then t[k] = min( t.max_targets, t[k] ) end
+
+            t[k] = max( 1, t[k] )
+
+            return t[k]
+
         elseif k == "my_enemies" then
             -- The above is not needed as the nameplate target system will add missing enemies.
             t[k] = ns.numTargets()
@@ -1946,6 +1956,10 @@ local mt_state = {
 
         elseif k == "prowling" then
             return t.buff.prowl.up or ( t.buff.cat_form.up and t.buff.shadowform.up )
+
+        elseif k == "effective_combo_points" then
+            -- If expression has not yet loaded, return 0.
+            return 0
 
         elseif type(k) == "string" and k:sub(1, 16) == "incoming_damage_" then
             local remains = k:sub(17)
@@ -2154,7 +2168,7 @@ local mt_state = {
                 return 0
 
             elseif k == "tick_time_remains" then
-                if app then return ( app.remains % tick_time ) end
+                if app then return app.tick_time_remains end
                 return 0
 
             elseif k == "remains" then
@@ -2162,7 +2176,7 @@ local mt_state = {
                 return 0
 
             elseif k == "tick_time" then
-                if app then return tick_time end
+                if app then return app.tick_time end
                 return 0
 
             else
@@ -2300,7 +2314,7 @@ local mt_stat = {
             return GetCombatRating(CR_MASTERY)
 
         elseif k == "mastery_value" then
-            return GetMasteryEffect()
+            return GetMasteryEffect() / 100
 
         elseif k == "versatility_atk_rating" then
             return GetCombatRating(CR_VERSATILITY_DAMAGE_DONE)
@@ -3234,7 +3248,7 @@ local mt_resource = {
 
                 for i = 1, t.fcount do
                     local v = t.forecast[ i ]
-                    if v.t <= q then
+                    if v.t <= q and v.v ~= nil then
                         index = i
                         slice = v
                     else
@@ -3243,7 +3257,7 @@ local mt_resource = {
                 end
 
                 -- We have a slice.
-                if index and slice then
+                if index and slice and slice.v then
                     t.values[ q ] = max( 0, min( t.max, slice.v + ( ( state.query_time - slice.t ) * t.regen ) ) )
                     return t.values[ q ]
                 end
@@ -3415,6 +3429,36 @@ local mt_default_buff = {
     __index = function( t, k )
         local aura = class.auras[ t.key ]
 
+        if aura and aura.hidden then
+            -- Hidden auras might be detectable with GetPlayerAuraBySpellID.
+            local name, _, count, _, duration, expires, caster, _, _, spellID, _, _, _, _, timeMod, v1, v2, v3 = GetPlayerAuraBySpellID( aura.id )
+
+            if name then
+                local buff = auras.player.buff[ t.key ] or {}
+
+                buff.key = t.key
+                buff.id = spellID
+                buff.name = name
+                buff.count = count > 0 and count or 1
+                buff.duration = duration
+                buff.expires = expires
+                buff.caster = caster
+                buff.applied = expires - duration
+                buff.caster = caster
+                buff.timeMod = timeMod
+                buff.v1 = v1
+                buff.v2 = v2
+                buff.v3 = v3
+
+                buff.last_application = buff.last_application or 0
+                buff.last_expiry      = buff.last_expiry or 0
+
+                buff.unit = "player"
+
+                auras.player.buff[ t.key ] = buff
+            end
+        end
+
         if aura and rawget( aura, "meta" ) and aura.meta[ k ] then
             return aura.meta[ k ]( t, "buff" )
 
@@ -3526,6 +3570,13 @@ local mt_default_buff = {
 
         elseif k == "ticks_remain" then
             if t.applied <= state.query_time and state.query_time < t.expires then return t.remains / t.tick_time end
+            return 0
+
+        elseif k == "tick_time_remains" then
+            if t.applied <= state.query_time and state.query_time < t.expires then
+                if not aura.tick_time then return t.remains end
+                return aura.tick_time - ( ( query_time - t.applied ) % aura.tick_time )
+            end
             return 0
 
         elseif k == "last_trigger" then
@@ -4462,8 +4513,9 @@ local mt_default_debuff = {
             return t.remains / t.tick_time
 
         elseif k == "tick_time_remains" then
+            if not t.up then return 0 end
             if not aura.tick_time then return t.remains end
-            return t.remains % aura.tick_time
+            return aura.tick_time - ( ( query_time - t.applied ) % aura.tick_time )
 
         else
             if aura and aura[ k ] ~= nil then
@@ -5813,6 +5865,7 @@ function state.reset( dispName )
     state.max_targets = 0
 
     state.active_enemies = nil
+    state.stationary_enemies = nil
     state.my_enemies = nil
     state.true_active_enemies = nil
     state.true_my_enemies = nil
@@ -6136,6 +6189,10 @@ function state.reset( dispName )
         end
     end
 
+    Hekili:Yield( "Reset Pre-Cast Hook" )
+
+    ns.callHook( "reset_precast" )
+
     Hekili:Yield( "Reset Pre-Casting" )
 
     local cast_time, casting, ability = 0, nil, nil
@@ -6162,10 +6219,6 @@ function state.reset( dispName )
             end
         end
     end
-
-    Hekili:Yield( "Reset Pre-Cast Hook" )
-
-    ns.callHook( "reset_precast" )
 
     -- Okay, two paths here.
     -- 1.  We can cast while casting (i.e., Fire Blast for Fire Mage), so we want to hand off the current cast to the event system, and then let the recommendation engine sort it out.
@@ -6227,7 +6280,6 @@ function state.reset( dispName )
             end
         end
 
-        -- print( GetTime(), "*** Light Reset", dispName, state.buff.casting.name, state.buff.casting.remains )
         state.resetType = "none"
     end
 
@@ -6280,7 +6332,6 @@ function state.advance( time )
     end
 
     if not state.resetting and not state.modified then
-        -- print( "Modified state." )
         state.modified = true
     end
 

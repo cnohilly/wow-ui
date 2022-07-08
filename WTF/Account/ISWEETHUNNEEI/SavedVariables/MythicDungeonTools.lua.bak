@@ -6,13 +6,13 @@ MythicDungeonToolsDB = {
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 	},
 	["global"] = {
 		["minimap"] = {

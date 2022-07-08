@@ -32,6 +32,8 @@ L["BUYING_X_FOR_X"] = "Comprando %s por %s"
 L["BUYOUT_AUCTION_INFO"] = "%s Comprar en %s"
 L["BUYOUT_PRICE"] = "Compra"
 L["CANCEL"] = "Cancelar"
+--[[Translation missing --]]
+L["CANCEL_SEARCH"] = "Cancel Search"
 L["CANCEL_UNDERCUT"] = "Cancelar descuento"
 L["CANCELLING_TAB"] = "Cancelado"
 L["CANCELLING_TAB_HEADER"] = "Auctionator - Cancelado"

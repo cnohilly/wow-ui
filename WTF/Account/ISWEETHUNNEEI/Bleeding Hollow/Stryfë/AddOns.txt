@@ -192,3 +192,9 @@ RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_F: disabled
 RaiderIO_DB_EU_A_R: disabled
+RaiderIO_DB_TW_R: disabled
+RaiderIO_DB_TW_M: disabled
+RaiderIO_DB_KR_R: disabled
+RaiderIO_DB_KR_M: disabled
+RaiderIO_DB_EU_R: disabled
+RaiderIO_DB_EU_M: disabled

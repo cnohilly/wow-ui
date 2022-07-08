@@ -6,11 +6,12 @@ HandyNotes_SuramarTelemancyDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
+		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
@@ -27,7 +28,7 @@ HandyNotes_SuramarTelemancyDB = {
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Quirkk - Bleeding Hollow"] = {
@@ -40,15 +41,17 @@ HandyNotes_SuramarTelemancyDB = {
 		},
 		["Awkk - Bleeding Hollow"] = {
 		},
+		["Platebaleful - Mal'Ganis"] = {
+		},
 		["Wardorkk - Bleeding Hollow"] = {
 		},
-		["Platebaleful - Mal'Ganis"] = {
+		["Dorkkore - Tichondrius"] = {
 		},
 		["Smíte - The Forgotten Coast"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
+		["Lickk - Bleeding Hollow"] = {
 		},
-		["Scongi - Kil'jaeden"] = {
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
@@ -82,7 +85,7 @@ HandyNotes_SuramarTelemancyDB = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Dorkkore - Tichondrius"] = {
+		["Scongi - Kil'jaeden"] = {
 		},
 	},
 }

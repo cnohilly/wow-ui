@@ -7,6 +7,7 @@ PandariaTreasuresDB = {
 		["Awkk - Bleeding Hollow"] = "Default",
 		["Wardorkk - Bleeding Hollow"] = "Default",
 		["Smíte - The Forgotten Coast"] = "Default",
+		["Lickk - Bleeding Hollow"] = "Default",
 		["Voodroosaur - Bleeding Hollow"] = "Default",
 		["Dorkk - Bleeding Hollow"] = "Default",
 		["Geekk - Bleeding Hollow"] = "Default",

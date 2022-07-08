@@ -2,182 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"Knock 2", -- [1]
-			"Stryfë-BleedingHollow", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Stryfë-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			1903, -- [11]
-			"Player-73-09B0681E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Stryfë|r",
-			[51] = 1650909348,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"{rt2}Dark Eclipse 2", -- [1]
-			"Madaya-Galakrond", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Madaya-Galakrond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			1904, -- [11]
-			"Player-54-06E44ED5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Madaya-Galakrond|r",
-			[51] = 1650909348,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Knock 1", -- [1]
-			"Stryfë-BleedingHollow", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Stryfë-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			1906, -- [11]
-			"Player-73-09B0681E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Stryfë|r",
-			[51] = 1650909349,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:15416:Player-73-09B0681E:1:4:25:22:4294967295:4294967295:4294967295:4294967295|h[Domination's Grasp]|h|r!", -- [1]
-			"Stryfë-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stryfë-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1914, -- [11]
-			"Player-73-09B0681E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Stryfë|r",
-			[51] = 1650909420,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [4]
-		{
-			"get a job karen", -- [1]
-			"Lilgucci-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lilgucci-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1951, -- [11]
-			"Player-73-06D1AE6E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Lilgucci|r",
-			[51] = 1650909460,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"u can suck cock and still maintain a family.... u do it daily albino", -- [1]
-			"Cursedöne-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cursedöne-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1952, -- [11]
-			"Player-73-0E40C841", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Cursedöne|r",
-			[51] = 1650909467,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"I miss Kayla!!!", -- [1]
-			"Beddbug-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Beddbug-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1953, -- [11]
-			"Player-73-066532F3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaBeddbug|r",
-			[51] = 1650909478,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"Albinosteak, All family trees will sever at some point in forever - no one is special, least of all people concerned about cocks and mouths", -- [1]
-			"Wakened-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wakened-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1965, -- [11]
-			"Player-73-0EAAC0D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWakened|r",
-			[51] = 1650909540,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
 			"hey all!", -- [1]
 			"Papipriest-Thunderlord", -- [2]
 			"", -- [3]
@@ -198,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650909764,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
+		}, -- [1]
 		{
 			"ey", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -220,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650909823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [2]
 		{
 			"at stone", -- [1]
 			"Soapbiscuit-Destromath", -- [2]
@@ -242,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Soapbiscuit-Destromath|r",
 			[51] = 1650909840,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
+		}, -- [3]
 		{
 			"yes, i am stoned", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -264,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650909848,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [4]
 		{
 			"wait", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -286,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650909850,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
+		}, -- [5]
 		{
 			"nevermind", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -308,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650909852,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [6]
 		{
 			"read that wrong", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -330,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650909856,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [7]
 		{
 			"im stoned too ", -- [1]
 			"Hexaroo-Kil'jaeden", -- [2]
@@ -352,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
 			[51] = 1650909873,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [8]
 		{
 			"LF cata engineer to socket |cff0070dd|Hitem:77530::::::::36:63:::::::::|h[Ghost Iron Dragonling]|h|r", -- [1]
 			"Teebz-BleedingHollow", -- [2]
@@ -374,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaTeebz|r",
 			[51] = 1650909903,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [9]
 		{
 			"i need 1 min srry ", -- [1]
 			"Hexaroo-Kil'jaeden", -- [2]
@@ -396,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
 			[51] = 1650909935,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
+		}, -- [10]
 		{
 			"bio", -- [1]
 			"Hexaroo-Kil'jaeden", -- [2]
@@ -418,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
 			[51] = 1650909939,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [11]
 		{
 			"5 bucks per min", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -440,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650909945,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [12]
 		{
 			"r", -- [1]
 			"Hexaroo-Kil'jaeden", -- [2]
@@ -462,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
 			[51] = 1650910009,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [13]
 		{
 			"No food (4): Hexaroo-Kil'jaeden, Dorkk-BleedingHollow, Stryfë-BleedingHollow, Papipriest", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -484,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650910017,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [14]
 		{
 			"No flask (3): Hexaroo-Kil'jaeden, Dorkk-BleedingHollow, Stryfë-BleedingHollow", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -506,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650910017,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [15]
 		{
 			"Party Buffs All", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -528,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650910017,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [16]
 		{
 			"awk", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -550,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910053,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [17]
 		{
 			"lol", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -572,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650910053,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [18]
 		{
 			"my metaa", -- [1]
 			"Papipriest-Thunderlord", -- [2]
@@ -594,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePapipriest-Thunderlord|r",
 			[51] = 1650910059,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [19]
 		{
 			"lmao sorry i was in another world ", -- [1]
 			"Soapbiscuit-Destromath", -- [2]
@@ -616,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Soapbiscuit-Destromath|r",
 			[51] = 1650910063,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [20]
 		{
 			"Interrupted Decaying Flesh Giant's |cff71d5ff|Hspell:329239:0|h[Creepy Crawlers]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -638,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910079,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [21]
 		{
 			"Interrupted Fungalmancer's |cff71d5ff|Hspell:328016:0|h[Wonder Grow]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -660,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910189,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [22]
 		{
 			"Binding Shot Down", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -682,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910289,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [23]
 		{
 			"Binding Shot Down", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -704,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910401,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [24]
 		{
 			"Binding Shot Down", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -726,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910575,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [25]
 		{
 			"Interrupted Plaguebinder's |cff71d5ff|Hspell:328094:0|h[Pestilence Bolt]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -748,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910644,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [26]
 		{
 			"Interrupted Doctor Ickus's |cff71d5ff|Hspell:322358:0|h[Burning Strain]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -770,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910831,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [27]
 		{
 			"Binding Shot Down", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -792,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910877,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [28]
 		{
 			"Interrupted Doctor Ickus's |cff71d5ff|Hspell:322358:0|h[Burning Strain]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -814,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650910904,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [29]
 		{
 			"Interrupted Slime Tentacle's |cff71d5ff|Hspell:319898:0|h[Vile Spit]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -836,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911013,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [30]
 		{
 			"Interrupted Venomous Sniper's |cff71d5ff|Hspell:328651:0|h[Call Venomfang]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -858,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911117,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [31]
 		{
 			"Binding Shot Down", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -880,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911266,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [32]
 		{
 			"have enough", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -902,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911321,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [33]
 		{
 			"just needed 81.5", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -924,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911381,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [34]
 		{
 			"put him", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -946,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911427,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [35]
 		{
 			"in spirite", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -968,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911429,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [36]
 		{
 			"Interrupted Ickor Bileflesh's |cff71d5ff|Hspell:328094:0|h[Pestilence Bolt]|h|r!", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -990,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911600,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [37]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:391:6:10:6:0:0|h[Keystone: Tazavesh: Streets of Wonder (6)]|h|r (Kyrian)", -- [1]
 			"Soapbiscuit-Destromath", -- [2]
@@ -1012,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Soapbiscuit-Destromath|r",
 			[51] = 1650911752,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [38]
 		{
 			"anyone not need anything?", -- [1]
 			"Hexaroo-Kil'jaeden", -- [2]
@@ -1034,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
 			[51] = 1650911785,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [39]
 		{
 			"ty for the inv", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
@@ -1056,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dorkk|r",
 			[51] = 1650911875,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [40]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::60:104::13::1:28:872::::Player-73-0E425134:|h[Mecha-Mogul Mk2]|h|r cheaper than AH pst", -- [1]
 			"Maplecrisp-BleedingHollow", -- [2]
@@ -1078,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maplecrisp|r",
 			[51] = 1650911927,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [41]
 		{
 			"WTB |cff1eff00|Hitem:22451::::::::60:264:::::::::|h[Primal Air]|h|r", -- [1]
 			"Wakened-BleedingHollow", -- [2]
@@ -1100,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcWakened|r",
 			[51] = 1650911933,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [42]
 		{
 			"Selling m15 Tazacesh:Streets, cheap af 99k ! 278ilvl weekly chest guaranteed.", -- [1]
 			"Monpipal-BleedingHollow", -- [2]
@@ -1122,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Monpipal|r",
 			[51] = 1650912037,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [43]
 		{
 			"<The Early Shift 5/11M> Selling Normal & Heroic Full Clears/ individual bosses, with or without tier & MYTHIC VG & Skolex.  DM me now to guarantee your spot!  Need to fill up your vault with keys?  Let me help you with your 15's. Gold Only!", -- [1]
 			"Rowindru-BleedingHollow", -- [2]
@@ -1144,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Rowindru|r",
 			[51] = 1650912216,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [44]
 		{
 			"Selling m15 Tazacesh:Streets, cheap af 99k ! 278ilvl weekly chest guaranteed.", -- [1]
 			"Monpipal-BleedingHollow", -- [2]
@@ -1166,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Monpipal|r",
 			[51] = 1650912218,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [45]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-249099-73-100574548|h[Guild: Its Just A Phase]|h|r is recruiting a healer and ranged dps.  9/11 Heroic. Wed/Thur raid nights 8-11 EST. If interested, please inquire for more information.", -- [1]
 			"Hyperbole-BleedingHollow", -- [2]
@@ -1188,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaHyperbole|r",
 			[51] = 1650912558,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [46]
 		{
 			"|cffa335ee|Hitem:143643::::::::53:65::6::1:28:872:::::|h[Abyss Worm]|h|r Woot!", -- [1]
 			"Gothgoddess-BleedingHollow", -- [2]
@@ -1210,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Gothgoddess|r",
 			[51] = 1650912621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [47]
 		{
 			"ugly ass mount", -- [1]
 			"Chillinkilln-BleedingHollow", -- [2]
@@ -1232,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Chillinkilln|r",
 			[51] = 1650912645,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [48]
 		{
 			"omg i need to find a gnome for this stupid achievment and i have not seen on all week ", -- [1]
 			"Micap-BleedingHollow", -- [2]
@@ -1254,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMicap|r",
 			[51] = 1650912647,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [49]
 		{
 			"are they like extinct", -- [1]
 			"Dafftmonk-BleedingHollow", -- [2]
@@ -1276,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Dafftmonk|r",
 			[51] = 1650912667,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [50]
 		{
 			"queue for 40 man bg", -- [1]
 			"Amethyst-BleedingHollow", -- [2]
@@ -1298,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Amethyst|r",
 			[51] = 1650912672,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [51]
 		{
 			"i guess they are ", -- [1]
 			"Micap-BleedingHollow", -- [2]
@@ -1320,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMicap|r",
 			[51] = 1650912677,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [52]
 		{
 			"i did 3 bgs lol, didnt see a single one ", -- [1]
 			"Micap-BleedingHollow", -- [2]
@@ -1342,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMicap|r",
 			[51] = 1650912688,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [53]
 		{
 			"wow", -- [1]
 			"Beddbug-BleedingHollow", -- [2]
@@ -1364,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaBeddbug|r",
 			[51] = 1650912695,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [54]
 		{
 			"Keep queuing for bgs but do it in Dal", -- [1]
 			"Shaddux-BleedingHollow", -- [2]
@@ -1386,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcShaddux|r",
 			[51] = 1650912720,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [55]
 		{
 			"so you can look for gnomes there", -- [1]
 			"Shaddux-BleedingHollow", -- [2]
@@ -1408,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcShaddux|r",
 			[51] = 1650912731,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:72808:0|h[Bloodbathed Frostbrood Vanquisher]|h|r woot!!!", -- [1]
 			"Keepersdemon-BleedingHollow", -- [2]
@@ -1430,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Keepersdemon|r",
 			[51] = 1650912752,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [57]
 		{
 			"yea for sure ill try that", -- [1]
 			"Micap-BleedingHollow", -- [2]
@@ -1452,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMicap|r",
 			[51] = 1650912760,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [58]
 		{
 			"i figured oribos would be the place to do it", -- [1]
 			"Micap-BleedingHollow", -- [2]
@@ -1474,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMicap|r",
 			[51] = 1650912781,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [59]
 		{
 			"so uh, whats up with the spectral trees and such in org?", -- [1]
 			"Danyedk-BleedingHollow", -- [2]
@@ -1496,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Danyedk|r",
 			[51] = 1650912803,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [60]
 		{
 			"hippie easter", -- [1]
 			"Chillinkilln-BleedingHollow", -- [2]
@@ -1518,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Chillinkilln|r",
 			[51] = 1650912822,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [61]
 		{
 			"it's the ghost of all the trees that were murdered to build this city ", -- [1]
 			"Silphee-BleedingHollow", -- [2]
@@ -1540,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaSilphee|r",
 			[51] = 1650912823,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [62]
 		{
 			"mystery trees", -- [1]
 			"Ragex-BleedingHollow", -- [2]
@@ -1562,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRagex|r",
 			[51] = 1650912823,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [63]
 		{
 			"its for tree day ", -- [1]
 			"Micap-BleedingHollow", -- [2]
@@ -1584,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMicap|r",
 			[51] = 1650912834,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [64]
 		{
 			"our characters are being haunted by the guilt of genocide", -- [1]
 			"Garraxx-BleedingHollow", -- [2]
@@ -1606,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Garraxx|r",
 			[51] = 1650912839,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [65]
 		{
 			"yeah we paved paradise and put up a parking lot ", -- [1]
 			"Silphee-BleedingHollow", -- [2]
@@ -1628,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaSilphee|r",
 			[51] = 1650912850,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [66]
 		{
 			"its the souls of the extinct gnomes", -- [1]
 			"Dafftmonk-BleedingHollow", -- [2]
@@ -1650,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Dafftmonk|r",
 			[51] = 1650912856,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [67]
 		{
 			"shouldnt have killed all those night elves", -- [1]
 			"Garraxx-BleedingHollow", -- [2]
@@ -1672,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Garraxx|r",
 			[51] = 1650912863,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [68]
 		{
 			"lol", -- [1]
 			"Micap-BleedingHollow", -- [2]
@@ -1694,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMicap|r",
 			[51] = 1650912866,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [69]
 		{
 			"it is funny that they dont really match, theres like, palm trees by the auction house but maple trees everywhere else lol", -- [1]
 			"Ragex-BleedingHollow", -- [2]
@@ -1716,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRagex|r",
 			[51] = 1650912885,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [70]
 		{
 			"|cffa335ee|Hitem:65891::::::::60:250:::::::::|h[Vial of the Sands]|h|r 70k", -- [1]
 			"Besttank-BleedingHollow", -- [2]
@@ -1738,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Besttank|r",
 			[51] = 1650912947,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [71]
 		{
 			"what's up with the ghost trees and stuff?", -- [1]
 			"Selas-BleedingHollow", -- [2]
@@ -1760,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edSelas|r",
 			[51] = 1650913125,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [72]
 		{
 			"its tree huggers day", -- [1]
 			"Dreadnoz-BleedingHollow", -- [2]
@@ -1782,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dreadnoz|r",
 			[51] = 1650916742,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [73]
 		{
 			"its fart day", -- [1]
 			"Chillinkilln-BleedingHollow", -- [2]
@@ -1804,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Chillinkilln|r",
 			[51] = 1650916756,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [74]
 		{
 			"i like turtles", -- [1]
 			"Natalie-BleedingHollow", -- [2]
@@ -1826,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNatalie|r",
 			[51] = 1650916763,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [75]
 		{
 			"|cffa335ee|Hitem:65891::::::::60:250:::::::::|h[Vial of the Sands]|h|r 65k", -- [1]
 			"Besttank-BleedingHollow", -- [2]
@@ -1848,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Besttank|r",
 			[51] = 1650916794,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [76]
 		{
 			"WTS |cffa335ee|Hitem:65891::::::::60:577:::::::::|h[Vial of the Sands]|h|r 35k", -- [1]
 			"Keepersdemon-BleedingHollow", -- [2]
@@ -1870,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Keepersdemon|r",
 			[51] = 1650913294,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [77]
 		{
 			"Dun dun dun!", -- [1]
 			"Thaluston-BleedingHollow", -- [2]
@@ -1892,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thaluston|r",
 			[51] = 1650913321,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [78]
 		{
 			"idk how you make proft off that without getting the mats your self ", -- [1]
 			"Besttank-BleedingHollow", -- [2]
@@ -1914,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Besttank|r",
 			[51] = 1650913343,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [79]
 		{
 			"sounds like he gets the mats himself", -- [1]
 			"Tashta-BleedingHollow", -- [2]
@@ -1936,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Tashta|r",
 			[51] = 1650913356,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [80]
 		{
 			"are the island boys on this server?", -- [1]
 			"Flyingtoilet-BleedingHollow", -- [2]
@@ -1958,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Flyingtoilet|r",
 			[51] = 1650913511,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [81]
 		{
 			"yes", -- [1]
 			"Meltabear-BleedingHollow", -- [2]
@@ -1980,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Meltabear|r",
 			[51] = 1650913541,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [82]
 		{
 			"WTS |cffa335ee|Hitem:41508::::::::60:581::::1:28:872::::Player-73-0B02C4B1:|h[Mechano-Hog]|h|r", -- [1]
 			"Metafit-BleedingHollow", -- [2]
@@ -2002,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Metafit|r",
 			[51] = 1650913561,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [83]
 		{
 			"WTS |cffa335ee|Hitem:190630::::::::1:1453::6:6:7187:6652:8132:8117:1524:6646:1:28:2167:::::|h[Devouring Pellicle Shoulderpads]|h|r AND |cffa335ee|Hitem:190631::::::::1:1453::6:6:7187:8132:8117:6652:1524:6646:1:28:2167:::::|h[Vandalized Ephemera Mitts]|h|r 278 ILVL PST", -- [1]
 			"Gabbyck-BleedingHollow", -- [2]
@@ -2024,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Gabbyck|r",
 			[51] = 1650913685,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [84]
 		{
 			"WTS|cff1eff00|Hitem:72104::::::::32:267:::::::::|h[Living Steel]|h|rx70", -- [1]
 			"Mygoodbank-BleedingHollow", -- [2]
@@ -2046,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edMygoodbank|r",
 			[51] = 1650913776,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [85]
 		{
 			"<The Early Shift> is selling 11/11H, 2/11M Sepulcher of the First ones. Armor and Tier funnels available.  Also selling M+.. PM for pricing, GOLD ONLY, guild run!", -- [1]
 			"Sámmý-BleedingHollow", -- [2]
@@ -2068,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edSámmý|r",
 			[51] = 1650914254,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [86]
 		{
 			"<Resonate 7/11M> WTS +15 Keys Gold Only Timer Guaranteed PST Come Get Your Last Minute Vaults Filled Out", -- [1]
 			"Dûmp-BleedingHollow", -- [2]
@@ -2090,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dûmp|r",
 			[51] = 1650914382,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [87]
 		{
 			"LF NIGHT FALL GUILD THIS IS BIGFURRY HUNTER ALT", -- [1]
 			"Velendri-BleedingHollow", -- [2]
@@ -2112,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Velendri|r",
 			[51] = 1650914592,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [88]
 		{
 			"WTB |cffffffff|Hitem:29547::::::::60:264:::::::::|h[Wind Scales]|h|r PST", -- [1]
 			"Wakened-BleedingHollow", -- [2]
@@ -2134,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcWakened|r",
 			[51] = 1650914624,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [89]
 		{
 			"WTS |cffa335ee|Hitem:190624::::::::1:1453::6:6:7187:8132:8117:6652:1524:6646:1:28:2167:::::|h[Gauntlets of the End]|h|r AND |cffa335ee|Hitem:190334::::::::1:1453::6:7:7187:6652:8186:8132:8138:1498:6646:1:28:2167:::::|h[Origin of the Harmonious]|h|r 278 ", -- [1]
 			"Gabbyck-BleedingHollow", -- [2]
@@ -2156,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Gabbyck|r",
 			[51] = 1650914675,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [90]
 		{
 			"Any guild willing to take a returning player? I played most of 9.1 and 9.1.5 but came back and rolled fresh / am looking for a new guild ^^", -- [1]
 			"Blibels-BleedingHollow", -- [2]
@@ -2178,29 +2002,205 @@ ElvCharacterDB = {
 			[52] = "|cff8687edBlibels|r",
 			[51] = 1650914699,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"thats life i guess", -- [1]
+			"Transphat-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Transphat-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-73-0EAF8810", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Transphat|r",
+			[51] = 1656182378,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"thats my life :(", -- [1]
+			"Nukunuku-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nukunuku-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-73-0EB92B29", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Nukunuku|r",
+			[51] = 1656182355,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"WTS mythic+ lvl 15 keys timed (gold only) pst me", -- [1]
+			"Seeznoevil-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Seeznoevil-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-73-0EB6AF67", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Seeznoevil|r",
+			[51] = 1657153330,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-115039-73-90881548|h[Guild: Evicted]|h|r is recruiting for SFO Mythic prog! 11/11H 1/11 M. We raid Tuesday/Thursday 8:30-11:00 server. We actively push and sell M+ keys! ", -- [1]
+			"Simpdemon-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Simpdemon-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-73-0AF2480A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Simpdemon|r",
+			[51] = 1657153452,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS 15's timed, 51-60 leveling, Taz hardmode, gold only, pst. ", -- [1]
+			"Tonkachonka-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tonkachonka-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-73-0E3693B4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Tonkachonka|r",
+			[51] = 1657153546,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTS Mythic+15-20 key for 262-278ilvl / KSM for Ach|cffffff00|Hachievement:15499:Player-73-0EC05083:0:0:0:-1:0:0:0:0|h[Shadowlands Keystone Master: Season Three]|h|rMythic SOTFO 1-6th/Heroic SOTFO 11/11/ FULL 265ilvl (AOTC)/All 29 Glory ach|cffffff00|Hachievement:15491:Player-73-0EC05083:0:0:0:-1:0:0:0:0|h[Glory of the Sepulcher Raider]|h|rPst!", -- [1]
+			"Taztrort-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Taztrort-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			38, -- [11]
+			"Player-73-0EC05083", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Taztrort|r",
+			[51] = 1657153604,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"wts |cff0070dd|Hbattlepet:277:1:3:158:10:12:0000000000000000:36211|h[Clockwork Gnome]|h|r |cff0070dd|Hbattlepet:1328:25:3:1481:276:276:0000000000000000:51271|h[Ruby Droplet]|h|r pst offer cheaper than ah", -- [1]
+			"Ewwtred-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ewwtred-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			41, -- [11]
+			"Player-73-0EBF7394", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cEwwtred|r",
+			[51] = 1657153677,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"WTS Heroic SOTFO 11/11/FULL 265ilvl(AOTC)/Mythic SOTFO 1-6th/Mythic+15-20 key for 262-278ilvl/Keystone Hero/KSM|cffa335ee|Hitem:187682::::::::1:1448:::::::::|h[Wastewarped Deathwalker]|h|rMythis SOD transmog set|cffa335ee|Hitem:186642::::::::1:1448:::::::::|h[Vengeance's Reins]|h|rPst!", -- [1]
+			"Taztrort-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Taztrort-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-73-0EC05083", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Taztrort|r",
+			[51] = 1657153745,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"they can gdef do higher", -- [1]
-		"yo do you have a weakaura for the trading ?", -- [2]
-		"f", -- [3]
-		"i was gonna tell ou to send me after lol", -- [4]
-		"lmao how come", -- [5]
-		"i think im doing a little more than i expected", -- [6]
-		"lol", -- [7]
-		"/p if you dont need trink id take :D", -- [8]
-		"/p ty", -- [9]
-		"yeah just not sure its worth trying to make a group vs just joining lol", -- [10]
-		"should i just bring my hunter and this toon just afks", -- [11]
-		"lmfao", -- [12]
-		"could", -- [13]
-		"i need to inv hunter anyway to make a dif leggo rq", -- [14]
-		"o we didnt reset", -- [15]
-		"/p i gotta go to bed, sorry. ty for the key", -- [16]
-		"/kb", -- [17]
-		"/who g-\"Starworld\"", -- [18]
-		"/focus dorkk", -- [19]
-		"/m", -- [20]
+		"/focus dorkk", -- [1]
+		"/m", -- [2]
+		"they can gdef do higher", -- [3]
+		"o we didnt reset", -- [4]
+		"i was gonna tell ou to send me after lol", -- [5]
+		"lol", -- [6]
+		"lmao how come", -- [7]
+		"i need to inv hunter anyway to make a dif leggo rq", -- [8]
+		"yeah just not sure its worth trying to make a group vs just joining lol", -- [9]
+		"yo do you have a weakaura for the trading ?", -- [10]
+		"i think im doing a little more than i expected", -- [11]
+		"should i just bring my hunter and this toon just afks", -- [12]
+		"/p ty", -- [13]
+		"/who g-\"Starworld\"", -- [14]
+		"could", -- [15]
+		"/p if you dont need trink id take :D", -- [16]
+		"f", -- [17]
+		"lmfao", -- [18]
+		"/kb", -- [19]
+		"/p i gotta go to bed, sorry. ty for the key", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

@@ -31,6 +31,7 @@ L["BUYING_X_FOR_X"] = "Compra %s per %s"
 L["BUYOUT_AUCTION_INFO"] = "%s messo all'asta per %s"
 L["BUYOUT_PRICE"] = "Prezzo Acquisto"
 L["CANCEL"] = "Annulla"
+L["CANCEL_SEARCH"] = "Cancella Ricerca"
 L["CANCEL_UNDERCUT"] = "Cancella Ribasso"
 L["CANCELLING_TAB"] = "Cancella"
 L["CANCELLING_TAB_HEADER"] = "Auctionator - Cancella"
@@ -106,12 +107,9 @@ L["CONFIG_SELLING_BAG_SELECT_SHORTCUT"] = "su un'oggetto nelle tue sacche per at
 L["CONFIG_SELLING_BUY_SHORTCUT"] = "su un'asta non tua per comprarlo subito"
 L["CONFIG_SELLING_CANCEL_SHORTCUT"] = "su una tua asta per cancellarla"
 L["CONFIG_SELLING_CATEGORY"] = "Vendi"
---[[Translation missing --]]
-L["CONFIG_SELLING_CONFIRM_LOW_PRICE"] = "Confirm posting items at an unusually low price"
---[[Translation missing --]]
-L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_HEADER"] = "Confirm Posting Low Price"
---[[Translation missing --]]
-L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_TEXT"] = "Lets you remove the confirmation dialog that appears when posting an item at an unusually low price."
+L["CONFIG_SELLING_CONFIRM_LOW_PRICE"] = "Conferma creazione asta ad un prezzo insolitamente basso"
+L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_HEADER"] = "Conferma Creazione Prezzo Basso"
+L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_TEXT"] = "Permette di eliminare la finestra di dialogo di conferma che appare quando crei un'asta ad un prezzo insolitamente basso."
 L["CONFIG_SELLING_DEFAULT_QUANTITY_SUFFIX"] = "Imposta a 0 per l'ammontare massimo"
 L["CONFIG_SELLING_DEFAULT_QUANTITY_TOOLTIP_HEADER"] = "Quantità vendita predefinita"
 L["CONFIG_SELLING_DEFAULT_QUANTITY_TOOLTIP_TEXT"] = "Qui puoi cambiare il valore predefinito usato quando crei un'asta. Imposta a 0 per impostare il massimo numero possibile."
@@ -167,10 +165,8 @@ L["CONFIG_UNDERCUT_SCAN_NOT_LIFO_TOOLTIP_HEADER"] = "Scansioni Ribasso per Masco
 L["CONFIG_UNDERCUT_SCAN_NOT_LIFO_TOOLTIP_TEXT"] = "Lascia attivo per includere qualsiasi mascotte o equipaggiamento quando usi òa scansione per il ribasso. Disabilita per escludere mascotte ed equipaggiamento."
 L["CONFIG_VENDOR_TOOLTIP"] = "Mostra tooltip venditore"
 L["CONFIRM"] = "Conferma"
---[[Translation missing --]]
-L["CONFIRM_POST_BELOW_VENDOR"] = "You can make more gold selling this to a vendor. Are you sure you want to post at that price?"
---[[Translation missing --]]
-L["CONFIRM_POST_LOW_PRICE"] = "The price of %s looks a bit low. Are you sure you want to post at that price?"
+L["CONFIRM_POST_BELOW_VENDOR"] = "Puoi fare più soldi vendendo questo oggetto ad un mercante. Sei sicuro di voler creare quest'asta con questo prezzo?"
+L["CONFIRM_POST_LOW_PRICE"] = "Il prezzo di %s sembra un po' troppo basso. Sei sicuro di voler creare quest'asta con questo prezzo?"
 L["CONTRIBUTORS_HEADER"] = "Contributi"
 L["COPY_ITEM_ADDED"] = "Copiato %s in %s"
 L["COPY_NO_LIST_SELECTED"] = "Non posso copiare l'oggetto. Nessuna lista della spesa selezionata"

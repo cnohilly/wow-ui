@@ -1,9 +1,11 @@
 AUCTIONATOR_LOCALES.koKR = function()
   local L = {}
 
-  L["ADD_FAVOURITE"] = "즐겨찾기 추가"
+  L["ADD_FAVOURITE"] = [=[즐겨찾기 추가
+
+]=]
 L["ADD_ITEM"] = "아이템 추가"
-L["ADD_TERM_TO_LIST_DIALOG"] = "이름으로 목록 추가"
+L["ADD_TERM_TO_LIST_DIALOG"] = "추가할 검색어 입력"
 L["ALREADY_PURCHASED_X"] = "%s 구매함"
 L["ALT_LEFT_CLICK"] = "클릭"
 L["ALT_RIGHT_CLICK"] = "우클릭"
@@ -33,6 +35,8 @@ L["BUYING_X_FOR_X"] = "%s를 %s에 구매"
 L["BUYOUT_AUCTION_INFO"] = "%s를 %s에 즉시구매가로 올렸습니다."
 L["BUYOUT_PRICE"] = "즉시구매가"
 L["CANCEL"] = "취소"
+--[[Translation missing --]]
+L["CANCEL_SEARCH"] = "Cancel Search"
 L["CANCEL_UNDERCUT"] = "최저가 경매취소"
 L["CANCELLING_TAB"] = "취소하기"
 L["CANCELLING_TAB_HEADER"] = "옥셔네이터 - 취소하기"

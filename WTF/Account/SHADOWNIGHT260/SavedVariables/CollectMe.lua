@@ -6,11 +6,12 @@ CollectMeDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
-		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
@@ -26,7 +27,7 @@ CollectMeDB = {
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 	},
 	["profiles"] = {
@@ -40,15 +41,17 @@ CollectMeDB = {
 		},
 		["Awkk - Bleeding Hollow"] = {
 		},
+		["Voodroosaur - Bleeding Hollow"] = {
+		},
 		["Wardorkk - Bleeding Hollow"] = {
-		},
-		["Scongi - Kil'jaeden"] = {
-		},
-		["Smíte - The Forgotten Coast"] = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Dorkkore - Tichondrius"] = {
+		["Smíte - The Forgotten Coast"] = {
+		},
+		["Lickk - Bleeding Hollow"] = {
+		},
+		["Scongi - Kil'jaeden"] = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
@@ -80,7 +83,7 @@ CollectMeDB = {
 		},
 		["Voodroo - Bleeding Hollow"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
+		["Dorkkore - Tichondrius"] = {
 		},
 		["Platebaleful - Mal'Ganis"] = {
 		},

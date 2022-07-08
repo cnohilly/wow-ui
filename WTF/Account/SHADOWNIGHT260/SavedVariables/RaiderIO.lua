@@ -16,11 +16,15 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Dorkk-bleeding-hollow"
+RaiderIO_LastCharacter = "us-Geekk-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Tarnius-Bleeding Hollow"] = true,
-	["us-Swayzexd-Bleeding Hollow"] = true,
-	["us-Anduin Wrynn-Bleeding Hollow"] = true,
+	["us-Xehanort-anvilmar"] = true,
+	["us-Katara-undermine"] = true,
+	["us-Alionir-wyrmrest-accord"] = true,
+	["us-Skullrok-twisting-nether"] = true,
+	["us-Thiphaine-hyjal"] = true,
+	["us-Jakazarreo-bleeding-hollow"] = true,
+	["us-Yendor-warsong"] = true,
 }
 RaiderIO_MissingServers = {
 }

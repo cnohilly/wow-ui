@@ -6,6 +6,7 @@ MythicPlusTimerDB = {
 		["show_deathcounter"] = true,
 		["color_chest_time"] = "FFFFFFFF",
 		["progress_tooltip"] = true,
+		["align_right"] = false,
 		["show_affixes_as_icons"] = false,
 		["objective_time_inchat"] = true,
 		["color_deathcounter_timelost"] = "FFFF0000",
@@ -20,15 +21,16 @@ MythicPlusTimerDB = {
 		["objective_time_perlevel"] = false,
 		["objective_time_perlevelaffix"] = true,
 		["show_pridefultimer"] = true,
+		["objective_time_perrun"] = false,
 		["color_objective"] = "FFFFFFFF",
 		["scale"] = 1,
 		["color_prideful_value_warning"] = "FFFFFF00",
 		["color_prideful_value_alert"] = "FFFF0000",
 		["show_pull_values"] = false,
 		["show_percent_numbers"] = true,
-		["color_current_pull"] = "FF00FF00",
-		["color_timeleft_expired"] = "FFFF0000",
-		["color_chest_time_expired"] = "FF808080",
+		["best_runs"] = {
+		},
+		["insert_keystone"] = true,
 		["best_times"] = {
 			[2284] = {
 				611, -- [1]
@@ -130,10 +132,13 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
-		["npc_progress_id"] = "sl_1",
+		["color_timeleft_expired"] = "FFFF0000",
+		["color_chest_time_expired"] = "FF808080",
+		["color_dungeon_name"] = "FFFFD100",
+		["color_prideful_value"] = "FFFFFFFF",
 		["show_affixes_as_text"] = true,
 		["color_deathcounter"] = "FFFFFFFF",
-		["color_prideful_value"] = "FFFFFFFF",
+		["objective_time_delta_only"] = false,
 		["color_prideful"] = "FFFFFFFF",
 		["current_run"] = {
 			["is_completed"] = true,
@@ -147,18 +152,12 @@ MythicPlusTimerDB = {
 			["time_left"] = 597,
 			["deathcount_visible"] = false,
 			["steps"] = 5,
+			["elapsed_time"] = 1683,
 			["final_quantity_number"] = 600,
-			["affixes_key"] = "affixes-10-6",
 			["is_reaping"] = false,
-			["max_time"] = 2280,
-			["current_zone_id"] = 2289,
-			["affixes"] = {
-				10, -- [1]
-				6, -- [2]
-			},
-			["current_map_id"] = 379,
 			["level_key"] = "l4",
-			["time_left_2"] = 141,
+			["current_zone_id"] = 2289,
+			["current_map_id"] = 379,
 			["times"] = {
 				345, -- [1]
 				854, -- [2]
@@ -166,15 +165,21 @@ MythicPlusTimerDB = {
 				1683, -- [4]
 				1543, -- [5]
 			},
-			["elapsed_time"] = 1683,
+			["affixes"] = {
+				10, -- [1]
+				6, -- [2]
+			},
+			["max_time"] = 2280,
+			["affixes_key"] = "affixes-10-6",
+			["time_left_2"] = 141,
 		},
-		["color_objective_completed"] = "FF808080",
 		["hide_default_objectivetracker"] = true,
-		["objective_time"] = true,
 		["color_chest_timeleft"] = "FF00FF00",
+		["objective_time"] = true,
 		["color_time"] = "FFFFFFFF",
+		["color_objective_completed"] = "FF808080",
 		["color_timeleft"] = "FF00FF00",
-		["color_dungeon_name"] = "FFFFD100",
+		["npc_progress_id"] = "sl_1",
 		["npc_progress"] = {
 			[165076] = {
 				[4] = 5,
@@ -224,8 +229,8 @@ MythicPlusTimerDB = {
 			[179837] = {
 				[20] = 1,
 			},
-			[171376] = {
-				[10] = 1,
+			[165919] = {
+				[6] = 1,
 			},
 			[179386] = {
 				[5] = 2,
@@ -236,23 +241,23 @@ MythicPlusTimerDB = {
 			[171805] = {
 				[4] = 4,
 			},
-			[180495] = {
-				[10] = 1,
+			[162729] = {
+				[4] = 6,
 			},
 			[162056] = {
 				5, -- [1]
 			},
-			[162040] = {
-				[7] = 2,
+			[180432] = {
+				[5] = 2,
 			},
 			[179334] = {
 				[20] = 1,
 			},
-			[180015] = {
-				[5] = 6,
+			[166396] = {
+				[4] = 4,
 			},
-			[162057] = {
-				[7] = 2,
+			[177807] = {
+				[4] = 7,
 			},
 			[167955] = {
 				8, -- [1]
@@ -260,11 +265,11 @@ MythicPlusTimerDB = {
 			[162041] = {
 				[2] = 4,
 			},
-			[166396] = {
-				[4] = 4,
+			[162049] = {
+				[4] = 2,
 			},
-			[177807] = {
-				[4] = 7,
+			[163128] = {
+				[4] = 3,
 			},
 			[178133] = {
 				[3] = 7,
@@ -275,14 +280,14 @@ MythicPlusTimerDB = {
 			[166302] = {
 				[4] = 2,
 			},
-			[167956] = {
-				11, -- [1]
-			},
 			[171799] = {
 				[7] = 2,
 			},
-			[179840] = {
-				[4] = 2,
+			[167956] = {
+				11, -- [1]
+			},
+			[178139] = {
+				[6] = 9,
 			},
 			[163121] = {
 				[5] = 2,
@@ -293,20 +298,20 @@ MythicPlusTimerDB = {
 			[177816] = {
 				[4] = 3,
 			},
-			[178139] = {
-				[6] = 9,
+			[179840] = {
+				[4] = 2,
 			},
-			[178171] = {
-				[10] = 4,
-			},
-			[178163] = {
-				28, -- [1]
+			[163618] = {
+				[8] = 1,
 			},
 			[180431] = {
 				[5] = 3,
 			},
-			[163618] = {
-				[8] = 1,
+			[178163] = {
+				28, -- [1]
+			},
+			[178171] = {
+				[10] = 4,
 			},
 			[165138] = {
 				5, -- [1]
@@ -317,25 +322,25 @@ MythicPlusTimerDB = {
 			[177817] = {
 				[4] = 4,
 			},
-			[163128] = {
-				[4] = 3,
+			[162057] = {
+				[7] = 2,
 			},
-			[162049] = {
-				[4] = 2,
+			[180015] = {
+				[5] = 6,
 			},
-			[180432] = {
-				[5] = 2,
+			[162040] = {
+				[7] = 2,
 			},
-			[162729] = {
-				[4] = 6,
+			[180495] = {
+				[10] = 1,
 			},
 			[163619] = {
 				[4] = 2,
 			},
-			[165919] = {
-				[6] = 1,
+			[171376] = {
+				[10] = 1,
 			},
 		},
-		["insert_keystone"] = true,
+		["color_current_pull"] = "FF00FF00",
 	},
 }

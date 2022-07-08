@@ -6,11 +6,12 @@ HandyNotes_LegionTreasuresDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
@@ -26,7 +27,7 @@ HandyNotes_LegionTreasuresDB = {
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 	},
 	["profiles"] = {
@@ -40,15 +41,17 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Awkk - Bleeding Hollow"] = {
 		},
+		["Dorkkore - Tichondrius"] = {
+		},
 		["Wardorkk - Bleeding Hollow"] = {
-		},
-		["Voodroosaur - Bleeding Hollow"] = {
-		},
-		["Smíte - The Forgotten Coast"] = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Scongi - Kil'jaeden"] = {
+		["Smíte - The Forgotten Coast"] = {
+		},
+		["Lickk - Bleeding Hollow"] = {
+		},
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
@@ -80,7 +83,7 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Genericbank - Darkspear"] = {
 		},
-		["Dorkkore - Tichondrius"] = {
+		["Scongi - Kil'jaeden"] = {
 		},
 		["Platebaleful - Mal'Ganis"] = {
 		},

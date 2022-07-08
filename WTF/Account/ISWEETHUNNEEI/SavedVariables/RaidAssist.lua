@@ -4,19 +4,19 @@ RADataBase = {
 	},
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Default",
-		["Pándan - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
 		["Noliee - Bleeding Hollow"] = "Default",
-		["Nolieper - Bleeding Hollow"] = "Default",
+		["Dorkks - Wyrmrest Accord"] = "Default",
 		["Emogin - Bleeding Hollow"] = "Default",
 		["Trublmakr - Bleeding Hollow"] = "Default",
 		["Stryfë - Bleeding Hollow"] = "Default",
-		["Holynoly - Bleeding Hollow"] = "Default",
-		["Diá - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
 		["Blù - Bleeding Hollow"] = "Default",
-		["Inolie - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
 		["Happybirth - Tichondrius"] = "Default",
 		["Emoclëw - Bleeding Hollow"] = "Default",
-		["Dorkks - Wyrmrest Accord"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -27,89 +27,89 @@ RADataBase = {
 					["menu_priority"] = 10,
 					["text_font"] = "Accidental Presidency",
 					["BattleResResFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["background_color"] = {
 						["a"] = 0.3,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
-					["panel_width"] = 130,
+					["panel_height"] = 30,
 					["RABattleResMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
-					["panel_locked"] = false,
+					["text_anchor"] = "center",
 					["panel_show_res"] = true,
 					["text_color"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["text_size"] = 10,
 					["background_border_color"] = {
 						["a"] = 0.3,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
-					["panel_height"] = 30,
-					["text_anchor"] = "center",
+					["panel_locked"] = false,
+					["panel_width"] = 130,
 				},
 				["Paste Text"] = {
 					["enabled"] = true,
 					["PasteTextScreenFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["menu_priority"] = 20,
 					["RAPasteTextMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["texts"] = {
 					},
 				},
 				["Aura Bank"] = {
 					["enabled"] = true,
-					["menu_priority"] = 25,
+					["installed_history"] = {
+					},
 					["RAAuraBankMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
-					["installed_history"] = {
-					},
+					["menu_priority"] = 25,
 				},
 				["BisListRaid"] = {
 					["enabled"] = true,
 					["latest_raid_map"] = 1448,
 					["menu_priority"] = 14,
+					["saved_lists"] = {
+					},
 					["RABisListRaidMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
-					},
-					["saved_lists"] = {
 					},
 				},
 				["Raid Scheduler"] = {
@@ -120,50 +120,50 @@ RADataBase = {
 					["cores"] = {
 					},
 					["RARaidScheduleMainFrame"] = {
-						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
+						["IsLocked"] = false,
 					},
 				},
 				["Check Players"] = {
 					["OPPlayerCheckMainFrame"] = {
-						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-					},
-					["cache"] = {
+						["IsLocked"] = false,
 					},
 					["menu_priority"] = 119,
+					["cache"] = {
+					},
 				},
 				["Ready Check"] = {
 					["enabled"] = true,
 					["ReadyCheckScreenFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 156.0025024414063,
 							["x"] = -663.0103759765625,
 						},
-						["IsLocked"] = false,
 					},
-					["menu_priority"] = 1,
 					["text_size"] = 10,
+					["menu_priority"] = 1,
 					["RAReadyCheckMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["buff_indicator_intellect"] = true,
 					["buff_indicator_size"] = 20,
 					["text_face"] = "Friz Quadrata TT",
 					["buff_indicator_oil"] = true,
 					["buff_indicator_rune"] = true,
-					["buff_indicator_food"] = true,
 					["buff_indicator_attackpower"] = true,
+					["buff_indicator_food"] = true,
 					["show_window_after"] = 0.9,
 					["text_shadow"] = false,
 					["buff_indicator_flask"] = true,
@@ -179,16 +179,16 @@ RADataBase = {
 					["invite_msg"] = "[RA]: invites in 5 seconds.",
 					["first_run"] = true,
 					["RAInviteMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["menu_priority"] = 90,
+					["invite_msg_repeats"] = true,
 					["auto_accept_invites_limited"] = true,
 					["auto_accept_invites"] = false,
-					["invite_msg_repeats"] = true,
 					["auto_invite_limited"] = true,
 					["invite_interval"] = 60,
 					["auto_invite"] = false,
@@ -197,44 +197,45 @@ RADataBase = {
 					["dbm_boss_timers"] = {
 					},
 					["NotepadScreenFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["framestrata"] = "LOW",
 					["hide_on_combat"] = false,
 					["editing_boss_note_id"] = 0,
-					["bar_texture"] = "You Are Beautiful!",
+					["boss_notes"] = {
+					},
 					["boss_notes2"] = {
 					},
 					["OPNotepadMainFrame"] = {
-						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
+						["IsLocked"] = false,
 					},
-					["latest_menu_option_boss_selected"] = 0,
+					["auto_complete"] = true,
 					["text_justify"] = "left",
 					["background"] = {
 						["show"] = true,
 						["r"] = 0,
-						["b"] = 0,
-						["g"] = 0,
 						["a"] = 0.3,
+						["g"] = 0,
+						["b"] = 0,
 					},
-					["text_shadow"] = false,
-					["can_scroll_to_phase"] = true,
+					["auto_format"] = true,
+					["latest_menu_option_note_selected"] = 0,
 					["currently_shown_time"] = 0,
 					["notes"] = {
 					},
 					["text_size"] = 12,
 					["menu_priority"] = 120,
 					["currently_shown"] = false,
-					["locked"] = false,
-					["text_face"] = "Friz Quadrata TT",
+					["editing_boss_id"] = 0,
+					["currently_shown_noteId"] = 0,
 					["bw_boss_timers"] = {
 						["335141"] = {
 							2387, -- [1]
@@ -299,14 +300,14 @@ RADataBase = {
 							25, -- [6]
 							4037125, -- [7]
 						},
-						["325245"] = {
-							2385, -- [1]
-							2423, -- [2]
-							"Domina Venomblade", -- [3]
-							"325245", -- [4]
-							"Shadow Ambush", -- [5]
-							22, -- [6]
-							1305160, -- [7]
+						["362806"] = {
+							2549, -- [1]
+							2467, -- [2]
+							"Rygelon", -- [3]
+							"362806", -- [4]
+							"Dark Eclipse (1)", -- [5]
+							10.9, -- [6]
+							3528300, -- [7]
 						},
 						["349627"] = {
 							2441, -- [1]
@@ -317,14 +318,14 @@ RADataBase = {
 							21, -- [6]
 							3528275, -- [7]
 						},
-						["67382"] = {
-							2384, -- [1]
-							2403, -- [2]
-							"Doctor Ickus", -- [3]
-							"67382", -- [4]
-							"Leap", -- [5]
-							57, -- [6]
-							236171, -- [7]
+						["361913"] = {
+							2543, -- [1]
+							2457, -- [2]
+							"Lords of Dread", -- [3]
+							"361913", -- [4]
+							"Adds (6)", -- [5]
+							72.5, -- [6]
+							236296, -- [7]
 						},
 						["346957"] = {
 							2426, -- [1]
@@ -362,14 +363,14 @@ RADataBase = {
 							35, -- [6]
 							2576087, -- [7]
 						},
-						["332617"] = {
-							2384, -- [1]
-							2403, -- [2]
-							"Doctor Ickus", -- [3]
-							"332617", -- [4]
-							"Pestilence Surge", -- [5]
-							10.5, -- [6]
-							3459800, -- [7]
+						["346766"] = {
+							2426, -- [1]
+							2448, -- [2]
+							"Hylbrande", -- [3]
+							"346766", -- [4]
+							"Sanitizing Cycle", -- [5]
+							38.8, -- [6]
+							135949, -- [7]
 						},
 						["266225"] = {
 							2117, -- [1]
@@ -380,23 +381,23 @@ RADataBase = {
 							15.8, -- [6]
 							1385911, -- [7]
 						},
-						["324667"] = {
-							2382, -- [1]
-							2419, -- [2]
-							"Globgrog", -- [3]
-							"324667", -- [4]
-							"Slime Wave", -- [5]
-							10, -- [6]
-							132104, -- [7]
+						["349663"] = {
+							2441, -- [1]
+							2454, -- [2]
+							"The Grand Menagerie", -- [3]
+							"349663", -- [4]
+							"Grip of Hunger", -- [5]
+							23, -- [6]
+							3528281, -- [7]
 						},
-						["365120"] = {
-							2546, -- [1]
-							2469, -- [2]
-							"Anduin Wrynn", -- [3]
-							"365120", -- [4]
-							"Fear Adds (2)", -- [5]
-							87, -- [6]
-							237569, -- [7]
+						["360012"] = {
+							2543, -- [1]
+							2457, -- [2]
+							"Lords of Dread", -- [3]
+							"360012", -- [4]
+							"Carrion (11)", -- [5]
+							51.5, -- [6]
+							136128, -- [7]
 						},
 						["362885"] = {
 							2553, -- [1]
@@ -407,23 +408,23 @@ RADataBase = {
 							33.3, -- [6]
 							4037120, -- [7]
 						},
-						["324527"] = {
+						["351086"] = {
+							2442, -- [1]
+							2455, -- [2]
+							"So'leah", -- [3]
+							"351086", -- [4]
+							"Power Overwhelming", -- [5]
+							65, -- [6]
+							1033914, -- [7]
+						},
+						["324667"] = {
 							2382, -- [1]
 							2419, -- [2]
 							"Globgrog", -- [3]
-							"324527", -- [4]
-							"Plaguestomp", -- [5]
-							35, -- [6]
-							1044089, -- [7]
-						},
-						["349663"] = {
-							2441, -- [1]
-							2454, -- [2]
-							"The Grand Menagerie", -- [3]
-							"349663", -- [4]
-							"Grip of Hunger", -- [5]
-							23, -- [6]
-							3528281, -- [7]
+							"324667", -- [4]
+							"Slime Wave", -- [5]
+							10, -- [6]
+							132104, -- [7]
 						},
 						["346971"] = {
 							2426, -- [1]
@@ -434,14 +435,14 @@ RADataBase = {
 							19, -- [6]
 							136243, -- [7]
 						},
-						["362206"] = {
-							2549, -- [1]
-							2467, -- [2]
-							"Rygelon", -- [3]
-							"362206", -- [4]
-							"Event Horizon on YOU", -- [5]
-							5, -- [6]
-							1778225, -- [7]
+						["368529"] = {
+							2529, -- [1]
+							2463, -- [2]
+							"Halondrus the Reclaimer", -- [3]
+							"368529", -- [4]
+							"Eternity Overdrive", -- [5]
+							7.6, -- [6]
+							3950360, -- [7]
 						},
 						["362275"] = {
 							2549, -- [1]
@@ -470,23 +471,23 @@ RADataBase = {
 							9, -- [6]
 							633004, -- [7]
 						},
-						["320359"] = {
-							2389, -- [1]
-							2392, -- [2]
-							"Surgeon Stitchflesh", -- [3]
-							"320359", -- [4]
-							"Escape", -- [5]
-							30, -- [6]
-							132307, -- [7]
+						["346962"] = {
+							2424, -- [1]
+							2436, -- [2]
+							"Mailroom Mayhem", -- [3]
+							"346962", -- [4]
+							"Money Order", -- [5]
+							50.5, -- [6]
+							370211, -- [7]
 						},
-						["362806"] = {
-							2549, -- [1]
-							2467, -- [2]
-							"Rygelon", -- [3]
-							"362806", -- [4]
-							"Dark Eclipse (1)", -- [5]
-							10.9, -- [6]
-							3528300, -- [7]
+						["347504"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"347504", -- [4]
+							"Windrunner (4)", -- [5]
+							49, -- [6]
+							236560, -- [7]
 						},
 						["350101"] = {
 							2441, -- [1]
@@ -506,23 +507,23 @@ RADataBase = {
 							23, -- [6]
 							3528286, -- [7]
 						},
-						["368529"] = {
-							2529, -- [1]
-							2463, -- [2]
-							"Halondrus the Reclaimer", -- [3]
-							"368529", -- [4]
-							"Eternity Overdrive", -- [5]
-							7.6, -- [6]
-							3950360, -- [7]
+						["346947"] = {
+							2424, -- [1]
+							2436, -- [2]
+							"Mailroom Mayhem", -- [3]
+							"346947", -- [4]
+							"Unstable Goods", -- [5]
+							52.2, -- [6]
+							451164, -- [7]
 						},
-						["327396"] = {
-							2387, -- [1]
-							2395, -- [2]
-							"The Necrotic Wake Trash", -- [3]
-							"327396", -- [4]
-							"Grim Fate", -- [5]
-							17.4, -- [6]
-							2576092, -- [7]
+						["347609"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"347609", -- [4]
+							"Arrow (5)", -- [5]
+							9, -- [6]
+							132323, -- [7]
 						},
 						["350857"] = {
 							2435, -- [1]
@@ -551,14 +552,14 @@ RADataBase = {
 							36.5, -- [6]
 							1345186, -- [7]
 						},
-						["347504"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"347504", -- [4]
-							"Windrunner (4)", -- [5]
-							49, -- [6]
-							236560, -- [7]
+						["321226"] = {
+							2388, -- [1]
+							2391, -- [2]
+							"Amarth, The Reanimator", -- [3]
+							"321226", -- [4]
+							"Land of the Dead", -- [5]
+							12, -- [6]
+							136179, -- [7]
 						},
 						["324490"] = {
 							2382, -- [1]
@@ -569,14 +570,14 @@ RADataBase = {
 							54.5, -- [6]
 							136243, -- [7]
 						},
-						["347094"] = {
-							2426, -- [1]
-							2448, -- [2]
-							"Hylbrande", -- [3]
-							"347094", -- [4]
-							"Titanic Crash", -- [5]
-							15.4, -- [6]
-							236312, -- [7]
+						["327396"] = {
+							2387, -- [1]
+							2395, -- [2]
+							"The Necrotic Wake Trash", -- [3]
+							"327396", -- [4]
+							"Grim Fate", -- [5]
+							17.4, -- [6]
+							2576092, -- [7]
 						},
 						["347149"] = {
 							2419, -- [1]
@@ -587,23 +588,23 @@ RADataBase = {
 							12, -- [6]
 							1029007, -- [7]
 						},
-						["347609"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"347609", -- [4]
-							"Arrow (5)", -- [5]
-							9, -- [6]
-							132323, -- [7]
+						["320359"] = {
+							2389, -- [1]
+							2392, -- [2]
+							"Surgeon Stitchflesh", -- [3]
+							"320359", -- [4]
+							"Escape", -- [5]
+							30, -- [6]
+							132307, -- [7]
 						},
-						["366849"] = {
-							2546, -- [1]
-							2469, -- [2]
-							"Anduin Wrynn", -- [3]
-							"366849", -- [4]
-							"DW:Pain (1)", -- [5]
-							11.5, -- [6]
-							136207, -- [7]
+						["360319"] = {
+							2543, -- [1]
+							2457, -- [2]
+							"Lords of Dread", -- [3]
+							"360319", -- [4]
+							"AoE Phase (3)", -- [5]
+							51, -- [6]
+							538518, -- [7]
 						},
 						["346742"] = {
 							2424, -- [1]
@@ -614,14 +615,14 @@ RADataBase = {
 							25.5, -- [6]
 							413580, -- [7]
 						},
-						["346947"] = {
-							2424, -- [1]
-							2436, -- [2]
-							"Mailroom Mayhem", -- [3]
-							"346947", -- [4]
-							"Unstable Goods", -- [5]
-							52.2, -- [6]
-							451164, -- [7]
+						["354147"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"354147", -- [4]
+							"Raze (4)", -- [5]
+							81.7, -- [6]
+							3528301, -- [7]
 						},
 						["347670"] = {
 							2435, -- [1]
@@ -650,50 +651,50 @@ RADataBase = {
 							55, -- [6]
 							458227, -- [7]
 						},
-						["360319"] = {
-							2543, -- [1]
-							2457, -- [2]
-							"Lords of Dread", -- [3]
-							"360319", -- [4]
-							"AoE Phase (3)", -- [5]
-							51, -- [6]
-							538518, -- [7]
+						["347610"] = {
+							2437, -- [1]
+							2451, -- [2]
+							"So'azmi", -- [3]
+							"347610", -- [4]
+							"Shuri", -- [5]
+							27.9, -- [6]
+							1041235, -- [7]
 						},
-						["361913"] = {
-							2543, -- [1]
-							2457, -- [2]
-							"Lords of Dread", -- [3]
-							"361913", -- [4]
-							"Adds (6)", -- [5]
-							72.5, -- [6]
-							236296, -- [7]
+						["360906"] = {
+							2512, -- [1]
+							2458, -- [2]
+							"Vigilant Guardian", -- [3]
+							"360906", -- [4]
+							"Refracted Blast (10)", -- [5]
+							15.8, -- [6]
+							1044088, -- [7]
 						},
-						["354147"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"354147", -- [4]
-							"Raze (4)", -- [5]
-							81.7, -- [6]
-							3528301, -- [7]
+						["320772"] = {
+							2390, -- [1]
+							2396, -- [2]
+							"Nalthor the Rimebinder", -- [3]
+							"320772", -- [4]
+							"<Cast: Comet Storm>", -- [5]
+							6, -- [6]
+							1033907, -- [7]
 						},
-						["360012"] = {
-							2543, -- [1]
-							2457, -- [2]
-							"Lords of Dread", -- [3]
-							"360012", -- [4]
-							"Carrion (11)", -- [5]
-							51.5, -- [6]
-							136128, -- [7]
+						["365315"] = {
+							2512, -- [1]
+							2458, -- [2]
+							"Vigilant Guardian", -- [3]
+							"365315", -- [4]
+							"Small Adds (10)", -- [5]
+							60, -- [6]
+							1029580, -- [7]
 						},
-						["365958"] = {
-							2546, -- [1]
-							2469, -- [2]
-							"Anduin Wrynn", -- [3]
-							"365958", -- [4]
-							"Marks (2)", -- [5]
-							58.5, -- [6]
-							632353, -- [7]
+						["320637"] = {
+							2387, -- [1]
+							2395, -- [2]
+							"Blightbone", -- [3]
+							"320637", -- [4]
+							"Fetid Gas", -- [5]
+							25, -- [6]
+							646782, -- [7]
 						},
 						["268306"] = {
 							2116, -- [1]
@@ -722,14 +723,14 @@ RADataBase = {
 							21.1, -- [6]
 							132849, -- [7]
 						},
-						["347610"] = {
-							2437, -- [1]
-							2451, -- [2]
-							"So'azmi", -- [3]
-							"347610", -- [4]
-							"Shuri", -- [5]
-							27.9, -- [6]
-							1041235, -- [7]
+						["365120"] = {
+							2546, -- [1]
+							2469, -- [2]
+							"Anduin Wrynn", -- [3]
+							"365120", -- [4]
+							"Fear Adds (2)", -- [5]
+							87, -- [6]
+							237569, -- [7]
 						},
 						["360146"] = {
 							2543, -- [1]
@@ -740,23 +741,23 @@ RADataBase = {
 							50, -- [6]
 							3163624, -- [7]
 						},
-						["362405"] = {
-							2546, -- [1]
-							2469, -- [2]
-							"Anduin Wrynn", -- [3]
-							"362405", -- [4]
-							"Kingsmourne (1)", -- [5]
-							48.5, -- [6]
-							1376744, -- [7]
+						["322681"] = {
+							2389, -- [1]
+							2392, -- [2]
+							"Surgeon Stitchflesh", -- [3]
+							"322681", -- [4]
+							"Meat Hook", -- [5]
+							18, -- [6]
+							1373906, -- [7]
 						},
-						["365295"] = {
-							2546, -- [1]
-							2469, -- [2]
-							"Anduin Wrynn", -- [3]
-							"365295", -- [4]
-							"Barrier (2)", -- [5]
-							47, -- [6]
-							2065625, -- [7]
+						["chains_active"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"chains_active", -- [4]
+							"Chains Active (1)", -- [5]
+							7.2, -- [6]
+							236922, -- [7]
 						},
 						["360412"] = {
 							2512, -- [1]
@@ -767,32 +768,32 @@ RADataBase = {
 							107, -- [6]
 							2065616, -- [7]
 						},
-						["349954"] = {
-							2441, -- [1]
-							2454, -- [2]
-							"The Grand Menagerie", -- [3]
-							"349954", -- [4]
-							"Purification Protocol", -- [5]
-							18.2, -- [6]
-							3528285, -- [7]
+						["350919"] = {
+							2440, -- [1]
+							2452, -- [2]
+							"Myza's Oasis", -- [3]
+							"350919", -- [4]
+							"Crowd Control", -- [5]
+							18.5, -- [6]
+							3931763, -- [7]
 						},
-						["353417"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"353417", -- [4]
-							"Rive Over", -- [5]
-							30, -- [6]
-							4062738, -- [7]
+						["67382"] = {
+							2384, -- [1]
+							2403, -- [2]
+							"Doctor Ickus", -- [3]
+							"67382", -- [4]
+							"Leap", -- [5]
+							57, -- [6]
+							236171, -- [7]
 						},
-						["347704"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"347704", -- [4]
-							"Veil (6)", -- [5]
-							63.6, -- [6]
-							1778226, -- [7]
+						["362405"] = {
+							2546, -- [1]
+							2469, -- [2]
+							"Anduin Wrynn", -- [3]
+							"362405", -- [4]
+							"Kingsmourne (1)", -- [5]
+							48.5, -- [6]
+							1376744, -- [7]
 						},
 						["347949"] = {
 							2425, -- [1]
@@ -830,15 +831,6 @@ RADataBase = {
 							22, -- [6]
 							1016245, -- [7]
 						},
-						["320772"] = {
-							2390, -- [1]
-							2396, -- [2]
-							"Nalthor the Rimebinder", -- [3]
-							"320772", -- [4]
-							"<Cast: Comet Storm>", -- [5]
-							6, -- [6]
-							1033907, -- [7]
-						},
 						["365297"] = {
 							2529, -- [1]
 							2463, -- [2]
@@ -847,6 +839,15 @@ RADataBase = {
 							"Prisms (1)", -- [5]
 							47, -- [6]
 							4263293, -- [7]
+						},
+						["266266"] = {
+							2117, -- [1]
+							2129, -- [2]
+							"Gorak Tul", -- [3]
+							"266266", -- [4]
+							"Summon Deathtouched Slaver", -- [5]
+							17, -- [6]
+							136194, -- [7]
 						},
 						["364114"] = {
 							2549, -- [1]
@@ -857,14 +858,14 @@ RADataBase = {
 							30.2, -- [6]
 							136158, -- [7]
 						},
-						["321247"] = {
-							2388, -- [1]
-							2391, -- [2]
-							"Amarth, The Reanimator", -- [3]
-							"321247", -- [4]
-							"Final Harvest", -- [5]
-							47.5, -- [6]
-							2576087, -- [7]
+						["349797"] = {
+							2441, -- [1]
+							2454, -- [2]
+							"The Grand Menagerie", -- [3]
+							"349797", -- [4]
+							"Grand Consumption", -- [5]
+							25.9, -- [6]
+							3528279, -- [7]
 						},
 						["nil"] = {
 							2549, -- [1]
@@ -884,32 +885,32 @@ RADataBase = {
 							11, -- [6]
 							636332, -- [7]
 						},
-						["351086"] = {
-							2442, -- [1]
-							2455, -- [2]
-							"So'leah", -- [3]
-							"351086", -- [4]
-							"Power Overwhelming", -- [5]
-							65, -- [6]
-							1033914, -- [7]
+						["367079"] = {
+							2529, -- [1]
+							2463, -- [2]
+							"Halondrus the Reclaimer", -- [3]
+							"367079", -- [4]
+							"Motes + Tremors (4)", -- [5]
+							26, -- [6]
+							796637, -- [7]
 						},
-						["364465"] = {
-							2553, -- [1]
-							2470, -- [2]
-							"Artificer Xy'mox v2", -- [3]
-							"364465", -- [4]
-							"Rings S4 (3)", -- [5]
-							33.3, -- [6]
-							4037122, -- [7]
+						["359610"] = {
+							2512, -- [1]
+							2458, -- [2]
+							"Vigilant Guardian", -- [3]
+							"359610", -- [4]
+							"Deresolution (10)", -- [5]
+							35, -- [6]
+							1357794, -- [7]
 						},
-						["352271"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"352271", -- [4]
-							"Wave (9)", -- [5]
-							3, -- [6]
-							2492256, -- [7]
+						["332617"] = {
+							2384, -- [1]
+							2403, -- [2]
+							"Doctor Ickus", -- [3]
+							"332617", -- [4]
+							"Pestilence Surge", -- [5]
+							10.5, -- [6]
+							3459800, -- [7]
 						},
 						["353952"] = {
 							2435, -- [1]
@@ -929,32 +930,14 @@ RADataBase = {
 							8, -- [6]
 							132284, -- [7]
 						},
-						["349797"] = {
-							2441, -- [1]
-							2454, -- [2]
-							"The Grand Menagerie", -- [3]
-							"349797", -- [4]
-							"Grand Consumption", -- [5]
-							25.9, -- [6]
-							3528279, -- [7]
-						},
-						["264694"] = {
-							2115, -- [1]
-							2127, -- [2]
-							"Raal the Gluttonous", -- [3]
-							"264694", -- [4]
-							"Rotten Expulsion", -- [5]
-							25, -- [6]
-							132098, -- [7]
-						},
-						["354068"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"354068", -- [4]
-							"<Cast: Banshee's Fury>", -- [5]
-							5, -- [6]
-							136201, -- [7]
+						["347623"] = {
+							2437, -- [1]
+							2451, -- [2]
+							"So'azmi", -- [3]
+							"347623", -- [4]
+							"Quickblade", -- [5]
+							15.5, -- [6]
+							236273, -- [7]
 						},
 						["268278"] = {
 							2116, -- [1]
@@ -964,6 +947,24 @@ RADataBase = {
 							"Wracking Chord", -- [5]
 							8, -- [6]
 							136181, -- [7]
+						},
+						["350086"] = {
+							2441, -- [1]
+							2454, -- [2]
+							"The Grand Menagerie", -- [3]
+							"350086", -- [4]
+							"Whirling Annihilation", -- [5]
+							25.5, -- [6]
+							3528301, -- [7]
+						},
+						["351124"] = {
+							2442, -- [1]
+							2455, -- [2]
+							"So'leah", -- [3]
+							"351124", -- [4]
+							"Summon Assassins", -- [5]
+							42, -- [6]
+							413583, -- [7]
 						},
 						["260907"] = {
 							2113, -- [1]
@@ -1001,14 +1002,14 @@ RADataBase = {
 							80, -- [6]
 							1029580, -- [7]
 						},
-						["367079"] = {
-							2529, -- [1]
-							2463, -- [2]
-							"Halondrus the Reclaimer", -- [3]
-							"367079", -- [4]
-							"Motes + Tremors (4)", -- [5]
-							26, -- [6]
-							796637, -- [7]
+						["264923"] = {
+							2115, -- [1]
+							2127, -- [2]
+							"Raal the Gluttonous", -- [3]
+							"264923", -- [4]
+							"Tenderize", -- [5]
+							36.4, -- [6]
+							132318, -- [7]
 						},
 						["355438"] = {
 							2440, -- [1]
@@ -1028,23 +1029,23 @@ RADataBase = {
 							41.1, -- [6]
 							237511, -- [7]
 						},
-						["348109"] = {
+						["347704"] = {
 							2435, -- [1]
 							2441, -- [2]
 							"Sylvanas Windrunner", -- [3]
-							"348109", -- [4]
-							"Banshee Wail (1)", -- [5]
-							48.5, -- [6]
-							136214, -- [7]
+							"347704", -- [4]
+							"Veil (6)", -- [5]
+							63.6, -- [6]
+							1778226, -- [7]
 						},
-						["355540"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"355540", -- [4]
-							"Ruin (4)", -- [5]
-							7.1, -- [6]
-							1035040, -- [7]
+						["349954"] = {
+							2441, -- [1]
+							2454, -- [2]
+							"The Grand Menagerie", -- [3]
+							"349954", -- [4]
+							"Purification Protocol", -- [5]
+							18.2, -- [6]
+							3528285, -- [7]
 						},
 						["360451"] = {
 							2542, -- [1]
@@ -1055,14 +1056,14 @@ RADataBase = {
 							44, -- [6]
 							136007, -- [7]
 						},
-						["260741"] = {
-							2113, -- [1]
-							2125, -- [2]
-							"Heartsbane Triad", -- [3]
-							"260741", -- [4]
-							"Jagged Nettles", -- [5]
-							8.5, -- [6]
-							959837, -- [7]
+						["353417"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"353417", -- [4]
+							"Rive Over", -- [5]
+							30, -- [6]
+							4062738, -- [7]
 						},
 						["360162"] = {
 							2512, -- [1]
@@ -1073,14 +1074,14 @@ RADataBase = {
 							31.5, -- [6]
 							525025, -- [7]
 						},
-						["354011"] = {
-							2435, -- [1]
-							2441, -- [2]
-							"Sylvanas Windrunner", -- [3]
-							"354011", -- [4]
-							"Pools (5)", -- [5]
-							74, -- [6]
-							136181, -- [7]
+						["365295"] = {
+							2546, -- [1]
+							2469, -- [2]
+							"Anduin Wrynn", -- [3]
+							"365295", -- [4]
+							"Barrier (2)", -- [5]
+							47, -- [6]
+							2065625, -- [7]
 						},
 						["321368"] = {
 							2390, -- [1]
@@ -1091,23 +1092,23 @@ RADataBase = {
 							25.5, -- [6]
 							236224, -- [7]
 						},
-						["264923"] = {
-							2115, -- [1]
-							2127, -- [2]
-							"Raal the Gluttonous", -- [3]
-							"264923", -- [4]
-							"Tenderize", -- [5]
-							36.4, -- [6]
-							132318, -- [7]
+						["346286"] = {
+							2424, -- [1]
+							2436, -- [2]
+							"Mailroom Mayhem", -- [3]
+							"346286", -- [4]
+							"Hazardous Liquids", -- [5]
+							52.2, -- [6]
+							2057570, -- [7]
 						},
-						["351124"] = {
-							2442, -- [1]
-							2455, -- [2]
-							"So'leah", -- [3]
-							"351124", -- [4]
-							"Summon Assassins", -- [5]
-							42, -- [6]
-							413583, -- [7]
+						["362206"] = {
+							2549, -- [1]
+							2467, -- [2]
+							"Rygelon", -- [3]
+							"362206", -- [4]
+							"Event Horizon on YOU", -- [5]
+							5, -- [6]
+							1778225, -- [7]
 						},
 						["361815"] = {
 							2546, -- [1]
@@ -1118,77 +1119,14 @@ RADataBase = {
 							58.5, -- [6]
 							3528300, -- [7]
 						},
-						["350086"] = {
-							2441, -- [1]
-							2454, -- [2]
-							"The Grand Menagerie", -- [3]
-							"350086", -- [4]
-							"Whirling Annihilation", -- [5]
-							25.5, -- [6]
-							3528301, -- [7]
-						},
-						["359610"] = {
-							2512, -- [1]
-							2458, -- [2]
-							"Vigilant Guardian", -- [3]
-							"359610", -- [4]
-							"Deresolution (10)", -- [5]
-							35, -- [6]
-							1357794, -- [7]
-						},
-						["346286"] = {
-							2424, -- [1]
-							2436, -- [2]
-							"Mailroom Mayhem", -- [3]
-							"346286", -- [4]
-							"Hazardous Liquids", -- [5]
-							52.2, -- [6]
-							2057570, -- [7]
-						},
-						["264931"] = {
-							2115, -- [1]
-							2127, -- [2]
-							"Raal the Gluttonous", -- [3]
-							"264931", -- [4]
-							"Call Servant", -- [5]
-							29, -- [6]
-							1769027, -- [7]
-						},
-						["266266"] = {
-							2117, -- [1]
-							2129, -- [2]
-							"Gorak Tul", -- [3]
-							"266266", -- [4]
-							"Summon Deathtouched Slaver", -- [5]
-							17, -- [6]
-							136194, -- [7]
-						},
-						["chains_active"] = {
+						["354068"] = {
 							2435, -- [1]
 							2441, -- [2]
 							"Sylvanas Windrunner", -- [3]
-							"chains_active", -- [4]
-							"Chains Active (1)", -- [5]
-							7.2, -- [6]
-							236922, -- [7]
-						},
-						["345770"] = {
-							2425, -- [1]
-							2437, -- [2]
-							"Zo'phex the Sentinel", -- [3]
-							"345770", -- [4]
-							"Impound Contraband", -- [5]
-							19.3, -- [6]
-							1724003, -- [7]
-						},
-						["347623"] = {
-							2437, -- [1]
-							2451, -- [2]
-							"So'azmi", -- [3]
-							"347623", -- [4]
-							"Quickblade", -- [5]
-							15.5, -- [6]
-							236273, -- [7]
+							"354068", -- [4]
+							"<Cast: Banshee's Fury>", -- [5]
+							5, -- [6]
+							136201, -- [7]
 						},
 						["320596"] = {
 							2387, -- [1]
@@ -1199,69 +1137,6 @@ RADataBase = {
 							24.5, -- [6]
 							136182, -- [7]
 						},
-						["322681"] = {
-							2389, -- [1]
-							2392, -- [2]
-							"Surgeon Stitchflesh", -- [3]
-							"322681", -- [4]
-							"Meat Hook", -- [5]
-							18, -- [6]
-							1373906, -- [7]
-						},
-						["320637"] = {
-							2387, -- [1]
-							2395, -- [2]
-							"Blightbone", -- [3]
-							"320637", -- [4]
-							"Fetid Gas", -- [5]
-							25, -- [6]
-							646782, -- [7]
-						},
-						["365315"] = {
-							2512, -- [1]
-							2458, -- [2]
-							"Vigilant Guardian", -- [3]
-							"365315", -- [4]
-							"Small Adds (10)", -- [5]
-							60, -- [6]
-							1029580, -- [7]
-						},
-						["360906"] = {
-							2512, -- [1]
-							2458, -- [2]
-							"Vigilant Guardian", -- [3]
-							"360906", -- [4]
-							"Refracted Blast (10)", -- [5]
-							15.8, -- [6]
-							1044088, -- [7]
-						},
-						["346962"] = {
-							2424, -- [1]
-							2436, -- [2]
-							"Mailroom Mayhem", -- [3]
-							"346962", -- [4]
-							"Money Order", -- [5]
-							50.5, -- [6]
-							370211, -- [7]
-						},
-						["346766"] = {
-							2426, -- [1]
-							2448, -- [2]
-							"Hylbrande", -- [3]
-							"346766", -- [4]
-							"Sanitizing Cycle", -- [5]
-							38.8, -- [6]
-							135949, -- [7]
-						},
-						["360717"] = {
-							2543, -- [1]
-							2457, -- [2]
-							"Lords of Dread", -- [3]
-							"360717", -- [4]
-							"Among Us (3)", -- [5]
-							126, -- [6]
-							460691, -- [7]
-						},
 						["333488"] = {
 							2388, -- [1]
 							2391, -- [2]
@@ -1270,6 +1145,42 @@ RADataBase = {
 							"Necrotic Breath", -- [5]
 							46, -- [6]
 							2576093, -- [7]
+						},
+						["264931"] = {
+							2115, -- [1]
+							2127, -- [2]
+							"Raal the Gluttonous", -- [3]
+							"264931", -- [4]
+							"Call Servant", -- [5]
+							29, -- [6]
+							1769027, -- [7]
+						},
+						["264694"] = {
+							2115, -- [1]
+							2127, -- [2]
+							"Raal the Gluttonous", -- [3]
+							"264694", -- [4]
+							"Rotten Expulsion", -- [5]
+							25, -- [6]
+							132098, -- [7]
+						},
+						["352271"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"352271", -- [4]
+							"Wave (9)", -- [5]
+							3, -- [6]
+							2492256, -- [7]
+						},
+						["345770"] = {
+							2425, -- [1]
+							2437, -- [2]
+							"Zo'phex the Sentinel", -- [3]
+							"345770", -- [4]
+							"Impound Contraband", -- [5]
+							19.3, -- [6]
+							1724003, -- [7]
 						},
 						["347151"] = {
 							2419, -- [1]
@@ -1280,23 +1191,113 @@ RADataBase = {
 							8.1, -- [6]
 							134226, -- [7]
 						},
-						["350517"] = {
-							2419, -- [1]
-							2449, -- [2]
-							"Timecap'n Hooktail", -- [3]
-							"350517", -- [4]
-							"Double Time", -- [5]
-							55, -- [6]
-							458224, -- [7]
+						["321247"] = {
+							2388, -- [1]
+							2391, -- [2]
+							"Amarth, The Reanimator", -- [3]
+							"321247", -- [4]
+							"Final Harvest", -- [5]
+							47.5, -- [6]
+							2576087, -- [7]
 						},
-						["350919"] = {
+						["354011"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"354011", -- [4]
+							"Pools (5)", -- [5]
+							74, -- [6]
+							136181, -- [7]
+						},
+						["260741"] = {
+							2113, -- [1]
+							2125, -- [2]
+							"Heartsbane Triad", -- [3]
+							"260741", -- [4]
+							"Jagged Nettles", -- [5]
+							8.5, -- [6]
+							959837, -- [7]
+						},
+						["355540"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"355540", -- [4]
+							"Ruin (4)", -- [5]
+							7.1, -- [6]
+							1035040, -- [7]
+						},
+						["348109"] = {
+							2435, -- [1]
+							2441, -- [2]
+							"Sylvanas Windrunner", -- [3]
+							"348109", -- [4]
+							"Banshee Wail (1)", -- [5]
+							48.5, -- [6]
+							136214, -- [7]
+						},
+						["324527"] = {
+							2382, -- [1]
+							2419, -- [2]
+							"Globgrog", -- [3]
+							"324527", -- [4]
+							"Plaguestomp", -- [5]
+							35, -- [6]
+							1044089, -- [7]
+						},
+						["350922"] = {
 							2440, -- [1]
 							2452, -- [2]
 							"Myza's Oasis", -- [3]
-							"350919", -- [4]
-							"Crowd Control", -- [5]
-							18.5, -- [6]
-							3931763, -- [7]
+							"350922", -- [4]
+							"Menacing Shout", -- [5]
+							12.5, -- [6]
+							132333, -- [7]
+						},
+						["360717"] = {
+							2543, -- [1]
+							2457, -- [2]
+							"Lords of Dread", -- [3]
+							"360717", -- [4]
+							"Among Us (3)", -- [5]
+							126, -- [6]
+							460691, -- [7]
+						},
+						["364465"] = {
+							2553, -- [1]
+							2470, -- [2]
+							"Artificer Xy'mox v2", -- [3]
+							"364465", -- [4]
+							"Rings S4 (3)", -- [5]
+							33.3, -- [6]
+							4037122, -- [7]
+						},
+						["366849"] = {
+							2546, -- [1]
+							2469, -- [2]
+							"Anduin Wrynn", -- [3]
+							"366849", -- [4]
+							"DW:Pain (1)", -- [5]
+							11.5, -- [6]
+							136207, -- [7]
+						},
+						["347094"] = {
+							2426, -- [1]
+							2448, -- [2]
+							"Hylbrande", -- [3]
+							"347094", -- [4]
+							"Titanic Crash", -- [5]
+							15.4, -- [6]
+							236312, -- [7]
+						},
+						["365958"] = {
+							2546, -- [1]
+							2469, -- [2]
+							"Anduin Wrynn", -- [3]
+							"365958", -- [4]
+							"Marks (2)", -- [5]
+							58.5, -- [6]
+							632353, -- [7]
 						},
 						["363533"] = {
 							2549, -- [1]
@@ -1316,14 +1317,14 @@ RADataBase = {
 							5, -- [6]
 							3954409, -- [7]
 						},
-						["321226"] = {
-							2388, -- [1]
-							2391, -- [2]
-							"Amarth, The Reanimator", -- [3]
-							"321226", -- [4]
-							"Land of the Dead", -- [5]
-							12, -- [6]
-							136179, -- [7]
+						["350517"] = {
+							2419, -- [1]
+							2449, -- [2]
+							"Timecap'n Hooktail", -- [3]
+							"350517", -- [4]
+							"Double Time", -- [5]
+							55, -- [6]
+							458224, -- [7]
 						},
 						["364881"] = {
 							2512, -- [1]
@@ -1352,44 +1353,43 @@ RADataBase = {
 							33.3, -- [6]
 							4037124, -- [7]
 						},
-						["350922"] = {
-							2440, -- [1]
-							2452, -- [2]
-							"Myza's Oasis", -- [3]
-							"350922", -- [4]
-							"Menacing Shout", -- [5]
-							12.5, -- [6]
-							132333, -- [7]
+						["325245"] = {
+							2385, -- [1]
+							2423, -- [2]
+							"Domina Venomblade", -- [3]
+							"325245", -- [4]
+							"Shadow Ambush", -- [5]
+							22, -- [6]
+							1305160, -- [7]
 						},
 					},
 					["RANotepadMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
-					["currently_shown_noteId"] = 0,
-					["editing_boss_id"] = 0,
+					["text_face"] = "Friz Quadrata TT",
+					["locked"] = false,
 					["editor_alpha"] = 0.5,
-					["latest_menu_option_note_selected"] = 0,
-					["auto_format"] = true,
-					["auto_complete"] = true,
-					["boss_notes"] = {
-					},
+					["can_scroll_to_phase"] = true,
+					["text_shadow"] = false,
+					["latest_menu_option_boss_selected"] = 0,
+					["bar_texture"] = "You Are Beautiful!",
 				},
 				["Player Check"] = {
-					["menu_priority"] = 119,
+					["cache"] = {
+					},
 					["RAPlayerCheckMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["leader_request_interval"] = 600,
-					["cache"] = {
-					},
+					["menu_priority"] = 119,
 				},
 				["Attendance"] = {
 					["sorting_by"] = 1,
@@ -1399,26 +1399,26 @@ RADataBase = {
 					["playerids"] = {
 					},
 					["RAAttendanceMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 				},
 				["Aura Check"] = {
 					["enabled"] = true,
 					["menu_priority"] = 26,
+					["installed_history"] = {
+					},
+					["auto_install_from_trusted"] = false,
+					["only_from_guild"] = false,
 					["RAAuraCheckMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
-					},
-					["auto_install_from_trusted"] = false,
-					["only_from_guild"] = false,
-					["installed_history"] = {
 					},
 				},
 				["Check Addons"] = {
@@ -1429,58 +1429,68 @@ RADataBase = {
 						["BigWigs"] = true,
 					},
 					["RAAddonsCheckMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["menu_priority"] = 24,
 				},
 				["Send Text"] = {
 					["enabled"] = true,
 					["PasteTextScreenFrame"] = {
-						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
+						["IsLocked"] = false,
 					},
 					["menu_priority"] = 20,
 					["RAPasteTextMainFrame"] = {
-						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
+						["IsLocked"] = false,
 					},
 					["texts"] = {
 					},
 				},
-				["Raid Groups"] = {
-					["show_class_name"] = true,
-					["show_class_icon"] = true,
-					["text_size"] = 10,
-					["show_rank_icons"] = true,
-					["group_saved"] = {
-					},
-					["text_face"] = "Friz Quadrata TT",
-					["RARaidGroupsMainFrame"] = {
+				["Share Text"] = {
+					["enabled"] = true,
+					["PasteTextScreenFrame"] = {
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
 						["IsLocked"] = false,
 					},
-					["menu_priority"] = 95,
-					["show_level"] = true,
-					["filter"] = false,
-					["enabled"] = true,
-					["text_shadow"] = false,
-					["auto_refresh_roster"] = true,
-					["show_role_icon"] = true,
+					["menu_priority"] = 20,
+					["RAPasteTextMainFrame"] = {
+						["position"] = {
+							["y"] = -6.103515625e-05,
+							["x"] = 0,
+						},
+						["IsLocked"] = false,
+					},
+					["texts"] = {
+					},
 				},
 				["BisList"] = {
+					["characters"] = {
+					},
+					["RABisListMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = -6.103515625e-05,
+							["x"] = 0,
+						},
+					},
+					["enabled"] = true,
+					["menu_priority"] = 13,
+				},
+				["Bis List"] = {
 					["characters"] = {
 					},
 					["RABisListMainFrame"] = {
@@ -1496,48 +1506,42 @@ RADataBase = {
 				["Cooldowns"] = {
 					["bar_grow_inverse"] = false,
 					["RACooldownsMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["tracking_spells_cache"] = {
-						[64901] = true,
-						[64843] = true,
-						[51052] = true,
-						[47788] = true,
 					},
 					["cooldowns_panels"] = {
 					},
 					["only_in_group"] = true,
 					["bar_fixed_color"] = {
 						["a"] = 1,
-						["r"] = 0.7,
-						["g"] = 0.7,
 						["b"] = 0.7,
+						["g"] = 0.7,
+						["r"] = 0.7,
 					},
 					["panel_background_color"] = {
 						["a"] = 0.1,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
 					["locked"] = false,
 					["panel_background_border_color"] = {
 						["a"] = 0.3,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
 					["units_in_the_group"] = {
-						["Soapbiscuit-Destromath"] = true,
-						["Papipriest-Thunderlord"] = true,
 					},
 					["only_inside_instances"] = false,
 					["enabled"] = true,
 					["only_in_raid_encounter"] = false,
-					["text_shadow"] = false,
+					["only_in_combat"] = false,
 					["menu_priority"] = 9,
 					["text_font"] = "Friz Quadrata TT",
 					["cooldowns_enabled"] = {
@@ -1563,32 +1567,28 @@ RADataBase = {
 						[108280] = true,
 						[16191] = true,
 						[77761] = true,
-						[633] = true,
+						[114052] = true,
+						[115310] = true,
 						[204150] = true,
-						[15286] = true,
+						[322118] = true,
 						[62618] = true,
 						[98008] = true,
 						[116849] = true,
-						[271466] = true,
-						[31821] = true,
-						[108281] = true,
-						[114030] = true,
-						[204018] = true,
-						[29166] = true,
-						[64843] = true,
-						[322118] = true,
-						[115310] = true,
 						[76577] = true,
+						[31821] = true,
+						[64843] = true,
+						[114030] = true,
+						[29166] = true,
+						[204018] = true,
+						[108281] = true,
+						[271466] = true,
+						[15286] = true,
+						[633] = true,
 					},
 					["only_in_raid_group"] = true,
-					["text_size"] = 11,
-					["bar_height"] = 20,
-					["text_color"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
+					["panel_positions"] = {
 					},
+					["bar_height"] = 20,
 					["roster_cache"] = {
 						{
 						}, -- [1]
@@ -1599,56 +1599,8 @@ RADataBase = {
 						{
 						}, -- [4]
 						{
-							["Papipriest-Thunderlord"] = {
-								["connected"] = true,
-								["alive"] = true,
-								["name"] = "Papipriest-Thunderlord",
-								["spells"] = {
-									[64901] = {
-										["charges_next"] = 0,
-										["charges_max"] = 1,
-										["charges_amt"] = 1,
-										["spellid"] = 64901,
-										["type"] = 4,
-									},
-									[64843] = {
-										["charges_next"] = 0,
-										["charges_max"] = 1,
-										["charges_amt"] = 1,
-										["spellid"] = 64843,
-										["type"] = 4,
-									},
-									[47788] = {
-										["charges_next"] = 0,
-										["charges_max"] = 1,
-										["charges_amt"] = 1,
-										["spellid"] = 47788,
-										["type"] = 3,
-									},
-								},
-								["class"] = "PRIEST",
-								["raidgroup"] = 1,
-								["spec"] = 257,
-							},
 						}, -- [5]
 						{
-							["Soapbiscuit-Destromath"] = {
-								["connected"] = true,
-								["alive"] = true,
-								["name"] = "Soapbiscuit-Destromath",
-								["spells"] = {
-									[51052] = {
-										["charges_next"] = 0,
-										["charges_max"] = 1,
-										["charges_amt"] = 1,
-										["spellid"] = 51052,
-										["type"] = 4,
-									},
-								},
-								["class"] = "DEATHKNIGHT",
-								["raidgroup"] = 1,
-								["spec"] = 250,
-							},
 						}, -- [6]
 						{
 						}, -- [7]
@@ -1664,24 +1616,16 @@ RADataBase = {
 						}, -- [12]
 					},
 					["bar_class_color"] = true,
-					["panel_positions"] = {
+					["text_color"] = {
+						["a"] = 1,
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
-					["only_in_combat"] = false,
+					["text_size"] = 11,
+					["text_shadow"] = false,
 					["panel_width"] = 200,
 					["bar_texture"] = "Iskar Serenity",
-				},
-				["Bis List"] = {
-					["characters"] = {
-					},
-					["RABisListMainFrame"] = {
-						["IsLocked"] = false,
-						["position"] = {
-							["y"] = -6.103515625e-05,
-							["x"] = 0,
-						},
-					},
-					["enabled"] = true,
-					["menu_priority"] = 13,
 				},
 				["RaidSchedule"] = {
 					["menu_priority"] = 4,
@@ -1691,11 +1635,11 @@ RADataBase = {
 					["cores"] = {
 					},
 					["RARaidScheduleMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = -6.103515625e-05,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 				},
 				["Leader Toolbar"] = {
@@ -1707,34 +1651,37 @@ RADataBase = {
 					["readycheck_timer"] = 35,
 					["hide_not_in_group"] = false,
 					["reverse_order"] = true,
-					["RALeaderToolbarMainFrame"] = {
-						["position"] = {
-							["y"] = -6.103515625e-05,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
 					["frame_scale"] = 1,
+					["RALeaderToolbarMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = -6.103515625e-05,
+							["x"] = 0,
+						},
+					},
 				},
-				["Share Text"] = {
+				["Raid Groups"] = {
+					["show_class_name"] = true,
+					["show_class_icon"] = true,
+					["text_size"] = 10,
+					["show_rank_icons"] = true,
+					["group_saved"] = {
+					},
+					["text_face"] = "Friz Quadrata TT",
+					["RARaidGroupsMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = -6.103515625e-05,
+							["x"] = 0,
+						},
+					},
+					["menu_priority"] = 95,
 					["enabled"] = true,
-					["PasteTextScreenFrame"] = {
-						["IsLocked"] = false,
-						["position"] = {
-							["y"] = -6.103515625e-05,
-							["x"] = 0,
-						},
-					},
-					["menu_priority"] = 20,
-					["RAPasteTextMainFrame"] = {
-						["IsLocked"] = false,
-						["position"] = {
-							["y"] = -6.103515625e-05,
-							["x"] = 0,
-						},
-					},
-					["texts"] = {
-					},
+					["filter"] = false,
+					["show_level"] = true,
+					["text_shadow"] = false,
+					["auto_refresh_roster"] = true,
+					["show_role_icon"] = true,
 				},
 			},
 			["welcome_screen1"] = true,

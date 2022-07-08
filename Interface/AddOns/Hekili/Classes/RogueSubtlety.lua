@@ -181,7 +181,7 @@ if UnitClassBase( "player" ) == "ROGUE" then
         },
         kidney_shot = {
             id = 408,
-            duration = 6,
+            duration = function() return 1 + effective_combo_points end,
             max_stack = 1,
         },
         marked_for_death = {
@@ -209,9 +209,6 @@ if UnitClassBase( "player" ) == "ROGUE" then
         },
         --[[ Share Assassination implementation to avoid errors.
         rupture = {
-            id = 1943,
-            duration = function () return talent.deeper_stratagem.enabled and 28 or 24 end,
-            max_stack = 1,
         }, ]]
         shadow_blades = {
             id = 121471,
@@ -254,7 +251,7 @@ if UnitClassBase( "player" ) == "ROGUE" then
         },
         slice_and_dice = {
             id = 315496,
-            duration = 10,
+            duration = function () return 6 * ( 1 + effective_combo_points ) end,
             max_stack = 1,
         },
         sprint = {
@@ -531,6 +528,16 @@ if UnitClassBase( "player" ) == "ROGUE" then
         return combo_points.max
     end )
 
+
+    spec:RegisterStateExpr( "effective_combo_points", function ()
+        local c = combo_points.current or 0
+        if not covenant.kyrian then return c end
+        if c < 2 or c > 5 then return c end
+        if buff[ "echoing_reprimand_" .. c ].up then return 7 end
+        return c
+    end )
+
+
     -- Legendary from Legion, shows up in APL still.
     spec:RegisterGear( "cinidaria_the_symbiote", 133976 )
     spec:RegisterGear( "denial_of_the_halfgiants", 137100 )
@@ -740,13 +747,13 @@ if UnitClassBase( "player" ) == "ROGUE" then
 
             usable = function () return combo_points.current > 0, "requires combo_points" end,
             handler = function ()
-                if talent.alacrity.enabled and combo_points.current > 4 then addStack( "alacrity", nil, 1 ) end
-                if combo_points.current == animacharged_cp then removeBuff( "echoing_reprimand" ) end
+                if talent.alacrity.enabled and effective_combo_points > 4 then addStack( "alacrity", nil, 1 ) end
+                removeBuff( "echoing_reprimand_" .. combo_points.current )
 
                 if buff.finality_black_powder.up then removeBuff( "finality_black_powder" )
                 elseif legendary.finality.enabled then applyBuff( "finality_black_powder" ) end
 
-                spend( min( talent.deeper_stratagem.enabled and 6 or 5, combo_points.current ), "combo_points" )
+                spend( combo_points.current, "combo_points" )
                 if conduit.deeper_daggers.enabled then applyBuff( "deeper_daggers" ) end
             end,
 
@@ -848,7 +855,7 @@ if UnitClassBase( "player" ) == "ROGUE" then
 
             toggle = "cooldowns",
 
-            spend = function () return ( 20 - conduit.nimble_fingers.mod ) * ( ( talent.shadow_focus.enabled and ( buff.shadow_dance.up or buff.stealth.up ) ) and 0.8 or 1 ) end,
+            spend = function () return ( 20 + conduit.nimble_fingers.mod ) * ( ( talent.shadow_focus.enabled and ( buff.shadow_dance.up or buff.stealth.up ) ) and 0.8 or 1 ) end,
             spendType = "energy",
 
             startsCombat = false,
@@ -935,8 +942,8 @@ if UnitClassBase( "player" ) == "ROGUE" then
                 if buff.finality_eviscerate.up then removeBuff( "finality_eviscerate" )
                 elseif legendary.finality.enabled then applyBuff( "finality_eviscerate" ) end
 
-                if combo_points.current == animacharged_cp then removeBuff( "echoing_reprimand" ) end
-                spend( min( talent.deeper_stratagem.enabled and 6 or 5, combo_points.current ), "combo_points" )
+                removeBuff( "echoing_reprimand_" .. combo_points.current )
+                spend( combo_points.current, "combo_points" )
 
                 if conduit.deeper_daggers.enabled then applyBuff( "deeper_daggers" ) end
             end,
@@ -963,7 +970,7 @@ if UnitClassBase( "player" ) == "ROGUE" then
             cooldown = 15,
             gcd = "spell",
 
-            spend = function () return ( 35 - conduit.nimble_fingers.mod ) * ( ( talent.shadow_focus.enabled and ( buff.shadow_dance.up or buff.stealth.up ) ) and 0.8 or 1 ) end,
+            spend = function () return ( 35 + conduit.nimble_fingers.mod ) * ( ( talent.shadow_focus.enabled and ( buff.shadow_dance.up or buff.stealth.up ) ) and 0.8 or 1 ) end,
             spendType = "energy",
 
             startsCombat = false,
@@ -1058,8 +1065,6 @@ if UnitClassBase( "player" ) == "ROGUE" then
             spend = function () return 25 * ( ( talent.shadow_focus.enabled and ( buff.shadow_dance.up or buff.stealth.up ) ) and 0.8 or 1 ) * ( 1 + conduit.rushed_setup.mod * 0.01 ) end,
             spendType = "energy",
 
-            toggle = "cooldowns",
-
             startsCombat = true,
             texture = 132298,
 
@@ -1069,13 +1074,11 @@ if UnitClassBase( "player" ) == "ROGUE" then
                     addStack( "alacrity", 20, 1 )
                 end
 
-                local combo = min( talent.deeper_stratagem.enabled and 6 or 5, combo_points.current )
-                applyDebuff( "target", "kidney_shot", 2 + 1 * ( combo - 1 ) )
+                applyDebuff( "target", "kidney_shot", 1 + combo_points.current )
 
                 if talent.prey_on_the_weak.enabled then applyDebuff( "target", "prey_on_the_weak" ) end
 
-                if combo_points.current == animacharged_cp then removeBuff( "echoing_reprimand" ) end
-                spend( min( talent.deeper_stratagem.enabled and 6 or 5, combo_points.current ), "combo_points" )
+                spend( combo_points.current, "combo_points" )
             end,
         },
 
@@ -1167,8 +1170,8 @@ if UnitClassBase( "player" ) == "ROGUE" then
                 if buff.finality_rupture.up then removeBuff( "finality_rupture" )
                 elseif legendary.finality.enabled then applyBuff( "finality_rupture" ) end
 
-                if combo_points.current == animacharged_cp then removeBuff( "echoing_reprimand" ) end
-                spend( min( talent.deeper_stratagem.enabled and 6 or 5, combo_points.current ), "combo_points" )
+                removeBuff( "echoing_reprimand_" .. combo_points.current )
+                spend( combo_points.current, "combo_points" )
             end,
 
             auras = {
@@ -1214,7 +1217,7 @@ if UnitClassBase( "player" ) == "ROGUE" then
             usable = function () return combo_points.current > 0, "requires combo_points" end,
             handler = function ()
                 if talent.alacrity.enabled and combo_points.current > 4 then addStack( "alacrity", nil, 1 ) end
-                if combo_points.current == animacharged_cp then removeBuff( "echoing_reprimand" ) end
+                removeBuff( "echoing_reprimand_" .. combo_points.current )
                 spend( min( talent.deeper_stratagem.enabled and 6 or 5, combo_points.current ), "combo_points" )
             end,
         },

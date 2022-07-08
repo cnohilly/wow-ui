@@ -17,6 +17,10 @@ VER 3 0100000000000019 "flanking strike" "ABILITY_HUNTER_INVIGERATION"
 #showtooltip
 /cast [@mouseover,harm,nodead][@mouseovertarget,harm,nodead][]flanking strike
 END
+VER 3 0100000000000026 "flare" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Flare
+END
 VER 3 010000000000001D "focus concuss" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@focus] Concussive Shot
@@ -36,6 +40,7 @@ END
 VER 3 010000000000001E "md" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@focus] Misdirection
+/cast [@mouseover] Misdirection
 /cast [@pet] Misdirection
 END
 VER 3 010000000000001C "md aim" "135130"
@@ -56,5 +61,9 @@ VER 3 0100000000000024 "Volley Cursor" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000023 "Wild Spirits" "INV_MISC_QUESTIONMARK"
 #showtooltip
+/cast [@cursor] Resonating Arrow
+/cast Flayed Shot
+/cast Death Chakram
 /cast [@cursor] Wild Spirits
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Resonating Arrow" or G"Flayed Shot" or G"Death Chakram"or G"Wild Spirits")
 END

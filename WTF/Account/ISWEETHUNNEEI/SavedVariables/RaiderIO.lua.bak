@@ -15,4 +15,20 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Happybirth-tichondrius"
+RaiderIO_LastCharacter = "us-Stryfë-bleeding-hollow"
+RaiderIO_MissingCharacters = {
+	["us-Kevv-stormrage"] = true,
+	["us-Nukunuku-bleeding-hollow"] = true,
+	["us-Diirty-tichondrius"] = true,
+	["us-Poisoner-bleeding-hollow"] = true,
+	["us-Lilshifthead-bleeding-hollow"] = true,
+	["us-Stryfë-bleeding-hollow"] = true,
+	["us-Nayrown-bleeding-hollow"] = true,
+	["us-Varmint-bleeding-hollow"] = true,
+	["us-Unknown-bleeding-hollow"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}

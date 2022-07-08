@@ -1,10 +1,13 @@
 
 HandyNotes_ShadowlandsTreasuresDB = {
 	["profileKeys"] = {
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 	},
 	["profiles"] = {
+		["Lickk - Bleeding Hollow"] = {
+		},
 		["Jerkk - Bleeding Hollow"] = {
 			["collectablefound"] = false,
 			["show_npcs"] = false,

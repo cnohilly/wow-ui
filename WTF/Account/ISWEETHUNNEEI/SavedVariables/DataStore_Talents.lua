@@ -5,17 +5,17 @@ DataStore_TalentsDB = {
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Bleeding Hollow.Inolie"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1634093780,
+				["lastUpdate"] = 1657213776,
 				["Specializations"] = {
 					3945, -- [1]
 					1625, -- [2]
@@ -27,34 +27,34 @@ DataStore_TalentsDB = {
 			},
 			["Default.Bleeding Hollow.Holynoly"] = {
 				["Conduits"] = {
-					[114] = "1|182139|213|6|Shadow",
-					[116] = "1|182141|213|6|Holy",
-					[66] = "2|181826|213|6|",
-					[72] = "2|181840|200|5|",
-					[105] = "1|182130|213|6|",
-					[76] = "1|181844|213|6|Discipline",
-					[78] = "1|181847|213|6|Holy",
-					[113] = "1|182138|213|6|Shadow",
-					[84] = "1|181944|200|5|Holy",
-					[107] = "1|182131|200|5|Shadow",
-					[85] = "0|181962|213|6|",
-					[115] = "1|182140|213|6|Shadow",
-					[283] = "2|187506|239|8|",
-					[69] = "0|181837|213|6|",
-					[71] = "2|181838|213|6|",
-					[73] = "0|181842|200|5|",
-					[75] = "1|181843|213|6|Discipline",
-					[77] = "1|181845|200|5|Discipline",
-					[67] = "0|181827|213|6|",
-					[81] = "1|181867|213|6|Discipline",
-					[82] = "1|181942|200|5|Holy",
+					[114] = "1|182139|226|7|Shadow",
+					[116] = "1|182141|226|7|Holy",
+					[66] = "2|181826|265|10|",
+					[72] = "2|181840|226|7|",
+					[105] = "1|182130|265|10|",
+					[76] = "1|181844|226|7|Discipline",
+					[78] = "1|181847|226|7|Holy",
+					[113] = "1|182138|239|8|Shadow",
+					[84] = "1|181944|265|10|Holy",
+					[107] = "1|182131|239|8|Shadow",
+					[85] = "0|181962|265|10|",
+					[115] = "1|182140|226|7|Shadow",
+					[283] = "2|187506|252|9|",
+					[69] = "0|181837|265|10|",
+					[71] = "2|181838|226|7|",
+					[73] = "0|181842|226|7|",
+					[75] = "1|181843|226|7|Discipline",
+					[77] = "1|181845|265|10|Discipline",
+					[67] = "0|181827|226|7|",
+					[81] = "1|181867|265|10|Discipline",
+					[82] = "1|181942|226|7|Holy",
 				},
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1647559072,
+				["lastUpdate"] = 1657489960,
 				["Specializations"] = {
 					14847, -- [1]
 					11183, -- [2]
-					7606, -- [3]
+					10678, -- [3]
 				},
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Shadow",
@@ -62,8 +62,8 @@ DataStore_TalentsDB = {
 				["Soulbinds"] = {
 					[1424] = "0|0|0|-1|",
 					[1858] = "0|0|0|0|",
-					[1396] = "1|71|6|2|",
-					[1400] = "3|107|5|1|",
+					[1396] = "1|71|7|2|",
+					[1400] = "3|107|8|1|",
 					[1404] = "1|0|0|-1|",
 					[1551] = "3|0|0|-1|",
 					[1872] = "0|0|0|1|",
@@ -78,17 +78,17 @@ DataStore_TalentsDB = {
 					[1860] = "0|0|0|-1|",
 					[1856] = "0|0|0|-1|",
 					[1393] = "3|0|0|-1|",
-					[1397] = "3|69|6|0|",
-					[1401] = "1|66|6|2|",
-					[1405] = "3|72|5|2|",
+					[1397] = "3|69|10|0|",
+					[1401] = "1|66|10|2|",
+					[1405] = "3|72|7|2|",
 					[1006] = "0|0|0|2|",
 					[998] = "0|0|0|-1|",
 					[1000] = "0|0|0|0|",
-					[1547] = "3|113|6|1|",
-					[1866] = "3|114|6|1|",
+					[1547] = "3|113|8|1|",
+					[1866] = "3|114|7|1|",
 					[1555] = "2|0|0|2|",
 					[1874] = "0|0|0|-1|",
-					[1869] = "3|85|6|0|",
+					[1869] = "3|85|10|0|",
 					[1559] = "3|0|0|-1|",
 					[1545] = "3|0|0|-1|",
 					[1870] = "1|0|0|2|",
@@ -100,23 +100,23 @@ DataStore_TalentsDB = {
 					[1875] = "0|0|0|0|",
 					[1855] = "0|0|0|1|",
 					[1859] = "0|0|0|2|",
-					[1548] = "1|85|6|0|",
-					[1552] = "0|0|0|-1|",
-					[1556] = "3|71|6|2|",
+					[1548] = "1|85|10|0|",
+					[1867] = "3|0|0|-1|",
+					[1556] = "3|71|7|2|",
 					[1560] = "0|0|0|-1|",
 					[1422] = "0|0|0|2|",
 					[1001] = "0|0|0|1|",
 					[1005] = "0|0|0|0|",
+					[1552] = "0|0|0|-1|",
 					[1426] = "2|0|0|-1|",
-					[1867] = "3|0|0|-1|",
-					[1395] = "3|115|6|1|",
+					[1395] = "3|115|7|1|",
 					[1399] = "1|0|0|0|",
 					[1403] = "3|0|0|-1|",
 					[1421] = "0|0|0|-1|",
 					[997] = "0|0|0|2|",
 					[999] = "0|0|0|-1|",
 					[1419] = "0|0|0|-1|",
-					[1549] = "3|72|5|2|",
+					[1549] = "3|72|7|2|",
 					[1553] = "2|0|0|0|",
 					[1557] = "1|0|0|-1|",
 					[1876] = "0|0|0|2|",
@@ -149,7 +149,7 @@ DataStore_TalentsDB = {
 					[192] = "1|182657|184|4|Marksmanship",
 				},
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1651010142,
+				["lastUpdate"] = 1657205357,
 				["Specializations"] = {
 					5798, -- [1]
 					16045, -- [2]
@@ -217,7 +217,7 @@ DataStore_TalentsDB = {
 					[32] = "1|181506|158|2|Fire",
 				},
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1623812460,
+				["lastUpdate"] = 1657207086,
 				["Specializations"] = {
 					13689, -- [1]
 					5499, -- [2]
@@ -306,7 +306,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Bleeding Hollow.Emogin"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1637626346,
+				["lastUpdate"] = 1656011513,
 				["Specializations"] = {
 					14763, -- [1]
 					11687, -- [2]
@@ -337,7 +337,7 @@ DataStore_TalentsDB = {
 					[195] = "1|182681|200|5|Protection",
 				},
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1623810525,
+				["lastUpdate"] = 1657216834,
 				["Specializations"] = {
 					7645, -- [1]
 					11609, -- [2]
@@ -403,11 +403,11 @@ DataStore_TalentsRefDB = {
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 	},
 	["global"] = {
 		["DEATHKNIGHT"] = {
@@ -483,7 +483,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 40443,
+			["Version"] = 44325,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
@@ -605,7 +605,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 38556,
+			["Version"] = 44325,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -689,7 +689,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 42698,
+			["Version"] = 44325,
 		},
 		["WARLOCK"] = {
 			["Locale"] = "enUS",
@@ -773,7 +773,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 41079,
+			["Version"] = 44232,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",
@@ -889,7 +889,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 43340,
+			["Version"] = 44325,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -1008,7 +1008,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 38556,
+			["Version"] = 44325,
 		},
 	},
 }

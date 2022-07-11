@@ -2,6 +2,17 @@
 KeystoneManagerDb = {
 	["enabled"] = true,
 	["keystones"] = {
+		["Lickk-BleedingHollow"] = {
+			["mapId"] = 381,
+			["class"] = "MAGE",
+			["mapName"] = "Spires of Ascension",
+			["weeklyBest"] = 0,
+			["week"] = 259,
+			["name"] = "Lickk-BleedingHollow",
+			["shortName"] = "Lickk",
+			["level"] = 4,
+			["timestamp"] = 181955,
+		},
 	},
 	["guildKeys"] = {
 	},
@@ -11,7 +22,7 @@ KeystoneManagerDb = {
 	},
 	["minLevel"] = 0,
 	["target"] = "PARTY",
-	["whisper"] = "",
-	["announce"] = true,
 	["maxLevel"] = 20,
+	["announce"] = true,
+	["whisper"] = "",
 }

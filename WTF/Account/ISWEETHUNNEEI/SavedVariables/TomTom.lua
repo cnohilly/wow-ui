@@ -1,11 +1,18 @@
 
 TomTomDB = {
 	["profileKeys"] = {
-		["Holynoly - Bleeding Hollow"] = "Default",
 		["Stryfë - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
+		["Emogin - Bleeding Hollow"] = "Default",
+		["Trublmakr - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["poi"] = {
+				["enable"] = false,
+			},
 			["arrow"] = {
 				["position"] = {
 					"RIGHT", -- [1]
@@ -17,11 +24,11 @@ TomTomDB = {
 			},
 			["block"] = {
 				["position"] = {
-					"RIGHT", -- [1]
+					"TOPLEFT", -- [1]
 					nil, -- [2]
-					"RIGHT", -- [3]
-					-99.3336181640625, -- [4]
-					-162.9339599609375, -- [5]
+					"TOPLEFT", -- [3]
+					47.06665420532227, -- [4]
+					-86.06751251220703, -- [5]
 				},
 			},
 		},
@@ -30,38 +37,25 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
-		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 	},
 	["profiles"] = {
-		["Holynoly - Bleeding Hollow"] = {
-			[1970] = {
-				["1970:412190580.06372:681006730.31309:Zereth Mortis: 41.22, 68.10"] = {
-					1970, -- [1]
-					0.4121905800637152, -- [2]
-					0.681006730313093, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Zereth Mortis: 41.22, 68.10",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Zereth Mortis: 41.22, 68.10",
-					["from"] = "TomTom/Block",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-		},
 		["Stryfë - Bleeding Hollow"] = {
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Holynoly - Bleeding Hollow"] = {
+		},
+		["Pándan - Bleeding Hollow"] = {
+		},
+		["Emogin - Bleeding Hollow"] = {
+		},
+		["Trublmakr - Bleeding Hollow"] = {
 		},
 	},
 }

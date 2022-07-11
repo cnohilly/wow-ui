@@ -16,26 +16,37 @@ VER 3 000000000000000D "cov abil" "INV_MISC_QUESTIONMARK"
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft"or G"Summon Steward")
 END
 VER 3 0000000000000001 "Decursive" "INV_MISC_QUESTIONMARK"
-/script DecursiveRootTable.Dcr:Println('No spell available')
-END
-VER 3 000000000000000C "follow" "INV_MISC_QUESTIONMARK"
-/follow focus
-END
-VER 3 0000000000000004 "follow focus" "134331"
-/follow focus
+/stopcasting
+/cast [@mouseover,nomod,exists] Purify Disease;  [@mouseover,exists,mod:ctrl] Dispel Magic; [@mouseover,exists,mod:shift] Purify Disease
 END
 VER 3 000000000000000B "quest" "INV_MISC_QUESTIONMARK"
 /tar Malfunctioned
 /use Kinematic Micro-Life Recalibrator
 END
-VER 3 0000000000000005 "shadow crash" "136201"
-/cast [@cursor] Shadow Crash
+VER 3 0000000000000011 "target" "135886"
+/target agitated poultrid
 END
 VER 3 0000000000000006 "Trinket 1" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 13
 END
-VER 3 0000000000000007 "Trinket 2" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/use 14
+VER 3 0000000000000010 "waypoint2" "135754"
+/way 61.5 24.8 Azsh'ari Terrace
+/way 60.1 15.6 Shirakess Repository
+/way 51.6 15.2 Gate of the Queen
+/way 48.3 35.4 Gorgonian Overlook
+/way 48.3 48.5 Dragon's Teeth Basin
+/way 43.1 41.1 Zanj'ir Wash
+/way 38.1 28.7 Zanj'ir Terrace
+/way 28.6 40.7 Ashen Stra
+END
+VER 3 000000000000000F "waypoints" "136214"
+/way 38.1 74.1 Spears of Azshara
+/way 43.1 60.9 The Hanging Reef
+/way 57.5 50.1 Coral Forest
+/way 64.2 42.3 Kal'methir
+/way 78.8 33.7 Elun'alor Temple
+/way 73.2 31.7 Zin-Azshari
+/way 78.2 44.9 The Drowned Market
+/way 66.2 26.4 Deepcoil Tunnels
 END

@@ -19,6 +19,25 @@ local hearthstoneItemIDs = {
 	[141605] = true,			-- Flight Master's Whistle
 }
 
+-- From reagent types in : \Altoholic\Libs\LibItemInfo-1.0\LibItemInfo.lua
+-- to bank types in : \DataStore\Enum.lua
+local reagentTypeToBankType = {
+	
+	[1] = 7,		-- Alchemy => Alchemy
+	[2] = 6,		-- Blacksmithing => Metal & Stone
+	[3] = 8,		-- Enchanting
+	[4] = 9,		-- Engineering
+	[5] = 3,		-- Herbalism => Herb
+	[6] = 11,	-- Inscription
+	[7] = 10,	-- Jewelcrafting
+	[8] = 5,		-- Leatherworking => Leather
+	[9] = 6,		-- Mining => Metal & Stone
+	[10] = 5,	-- Skinning => Leather
+	[11] = 4,	-- Tailoring => Cloth
+	[12] = 1,	-- Cooking
+	[14] = 2,	-- Fishing
+}
+
 -- *** Utility functions ***
 local function GetCraftNameFromRecipeLink(link)
 	-- get the craft name from the itemlink (strsplit on | to get the 4th value, then split again on ":" )
@@ -43,6 +62,7 @@ end
 local isTooltipDone, isNodeDone			-- for informant
 local cachedItemID, cachedCount, cachedTotal
 local cachedRecipeOwners
+local cachedAltStorage
 
 local itemCounts = {}
 local itemCountsLabels = {	L["Bags"], L["Bank"], VOID_STORAGE, REAGENT_BANK, L["AH"], L["Equipped"], L["Mail"], CURRENCY }
@@ -410,6 +430,7 @@ local function ProcessTooltip(tooltip, link)
 	if (not cachedItemID) or 
 		(cachedItemID and (itemID ~= cachedItemID)) then
 
+		cachedAltStorage = nil
 		cachedRecipeOwners = nil
 		cachedItemID = itemID			-- we have searched this ID ..
 		
@@ -434,12 +455,14 @@ local function ProcessTooltip(tooltip, link)
 		WriteTotal(tooltip)
 	end
 	
+	local itemType, expansion, expansionID, arg1, arg2, arg3 = LII:GetItemSource(itemID)
+	
 	if Options.Get("UI.Tooltip.ShowItemSource") then
 		local TYPE_REAGENT = 1
 		local TYPE_DUNGEON_LOOT = 2
 		local TYPE_RAID_LOOT = 3
-		
-		local itemType, expansion, expansionID, arg1, arg2 = LII:GetItemSource(itemID)
+		local TYPE_FACTION_ITEM = 5
+		local TYPE_ZONE_ITEM = 6
 		
 		if itemType and expansion then
 			
@@ -457,6 +480,20 @@ local function ProcessTooltip(tooltip, link)
 			elseif itemType == TYPE_RAID_LOOT then
 				tooltip:AddLine(format("%s%s: %s%s", colors.gold, RAID, colors.teal, arg1), 1,1,1)
 				tooltip:AddLine(format("%s%s: %s%s", colors.gold, ENCOUNTER_JOURNAL_ENCOUNTER , colors.teal, arg2), 1,1,1)
+			
+			elseif itemType == TYPE_FACTION_ITEM then
+				tooltip:AddLine(format("%s%s: %s%s", colors.gold, FACTION, colors.teal, arg1), 1,1,1)
+				if arg2 then
+					tooltip:AddLine(format("%s%s: %s%s", colors.gold, ENCOUNTER_JOURNAL_INSTANCE, colors.teal, arg2), 1,1,1)
+				end
+				
+			elseif itemType == TYPE_ZONE_ITEM then
+				tooltip:AddLine(format("%s%s: %s%s", colors.gold, ZONE, colors.teal, arg1), 1,1,1)
+
+				if arg2 > 0 and arg3 > 0 then
+					tooltip:AddLine(format("%s%s: %s%2.1f %2.1f", colors.gold, USE, colors.teal, (arg2/10), (arg3/10)), 1,1,1)
+					
+				end
 			end
 			
 			if Options.Get("UI.Tooltip.ShowItemXPack") then
@@ -465,6 +502,40 @@ local function ProcessTooltip(tooltip, link)
 			end
 		end
 	end
+	
+	local itemSubType, _, _, _, _, classID, subclassID, bindType = select(7, GetItemInfo(itemID))
+	
+	-- Show "Could be stored on" info
+	if Options.Get("UI.Tooltip.ShowCouldBeStoredOn") and itemType and expansionID and expansionID < GetExpansionLevel() then
+		
+		local bankType = reagentTypeToBankType[arg3]
+		
+		-- Only for trade goods, and not soulbound
+		if classID == Enum.ItemClass.Tradegoods and bindType == LE_ITEM_BIND_NONE and bankType then
+			if not cachedAltStorage then
+				local charList = {}
+			
+				-- Loop on this realm's characters only
+				for _, character in pairs(DataStore:GetCharacters()) do
+					-- Do not show the current character
+					if character ~= DataStore.ThisCharKey and DataStore:IsBankType(character, bankType) then
+						table.insert(charList, DataStore:GetColoredCharacterName(character))
+					end
+				end
+				
+				-- size may be 0 if only the current alt is the actual bank for this type of item
+				if #charList > 0 then
+					cachedAltStorage = table.concat(charList, format("%s, ", colors.white))
+				end
+			end
+			
+			if cachedAltStorage then
+				tooltip:AddLine(" ",1,1,1)
+				tooltip:AddLine(format("%s%s: %s", colors.gold, L["Could be stored on"], cachedAltStorage))
+			end
+		end
+	end
+	
 	
 	if Options.Get("UI.Tooltip.ShowItemID") then
 		local iLevel = select(4, GetItemInfo(itemID))
@@ -475,7 +546,6 @@ local function ProcessTooltip(tooltip, link)
 		end
 	end
 
-	local itemType, itemSubType, _, _, _, _, classID, subclassID = select(6, GetItemInfo(itemID))
 	
 	-- 25/01/2015: Removed the code that displayed the pet owners, since they have been account wide for a while now..
 	

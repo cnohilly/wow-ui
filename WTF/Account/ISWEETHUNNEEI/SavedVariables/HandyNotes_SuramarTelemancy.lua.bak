@@ -1,10 +1,25 @@
 
 HandyNotes_SuramarTelemancyDB = {
 	["profileKeys"] = {
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 	},
 	["profiles"] = {
+		["Stryfë - Bleeding Hollow"] = {
+		},
 		["Holynoly - Bleeding Hollow"] = {
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Pándan - Bleeding Hollow"] = {
+		},
+		["Emogin - Bleeding Hollow"] = {
+		},
+		["Trublmakr - Bleeding Hollow"] = {
 		},
 	},
 }

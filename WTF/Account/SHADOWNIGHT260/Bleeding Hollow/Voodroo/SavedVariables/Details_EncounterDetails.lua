@@ -260,22 +260,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "M'uru",
 		},
-		[63762] = {
+		[62376] = {
 			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Mimiron's Inferno Targetting Reticle",
-		},
-		[45366] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Grand Warlock Alythess",
+			["source"] = "Flame Leviathan",
+		},
+		[1604] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Dark Rune Guardian",
 		},
 		[47002] = {
 			["school"] = 8,
@@ -286,15 +287,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Felmyst",
 		},
-		[62376] = {
+		[63762] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Flame Leviathan",
+			["source"] = "Mimiron's Inferno Targetting Reticle",
 		},
 		[62395] = {
 			["school"] = 1,
@@ -312,13 +310,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mutant War Hound",
 		},
-		[1604] = {
+		[45366] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Dark Rune Guardian",
+			["source"] = "Grand Warlock Alythess",
 		},
 		[62374] = {
 			["school"] = 1,

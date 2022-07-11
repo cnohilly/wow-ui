@@ -1,14 +1,16 @@
 
 HandyNotes_ShadowlandsTreasuresDB = {
 	["profileKeys"] = {
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 	},
 	["profiles"] = {
+		["Lickk - Bleeding Hollow"] = {
+		},
 		["Jerkk - Bleeding Hollow"] = {
 			["collectablefound"] = false,
 			["show_npcs"] = false,
-			["questfound"] = false,
 			["achievementsHidden"] = {
 				[15392] = true,
 				[15211] = true,
@@ -17,16 +19,17 @@ HandyNotes_ShadowlandsTreasuresDB = {
 				[15391] = true,
 			},
 			["tooltip_item"] = false,
+			["questfound"] = false,
 			["show_routes"] = false,
 			["groupsHiddenByZone"] = {
 				[1970] = {
+					["Transportation"] = true,
 					["Schematics"] = true,
 					["Lore Concordances"] = true,
-					["lostovoid"] = true,
-					["Transportation"] = true,
 					["mawsworncache"] = true,
-					["soulshape"] = true,
+					["lostovoid"] = true,
 					["dailymount"] = true,
+					["soulshape"] = true,
 				},
 			},
 			["achievedfound"] = false,

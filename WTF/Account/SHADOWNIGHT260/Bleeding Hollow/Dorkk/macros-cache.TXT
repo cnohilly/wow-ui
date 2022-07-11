@@ -62,7 +62,7 @@ VER 3 010000000000002D "Misdirect" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000034 "pettarget KC" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [pet] Kill Command; Call Pet 2
+/cast [pet] Kill Command; Call Pet 1
 /use [@pettarget] Claw
 /use [@pettarget] Bite
 /use [@pettarget] Smack 

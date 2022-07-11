@@ -20,11 +20,11 @@ Postal3DB = {
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Emogin - Bleeding Hollow"] = {
@@ -55,15 +55,25 @@ Postal3DB = {
 		},
 		["Nolieper - Bleeding Hollow"] = {
 		},
-		["Blù - Bleeding Hollow"] = {
-		},
 		["Pándan - Bleeding Hollow"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Emogin|Bleeding Hollow|Horde", -- [1]
-					"Stryfë|Bleeding Hollow|Horde", -- [2]
-					"Trublmakr|Bleeding Hollow|Horde", -- [3]
-					"Holynoly|Bleeding Hollow|Horde", -- [4]
+					"Holynoly|Bleeding Hollow|Horde", -- [1]
+					"Emogin|Bleeding Hollow|Horde", -- [2]
+					"Stryfë|Bleeding Hollow|Horde", -- [3]
+					"Trublmakr|Bleeding Hollow|Horde", -- [4]
+				},
+			},
+		},
+		["Holynoly - Bleeding Hollow"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Inolie|Bleeding Hollow|Horde", -- [1]
+					"Pándan|Bleeding Hollow|Horde", -- [2]
+					"Stryfë|Bleeding Hollow|Horde", -- [3]
+					"Trublmakr|Bleeding Hollow|Horde", -- [4]
+					"Emogin|Bleeding Hollow|Horde", -- [5]
+					"Dorkk-BleedingHollow|Bleeding Hollow|Horde", -- [6]
 				},
 			},
 		},
@@ -71,17 +81,7 @@ Postal3DB = {
 		},
 		["Emoclëw - Bleeding Hollow"] = {
 		},
-		["Holynoly - Bleeding Hollow"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Stryfë|Bleeding Hollow|Horde", -- [1]
-					"Trublmakr|Bleeding Hollow|Horde", -- [2]
-					"Pándan|Bleeding Hollow|Horde", -- [3]
-					"Emogin|Bleeding Hollow|Horde", -- [4]
-					"Inolie|Bleeding Hollow|Horde", -- [5]
-					"Dorkk-BleedingHollow|Bleeding Hollow|Horde", -- [6]
-				},
-			},
+		["Blù - Bleeding Hollow"] = {
 		},
 	},
 }

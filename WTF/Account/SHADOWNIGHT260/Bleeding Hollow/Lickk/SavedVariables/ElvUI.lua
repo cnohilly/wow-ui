@@ -1,19 +1,5 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"/elvui", -- [1]
-		" i've really kinda run out of names", -- [2]
-		" this was the best i could think of", -- [3]
-		" well i have, Dorkk, Jerkk, Quirkk, Freakk, Geekk, Trickk, Awkk, Unorthodorkk, Illidorkk", -- [4]
-		" and my other account has Sockk", -- [5]
-		" shaman is Geekk", -- [6]
-		" i was considering doing Magikk ", -- [7]
-		" but i think it should have been a real word spelled with a k", -- [8]
-		" and Kickk and Sickk idk", -- [9]
-		" i need it to be a little weird", -- [10]
-		" like all the other names kinda are", -- [11]
-		" lol", -- [12]
-	},
 	["ChatHistoryLog"] = {
 		{
 			"i've really kinda run out of names", -- [1]
@@ -521,5 +507,237 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
 		}, -- [22]
+		{
+			"lickk", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203339,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dew",
+		}, -- [23]
+		{
+			"were you in last night", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			11, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203342,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dew",
+		}, -- [24]
+		{
+			"its nolie", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			12, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203325,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dew",
+		}, -- [25]
+		{
+			"im just using his toon for lockouts ;p", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			13, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203399,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dew",
+		}, -- [26]
+		{
+			"o lol, hi nolie ", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			14, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203399,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dew",
+		}, -- [27]
+		{
+			"hi", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			15, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203406,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dew",
+		}, -- [28]
+		{
+			"that makes sense, i dont think iv ever seen him on this early lol", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203594,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Dew",
+		}, -- [29]
+		{
+			"lol nope", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203654,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dew",
+		}, -- [30]
+		{
+			"im sick of doing icc and ulduar", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			24, -- [11]
+			false, -- [12]
+			13, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Dew|r",
+			[51] = 1657203615,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Dew",
+		}, -- [31]
 	},
+	["CliqueDatatext"] = {
+	},
+	["ChatEditHistory"] = {
+		" and Kickk and Sickk idk", -- [1]
+		" i need it to be a little weird", -- [2]
+		" like all the other names kinda are", -- [3]
+		" lol", -- [4]
+		"this was the best i could think of", -- [5]
+		"its nolie", -- [6]
+		"im sick of doing icc and ulduar", -- [7]
+		"but i think it should have been a real word spelled with a k", -- [8]
+		"shaman is Geekk", -- [9]
+		"/elvui", -- [10]
+		"i need it to be a little weird", -- [11]
+		"lol", -- [12]
+		"well i have, Dorkk, Jerkk, Quirkk, Freakk, Geekk, Trickk, Awkk, Unorthodorkk, Illidorkk", -- [13]
+		"i was considering doing Magikk", -- [14]
+		"im just using his toon for lockouts ;p", -- [15]
+		"like all the other names kinda are", -- [16]
+		"hi", -- [17]
+		"and Kickk and Sickk idk", -- [18]
+		"lol nope", -- [19]
+		"and my other account has Sockk", -- [20]
+	},
+	["ConvertKeybindings"] = true,
 }

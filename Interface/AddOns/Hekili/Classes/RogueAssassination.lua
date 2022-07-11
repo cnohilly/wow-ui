@@ -229,20 +229,14 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
         return combo_points.max
     end )
 
-    -- Commented out in SimC, but my implementation should hold up vs. theirs.
-    -- APLs will use effective_combo_points.
-    spec:RegisterStateExpr( "animacharged_cp", function ()
-        local n = buff.echoing_reprimand.stack
-        if n > 0 then return n end
-        return combo_points.max
+    spec:RegisterStateExpr( "effective_combo_points", function ()
+        local c = combo_points.current or 0
+        if not covenant.kyrian then return c end
+        if c < 2 or c > 5 then return c end
+        if buff[ "echoing_reprimand_" .. c ].up then return 7 end
+        return c
     end )
 
-    spec:RegisterStateExpr( "effective_combo_points", function ()
-        if buff.echoing_reprimand.up and combo_points.current == buff.echoing_reprimand.stack then
-            return 7
-        end
-        return combo_points.current
-    end )
 
     local stealth = {
         rogue   = { "stealth", "vanish", "shadow_dance", "subterfuge" },
@@ -846,7 +840,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
         },
         crimson_tempest = {
             id = 121411,
-            duration = function () return ( set_bonus.tier28_4pc > 0 and debuff.vendetta.up and 0.5 or 1 ) * ( talent.deeper_stratagem.enabled and 14 or 12 ) end,
+            duration = function () return ( set_bonus.tier28_4pc > 0 and debuff.vendetta.up and 0.5 or 1 ) * ( 2 * ( 1 + effective_combo_points ) ) end,
             max_stack = 1,
             meta = {
                 exsanguinated = function( t ) return t.up and tracked_bleeds.crimson_tempest.exsanguinate[ target.unit ] or false end,
@@ -909,7 +903,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
         },
         envenom = {
             id = 32645,
-            duration = function () return talent.deeper_stratagem.enabled and 7 or 6 end,
+            duration = function () return ( 1 + effective_combo_points ) end,
             type = "Poison",
             max_stack = 1,
         },
@@ -983,7 +977,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
         },
         kidney_shot = {
             id = 408,
-            duration = function () return talent.deeper_stratagem.enabled and 7 or 6 end,
+            duration = function () return ( 1 + effective_combo_points ) end,
             max_stack = 1,
         },
         marked_for_death = {
@@ -1003,7 +997,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
         },
         rupture = {
             id = 1943,
-            duration = function () return ( set_bonus.tier28_4pc > 0 and debuff.vendetta.up and 0.5 or 1 ) * ( talent.deeper_stratagem.enabled and 28 or 24 ) end,
+            duration = function () return ( set_bonus.tier28_4pc > 0 and debuff.vendetta.up and 0.5 or 1 ) * 4 * ( 1 + effective_combo_points ) end,
             tick_time = function () return ( set_bonus.tier28_4pc > 0 and debuff.vendetta.up and 0.5 or 1 ) * ( debuff.rupture.exsanguinated and haste or ( 2 * haste ) ) end,
             max_stack = 1,
             meta = {
@@ -1033,7 +1027,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
         },
         slice_and_dice = {
             id = 315496,
-            duration = function () return talent.deeper_stratagem.enabled and 42 or 36 end,
+            duration = function () return 6 * ( 1 + effective_combo_points ) end,
             max_stack = 1
         },
         sprint = {
@@ -1291,7 +1285,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
             usable = function () return combo_points.current > 0 end,
 
             handler = function ()
-                applyDebuff( "target", "crimson_tempest", 2 + ( combo_points.current * 2 ) )
+                applyDebuff( "target", "crimson_tempest", 2 + ( effective_combo_points * 2 ) )
                 debuff.crimson_tempest.pmultiplier = persistent_multiplier
                 debuff.crimson_tempest.exsanguinated_rate = 1
                 debuff.crimson_tempest.exsanguinated = false
@@ -1301,9 +1295,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
                     debuff.crimson_tempest.vendetta_exsg = true
                 end
 
-                if combo_points.current == animacharged_cp then
-                    removeBuff( "echoing_reprimand_" .. combo_points.current )
-                end
+                removeBuff( "echoing_reprimand_" .. combo_points.current )
                 spend( combo_points.current, "combo_points" )
 
                 if talent.elaborate_planning.enabled then applyBuff( "elaborate_planning" ) end
@@ -1317,7 +1309,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
             cooldown = 30,
             gcd = "spell",
 
-            spend = function () return 20 - conduit.nimble_fingers.mod end,
+            spend = function () return 20 + conduit.nimble_fingers.mod end,
             spendType = "energy",
 
             startsCombat = false,
@@ -1416,10 +1408,8 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
                     buff.slice_and_dice.expires = buff.slice_and_dice.expires + combo_points.current * 3
                 end
 
-                applyBuff( "envenom", 1 + combo_points.current )
-                if combo_points.current == animacharged_cp then
-                    removeBuff( "echoing_reprimand_" .. combo_points.current )
-                end
+                applyBuff( "envenom", 1 + effective_combo_points )
+                removeBuff( "echoing_reprimand_" .. combo_points.current )
                 spend( combo_points.current, "combo_points" )
 
                 if talent.elaborate_planning.enabled then applyBuff( "elaborate_planning" ) end
@@ -1507,7 +1497,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
             cooldown = 15,
             gcd = "spell",
 
-            spend = function () return 35 - conduit.nimble_fingers.mod end,
+            spend = function () return 35 + conduit.nimble_fingers.mod end,
             spendType = "energy",
 
             startsCombat = false,
@@ -1603,6 +1593,9 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
 
             usable = function () return combo_points.current > 0 end,
             handler = function ()
+               	if talent.alacrity.enabled and combo_points.current > 4 then
+                    addStack( "alacrity", 20, 1 )
+                end
                 if talent.internal_bleeding.enabled then
                     applyDebuff( "target", "internal_bleeding" )
                     debuff.internal_bleeding.pmultiplier = persistent_multiplier
@@ -1616,9 +1609,6 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
                 end
 
                 applyDebuff( "target", "kidney_shot", 1 + combo_points.current )
-                if combo_points.current == animacharged_cp then
-                    removeBuff( "echoing_reprimand_" .. combo_points.current )
-                end
                 spend( combo_points.current, "combo_points" )
 
                 if talent.elaborate_planning.enabled then applyBuff( "elaborate_planning" ) end
@@ -1777,9 +1767,7 @@ if UnitClassBase( 'player' ) == 'ROGUE' then
                     applyBuff( "scent_of_blood", dot.rupture.remains )
                 end
 
-                if combo_points.current == animacharged_cp then
-                    removeBuff( "echoing_reprimand_" .. combo_points.current )
-                end
+                removeBuff( "echoing_reprimand_" .. combo_points.current )
                 spend( combo_points.current, "combo_points" )
             end,
         },

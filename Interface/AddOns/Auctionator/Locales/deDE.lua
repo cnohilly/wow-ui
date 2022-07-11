@@ -31,6 +31,7 @@ L["BUYING_X_FOR_X"] = "Kauf von %s für %s"
 L["BUYOUT_AUCTION_INFO"] = "%s Sofortkaufpreis: %s"
 L["BUYOUT_PRICE"] = "Kaufpreis"
 L["CANCEL"] = "Abbrechen"
+L["CANCEL_SEARCH"] = "Suche abbrechen"
 L["CANCEL_UNDERCUT"] = "Unterbotene abbrechen"
 L["CANCELLING_TAB"] = "Unterboten"
 L["CANCELLING_TAB_HEADER"] = "Auctionator - Unterboten"
@@ -105,12 +106,9 @@ L["CONFIG_SELLING_BAG_SELECT_SHORTCUT"] = "auf einen Gegenstand im Inventar, um 
 L["CONFIG_SELLING_BUY_SHORTCUT"] = "auf eine fremde Auktion, kauft diese"
 L["CONFIG_SELLING_CANCEL_SHORTCUT"] = "auf eine eigene Auktion, bricht diese ab"
 L["CONFIG_SELLING_CATEGORY"] = "Verkaufen"
---[[Translation missing --]]
-L["CONFIG_SELLING_CONFIRM_LOW_PRICE"] = "Confirm posting items at an unusually low price"
---[[Translation missing --]]
-L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_HEADER"] = "Confirm Posting Low Price"
---[[Translation missing --]]
-L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_TEXT"] = "Lets you remove the confirmation dialog that appears when posting an item at an unusually low price."
+L["CONFIG_SELLING_CONFIRM_LOW_PRICE"] = "Bestätige die Erstellung von Gegenständen zu einem ungewöhnlich niedrigen Preis"
+L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_HEADER"] = "Bestätige den niedrigen Preis des Erstellens"
+L["CONFIG_SELLING_CONFIRM_LOW_PRICE_TOOLTIP_TEXT"] = "Ermöglicht den Bestätigungsdialog zu beseitigen, das beim Erstellen eines Gegenstands zu einem ungewöhnlich niedrigen Preis angezeigt wird."
 L["CONFIG_SELLING_DEFAULT_QUANTITY_SUFFIX"] = "Für die maximale Menge auf 0 setzen"
 L["CONFIG_SELLING_DEFAULT_QUANTITY_TOOLTIP_HEADER"] = "Standardmenge beim Erstellen von Auktionen"
 L["CONFIG_SELLING_DEFAULT_QUANTITY_TOOLTIP_TEXT"] = "Hier kann die Standardmenge der zu verkaufenden Gegenstände angepasst werden. Bei 0 wird die maximal verfügbare Menge genommen."
@@ -130,7 +128,7 @@ L["CONFIG_SELLING_MISSING_FAVOURITES_TOOLTIP_HEADER"] = "Fehlende Favoriten anze
 L["CONFIG_SELLING_MISSING_FAVOURITES_TOOLTIP_TEXT"] = "Zeige favorisierte Gegenstände, auch wenn Sie sich nicht den Taschen befinden."
 L["CONFIG_SELLING_NOT_LIFO_HEADER"] = "Ausrüstung/Haustiere verkaufen"
 L["CONFIG_SELLING_NOT_LIFO_TEXT"] = "Optionen zum Einstellen der Dauer und des prozentualen oder fixen unterbietens von Ausrüstung und Haustierkäfigen. Diese Kategorie wird individuell gelistet und der Käufer kann entscheiden, welchen er kaufen möchte. Unterbieten könnte nützlich sein."
-L["CONFIG_SELLING_POST_SHORTCUT"] = [=[Gewählten Gegenstand posten
+L["CONFIG_SELLING_POST_SHORTCUT"] = [=[Eine Tastatur-/Mauskürzel zum Erstellen des aktuellen Gegenstands ist
 ]=]
 L["CONFIG_SELLING_POST_SHORTCUT_TOOLTIP_TEXT"] = "Klicke und drücke dann die Taste, die du als Kürzel verwenden möchtest. Dieses Kürzel ist nur auf dem Verkaufenreiter aktiv und wirkt sich nicht auf andere Kürzel aus, die an der Taste gebunden sind."
 L["CONFIG_SELLING_SHORTCUTS_CATEGORY"] = "Verkaufen: Tastenkombination"
@@ -167,9 +165,8 @@ L["CONFIG_UNDERCUT_SCAN_NOT_LIFO_TOOLTIP_HEADER"] = "Unterboten-Scan für Ausrü
 L["CONFIG_UNDERCUT_SCAN_NOT_LIFO_TOOLTIP_TEXT"] = "Lasse diese Option aktiviert, um Auktionen für Haustiere und Ausrüstung einzuschließen, wenn der Unterboten-Scan verwenden wird. Schalten diese Option aus, um Haustiere und Ausrüstung auszuschließen."
 L["CONFIG_VENDOR_TOOLTIP"] = "Zeige Händlerinfos an."
 L["CONFIRM"] = "Bestätigen"
---[[Translation missing --]]
-L["CONFIRM_POST_BELOW_VENDOR"] = "You can make more gold selling this to a vendor. Are you sure you want to post at that price?"
-L["CONFIRM_POST_LOW_PRICE"] = "Der Preis von %s sieht etwas niedrig aus. Bist du sicher, dass du zu diesem Preis aufstellen möchtest?"
+L["CONFIRM_POST_BELOW_VENDOR"] = "Du kannst mehr Gold machen, um dies an einen Händler zu verkaufen. Bist du sicher, dass du zu diesem Preis erstellen möchtest?"
+L["CONFIRM_POST_LOW_PRICE"] = "Der Preis von %s sieht etwas niedrig aus. Bist du sicher, dass du zu diesem Preis erstellen möchtest?"
 L["CONTRIBUTORS_HEADER"] = "Mitwirkende"
 L["COPY_ITEM_ADDED"] = "Kopierte %s in %s"
 L["COPY_NO_LIST_SELECTED"] = "Gegenstand kann nicht kopiert werden. Keine Einkaufsliste ausgewählt"

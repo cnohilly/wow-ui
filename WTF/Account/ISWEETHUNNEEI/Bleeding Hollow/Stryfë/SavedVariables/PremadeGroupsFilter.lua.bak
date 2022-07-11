@@ -40,6 +40,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["sorting"] = "",
 	},
 	["moveable"] = false,
 	["expert"] = false,

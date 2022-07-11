@@ -5,6 +5,7 @@ TomTomDB = {
 		["Pricecheckin - Area 52"] = "Default",
 		["Engidorkk - Tichondrius"] = "Default",
 		["Smíte - The Forgotten Coast"] = "Default",
+		["Lickk - Bleeding Hollow"] = "Default",
 		["Dorkkore - Tichondrius"] = "Default",
 		["Dorkk - Bleeding Hollow"] = "Default",
 		["Geekk - Bleeding Hollow"] = "Default",
@@ -13,11 +14,11 @@ TomTomDB = {
 		["Zzxzz - Skullcrusher"] = "Default",
 		["Dwarfdorkk - Dalaran"] = "Default",
 		["Jerkk - Bleeding Hollow"] = "Default",
-		["Dorkkborne - Area 52"] = "Default",
-		["Sasúke - Gilneas"] = "Default",
 		["Albiorix - Emerald Dream"] = "Default",
-		["Voodroosaur - Bleeding Hollow"] = "Default",
+		["Sasúke - Gilneas"] = "Default",
 		["Genericbank - Darkspear"] = "Default",
+		["Voodroosaur - Bleeding Hollow"] = "Default",
+		["Dorkkborne - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -49,6 +50,7 @@ TomTomWaypointsM = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
@@ -57,11 +59,11 @@ TomTomWaypointsM = {
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
-		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 	},
 	["profiles"] = {
 		["Platebaleful - Mal'Ganis"] = {
@@ -71,6 +73,8 @@ TomTomWaypointsM = {
 		["Engidorkk - Tichondrius"] = {
 		},
 		["Smíte - The Forgotten Coast"] = {
+		},
+		["Lickk - Bleeding Hollow"] = {
 		},
 		["Dorkkore - Tichondrius"] = {
 		},
@@ -88,15 +92,15 @@ TomTomWaypointsM = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Dorkkborne - Area 52"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Genericbank - Darkspear"] = {
 		},
 		["Voodroosaur - Bleeding Hollow"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Dorkkborne - Area 52"] = {
 		},
 	},
 }

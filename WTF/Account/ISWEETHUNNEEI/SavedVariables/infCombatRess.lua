@@ -2,6 +2,6 @@
 infCombatRessDB = {
 	["scale"] = 1,
 	["moveable"] = true,
-	["xpos"] = 0,
-	["ypos"] = -61,
+	["xpos"] = 893.865478515625,
+	["ypos"] = -246.6004333496094,
 }

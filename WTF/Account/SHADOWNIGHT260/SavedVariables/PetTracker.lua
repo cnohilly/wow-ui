@@ -1,13 +1,13 @@
 
 PetTracker_Sets = {
-	["journalTutorial"] = 2,
-	["mainTutorial"] = 5,
 	["hideTracker"] = true,
+	["rivalHistory"] = {
+	},
+	["tutorial"] = 12,
 	["trackPets"] = false,
 	["mapFilter"] = "",
 	["tamerHistory"] = {
 	},
-	["rivalHistory"] = {
-	},
-	["tutorial"] = 12,
+	["mainTutorial"] = 5,
+	["journalTutorial"] = 2,
 }

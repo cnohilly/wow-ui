@@ -1,0 +1,35 @@
+
+OmniCDDB = {
+	["profileKeys"] = {
+		["Stryfë - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
+		["Emogin - Bleeding Hollow"] = "Default",
+		["Trublmakr - Bleeding Hollow"] = "Default",
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["cooldowns"] = {
+	},
+	["version"] = 2.51,
+	["global"] = {
+		["disableElvMsg"] = true,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Party"] = {
+				["party"] = {
+					["manualPos"] = {
+						["interruptBar"] = {
+							["y"] = 556.4599952562639,
+							["x"] = 1126.739253756969,
+						},
+					},
+				},
+			},
+		},
+	},
+}

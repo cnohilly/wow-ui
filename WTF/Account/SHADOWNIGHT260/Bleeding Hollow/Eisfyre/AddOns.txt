@@ -102,4 +102,6 @@ ElvUI_DTBars2: disabled
 ElvUI_QuestXP: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
-ElvUI_OptionsUI: enabled
+ElvUI_CustomTags: disabled
+kExtraBossFrames: disabled
+OPie_Classic: disabled

@@ -1,5 +1,6 @@
 
 ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
 	["CliqueDatatext"] = {
 	},
 	["ChatEditHistory"] = {
@@ -26,72 +27,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"<WTS M+ 0-20s> get your weekly chest 226 |||| TORGHAST Layers 1-8 and TC ! We offer specific keys and armor stacks...<POWERLEVELING 51 - 60> .SPECIAL DEALS for 4 runs ..whisper me for more info ONLY GOLD <HOUKAN COMMUNITY>", -- [1]
-			"Murdardeal-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Murdardeal-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			289, -- [11]
-			"Player-73-0E79976C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcMurdardeal|r",
-			[51] = 1622231498,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"wts |cffa335ee|Hitem:183013::::::::60:70::6:4:7187:6652:1498:6646:1:28:753:::|h[Fallen Templar's Gauntlets]|h|rilv 226 pst", -- [1]
-			"Alexstrazasa-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Alexstrazasa-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			290, -- [11]
-			"Player-73-0E687854", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Alexstrazasa|r",
-			[51] = 1622231500,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"WTS |cffa335ee|Hitem:184791::::::::21:253:::4:6652:7193:1472:6646:1:28:2060:::|h[Azsharys' Lunar Veil]|h|r60k |cffa335ee|Hitem:184788::::::::21:253:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r15k", -- [1]
-			"Bomboms-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bomboms-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			291, -- [11]
-			"Player-73-0E6B8F3F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Bomboms|r",
-			[51] = 1622231506,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
 			"i secretly main alliance. who is with me? death to the horde", -- [1]
 			"Waterplz-BleedingHollow", -- [2]
 			"", -- [3]
@@ -112,7 +47,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaWaterplz|r",
 			[51] = 1622231512,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
+		}, -- [1]
 		{
 			"wts |cffa335ee|Hitem:182978::::::::1:1444::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|r", -- [1]
 			"Ulkar-BleedingHollow", -- [2]
@@ -134,7 +69,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcUlkar|r",
 			[51] = 1622231515,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [2]
 		{
 			"FLASH DEALS: M+15 FOR 135k>>BUY 2 GET FREE LOOT FUNNEL<< M+14 115K / +12 90K /+10 75K || ((KSM DEAL - 190k PER KEY)) !!!SPECIAL PRICES FOR 4 & 8 KEYS!!!  WTS TORG & TC ALL LAYERS || LVL 51-60 || CN M& HC || Huokan Community || Gold Only", -- [1]
 			"Darkerics-BleedingHollow", -- [2]
@@ -156,7 +91,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDarkerics|r",
 			[51] = 1622231524,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [3]
 		{
 			"!!WTS M +15 135k!!  !!BUY 2 GET FREE LOOT FUNNEL!! l ((SPECIAL DEAL FOR 4 RUNS OR MORE)) WTS M +10-20   l +14 115K l  l +12 90k l  l +10 75k l !KSM DEALS! / WTS H Castle Nathria / WTS Torghast / ONLY GOLD >Huokan Community< PM", -- [1]
 			"Flyzs-BleedingHollow", -- [2]
@@ -178,7 +113,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Flyzs|r",
 			[51] = 1622231565,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [4]
 		{
 			"WTS |cffa335ee|Hitem:184778::::::::60:70::6:4:7187:41:1498:6646:1:28:753:::|h[Decadent Nathrian Shawl]|h|rILV 226 3stat +leech pst !", -- [1]
 			"Alexstrazasa-BleedingHollow", -- [2]
@@ -200,7 +135,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexstrazasa|r",
 			[51] = 1622231578,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [5]
 		{
 			"DEATH TO THE ALLIANCE", -- [1]
 			"Binlee-BleedingHollow", -- [2]
@@ -222,7 +157,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBinlee|r",
 			[51] = 1622231617,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [6]
 		{
 			"ALLIANCE SCUM", -- [1]
 			"Binlee-BleedingHollow", -- [2]
@@ -244,7 +179,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBinlee|r",
 			[51] = 1622231622,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [7]
 		{
 			"WTS |cffa335ee|Hitem:184791::::::::21:253:::4:6652:7193:1472:6646:1:28:2060:::|h[Azsharys' Lunar Veil]|h|r60k |cffa335ee|Hitem:184788::::::::21:253:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r15k", -- [1]
 			"Bomboms-BleedingHollow", -- [2]
@@ -266,7 +201,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Bomboms|r",
 			[51] = 1622231672,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [8]
 		{
 			"WTS M +15 TIMED Specific key 175k . All loot for you || 400+ carries sold || 1600+ io Team ready to run || You choice the key for free ||  Discount for multiple runs. GOLD ONLY.  ", -- [1]
 			"Nankimat-BleedingHollow", -- [2]
@@ -288,7 +223,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Nankimat|r",
 			[51] = 1622231694,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [9]
 		{
 			"WTS |cffa335ee|Hitem:183013::::::::60:70::6:4:7187:6652:1498:6646:1:28:753:::|h[Fallen Templar's Gauntlets]|h|rILV 226 BEST PRICE!", -- [1]
 			"Alexstrazasa-BleedingHollow", -- [2]
@@ -310,7 +245,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexstrazasa|r",
 			[51] = 1622231709,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [10]
 		{
 			"wts |cffa335ee|Hitem:182978::::::::1:1444::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|r", -- [1]
 			"Ulkar-BleedingHollow", -- [2]
@@ -332,7 +267,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcUlkar|r",
 			[51] = 1622231710,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [11]
 		{
 			"!!WTS +15 Only 135k>> BUY 2 GET FREE LOOT FUNNELS)+15 190k TIMED SPECIFIC KEY/Mythic Keys +7-20!/+14 115K /+12 90k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
 			"Luciter-BleedingHollow", -- [2]
@@ -354,7 +289,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Luciter|r",
 			[51] = 1622231735,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [12]
 		{
 			"<WTS M+ 0-20s> get your weekly chest 226 |||| TORGHAST Layers 1-8 and TC ! We offer specific keys and armor stacks...<POWERLEVELING 51 - 60> .SPECIAL DEALS for 4 runs ..whisper me for more info ONLY GOLD <HOUKAN COMMUNITY>", -- [1]
 			"Murdardeal-BleedingHollow", -- [2]
@@ -376,7 +311,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMurdardeal|r",
 			[51] = 1622231740,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [13]
 		{
 			"WTS M +15 TIMED Specific key 175k . All loot for you || 400+ carries sold || 1600+ io Team ready to run || You choice the key for free ||  Discount for multiple runs. GOLD ONLY.  ", -- [1]
 			"Nankimat-BleedingHollow", -- [2]
@@ -398,7 +333,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Nankimat|r",
 			[51] = 1622231752,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [14]
 		{
 			"WTS |cffa335ee|Hitem:184791::::::::21:253:::4:6652:7193:1472:6646:1:28:2060:::|h[Azsharys' Lunar Veil]|h|r60k |cffa335ee|Hitem:184788::::::::21:253:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r15k", -- [1]
 			"Bomboms-BleedingHollow", -- [2]
@@ -420,7 +355,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Bomboms|r",
 			[51] = 1622231769,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [15]
 		{
 			"WTS |cffa335ee|Hitem:184778::::::::60:70::6:4:7187:41:1498:6646:1:28:753:::|h[Decadent Nathrian Shawl]|h|rilv 226 +leech pst ", -- [1]
 			"Alexstrazasa-BleedingHollow", -- [2]
@@ -442,7 +377,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexstrazasa|r",
 			[51] = 1622231791,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [16]
 		{
 			"FLASH DEALS: M+15 FOR 135k>>BUY 2 GET FREE LOOT FUNNEL<< M+14 115K / +12 90K /+10 75K || ((KSM DEAL - 190k PER KEY)) !!!SPECIAL PRICES FOR 4 & 8 KEYS!!!  WTS TORG & TC ALL LAYERS || LVL 51-60 || CN M& HC || Huokan Community || Gold Only", -- [1]
 			"Darkerics-BleedingHollow", -- [2]
@@ -464,7 +399,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDarkerics|r",
 			[51] = 1622231824,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [17]
 		{
 			"WTS M +15 TIMED Specific key 175k . All loot for you || 400+ carries sold || 1600+ io Team ready to run || You choice the key for free ||  Discount for multiple runs. GOLD ONLY.  ", -- [1]
 			"Nankimat-BleedingHollow", -- [2]
@@ -486,7 +421,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Nankimat|r",
 			[51] = 1622231840,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [18]
 		{
 			"WTS |||| Special M+ & KSM Deals!! |||| Get your |cffffff00|Hachievement:14532:Player-5-0E045EE0:1:1:20:21:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Master: Season One]|h|r  and M+0 - 18 keys done! || GOLD ONLY <3 ", -- [1]
 			"Krsavii-BleedingHollow", -- [2]
@@ -508,7 +443,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Krsavii|r",
 			[51] = 1622231880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [19]
 		{
 			"<WTS M+ 0-20s> get your weekly chest 226 |||| TORGHAST Layers 1-8 and TC ! We offer specific keys and armor stacks...<POWERLEVELING 51 - 60> .SPECIAL DEALS for 4 runs ..whisper me for more info ONLY GOLD <HOUKAN COMMUNITY>", -- [1]
 			"Murdardeal-BleedingHollow", -- [2]
@@ -530,7 +465,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMurdardeal|r",
 			[51] = 1622231899,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [20]
 		{
 			"wts |cffa335ee|Hitem:184778::::::::60:70::6:4:7187:41:1498:6646:1:28:753:::|h[Decadent Nathrian Shawl]|h|rilv 226 +leech pst ", -- [1]
 			"Alexstrazasa-BleedingHollow", -- [2]
@@ -552,7 +487,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexstrazasa|r",
 			[51] = 1622231917,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [21]
 		{
 			"WTS M +15 TIMED Specific key 175k . All loot for you || 400+ carries sold || 1600+ io Team ready to run || You choice the key for free ||  Discount for multiple runs. GOLD ONLY.  ", -- [1]
 			"Nankimat-BleedingHollow", -- [2]
@@ -574,7 +509,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Nankimat|r",
 			[51] = 1622231954,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [22]
 		{
 			"WTS |cffa335ee|Hitem:183010::::::::11:71::6:4:7187:6652:1498:6646:1:28:753:::|h[Stud-Scarred Footwear]|h|r", -- [1]
 			"Kintana-BleedingHollow", -- [2]
@@ -596,7 +531,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKintana|r",
 			[51] = 1622231956,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [23]
 		{
 			"WTS |cffa335ee|Hitem:184791::::::::21:253:::4:6652:7193:1472:6646:1:28:2060:::|h[Azsharys' Lunar Veil]|h|r60k |cffa335ee|Hitem:184788::::::::21:253:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r15k", -- [1]
 			"Bomboms-BleedingHollow", -- [2]
@@ -618,7 +553,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Bomboms|r",
 			[51] = 1622231972,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [24]
 		{
 			"wts |cffa335ee|Hitem:183013::::::::60:70::6:4:7187:6652:1498:6646:1:28:753:::|h[Fallen Templar's Gauntlets]|h|rilv 226 pst ", -- [1]
 			"Alexstrazasa-BleedingHollow", -- [2]
@@ -640,7 +575,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexstrazasa|r",
 			[51] = 1622228400,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [25]
 		{
 			"<3 Selling HEROIC CASTLE NATHRIA STARTING in 5 HOURS! Get the CHEAPEST 10/10 FULL CLEAR. LEATHER, PLATE, MAIL and CLOTH funnels AVAIL! Only 3 SPOTS LEFT! xoxo Spartan ||Gold Only||", -- [1]
 			"Sofiie-BleedingHollow", -- [2]
@@ -662,7 +597,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSofiie|r",
 			[51] = 1622232049,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [26]
 		{
 			"WTS M +15 TIMED Specific key 175k . All loot for you || 400+ carries sold || 1600+ io Team ready to run || You choice the key for free ||  Discount for multiple runs. GOLD ONLY.  ", -- [1]
 			"Nankimat-BleedingHollow", -- [2]
@@ -684,7 +619,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Nankimat|r",
 			[51] = 1622232069,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [27]
 		{
 			"WTS M+15 >130k< > 4x 15s ArmorStack Deal 512k < > +15 Timed & SpecificKey 185k < > m+14 110k I m+12 90k < Buy 2 BASE Keys -> FREE ARMOR STACK! || Torghast || Mounts, Pets & Toys || H & M Raid || Leveling || GOLD ONLY! >> buy from Huokan GBank <", -- [1]
 			"Wilhuoka-BleedingHollow", -- [2]
@@ -706,7 +641,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Wilhuoka|r",
 			[51] = 1622310636,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [28]
 		{
 			"WTS <Weekend sales> M+ 10-20's, Torghast, Leveling  M+15 (130k), special deals if you buy 4 10's, 12's, 14's and 15's;  M+15 timed guarantee (180k), with specific key (185k), ask for armor stack and more <Gold Only> <Huokan community>", -- [1]
 			"Inagato-BleedingHollow", -- [2]
@@ -728,7 +663,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Inagato|r",
 			[51] = 1622310653,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [29]
 		{
 			"Huokan Community is looking for Guilds, Boosters and advertisers that wish to earn tons of gold doing carries, please feel free to join [discord.gg/cFndjbfkDM] and be part of the biggest community in NA!", -- [1]
 			"Inagato-BleedingHollow", -- [2]
@@ -750,7 +685,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Inagato|r",
 			[51] = 1622310712,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [30]
 		{
 			"WTS <Weekend sales> M+ 10-20's, Torghast, Leveling  M+15 (130k), special deals if you buy 4 10's, 12's, 14's and 15's;  M+15 timed guarantee (180k), with specific key (185k), ask for armor stack and more <Gold Only> <Huokan community>", -- [1]
 			"Inagato-BleedingHollow", -- [2]
@@ -772,7 +707,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Inagato|r",
 			[51] = 1622311138,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [31]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14303:Player-73-07402BDC:1:5:29:21:4294967295:4294967295:4294967295:4294967295|h[Explore Bastion]|h|r!", -- [1]
 			"Emogin-BleedingHollow", -- [2]
@@ -794,7 +729,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edEmogin|r",
 			[51] = 1622311593,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [35]
+		}, -- [32]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14735:Player-73-07402BDC:1:5:29:21:4294967295:4294967295:4294967295:4294967295|h[Flight School Graduate]|h|r!", -- [1]
 			"Emogin-BleedingHollow", -- [2]
@@ -816,7 +751,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edEmogin|r",
 			[51] = 1622312216,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [36]
+		}, -- [33]
 		{
 			"Huokan Community is looking for Guilds, Boosters and advertisers that wish to earn tons of gold doing carries, please feel free to join [discord.gg/cFndjbfkDM] and be part of the biggest community in NA!", -- [1]
 			"Inagato-BleedingHollow", -- [2]
@@ -838,7 +773,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Inagato|r",
 			[51] = 1622312244,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [34]
 		{
 			"WTS M+15 >130k< > 4x 15s ArmorStack Deal 512k < > +15 Timed & SpecificKey 185k < > m+14 110k I m+12 90k < Buy 2 BASE Keys -> FREE ARMOR STACK! || Torghast || Mounts, Pets & Toys || H & M Raid || Leveling || GOLD ONLY! >> buy from Huokan GBank <", -- [1]
 			"Wilhuoka-BleedingHollow", -- [2]
@@ -860,7 +795,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Wilhuoka|r",
 			[51] = 1622312305,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [35]
 		{
 			"<<WTS>> M+15 130k BUY 2 GET FREE LOOT FUNNELS / +15 TIMED & SPECIFC KEY 185k KSM / 4 LootFunnel&KeySpecific 612k / M+14 110k m+12 90k m+10 75k / Torghast Layer 1-8-TwistingC 1-8 / <MYTHIC PLUS KEY +0 +20>  ONLY <<GOLD>> HUOKAN COMMUNITY", -- [1]
 			"Hammias-BleedingHollow", -- [2]
@@ -882,7 +817,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Hammias|r",
 			[51] = 1622312306,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [36]
 		{
 			"WTS <Weekend sales> M+ 10-20's, Torghast, Leveling  M+15 (130k), special deals if you buy 4 10's, 12's, 14's and 15's;  M+15 timed guarantee (180k), with specific key (185k), ask for armor stack and more <Gold Only> <Huokan community>", -- [1]
 			"Inagato-BleedingHollow", -- [2]
@@ -904,7 +839,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Inagato|r",
 			[51] = 1622312335,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [37]
 		{
 			"WTS +15 Only 130k || BUY 2 Get Free armor stack || +15 185k Timed Specific Key|| M+ +10-20! || +14 110K || +12 90k || +10 75K (Special Deal on 4 Runs) !Wts! TC || WTS leveling 51-60 ||Legacy Content||GOLD ONLY|| Huokan Only||", -- [1]
 			"Huokandeals-BleedingHollow", -- [2]
@@ -926,7 +861,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Huokandeals|r",
 			[51] = 1622312396,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [38]
 		{
 			"Extra! Extra!  <The Good News> is recruitings! KEYS, RAIDS, and SOCIAL. LFM exceptional players to go into Chains of Domination Raids: 8-11 W/Th CST. Dont mis this one time only (today) good news!! Work your way to TOP EXEC starting in the Mail Room. ", -- [1]
 			"Chazboom-BleedingHollow", -- [2]
@@ -948,7 +883,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chazboom|r",
 			[51] = 1622312399,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [39]
 		{
 			"<The Good News> on Bleeding H. Fun social guild LF like minded friends. Newly created guild LF semi-progressive AOTC raiders. We need exceptional players of all roles. We are recruiting for next tier. Mythic plus, Wed/thur 8-11 CST Raids", -- [1]
 			"Chazboom-BleedingHollow", -- [2]
@@ -970,7 +905,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chazboom|r",
 			[51] = 1622312399,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [40]
 		{
 			"<CHEAP KEYS: +15 128k> <14 118k> <+12 98k> <+10 78k>  KSM || 4x & 8x Bundles || Mythic & H CN || Torgast || Cheapest keys in the business. Power leveling 51-60 also available. GOLD ONLY PST https://discord.gg/eKaRw8yWjK", -- [1]
 			"Bbuddykat-BleedingHollow", -- [2]
@@ -992,7 +927,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBbuddykat|r",
 			[51] = 1622414512,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [41]
 		{
 			"WTS M+ Deals! 2x +14 for 180k or 2x +15 for 210k || Ask about our 4x bundles as well! || Complete your KSM! || Fill your Loot Vault for 226 gear || PST for more info and reserve your spot! || Gold Only! || ", -- [1]
 			"Goblioorc-BleedingHollow", -- [2]
@@ -1014,7 +949,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Goblioorc|r",
 			[51] = 1622414552,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [42]
 		{
 			"Socially akward 221 resto shaman looking for friends to do stuff with! Mythics+s etc", -- [1]
 			"Mildrith-BleedingHollow", -- [2]
@@ -1036,7 +971,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMildrith|r",
 			[51] = 1622414581,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [43]
 		{
 			"Giving 2k gold, come trade me at AH in ORG.", -- [1]
 			"Shädöw-BleedingHollow", -- [2]
@@ -1058,7 +993,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeShädöw|r",
 			[51] = 1622414943,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [44]
 		{
 			"WTS |cff0070dd|Hitem:44709::::::::60:102::14::1:28:196:::|h[Tome of Polymorph: Black Cat]|h|r|cff0070dd|Hitem:7959::::::::60:102:::::::|h[Blight]|h|r", -- [1]
 			"Chikenorbeef-BleedingHollow", -- [2]
@@ -1080,7 +1015,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chikenorbeef|r",
 			[51] = 1622502535,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [45]
 		{
 			"WD BOOSTING WTS Heroic/mythic raid full clears, aotc, Mythic+ keys, Legacy items / achievements, mounts, leveling.TCG,  anything you need. i can assist. cheap pricing GOLD ONLY!!! got questions? Dont be afraid to ask!!", -- [1]
 			"Deåthskater-BleedingHollow", -- [2]
@@ -1102,7 +1037,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Deåthskater|r",
 			[51] = 1622502543,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [46]
 		{
 			"WTS Key +15  ONLY 130k!!Buy 2 get free loot funnel || WTS SPECIAL DEALS: 4x10s 57k per key // 4x14s 94k per key // 4x15s 111k per key || WTS TIMED SPECIFIC KEY +15 185K  || WTS CN H & M || WTS lvl 51-60|| WTS RBG 0-2.4k|| Gold Only ||Huokan Communit", -- [1]
 			"Darkphill-BleedingHollow", -- [2]
@@ -1124,7 +1059,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDarkphill|r",
 			[51] = 1622502599,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [47]
 		{
 			"Huokan Community is looking for Guilds, Boosters and advertisers that wish to earn tons of gold doing carries, please feel free to join [discord.gg/cFndjbfkDM] and be part of the biggest community in NA!", -- [1]
 			"Inagato-BleedingHollow", -- [2]
@@ -1146,7 +1081,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Inagato|r",
 			[51] = 1622503105,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [48]
 		{
 			"!!WTS M +15 130k!!  !!BUY 2 GET FREE LOOT FUNNEL!! l ((SPECIAL DEAL FOR 4 RUNS OR MORE)) WTS M +10-20   l +14 110K l  l +12 90k l  l +10 75k l !KSM DEALS! / WTS H Castle Nathria / WTS Torghast / ONLY GOLD >Huokan Community< PM", -- [1]
 			"Mistaky-BleedingHollow", -- [2]
@@ -1168,7 +1103,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Mistaky|r",
 			[51] = 1622609923,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [49]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-241115-73-56674423|h[Guild: Innervate]|h|r (5/10M) is recruiting Tank and DPS for Mythic progression! We are a LATE NIGHT Raiding Guild! Raid times are Tues/Wed Midnight - 3am EST Accepting all LATE NIGHT players. ", -- [1]
 			"Cheerleading-BleedingHollow", -- [2]
@@ -1190,7 +1125,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCheerleading|r",
 			[51] = 1622609967,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [50]
 		{
 			"HUOKAN SALES!! Come and get you KSM with a 12% discount /w me. !!GOLD ONLY!!", -- [1]
 			"Yuquita-BleedingHollow", -- [2]
@@ -1212,7 +1147,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yuquita|r",
 			[51] = 1622610153,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [51]
 		{
 			"WTS *|cffa335ee|Hitem:156798::::::::50:103::2:::::|h[The Hivemind]|h|r* MOUNT ,RUN 100% guaranteed!!||Gold only! Run 20min", -- [1]
 			"Taurenlb-BleedingHollow", -- [2]
@@ -1234,7 +1169,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Taurenlb|r",
 			[51] = 1622657117,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [52]
 		{
 			"[Guild: Innervate] (5/10M) is recruiting Tank and DPS for Mythic progression! We are a LATE NIGHT Raiding Guild! Raid times are Tues/Wed Midnight - 3am EST Accepting all LATE NIGHT players.", -- [1]
 			"Alluryxqt-BleedingHollow", -- [2]
@@ -1256,7 +1191,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Alluryxqt|r",
 			[51] = 1622657155,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [53]
 		{
 			"!!WTS +15 Only 130k>> BUY 2 GET FREE LOOT FUNNELS)+15 185k TIMED SPECIFIC KEY/Mythic Keys +10-20!/+14 110K /+12 90k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
 			"Luciter-BleedingHollow", -- [2]
@@ -1278,7 +1213,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Luciter|r",
 			[51] = 1622657167,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [54]
 		{
 			"WTS|| keys M+ 0 to 20(spesific keys-loot funnel-timed)|| deal for 4runs or more(30% DISCOUNT)||2 or more lootfunnel free|| KSM DEAL|| raid H/ M ||for more info ask me||  huokan community boosting--ONLY GOLD--", -- [1]
 			"Vengil-BleedingHollow", -- [2]
@@ -1300,7 +1235,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVengil|r",
 			[51] = 1622657189,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [55]
 		{
 			"!!WTS M +15 130k!!  !!BUY 2 GET FREE LOOT FUNNEL!! l ((SPECIAL DEAL FOR 4 RUNS OR MORE)) WTS M +10-20   l +14 110K l  l +12 90k l  l +10 75k l !KSM DEALS! / WTS H Castle Nathria / WTS Torghast / ONLY GOLD >Huokan Community< PM", -- [1]
 			"Mistaky-BleedingHollow", -- [2]
@@ -1322,7 +1257,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Mistaky|r",
 			[51] = 1622657215,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [56]
 		{
 			"now it says im alone and you're not on", -- [1]
 			"|Kq24|k", -- [2]
@@ -1345,7 +1280,7 @@ ElvCharacterDB = {
 			[51] = 1622657538,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [60]
+		}, -- [57]
 		{
 			"yeah im stuck disconnecting right now ", -- [1]
 			"|Kq24|k", -- [2]
@@ -1368,7 +1303,7 @@ ElvCharacterDB = {
 			[51] = 1622657558,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [61]
+		}, -- [58]
 		{
 			"is darkmoon faire happening this week", -- [1]
 			"Haldiso-BleedingHollow", -- [2]
@@ -1390,7 +1325,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Haldiso|r",
 			[51] = 1623017544,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [59]
 		{
 			"what does the calendar say", -- [1]
 			"Coldbrewed-BleedingHollow", -- [2]
@@ -1412,7 +1347,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Coldbrewed|r",
 			[51] = 1623017559,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [60]
 		{
 			"Huokan Community >> WTS Key 15 Only 130k >>BUY 2 GET FREE LOOT FUNNEL<<  M+14 110K / +12 90K /+10 75K || KSM DEAL - 185k EACH KEY || ***SPECIAL DEALS FOR 4 & 8 KEYS**  WTS TORGHAST & TC 1-8 || LEVELING 51-60 ||DISCOUNTS FOR NEW CUSTOMERS|| Gold Only||", -- [1]
 			"Draciann-BleedingHollow", -- [2]
@@ -1434,7 +1369,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Draciann|r",
 			[51] = 1623017559,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [61]
 		{
 			"Doing 2s carries/coaching, PM for info!", -- [1]
 			"Hi-BleedingHollow", -- [2]
@@ -1456,7 +1391,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hi|r",
 			[51] = 1623017566,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [62]
 		{
 			"Interrupted Fallen Knowledge-Seeker's |cff71d5ff|Hspell:335030:0|h[Toxic Pride]|h|r!", -- [1]
 			"Voodroosaur-BleedingHollow", -- [2]
@@ -1478,7 +1413,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Voodroosaur|r",
 			[51] = 1623017773,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [66]
+		}, -- [63]
 		{
 			"Selling Mounts: Time-lost proto drake, Aeonaxx, Void talon, Alpaca/Riding Camel, Riding/Sea Turtle, <GCG> gold only!", -- [1]
 			"Lillianne-BleedingHollow", -- [2]
@@ -1500,7 +1435,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lillianne|r",
 			[51] = 1623188214,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [64]
 		{
 			"who needed signs?", -- [1]
 			"Aelyx-BleedingHollow", -- [2]
@@ -1522,7 +1457,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aelyx|r",
 			[51] = 1623188223,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [65]
 		{
 			"*sigs", -- [1]
 			"Aelyx-BleedingHollow", -- [2]
@@ -1544,7 +1479,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aelyx|r",
 			[51] = 1623188226,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [66]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-299196-73-104935558|h[Guild: Icy Dead People]|h|r  is a friends and family guild looking for members to join our community! If you're looking for a chill atmosphere to run mythic + or pvp, we are happy to have you, justshoot me a whisper . Oh yea we raid too", -- [1]
 			"Eviala-BleedingHollow", -- [2]
@@ -1566,7 +1501,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Eviala|r",
 			[51] = 1623188237,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [67]
 		{
 			"WTS M+15 >130k< || DEALS for 4x14s & 4x15s || 15 Timed&Key 185k || m+14 110k I m+12 90k || Buy 2 BASE Keys > FREE ARMOR STACK || Torghast || Mounts&Pets || H&M Raid || Levels || GOLD ONLY! >> Join Huokan as Boost/Adv https://discord.gg/hjKSCJ6HDv <<", -- [1]
 			"Wilhuoka-BleedingHollow", -- [2]
@@ -1588,7 +1523,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Wilhuoka|r",
 			[51] = 1623188261,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [68]
 		{
 			"im almost tyhere :)", -- [1]
 			"Sebart-Illidan", -- [2]
@@ -1610,7 +1545,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Sebart-Illidan|r",
 			[51] = 1623188376,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [69]
 		{
 			"another day another disappointment", -- [1]
 			"Kamasbbc-BleedingHollow", -- [2]
@@ -1632,7 +1567,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKamasbbc|r",
 			[51] = 1623188469,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [70]
 		{
 			"amen brother", -- [1]
 			"Tíde-Stormreaver", -- [2]
@@ -1654,7 +1589,7 @@ ElvCharacterDB = {
 			[52] = "Tíde-Stormreaver",
 			[51] = 1623188471,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [71]
 		{
 			"WTS M+ 0-20 /+15=130k/ +14=110k / +10=75k /KSM +15=185k (per key) (BUY 2 GET FREE LOOT FUNNELS)(DISCOUNT DEALS FOR 4 RUNS) Torghast/Selling CN H & M/Power level 51-60/PVP BOOST ONLY GOLD Wisp me for more info<HUOKAN COMMUNITY>", -- [1]
 			"Bellsales-BleedingHollow", -- [2]
@@ -1676,7 +1611,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBellsales|r",
 			[51] = 1623268934,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [72]
 		{
 			"WTS +15 Only 130k || BUY 2 Get Free armor stack || +15 185k Timed Specific Key|| M+ +10-20! || +14 110K || +12 90k || +10 75K (Special Deal on 4 Runs) !Wts! TC || WTS leveling 51-60 ||Legacy Content||GOLD ONLY|| Huokan Only||", -- [1]
 			"Huokandeals-BleedingHollow", -- [2]
@@ -1698,7 +1633,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Huokandeals|r",
 			[51] = 1623268946,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [73]
 		{
 			"WTS M+ 0-19 keys || World Tour M0 || KSM || Level Boost 51-60 || Castle Nathria full clears/Last 2 || Torghast all layers || GOLD ONLY |||| HUOKAN BOOSTING COMMUNITY |||| BEST PRICES !! Only buy from Huokan GuildBanks", -- [1]
 			"Pandastastic-BleedingHollow", -- [2]
@@ -1720,7 +1655,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Pandastastic|r",
 			[51] = 1623268991,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [74]
 		{
 			"<<WTS>> M+15 130k BUY 2 GET FREE LOOT FUNNELS / +15 TIMED & SPECIFC KEY 185k KSM / 4 LootFunnel&KeySpecific 612k / M+14 110k m+12 90k m+10 75k / Torghast Layer 1-8-TwistingC 1-8 / <MYTHIC PLUS KEY +0 +20>  ONLY <<GOLD>> HUOKAN COMMUNITY", -- [1]
 			"Julietha-BleedingHollow", -- [2]
@@ -1742,7 +1677,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Julietha|r",
 			[51] = 1623438799,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [75]
 		{
 			"<HUOKAN DEALS > !!WTS +15 Only 120k>> BUY X2 AND GET ARMOR STACK FREE || +15 TIMED SPECIFIC KEY 176K || Mythic Keys +10-+22! ||+14 99k ||+12 85k||+ 10 75k/ SPECIAL DEALS FOR 4 RUNS|| CN HC/M|| MOUNTS|| LEVELING || LEGACY ACH||  **GOLD ONLY**", -- [1]
 			"Horkulin-BleedingHollow", -- [2]
@@ -1764,7 +1699,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Horkulin|r",
 			[51] = 1623513658,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [76]
 		{
 			"!!WTS +15 Only 120k>> BUY 2 GET FREE LOOT FUNNELS)+15 176k TIMED SPECIFIC KEY/Mythic Keys +10-20!/+14 99K /+12 85k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
 			"Luciter-BleedingHollow", -- [2]
@@ -1786,7 +1721,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Luciter|r",
 			[51] = 1623621487,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [77]
 		{
 			"WTS M+ 0-19 keys || World Tour M0 || KSM || Level Boost 51-60 || Castle Nathria full clears/Last 2 || Torghast all layers || GOLD ONLY |||| HUOKAN BOOSTING COMMUNITY |||| BEST PRICES !! Only buy from Huokan GuildBanks", -- [1]
 			"Pandastastic-BleedingHollow", -- [2]
@@ -1808,7 +1743,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Pandastastic|r",
 			[51] = 1623706556,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [78]
 		{
 			"WTS +15 = 110k crazy prices. !!!!! ALL LOOT FREE!!!! DEALS x 4 or more RUN//// KSM/// ", -- [1]
 			"Lolcito-BleedingHollow", -- [2]
@@ -1830,7 +1765,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLolcito|r",
 			[51] = 1623706561,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [79]
 		{
 			"!!WTS +15 Only 120k>> BUY 2 GET FREE LOOT FUNNELS)+15 176k TIMED SPECIFIC KEY/Mythic Keys +10-20!/+14 99K /+12 85k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
 			"Huokandeal-BleedingHollow", -- [2]
@@ -1852,7 +1787,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHuokandeal|r",
 			[51] = 1623706589,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [80]
 		{
 			"so you really have to do the whole campaign again on alts?", -- [1]
 			"Mundzuk-BleedingHollow", -- [2]
@@ -1874,7 +1809,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMundzuk|r",
 			[51] = 1623706706,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [81]
 		{
 			"<Trap>Is Recruiting Raiders!! With multiple Raid options, We Povide a Competitive/Organized/Fun Raid Environment! Active Discord/Casual-Alt Runs/Mythic+ Grps! [18+] 3 Raid Teams Pst for times/Days info. Our 9-12 Thur+Mon Slot is looking for raiders.", -- [1]
 			"Nephylm-BleedingHollow", -- [2]
@@ -1896,7 +1831,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Nephylm|r",
 			[51] = 1623810937,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [82]
 		{
 			"its really sad cus shadow (was dk when i started, been a balance druid tho) who's usually the only one that can beat me other than kevin", -- [1]
 			"|Kq40|k", -- [2]
@@ -1919,7 +1854,7 @@ ElvCharacterDB = {
 			[51] = 1623810975,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [86]
+		}, -- [83]
 		{
 			"he's on an alt", -- [1]
 			"|Kq40|k", -- [2]
@@ -1942,7 +1877,7 @@ ElvCharacterDB = {
 			[51] = 1623810980,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [87]
+		}, -- [84]
 		{
 			"on a 203 warlock", -- [1]
 			"|Kq40|k", -- [2]
@@ -1965,7 +1900,7 @@ ElvCharacterDB = {
 			[51] = 1623810982,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [88]
+		}, -- [85]
 		{
 			"and is beating many people if not all ", -- [1]
 			"|Kq40|k", -- [2]
@@ -1988,7 +1923,7 @@ ElvCharacterDB = {
 			[51] = 1623810994,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [89]
+		}, -- [86]
 		{
 			"who are on mains", -- [1]
 			"|Kq40|k", -- [2]
@@ -2011,7 +1946,7 @@ ElvCharacterDB = {
 			[51] = 1623810999,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [90]
+		}, -- [87]
 		{
 			"smh", -- [1]
 			"|Kq40|k", -- [2]
@@ -2034,7 +1969,7 @@ ElvCharacterDB = {
 			[51] = 1623811165,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [91]
+		}, -- [88]
 		{
 			"he's playing destruction too", -- [1]
 			"|Kq40|k", -- [2]
@@ -2057,7 +1992,7 @@ ElvCharacterDB = {
 			[51] = 1623811184,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [92]
+		}, -- [89]
 		{
 			"i think its time to find something else...such a waste of time for you guys", -- [1]
 			"|Kq40|k", -- [2]
@@ -2080,7 +2015,7 @@ ElvCharacterDB = {
 			[51] = 1623811224,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [93]
+		}, -- [90]
 		{
 			"hopefully you're done soon cuz im so sleepy", -- [1]
 			"|Kq40|k", -- [2]
@@ -2103,7 +2038,7 @@ ElvCharacterDB = {
 			[51] = 1623811494,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [94]
+		}, -- [91]
 		{
 			"[BigWigs] I'm busy in combat with 'Hungering Destroyer' (Heroic) and 1/12 people are alive: Hungering Destroyer (28.0%)", -- [1]
 			"|Kq40|k", -- [2]
@@ -2126,7 +2061,7 @@ ElvCharacterDB = {
 			[51] = 1623811495,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [95]
+		}, -- [92]
 		{
 			"gonna do my mage and heaf off", -- [1]
 			"|Kq40|k", -- [2]
@@ -2149,7 +2084,7 @@ ElvCharacterDB = {
 			[51] = 1623811500,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [96]
+		}, -- [93]
 		{
 			"head off*", -- [1]
 			"|Kq40|k", -- [2]
@@ -2172,7 +2107,7 @@ ElvCharacterDB = {
 			[51] = 1623811502,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [97]
+		}, -- [94]
 		{
 			"[BigWigs] I lost against 'Hungering Destroyer' at: Hungering Destroyer (28.0%)", -- [1]
 			"|Kq40|k", -- [2]
@@ -2195,7 +2130,7 @@ ElvCharacterDB = {
 			[51] = 1623811503,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [98]
+		}, -- [95]
 		{
 			"ok", -- [1]
 			"|Kq40|k", -- [2]
@@ -2218,6 +2153,72 @@ ElvCharacterDB = {
 			[51] = 1623811506,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
+		}, -- [96]
+		{
+			"WTS M+15 115k||M+14 110k||M+12 99k||M+10 69K<BUY 2 GET ARMOR STACK FREE>Mythic 10-20:M+15x3 98k(Lootfunnel 101k)||M+20 TIMED+KEY 542k||M+25 TIMED+KEY 1.5M||KSM DEAL||<SPECIAL DEAL FOR 3 RUN>||TAZAVESH N/HM||TORGHAST 1-12||ONLY GOLD<Huokan Community>", -- [1]
+			"Namdeal-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Namdeal-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-73-0E9BB80D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Namdeal|r",
+			[51] = 1637626360,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"!!WTS +15 Only>>115k>(BUY 2 GET FREE ARMOR STACK) 15x3 - 98k (WITH STACK 101K) +20 TIMED+KEY SPECIFIC 542K //+14 110K /+12 99k /+10 69K /(SPECIAL DEALS FOR 3 RUNS OR MORE)!!WTS TAZAVESH<WTS SoD HC/M><TORGHAST<RENOWN FARM>/ONLY GOLD>>HUOKAN COMMUNITY<<", -- [1]
+			"Dulcesaleess-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dulcesaleess-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-73-0E94EC24", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcDulcesaleess|r",
+			[51] = 1637626404,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"selling 2s carries up to 1000-1400-1600-1800 any class/ilvl  pst ", -- [1]
+			"Rdru-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rdru-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-73-0E73AACC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Rdru|r",
+			[51] = 1637626420,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

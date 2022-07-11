@@ -1109,6 +1109,13 @@ do
                         self.activeThreadTime = self.activeThreadTime + ( now - start )
 
                         if coroutine.status( thread ) == "dead" or err then
+
+                            if Hekili.ActiveDebug then
+                                Hekili:Debug( "Recommendation thread for %s terminated due to error: %s", self.id, err )
+                                Hekili:SaveDebugSnapshot( self.id )
+                                Hekili.ActiveDebug = nil
+                            end
+                                                        
                             for _, d in pairs( ns.UI.Displays ) do d:SetThreadLocked( false ) end
 
                             self.activeThread = nil
@@ -1361,7 +1368,7 @@ do
                                 end
 
                                 if flashable then
-                                    LSF.FlashAction( aFlash, self.flashColor )
+                                    LSF.FlashAction( aFlash, self.flashColor, conf.flash.size, conf.flash.brightness, conf.flash.blink, nil, conf.flash.texture )
                                 elseif conf.flash.suppress and not self.flashWarnings[ aFlash ] then
                                     self.flashWarnings[ aFlash ] = true
                                     Hekili:Error( "|cffff0000WARNING|r - Could not flash recommended action '" .. aFlash .. "' (" .. self.id .. ")." )
@@ -1728,6 +1735,26 @@ do
                 C_Timer.After( 3, function()
                     self.flashReady = true
                 end )
+            end
+
+            if event == "CURRENT_SPELL_CAST_CHANGED" then
+                local b = self.Buttons[ 1 ]
+
+                local ability = b.Ability
+                local isItem, id = false, ability and ability.id
+
+                if id and id < 0 then
+                    isItem = true
+                    id = ability.item
+                end
+
+                local spellID = select( 9, UnitCastingInfo( "player" ) ) or select( 9, UnitChannelInfo( "player" ) )
+
+                if id and ( isItem and IsCurrentItem( id ) or IsCurrentSpell( id ) ) and b.ExactTime > GetTime() and ( not spellID or id ~= spellID ) then
+                    b.Highlight:Show()
+                else
+                    b.Highlight:Hide()
+                end
             end
 
             local finish = debugprofilestop()
@@ -2197,8 +2224,6 @@ do
 
 
     local LSM = LibStub("LibSharedMedia-3.0", true)
-    local LRC = LibStub("LibRangeCheck-2.0")
-    local LSR = LibStub("SpellRange-1.0")
 
     function Hekili:CreateButton( dispID, id )
         local d = dPool[ dispID ]
@@ -2418,7 +2443,7 @@ do
             local tarAnchor = conf.targets.anchor or "BOTTOM"
             b.Targets:ClearAllPoints()
             b.Targets:SetPoint( tarAnchor, b, tarAnchor, conf.targets.x or 0, conf.targets.y or 0 )
-            b.Targets:SetHeight( b:GetWidth(), b:GetHeight() / 2 )
+            b.Targets:SetHeight( b:GetHeight() / 2 )
             b.Targets:SetJustifyH( tarAnchor:match("RIGHT") and "RIGHT" or ( tarAnchor:match( "LEFT" ) and "LEFT" or "CENTER" ) )
             b.Targets:SetJustifyV( tarAnchor:match("TOP") and "TOP" or ( tarAnchor:match( "BOTTOM" ) and "BOTTOM" or "MIDDLE" ) )
             b.Targets:SetTextColor( unpack( conf.targets.color ) )
@@ -2458,7 +2483,7 @@ do
             local delayAnchor = conf.delays.anchor or "TOPLEFT"
             b.DelayText:ClearAllPoints()
             b.DelayText:SetPoint( delayAnchor, b, delayAnchor, conf.delays.x, conf.delays.y or 0 )
-            b.DelayText:SetSize( b:GetWidth(), b:GetHeight() / 2 )
+            b.DelayText:SetHeight( b:GetHeight() / 2 )
 
             b.DelayText:SetJustifyH( delayAnchor:match( "RIGHT" ) and "RIGHT" or ( delayAnchor:match( "LEFT" ) and "LEFT" or "CENTER") )
             b.DelayText:SetJustifyV( delayAnchor:match( "TOP" ) and "TOP" or ( delayAnchor:match( "BOTTOM" ) and "BOTTOM" or "MIDDLE") )

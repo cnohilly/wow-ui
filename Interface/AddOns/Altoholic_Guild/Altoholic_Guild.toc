@@ -1,8 +1,8 @@
-﻿## Interface: 90105
+﻿## Interface: 90205
 ## Title: Altoholic_Guild
 ## Notes: Altoholic's Guild UI
 ## Author: Thaoky (EU-Marécages de Zangar)
-## Version: 9.1.006
+## Version: 9.2.004
 ## Dependencies: Altoholic, DataStore, DataStore_Characters
 ## LoadOnDemand: 1
 ## X-Category: Interface Enhancements

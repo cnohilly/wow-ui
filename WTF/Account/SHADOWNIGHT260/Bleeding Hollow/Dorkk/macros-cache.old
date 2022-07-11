@@ -75,10 +75,6 @@ VER 3 0100000000000035 "Resonating Arrow" "INV_MISC_QUESTIONMARK"
 /cast [@cursor] Wild Spirits
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Resonating Arrow" or G"Flayed Shot" or G"Death Chakram"or G"Wild Spirits")
 END
-VER 3 0100000000000022 "Spirits / Resona" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@cursor] Wild Spirits
-END
 VER 3 0100000000000032 "stopcastturtle" "INV_MISC_QUESTIONMARK"
 #showtooltip Aspect of the Turtle
 /stopcasting

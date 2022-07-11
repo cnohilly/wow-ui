@@ -1,25 +1,5 @@
 
 ElvCharacterDB = {
-	["ConvertKeybindings"] = true,
-	["CliqueDatatext"] = {
-	},
-	["ChatEditHistory"] = {
-		"/ec", -- [1]
-		"/g sounds like wow", -- [2]
-		"/wa", -- [3]
-		"/reload", -- [4]
-		"omg...i hate fabletics", -- [5]
-		"i had member credits from this month...but i didntpurchase anything yet cuz the outfit i put on hold wasnt available until oct 9", -- [6]
-		"they charged me instead of using the member credit i had..and didnt even warn me that they were going to do that", -- [7]
-		"its already shipped", -- [8]
-		"that's how i know they did that", -- [9]
-		"so i logged on to see if they used the credit and they did not", -- [10]
-		"i can but i didnt wanna end up with 2 purchases for the month", -- [11]
-		"i mean i just did", -- [12]
-		"but unfortunate", -- [13]
-		"yea", -- [14]
-		"are there alts in here ..is that the problem", -- [15]
-	},
 	["ChatHistoryLog"] = {
 		{
 			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
@@ -2205,5 +2185,25 @@ ElvCharacterDB = {
 			[51] = 1634097274,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
+	},
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/reload", -- [1]
+		"its already shipped", -- [2]
+		"i had member credits from this month...but i didntpurchase anything yet cuz the outfit i put on hold wasnt available until oct 9", -- [3]
+		"/ec", -- [4]
+		"so i logged on to see if they used the credit and they did not", -- [5]
+		"i mean i just did", -- [6]
+		"they charged me instead of using the member credit i had..and didnt even warn me that they were going to do that", -- [7]
+		"/g sounds like wow", -- [8]
+		"omg...i hate fabletics", -- [9]
+		"that's how i know they did that", -- [10]
+		"i can but i didnt wanna end up with 2 purchases for the month", -- [11]
+		"/wa", -- [12]
+		"but unfortunate", -- [13]
+		"yea", -- [14]
+		"are there alts in here ..is that the problem", -- [15]
+	},
+	["CliqueDatatext"] = {
 	},
 }

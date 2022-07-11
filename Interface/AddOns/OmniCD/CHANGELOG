@@ -63,6 +63,21 @@ v2.6.01-bcc
 ------------------------------------------------------------------------------
 - shadowlands
 -
+v2.7.19
+	Blizzard Class Tuning Update
+		JUNE 28, 2022
+			Hunter
+				Craven Strategem (Runecarving Power) now reduces the cooldown of Feign Death by 5 seconds in PvP combat (was 15 seconds).
+			Mage
+				Flow of Time (Conduit) effectiveness reduced by 50% in PvP combat.
+			Monk
+				Chrysalis (PvP Talent) now reduces the cooldown of Life Cocoon by 45 seconds (was 30 seconds).
+			Priest
+				Ray of Hope (PvP Talent) cooldown is now 90 seconds (was 60 seconds).
+			Rogue
+				Float like a Butterfly (PvP Talent) now reduces the cooldown of Evasion and Feint by 0.5 seconds per combo point spent (was 1 second).
+			Warlock
+				Gateway Mastery (PvP Talent) now reduces the time between how often players can take your Demonic Gateway by 30 seconds (was 15 seconds).
 
 v2.7.18
 	TOC bump - 90205

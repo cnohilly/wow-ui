@@ -183,10 +183,12 @@ local function BuildView()
 	
 	for i=1, GetNumGuildMembers(true) do		-- browse all players (online & offline)
 		local member = GetGuildRosterInfo(i)
-		member = Ambiguate(member, "none")		
-		if not onlineMembers[member] then
-			offlineMembers[ #offlineMembers + 1 ] = member
-		end		
+		if member then
+			member = Ambiguate(member, "none")		
+			if not onlineMembers[member] then
+				offlineMembers[ #offlineMembers + 1 ] = member
+			end
+		end
 	end
 	
 	table.sort(offlineMembers, sortByAlt[viewSortField])

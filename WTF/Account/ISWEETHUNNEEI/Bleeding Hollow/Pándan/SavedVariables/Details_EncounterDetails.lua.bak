@@ -1,0 +1,2383 @@
+
+EncounterDetailsDB = {
+	["emotes"] = {
+		{
+			{
+				3.852999999886379, -- [1]
+				"I am the lucid dream.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				6.705000000074506, -- [1]
+				"What a battle! Did you see that, Rhydian?!", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				8.72399999992922, -- [1]
+				"The monster in your nightmares.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				13.57700000004843, -- [1]
+				"The fiend of a thousand faces.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				15.56300000008196, -- [1]
+				"Our friends fought well, Brann, but we're not done yet.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				18.4320000000298, -- [1]
+				"Cower before my true form.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				20.88299999991432, -- [1]
+				"BOW DOWN BEFORE THE GOD OF DEATH!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				24.08599999989383, -- [1]
+				"Perhaps so, but it's only a matter of time until we break back into Ulduar. Any luck finding a way to teleport inside?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				29.4069999998901, -- [1]
+				"Portals open into %s's mind!", -- [2]
+				"Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				29.4069999998901, -- [1]
+				"MADNESS WILL CONSUME YOU!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				32.37599999993108, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [11]
+			{
+				32.64299999992363, -- [1]
+				"None at all. I suspect it has something to do with that giant mechanical construct that our scouts spotted in front of the gate.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				33.377000000095, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [13]
+			{
+				34.39400000008754, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [14]
+			{
+				40.61599999992177, -- [1]
+				"Tremble, mortals, before the coming of the end!", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				41.11599999992177, -- [1]
+				"Oi. So we'll have to contend with that thing after all then?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				42.41699999989942, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [17]
+			{
+				43.38500000000931, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [18]
+			{
+				45.18599999998696, -- [1]
+				"That terrible glow... should that be?", -- [2]
+				"Ysera", -- [3]
+				4, -- [4]
+			}, -- [19]
+			{
+				48.38899999996647, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [20]
+			{
+				49.62299999990501, -- [1]
+				"What about the plated proto-drake and the fire giant that were spotted nearby? Think your mages can handle those?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				51.30799999996088, -- [1]
+				"The illusion shatters and a path to the central chamber opens!", -- [2]
+				"Brain of Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [22]
+			{
+				58.01300000003539, -- [1]
+				"The Kirin Tor can't possibly spare any additional resources to take on anything that size. We may not have to though.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				63.41800000006333, -- [1]
+				"Look upon the true face of death, and know that your end comes soon!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				64.65200000000186, -- [1]
+				"%s prepares to unleash Empowering Shadows!", -- [2]
+				"Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [25]
+			{
+				64.65200000000186, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [26]
+			{
+				66.65400000009686, -- [1]
+				"We can sneak past them. As long as we can take down that construct in front of the gate, we should be able to get inside.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [27]
+			{
+				67.62100000004284, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Pándan", -- [3]
+				2, -- [4]
+			}, -- [28]
+			["boss"] = "Yogg-Saron",
+		}, -- [1]
+		{
+			{
+				0.4829999999492429, -- [1]
+				"Too late! I am unstoppable!", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				5.47099999996135, -- [1]
+				"My will is unbreakable!", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				7.505999999993946, -- [1]
+				"|TInterface\\Icons\\ability_felarakkoa_feldetonation_green:20|t You are afflicted with |cFFFF0000|Hspell:206222|h[Bonds of Fel]|h|r!", -- [2]
+				"Gul'dan", -- [3]
+				2, -- [4]
+			}, -- [3]
+			{
+				15.45799999998417, -- [1]
+				"Strike for Sargeras!", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				19.40299999999115, -- [1]
+				"|TInterface\\Icons\\ability_felarakkoa_feldetonation_red:20|t %s gains |cFFFF0000|Hspell:206221|h[Empowered Bonds of Fel]|h|r.", -- [2]
+				"Gul'dan", -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				19.40299999999115, -- [1]
+				"You'll never escape my grasp!", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				20.82399999996414, -- [1]
+				"No more distractions! I have work to do...", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				35.4769999999553, -- [1]
+				"Surrender! I may yet show mercy!", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				47.58599999995204, -- [1]
+				"This is our world, not the Legion's!", -- [2]
+				"Archmage Khadgar", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				47.58599999995204, -- [1]
+				"We can stop him! I know it!", -- [2]
+				"Archmage Khadgar", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				51.2039999999688, -- [1]
+				"Fight for Azeroth! For all you hold dear!", -- [2]
+				"Archmage Khadgar", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				53.34199999994598, -- [1]
+				"Burn from within!", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				53.61799999995856, -- [1]
+				"Keep pressing, champions! Gul'dan wavers! He WILL fall!", -- [2]
+				"Archmage Khadgar", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				56.52599999995437, -- [1]
+				"Behold... power given form!", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				59.72399999998743, -- [1]
+				"Time to return the demon hunter's soul to his body... and deny the Legion's master a host!", -- [2]
+				"Archmage Khadgar", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				61.96099999995204, -- [1]
+				"|TInterface\\Icons\\inv_misc_trinket6oih_orb4:20|t An |cFFFF0000|Hspell:211152|h[Empowered Eye of Gul'dan]|h|r focuses on you!", -- [2]
+				"Empowered Eye of Gul'dan", -- [3]
+				2, -- [4]
+			}, -- [16]
+			{
+				69.40399999998044, -- [1]
+				"I am Gul'dan! I am darkness incarnate! It cannot end... like this.", -- [2]
+				"Gul'dan", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				75.33799999998882, -- [1]
+				"You topple a pawn and presume to challenge its master? Such arrogance!", -- [2]
+				"The Demon Within", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				87.62099999998463, -- [1]
+				"Behold the shadow of what is to come, the endless darkness that shall consume your world.", -- [2]
+				"The Demon Within", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				98.27999999996973, -- [1]
+				"You are not prepared!", -- [2]
+				"The Demon Within", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				107.24099999998, -- [1]
+				"Feel the power... of the demon within!", -- [2]
+				"The Demon Within", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				125.2669999999926, -- [1]
+				"Behold the Flames of Azzinoth!", -- [2]
+				"The Demon Within", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				143.234999999986, -- [1]
+				"Feel the power... of the demon within!", -- [2]
+				"The Demon Within", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				146.6839999999502, -- [1]
+				"He will... yet claim... this titan...", -- [2]
+				"The Demon Within", -- [3]
+				7, -- [4]
+			}, -- [24]
+			["boss"] = "Gul'dan",
+		}, -- [2]
+		{
+			{
+				14.48999999999069, -- [1]
+				"You exist in but a single moment. I am far less limited!", -- [2]
+				"Elisande", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				27.74099999997998, -- [1]
+				"|TInterface\\Icons\\SPELL_ARCANE_ARCANE01.BLP:20|tYou will |cFFFF0000|Hspell:209973|h[Explode]|h|r in 6 seconds!", -- [2]
+				"Elisande", -- [3]
+				2, -- [4]
+			}, -- [2]
+			{
+				36.97499999997672, -- [1]
+				"You'll find time can be quite volatile.", -- [2]
+				"Elisande", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				37.45600000000559, -- [1]
+				"|TInterface\\Icons\\SPELL_ARCANE_INVOCATION:20|t |cFFFF0000|Hspell:210022|h[Epocheric Orbs]|h|r fall from the sky!", -- [2]
+				"Elisande", -- [3]
+				1, -- [4]
+			}, -- [4]
+			{
+				43.65200000000186, -- [1]
+				"Time shifts again, and your doom draws near!", -- [2]
+				"Elisande", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				67.15100000001257, -- [1]
+				"You'll find time can be quite volatile.", -- [2]
+				"Echo of Elisande", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				67.93699999997625, -- [1]
+				"Time is... slipping away! How can it be so?", -- [2]
+				"Elisande", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				78.92800000001444, -- [1]
+				"It's... not possible! I... I was destined to win...", -- [2]
+				"Elisande", -- [3]
+				7, -- [4]
+			}, -- [8]
+			["boss"] = "Grand Magistrix Elisande",
+		}, -- [3]
+	},
+	["encounter_spells"] = {
+		[71127] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Precious",
+		},
+		[70394] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Spire Minion",
+		},
+		[206608] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Chronomatic Anomaly",
+		},
+		[64156] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Corruptor Tentacle",
+		},
+		[70952] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Prince Valanar",
+		},
+		[221781] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[206609] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Chronomatic Anomaly",
+		},
+		[206641] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Trilliax",
+		},
+		[116980] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Stone Quilen",
+		},
+		[117506] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Zian of the Endless Shadow",
+		},
+		[118303] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Undying Shadows",
+		},
+		[69869] = {
+			["school"] = 20,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Sorcerer",
+		},
+		[116805] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Titan Spark",
+		},
+		[69901] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Protector",
+		},
+		[69917] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Skybreaker Dreadblade",
+		},
+		[212794] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Tichondrius",
+		},
+		[70475] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Putricide's Trap",
+		},
+		[228190] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[206388] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Star Augur Etraeus",
+		},
+		[64152] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Corruptor Tentacle",
+		},
+		[210022] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[64164] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Yogg-Saron",
+		},
+		[70109] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Sindragosa",
+		},
+		[227040] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[70396] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Spire Minion",
+		},
+		[63894] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Yogg-Saron",
+		},
+		[64157] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Corruptor Tentacle",
+		},
+		[70189] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Spire Gargoyle",
+		},
+		[99530] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Molten Lord",
+		},
+		[219235] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Toxic Spore",
+		},
+		[65209] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Guardian of Yogg-Saron",
+		},
+		[72737] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Deathbringer Saurfang",
+		},
+		[214486] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Star Augur Etraeus",
+		},
+		[69679] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Skybreaker Mortar Soldier",
+		},
+		[205370] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Krosus",
+		},
+		[220957] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[99913] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Unbound Smoldering Elemental",
+		},
+		[221436] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Demonic Essence",
+		},
+		[218503] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Arcanist Tel'arn",
+		},
+		[69871] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Plague Scientist",
+		},
+		[206607] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Chronomatic Anomaly",
+		},
+		[99846] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Lord Rhyolith",
+		},
+		[227556] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[71465] = {
+			["school"] = 66,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Sister Svalna",
+		},
+		[222010] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Solarist Tel'arn",
+		},
+		[100057] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Hell Hound",
+		},
+		[115771] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Cobalt Guardian",
+		},
+		[63050] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[224943] = {
+			["school"] = 127,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Felsworn Chaos-Mage",
+		},
+		[70541] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Lich King",
+		},
+		[227427] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[64167] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Laughing Skull",
+		},
+		[71614] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "The Lich King",
+		},
+		[204448] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Skorpyron",
+		},
+		[70444] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[212258] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[224944] = {
+			["school"] = 127,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Felsworn Chaos-Mage",
+		},
+		[206612] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Chronomatic Anomaly",
+		},
+		[69920] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Assassin",
+		},
+		[70191] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Frenzied Abomination",
+		},
+		[69967] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Vicar",
+		},
+		[69968] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Hierophant",
+		},
+		[71769] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "The Lich King",
+		},
+		[124947] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elegon",
+		},
+		[125096] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Enormous Stone Quilen",
+		},
+		[206617] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Chronomatic Anomaly",
+		},
+		[208944] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[209615] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[206458] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[117539] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Undying Shadows",
+		},
+		[221603] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[219049] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Naturalist Tel'arn",
+		},
+		[208626] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Soul Fragment of Azzinoth",
+		},
+		[206618] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Chronomatic Anomaly",
+		},
+		[71160] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Stinky",
+		},
+		[232692] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[69965] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Protector",
+		},
+		[69969] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Summoner",
+		},
+		[57688] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Crusher Tentacle",
+		},
+		[226955] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[204292] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skorpyron",
+		},
+		[205344] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Krosus",
+		},
+		[209489] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Empowered Eye of Gul'dan",
+		},
+		[221728] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Empowered Eye of Gul'dan",
+		},
+		[206557] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Trilliax",
+		},
+		[221891] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[116778] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Emperor's Courage",
+		},
+		[72219] = {
+			["school"] = 40,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Festergut",
+		},
+		[214718] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Skorpyron",
+		},
+		[69970] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Luminary",
+		},
+		[212262] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[206939] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[209011] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[117910] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Qiang the Merciless",
+		},
+		[64163] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Yogg-Saron",
+		},
+		[209617] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Expedient Elemental",
+		},
+		[218508] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Arcanist Tel'arn",
+		},
+		[69916] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Dreadblade",
+		},
+		[116970] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Stone Quilen",
+		},
+		[69882] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Skybreaker Hierophant",
+		},
+		[71204] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Lady Deathwhisper",
+		},
+		[214654] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skorpyron",
+		},
+		[228267] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[71405] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Prince Keleseth",
+		},
+		[228265] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[70162] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Skybreaker Rifleman",
+		},
+		[63038] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Guardian of Yogg-Saron",
+		},
+		[216389] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Spellblade Aluriel",
+		},
+		[210546] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[222021] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Arcanist Tel'arn",
+		},
+		[206339] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[223134] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[73079] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Plague Scientist",
+		},
+		[117514] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Undying Shadows",
+		},
+		[206610] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Chronomatic Anomaly",
+		},
+		[64059] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Brain of Yogg-Saron",
+		},
+		[213238] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Tichondrius",
+		},
+		[208536] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[116525] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Emperor's Rage",
+		},
+		[209620] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Recursive Elemental",
+		},
+		[64144] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Corruptor Tentacle",
+		},
+		[209174] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[209971] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[64168] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Laughing Skull",
+		},
+		[222020] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Naturalist Tel'arn",
+		},
+		[69972] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Skybreaker Summoner",
+		},
+		[215458] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Spellblade Aluriel",
+		},
+		[221606] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[117960] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Elegon",
+		},
+		[115829] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Amethyst Guardian",
+		},
+		[69934] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Vindicator",
+		},
+		[206757] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "D'zorykx the Trapper",
+		},
+		[70084] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Sindragosa",
+		},
+		[204275] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skorpyron",
+		},
+		[70116] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Spire Frostwyrm",
+		},
+		[211152] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[211439] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[116829] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Titan Spark",
+		},
+		[69925] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Skybreaker Luminary",
+		},
+		[64173] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Brain of Yogg-Saron",
+		},
+		[205486] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Star Augur Etraeus",
+		},
+		[204459] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skorpyron",
+		},
+		[69989] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Skybreaker Marksman",
+		},
+		[212997] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Tichondrius",
+		},
+		[206340] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[205862] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Krosus",
+		},
+		[115827] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Jade Guardian",
+		},
+		[98374] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Majordomo Staghelm",
+		},
+		[118297] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Primal Fire Elemental",
+		},
+		[69902] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Protector",
+		},
+		[116782] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[221864] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Recursive Elemental",
+		},
+		[64145] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Crusher Tentacle",
+		},
+		[209433] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[69926] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Luminary",
+		},
+		[64010] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Azure Consort",
+		},
+		[69958] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Skybreaker Luminary",
+		},
+		[69974] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Skybreaker Marksman",
+		},
+		[206788] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Trilliax",
+		},
+		[99333] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Beth'tilac",
+		},
+		[98837] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Right Foot",
+		},
+		[212494] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Spellblade Aluriel",
+		},
+		[65719] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Guardian of Yogg-Saron",
+		},
+		[116990] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Stone Quilen",
+		},
+		[211571] = {
+			["school"] = 127,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Felsworn Chaos-Mage",
+		},
+		[214662] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skorpyron",
+		},
+		[72350] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Lich King",
+		},
+		[218806] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Solarist Tel'arn",
+		},
+		[69705] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Sorcerer",
+		},
+		[69911] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Dreadblade",
+		},
+		[69927] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Vindicator",
+		},
+		[218424] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Naturalist Tel'arn",
+		},
+		[230951] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Fel Soul",
+		},
+		[69975] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Marksman",
+		},
+		[70358] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "The Lich King",
+		},
+		[64162] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Immortal Guardian",
+		},
+		[69912] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Dreadblade",
+		},
+		[71139] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Skybreaker Vicar",
+		},
+		[117485] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Emperor's Courage",
+		},
+		[205420] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Krosus",
+		},
+		[71617] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Professor Putricide",
+		},
+		[71123] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Precious",
+		},
+		[229741] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[208863] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[63891] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Sara",
+		},
+		[63134] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Sara",
+		},
+		[115828] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Jasper Guardian",
+		},
+		[227096] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[206983] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Parasitic Shadow Demon",
+		},
+		[99555] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Molten Lord",
+		},
+		[65301] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sara",
+		},
+		[218809] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Solarist Tel'arn",
+		},
+		[64465] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Yogg-Saron",
+		},
+		[57807] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Skybreaker Protector",
+		},
+		[212530] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Spellblade Aluriel",
+		},
+		[229738] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[206474] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Tichondrius",
+		},
+		[206506] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[206883] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "D'zorykx the Trapper",
+		},
+		[208865] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[211887] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[64775] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Sara",
+		},
+		[206921] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Star Augur Etraeus",
+		},
+		[212492] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Spellblade Aluriel",
+		},
+		[69973] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Summoner",
+		},
+		[208802] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[71335] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Skybreaker Rifleman",
+		},
+		[209973] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[99605] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Alysrazor",
+		},
+		[101406] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Deathbringer Saurfang",
+		},
+		[64153] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Corruptor Tentacle",
+		},
+		[211799] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[64160] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Immortal Guardian",
+		},
+		[209568] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Expedient Elemental",
+		},
+		[221605] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[208867] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Elisande",
+		},
+		[69898] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Skybreaker Hierophant",
+		},
+		[205361] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Krosus",
+		},
+		[69930] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Vindicator",
+		},
+		[208230] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Tichondrius",
+		},
+		[206222] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[125206] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Cobalt Guardian",
+		},
+		[70985] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Blood-Queen Lana'thel",
+		},
+		[1604] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Skybreaker Assassin",
+		},
+		[99606] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Alysrazor",
+		},
+		[206847] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "The Demon Within",
+		},
+		[99464] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Alysrazor",
+		},
+		[218148] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Solarist Tel'arn",
+		},
+		[218155] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[227300] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[211132] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Empowered Eye of Gul'dan",
+		},
+		[218304] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Naturalist Tel'arn",
+		},
+		[69899] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Skybreaker Hierophant",
+		},
+		[206893] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Felsworn Chaos-Mage",
+		},
+		[70362] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Spire Frostwyrm",
+		},
+		[205875] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[69963] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Skybreaker Vicar",
+		},
+		[71254] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Lady Deathwhisper",
+		},
+		[227550] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[221875] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Star Augur Etraeus",
+		},
+		[223437] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Solarist Tel'arn",
+		},
+		[206894] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Dreadguard",
+		},
+		[221783] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Gul'dan",
+		},
+		[206677] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Krosus",
+		},
+		[206480] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[221336] = {
+			["school"] = 127,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Soul Fragment of Azzinoth",
+		},
+	},
+}

@@ -448,7 +448,7 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             id = 18499,
             cast = 0,
             cooldown = 60,
-            gcd = "spell",
+            gcd = "off",
 
             defensive = true,
 
@@ -465,7 +465,7 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             id = 1161,
             cast = 0,
             cooldown = 240,
-            gcd = "spell",
+            gcd = "off",
 
             toggle = "cooldowns",
 
@@ -601,7 +601,7 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             cooldown = function () return talent.bounding_stride.enabled and 30 or 45 end,
             charges = function () return legendary.leaper.enabled and 3 or nil end,
             recharge = function () return legendary.leaper.enabled and ( talent.bounding_stride.enabled and 30 or 45 ) or nil end,
-            gcd = "spell",
+            gcd = "off",
 
             startsCombat = true,
             texture = 236171,
@@ -644,9 +644,12 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             toggle = "defensives",
 
             readyTime = function ()
+                if settings.overlap_ignore_pain then return end
+
                 if buff.ignore_pain.up and buff.ignore_pain.v1 > 0.3 * stat.attack_power * 3.5 * ( 1 + stat.versatility_atk_mod / 100 ) then
                     return buff.ignore_pain.remains - gcd.max
                 end
+
                 return 0
             end,
 
@@ -721,7 +724,7 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             id = 12975,
             cast = 0,
             cooldown = function () return talent.bolster.enabled and 120 or 180 end,
-            gcd = "spell",
+            gcd = "off",
 
             toggle = "defensives",
             defensive = true,
@@ -867,7 +870,9 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             startsCombat = false,
             texture = 132110,
 
-            nobuff = "shield_block",
+            nobuff = function()
+                if not settings.stack_shield_block or not legendary.reprisal.enabled then return "shield_block" end
+            end,
 
             handler = function ()
                 applyBuff( "shield_block" )
@@ -913,7 +918,7 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             charges = function () if legendary.unbreakable_will.enabled then return 2 end end,
             cooldown = function () return 240 - conduit.stalwart_guardian.mod * 0.002 end,
             recharge = function () return 240 - conduit.stalwart_guardian.mod * 0.002 end,
-            gcd = "spell",
+            gcd = "off",
 
             toggle = "defensives",
             defensive = true,
@@ -988,7 +993,7 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
             id = 355,
             cast = 0,
             cooldown = 8,
-            gcd = "spell",
+            gcd = "off",
 
             startsCombat = true,
             texture = 136080,
@@ -1066,22 +1071,41 @@ if UnitClassBase( 'player' ) == 'WARRIOR' then
 
 
     spec:RegisterSetting( "free_revenge", true, {
-        name = "Only |T132353:0|t Revenge if Free",
-        desc = "If checked, the Revenge ability will only be recommended when it costs 0 Rage to use.",
+        name = "Only |T132353:0|t Revenge when Free",
+        desc = "If checked, the |T132353:0|t Revenge ability will only be recommended when it costs 0 Rage to use.",
         type = "toggle",
         width = "full"
     } )
 
     spec:RegisterSetting( "shockwave_interrupt", true, {
-        name = "Use Shockwave as Interrupt",
-        desc = "If checked, Shockwave will only be recommended with a target that is casting.",
+        name = "Only |T236312:0|t Shockwave as Interrupt",
+        desc = "If checked, |T236312:0|t Shockwave will only be recommended when your target is casting.",
+        type = "toggle",
+        width = "full"
+    } )
+
+    spec:RegisterSetting( "overlap_ignore_pain", false, {
+        name = "Overlap |T1377132:0|t Ignore Pain",
+        desc = "If checked, |T1377132:0|t Ignore Pain can be recommended while it is already active.  This setting may cause you to spend more Rage on mitigation.",
+        type = "toggle",
+        width = "full"
+    } )
+
+    spec:RegisterSetting( "stack_shield_block", false, {
+        name = "Stack |T132110:0|t Shield Block with Reprisal",
+        desc = function()
+            return "If checked, the addon can recommend overlapping |T132110:0|t Shield Block usage when using the Reprisal legendary.\n\n" ..
+            "This setting avoids leaving Shield Block at 2 charges, which wastes cooldown recovery time.\n\n" ..
+            ( state.legendary.reprisal.enabled and "|cFF00FF00" or "|cFFFF0000" ) ..
+            "Requires |T236317:0|t Reprisal (legendary)|r"
+        end,
         type = "toggle",
         width = "full"
     } )
 
     spec:RegisterSetting( "heroic_charge", false, {
-        name = "Use Heroic Charge Combo",
-        desc = "If checked, the default priority will check |cFFFFD100settings.heroic_charge|r to determine whether to use Heroic Leap + Charge together.\n\n" ..
+        name = "Use Heroic Charge (|T236171:0|t + |T132337:0|t) Combo",
+        desc = "If checked, the default priority will check |cFFFFD100settings.heroic_charge|r to determine whether to use |T236171:0|t Heroic Leap + |T132337:0|t Charge together.\n\n" ..
             "This is generally a DPS increase but the erratic movement can be disruptive to smooth gameplay.",
         type = "toggle",
         width = "full",

@@ -4,12 +4,12 @@ CliqueDB3 = {
 	["char"] = {
 		["Stryfë - Bleeding Hollow"] = {
 			["spec1_profileKey"] = "Stryfë - Bleeding Hollow",
-			["fastooc"] = false,
-			["spec2_profileKey"] = "Stryfë - Bleeding Hollow",
-			["downclick"] = false,
-			["alerthidden"] = true,
 			["specswap"] = false,
+			["downclick"] = false,
+			["fastooc"] = false,
 			["spec3_profileKey"] = "Stryfë - Bleeding Hollow",
+			["spec2_profileKey"] = "Stryfë - Bleeding Hollow",
+			["alerthidden"] = true,
 		},
 		["Inolie - Bleeding Hollow"] = {
 			["alerthidden"] = true,
@@ -24,22 +24,22 @@ CliqueDB3 = {
 		},
 		["Holynoly - Bleeding Hollow"] = {
 			["spec1_profileKey"] = "Holynoly - Bleeding Hollow",
-			["stopcastingfix"] = true,
-			["downclick"] = true,
-			["specswap"] = true,
 			["fastooc"] = false,
-			["alerthidden"] = true,
 			["spec3_profileKey"] = "Holynoly - Bleeding Hollow",
+			["downclick"] = true,
 			["spec2_profileKey"] = "Holynoly - Bleeding Hollow",
+			["stopcastingfix"] = true,
+			["specswap"] = true,
+			["alerthidden"] = true,
 		},
 		["Pándan - Bleeding Hollow"] = {
 			["spec1_profileKey"] = "Pándan - Bleeding Hollow",
-			["spec2_profileKey"] = "Pándan - Bleeding Hollow",
+			["spec3_profileKey"] = "Pándan - Bleeding Hollow",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Pándan - Bleeding Hollow",
 			["specswap"] = false,
 			["alerthidden"] = true,
+			["spec2_profileKey"] = "Pándan - Bleeding Hollow",
 		},
 		["Emogin - Bleeding Hollow"] = {
 			["alerthidden"] = true,
@@ -302,13 +302,13 @@ CliqueDB3 = {
 				}, -- [2]
 				{
 					["type"] = "spell",
-					["key"] = "F2",
+					["key"] = "SHIFT-2",
 					["sets"] = {
 						["friend"] = true,
 						["default"] = true,
 					},
-					["icon"] = 135966,
-					["spell"] = "Blessing of Sacrifice",
+					["icon"] = 524354,
+					["spell"] = "Divine Shield",
 				}, -- [3]
 				{
 					["type"] = "spell",
@@ -342,26 +342,6 @@ CliqueDB3 = {
 				}, -- [6]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-2",
-					["sets"] = {
-						["friend"] = true,
-						["default"] = true,
-					},
-					["icon"] = 524354,
-					["spell"] = "Divine Shield",
-				}, -- [7]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-F",
-					["sets"] = {
-						["friend"] = true,
-						["default"] = true,
-					},
-					["icon"] = 135964,
-					["spell"] = "Blessing of Protection",
-				}, -- [8]
-				{
-					["type"] = "spell",
 					["key"] = "SHIFT-4",
 					["sets"] = {
 						["friend"] = true,
@@ -369,6 +349,26 @@ CliqueDB3 = {
 					},
 					["icon"] = 133192,
 					["spell"] = "Word of Glory",
+				}, -- [7]
+				{
+					["type"] = "spell",
+					["key"] = "F2",
+					["sets"] = {
+						["friend"] = true,
+						["default"] = true,
+					},
+					["icon"] = 135966,
+					["spell"] = "Blessing of Sacrifice",
+				}, -- [8]
+				{
+					["type"] = "spell",
+					["key"] = "X",
+					["sets"] = {
+						["default"] = true,
+						["enemy"] = true,
+					},
+					["icon"] = 1360760,
+					["spell"] = "Hand of Hindrance",
 				}, -- [9]
 				{
 					["type"] = "spell",
@@ -382,13 +382,13 @@ CliqueDB3 = {
 				}, -- [10]
 				{
 					["type"] = "spell",
-					["key"] = "X",
+					["key"] = "SHIFT-F",
 					["sets"] = {
+						["friend"] = true,
 						["default"] = true,
-						["enemy"] = true,
 					},
-					["icon"] = 1360760,
-					["spell"] = "Hand of Hindrance",
+					["icon"] = 135964,
+					["spell"] = "Blessing of Protection",
 				}, -- [11]
 				{
 					["type"] = "spell",
@@ -467,46 +467,6 @@ CliqueDB3 = {
 				}, -- [1]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-6",
-					["sets"] = {
-						["global"] = true,
-						["default"] = true,
-					},
-					["icon"] = 237540,
-					["spell"] = "Divine Hymn",
-				}, -- [2]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-BUTTON5",
-					["sets"] = {
-						["global"] = true,
-						["default"] = true,
-					},
-					["icon"] = 1060983,
-					["spell"] = "Apotheosis",
-				}, -- [3]
-				{
-					["type"] = "spell",
-					["key"] = "X",
-					["sets"] = {
-						["default"] = true,
-						["enemy"] = true,
-					},
-					["icon"] = 136091,
-					["spell"] = "Shackle Undead",
-				}, -- [4]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-B",
-					["sets"] = {
-						["default"] = true,
-						["friend"] = true,
-					},
-					["icon"] = 135955,
-					["spell"] = "Resurrection",
-				}, -- [5]
-				{
-					["type"] = "spell",
 					["key"] = "F2",
 					["sets"] = {
 						["default"] = true,
@@ -514,7 +474,17 @@ CliqueDB3 = {
 					},
 					["icon"] = 136066,
 					["spell"] = "Dispel Magic",
-				}, -- [6]
+				}, -- [2]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-6",
+					["sets"] = {
+						["global"] = true,
+						["default"] = true,
+					},
+					["icon"] = 237540,
+					["spell"] = "Divine Hymn",
+				}, -- [3]
 				{
 					["type"] = "spell",
 					["key"] = "SHIFT-BUTTON4",
@@ -524,7 +494,17 @@ CliqueDB3 = {
 					},
 					["icon"] = 135982,
 					["spell"] = "Symbol of Hope",
-				}, -- [7]
+				}, -- [4]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-F",
+					["sets"] = {
+						["friend"] = true,
+						["default"] = true,
+					},
+					["icon"] = 463835,
+					["spell"] = "Leap of Faith",
+				}, -- [5]
 				{
 					["type"] = "spell",
 					["key"] = "T",
@@ -534,6 +514,26 @@ CliqueDB3 = {
 					},
 					["icon"] = 135940,
 					["spell"] = "Power Word: Shield",
+				}, -- [6]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON5",
+					["sets"] = {
+						["global"] = true,
+						["default"] = true,
+					},
+					["icon"] = 1060983,
+					["spell"] = "Apotheosis",
+				}, -- [7]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-B",
+					["sets"] = {
+						["default"] = true,
+						["friend"] = true,
+					},
+					["icon"] = 135955,
+					["spell"] = "Resurrection",
 				}, -- [8]
 				{
 					["type"] = "spell",
@@ -547,24 +547,14 @@ CliqueDB3 = {
 				}, -- [9]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-F",
+					["key"] = "SHIFT-G",
 					["sets"] = {
-						["friend"] = true,
 						["default"] = true,
+						["enemy"] = true,
 					},
-					["icon"] = 463835,
-					["spell"] = "Leap of Faith",
+					["icon"] = 136206,
+					["spell"] = "Mind Control",
 				}, -- [10]
-				{
-					["type"] = "spell",
-					["key"] = "BUTTON3",
-					["sets"] = {
-						["friend"] = true,
-						["default"] = true,
-					},
-					["icon"] = 135939,
-					["spell"] = "Power Infusion",
-				}, -- [11]
 				{
 					["type"] = "spell",
 					["key"] = "6",
@@ -574,7 +564,57 @@ CliqueDB3 = {
 					},
 					["icon"] = 136149,
 					["spell"] = "Shadow Word: Death",
+				}, -- [11]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-`",
+					["sets"] = {
+						["global"] = true,
+						["default"] = true,
+					},
+					["icon"] = 237541,
+					["spell"] = "Holy Word: Sanctify",
 				}, -- [12]
+				{
+					["type"] = "spell",
+					["key"] = "4",
+					["sets"] = {
+						["default"] = true,
+						["spec1"] = true,
+					},
+					["icon"] = 237545,
+					["spell"] = "Penance",
+				}, -- [13]
+				{
+					["type"] = "spell",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["friend"] = true,
+						["default"] = true,
+					},
+					["icon"] = 135939,
+					["spell"] = "Power Infusion",
+				}, -- [14]
+				{
+					["type"] = "spell",
+					["key"] = "A",
+					["sets"] = {
+						["default"] = true,
+						["spec3"] = true,
+					},
+					["icon"] = 1386551,
+					["spell"] = "Void Torrent",
+				}, -- [15]
+				{
+					["type"] = "spell",
+					["key"] = "X",
+					["sets"] = {
+						["default"] = true,
+						["enemy"] = true,
+					},
+					["icon"] = 136091,
+					["spell"] = "Shackle Undead",
+				}, -- [16]
 				{
 					["type"] = "spell",
 					["key"] = "SHIFT-A",
@@ -585,124 +625,7 @@ CliqueDB3 = {
 					},
 					["icon"] = 3565723,
 					["spellSubName"] = "Venthyr",
-				}, -- [13]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-G",
-					["sets"] = {
-						["default"] = true,
-						["enemy"] = true,
-					},
-					["icon"] = 136206,
-					["spell"] = "Mind Control",
-				}, -- [14]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-`",
-					["sets"] = {
-						["global"] = true,
-						["default"] = true,
-					},
-					["icon"] = 237541,
-					["spell"] = "Holy Word: Sanctify",
-				}, -- [15]
-				{
-					["type"] = "spell",
-					["key"] = "4",
-					["sets"] = {
-						["default"] = true,
-						["spec1"] = true,
-					},
-					["icon"] = 237545,
-					["spell"] = "Penance",
-				}, -- [16]
-				{
-					["type"] = "spell",
-					["key"] = "A",
-					["sets"] = {
-						["default"] = true,
-						["spec3"] = true,
-					},
-					["icon"] = 1386551,
-					["spell"] = "Void Torrent",
 				}, -- [17]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-BUTTON5",
-					["sets"] = {
-						["spec1"] = true,
-						["friend"] = true,
-						["default"] = true,
-					},
-					["icon"] = 135936,
-					["spell"] = "Pain Suppression",
-				}, -- [18]
-				{
-					["type"] = "spell",
-					["key"] = "4",
-					["sets"] = {
-						["spec3"] = true,
-						["default"] = true,
-						["enemy"] = true,
-					},
-					["icon"] = 1386548,
-					["spell"] = "Void Eruption",
-				}, -- [19]
-				{
-					["type"] = "spell",
-					["key"] = "`",
-					["sets"] = {
-						["default"] = true,
-						["friend"] = true,
-						["spec2"] = true,
-					},
-					["icon"] = 135943,
-					["spell"] = "Prayer of Healing",
-				}, -- [20]
-				{
-					["type"] = "spell",
-					["key"] = "D",
-					["sets"] = {
-						["spec3"] = true,
-						["spec1"] = true,
-						["default"] = true,
-					},
-					["icon"] = 237565,
-					["spell"] = "Mind Sear",
-				}, -- [21]
-				{
-					["type"] = "spell",
-					["key"] = "BUTTON5",
-					["sets"] = {
-						["default"] = true,
-						["friend"] = true,
-						["spec2"] = true,
-					},
-					["icon"] = 135953,
-					["spell"] = "Renew",
-				}, -- [22]
-				{
-					["type"] = "spell",
-					["key"] = "BUTTON4",
-					["sets"] = {
-						["default"] = true,
-						["friend"] = true,
-						["spec2"] = true,
-					},
-					["icon"] = 135937,
-					["spell"] = "Holy Word: Serenity",
-				}, -- [23]
-				{
-					["type"] = "spell",
-					["key"] = "4",
-					["sets"] = {
-						["spec3"] = true,
-						["default"] = true,
-						["enemy"] = true,
-					},
-					["icon"] = 1035040,
-					["spell"] = "Void Bolt",
-				}, -- [24]
 				{
 					["type"] = "spell",
 					["key"] = "5",
@@ -713,18 +636,51 @@ CliqueDB3 = {
 					},
 					["icon"] = 135913,
 					["spell"] = "Heal",
-				}, -- [25]
+				}, -- [18]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-6",
+					["key"] = "BUTTON4",
 					["sets"] = {
-						["spec3"] = true,
 						["default"] = true,
-						["hovercast"] = true,
+						["friend"] = true,
+						["spec2"] = true,
 					},
-					["icon"] = 1022950,
-					["spell"] = "Searing Nightmare",
-				}, -- [26]
+					["icon"] = 135937,
+					["spell"] = "Holy Word: Serenity",
+				}, -- [19]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON5",
+					["sets"] = {
+						["spec1"] = true,
+						["friend"] = true,
+						["default"] = true,
+					},
+					["icon"] = 135936,
+					["spell"] = "Pain Suppression",
+				}, -- [20]
+				{
+					["type"] = "spell",
+					["key"] = "BUTTON5",
+					["sets"] = {
+						["default"] = true,
+						["friend"] = true,
+						["spec2"] = true,
+					},
+					["icon"] = 135953,
+					["spell"] = "Renew",
+				}, -- [21]
+				{
+					["type"] = "spell",
+					["key"] = "`",
+					["sets"] = {
+						["default"] = true,
+						["friend"] = true,
+						["spec2"] = true,
+					},
+					["icon"] = 135943,
+					["spell"] = "Prayer of Healing",
+				}, -- [22]
 				{
 					["type"] = "spell",
 					["key"] = "SHIFT-3",
@@ -735,18 +691,7 @@ CliqueDB3 = {
 					},
 					["icon"] = 252997,
 					["spell"] = "Devouring Plague",
-				}, -- [27]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-T",
-					["sets"] = {
-						["enemy"] = true,
-						["default"] = true,
-						["spec2"] = true,
-					},
-					["icon"] = 135886,
-					["spell"] = "Holy Word: Chastise",
-				}, -- [28]
+				}, -- [23]
 				{
 					["type"] = "spell",
 					["key"] = "F",
@@ -757,7 +702,29 @@ CliqueDB3 = {
 					},
 					["icon"] = 136173,
 					["spell"] = "Mind Bomb",
-				}, -- [29]
+				}, -- [24]
+				{
+					["type"] = "spell",
+					["key"] = "4",
+					["sets"] = {
+						["spec3"] = true,
+						["default"] = true,
+						["enemy"] = true,
+					},
+					["icon"] = 1035040,
+					["spell"] = "Void Bolt",
+				}, -- [25]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-T",
+					["sets"] = {
+						["enemy"] = true,
+						["default"] = true,
+						["spec2"] = true,
+					},
+					["icon"] = 135886,
+					["spell"] = "Holy Word: Chastise",
+				}, -- [26]
 				{
 					["type"] = "spell",
 					["key"] = "5",
@@ -768,6 +735,39 @@ CliqueDB3 = {
 					},
 					["icon"] = 463285,
 					["spell"] = "Schism",
+				}, -- [27]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-6",
+					["sets"] = {
+						["spec3"] = true,
+						["default"] = true,
+						["hovercast"] = true,
+					},
+					["icon"] = 1022950,
+					["spell"] = "Searing Nightmare",
+				}, -- [28]
+				{
+					["type"] = "spell",
+					["key"] = "4",
+					["sets"] = {
+						["spec3"] = true,
+						["default"] = true,
+						["enemy"] = true,
+					},
+					["icon"] = 1386548,
+					["spell"] = "Void Eruption",
+				}, -- [29]
+				{
+					["type"] = "spell",
+					["key"] = "D",
+					["sets"] = {
+						["spec3"] = true,
+						["spec1"] = true,
+						["default"] = true,
+					},
+					["icon"] = 237565,
+					["spell"] = "Mind Sear",
 				}, -- [30]
 				{
 					["type"] = "spell",
@@ -782,70 +782,15 @@ CliqueDB3 = {
 				}, -- [31]
 				{
 					["type"] = "spell",
-					["key"] = "1",
+					["key"] = "SHIFT-6",
 					["sets"] = {
-						["spec2"] = true,
+						["spec1"] = true,
+						["friend"] = true,
 						["default"] = true,
-						["enemy"] = true,
 					},
-					["icon"] = 135972,
-					["spell"] = "Holy Fire",
+					["icon"] = 237548,
+					["spell"] = "Rapture",
 				}, -- [32]
-				{
-					["type"] = "spell",
-					["key"] = "BUTTON4",
-					["sets"] = {
-						["spec1"] = true,
-						["friend"] = true,
-						["default"] = true,
-					},
-					["icon"] = 571554,
-					["spell"] = "Shining Force",
-				}, -- [33]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-4",
-					["sets"] = {
-						["default"] = true,
-						["friend"] = true,
-						["spec2"] = true,
-					},
-					["icon"] = 135907,
-					["spell"] = "Flash Heal",
-				}, -- [34]
-				{
-					["type"] = "spell",
-					["key"] = "BUTTON5",
-					["sets"] = {
-						["spec1"] = true,
-						["friend"] = true,
-						["default"] = true,
-					},
-					["icon"] = 1386546,
-					["spell"] = "Power Word: Radiance",
-				}, -- [35]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-BUTTON4",
-					["sets"] = {
-						["spec3"] = true,
-						["default"] = true,
-						["enemy"] = true,
-					},
-					["icon"] = 135933,
-					["spell"] = "Mind Soothe",
-				}, -- [36]
-				{
-					["type"] = "spell",
-					["key"] = "5",
-					["sets"] = {
-						["spec3"] = true,
-						["default"] = true,
-						["enemy"] = true,
-					},
-					["icon"] = 136208,
-					["spell"] = "Mind Flay",
-				}, -- [37]
 				{
 					["type"] = "spell",
 					["key"] = "F3",
@@ -856,18 +801,29 @@ CliqueDB3 = {
 					},
 					["icon"] = 135935,
 					["spell"] = "Purify Disease",
-				}, -- [38]
+				}, -- [33]
 				{
 					["type"] = "spell",
-					["key"] = "3",
+					["key"] = "BUTTON5",
+					["sets"] = {
+						["spec1"] = true,
+						["friend"] = true,
+						["default"] = true,
+					},
+					["icon"] = 1386546,
+					["spell"] = "Power Word: Radiance",
+				}, -- [34]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON4",
 					["sets"] = {
 						["spec3"] = true,
 						["default"] = true,
 						["enemy"] = true,
 					},
-					["icon"] = 135978,
-					["spell"] = "Vampiric Touch",
-				}, -- [39]
+					["icon"] = 135933,
+					["spell"] = "Mind Soothe",
+				}, -- [35]
 				{
 					["type"] = "spell",
 					["key"] = "D",
@@ -878,29 +834,29 @@ CliqueDB3 = {
 					},
 					["icon"] = 135944,
 					["spell"] = "Prayer of Mending",
-				}, -- [40]
+				}, -- [36]
 				{
 					["type"] = "spell",
-					["key"] = "4",
+					["key"] = "SHIFT-4",
 					["sets"] = {
 						["default"] = true,
 						["friend"] = true,
 						["spec2"] = true,
 					},
-					["icon"] = 237542,
-					["spell"] = "Guardian Spirit",
-				}, -- [41]
+					["icon"] = 135907,
+					["spell"] = "Flash Heal",
+				}, -- [37]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-T",
+					["key"] = "3",
 					["sets"] = {
 						["spec3"] = true,
 						["default"] = true,
 						["enemy"] = true,
 					},
-					["icon"] = 458230,
-					["spell"] = "Silence",
-				}, -- [42]
+					["icon"] = 135978,
+					["spell"] = "Vampiric Touch",
+				}, -- [38]
 				{
 					["type"] = "spell",
 					["key"] = "SHIFT-T",
@@ -912,42 +868,62 @@ CliqueDB3 = {
 					},
 					["icon"] = 612968,
 					["spell"] = "Power Word: Solace",
-				}, -- [43]
+				}, -- [39]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-6",
+					["key"] = "4",
+					["sets"] = {
+						["default"] = true,
+						["friend"] = true,
+						["spec2"] = true,
+					},
+					["icon"] = 237542,
+					["spell"] = "Guardian Spirit",
+				}, -- [40]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-T",
+					["sets"] = {
+						["spec3"] = true,
+						["default"] = true,
+						["enemy"] = true,
+					},
+					["icon"] = 458230,
+					["spell"] = "Silence",
+				}, -- [41]
+				{
+					["type"] = "spell",
+					["key"] = "BUTTON4",
 					["sets"] = {
 						["spec1"] = true,
 						["friend"] = true,
 						["default"] = true,
 					},
-					["icon"] = 237548,
-					["spell"] = "Rapture",
-				}, -- [44]
+					["icon"] = 571554,
+					["spell"] = "Shining Force",
+				}, -- [42]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-2",
+					["key"] = "5",
 					["sets"] = {
 						["spec3"] = true,
-						["spec1"] = true,
 						["default"] = true,
 						["enemy"] = true,
 					},
-					["icon"] = 136199,
-					["spell"] = "Shadowfiend",
-				}, -- [45]
+					["icon"] = 136208,
+					["spell"] = "Mind Flay",
+				}, -- [43]
 				{
 					["type"] = "spell",
-					["key"] = "3",
+					["key"] = "1",
 					["sets"] = {
 						["spec2"] = true,
-						["spec1"] = true,
 						["default"] = true,
 						["enemy"] = true,
 					},
-					["icon"] = 135924,
-					["spell"] = "Smite",
-				}, -- [46]
+					["icon"] = 135972,
+					["spell"] = "Holy Fire",
+				}, -- [44]
 				{
 					["type"] = "spell",
 					["key"] = "F3",
@@ -959,19 +935,19 @@ CliqueDB3 = {
 					},
 					["icon"] = 135894,
 					["spell"] = "Purify",
-				}, -- [47]
+				}, -- [45]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-4",
+					["key"] = "SHIFT-2",
 					["sets"] = {
 						["spec3"] = true,
 						["spec1"] = true,
 						["default"] = true,
-						["friend"] = true,
+						["enemy"] = true,
 					},
-					["icon"] = 136202,
-					["spell"] = "Shadow Mend",
-				}, -- [48]
+					["icon"] = 136199,
+					["spell"] = "Shadowfiend",
+				}, -- [46]
 				{
 					["type"] = "spell",
 					["key"] = "1",
@@ -983,6 +959,30 @@ CliqueDB3 = {
 					},
 					["icon"] = 136224,
 					["spell"] = "Mind Blast",
+				}, -- [47]
+				{
+					["type"] = "spell",
+					["key"] = "3",
+					["sets"] = {
+						["spec2"] = true,
+						["spec1"] = true,
+						["default"] = true,
+						["enemy"] = true,
+					},
+					["icon"] = 135924,
+					["spell"] = "Smite",
+				}, -- [48]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-4",
+					["sets"] = {
+						["spec3"] = true,
+						["spec1"] = true,
+						["default"] = true,
+						["friend"] = true,
+					},
+					["icon"] = 136202,
+					["spell"] = "Shadow Mend",
 				}, -- [49]
 				{
 					["type"] = "spell",
@@ -999,14 +999,13 @@ CliqueDB3 = {
 				}, -- [50]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-3",
+					["key"] = "SHIFT-`",
 					["sets"] = {
-						["spec1"] = true,
 						["global"] = true,
-						["spec2"] = true,
+						["spec1"] = true,
 					},
-					["icon"] = 537026,
-					["spell"] = "Divine Star",
+					["icon"] = 135895,
+					["spell"] = "Evangelism",
 				}, -- [51]
 				{
 					["type"] = "spell",
@@ -1031,16 +1030,6 @@ CliqueDB3 = {
 				}, -- [53]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-`",
-					["sets"] = {
-						["global"] = true,
-						["spec1"] = true,
-					},
-					["icon"] = 135895,
-					["spell"] = "Evangelism",
-				}, -- [54]
-				{
-					["type"] = "spell",
 					["key"] = "SHIFT-BUTTON5",
 					["sets"] = {
 						["spec3"] = true,
@@ -1048,6 +1037,17 @@ CliqueDB3 = {
 					},
 					["icon"] = 136230,
 					["spell"] = "Vampiric Embrace",
+				}, -- [54]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-3",
+					["sets"] = {
+						["spec1"] = true,
+						["global"] = true,
+						["spec2"] = true,
+					},
+					["icon"] = 537026,
+					["spell"] = "Divine Star",
 				}, -- [55]
 				{
 					["type"] = "spell",

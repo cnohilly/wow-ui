@@ -1,9 +1,16 @@
 Version: 1
+Frame: BagSync_MinimapButton
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -114
+Y: -142
+W: 32
+H: 32
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -40
-Y: 47
+X: -39
+Y: 48
 W: 235
 H: 480
 Frame: FloatingGarrisonFollowerTooltip
@@ -17,7 +24,7 @@ Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: CENTER
 X: -293
-Y: 212
+Y: 213
 W: 10
 H: 10
 Frame: ItemRefTooltip

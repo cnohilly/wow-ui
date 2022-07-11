@@ -40,3 +40,6 @@ VER 3 0000000000000007 "Trinket 2" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
 END
+VER 3 000000000000000E "vulpin" "304501"
+/target Playful Vulpin
+END

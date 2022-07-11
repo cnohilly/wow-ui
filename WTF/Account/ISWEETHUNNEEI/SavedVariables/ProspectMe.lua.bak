@@ -97,7 +97,6 @@ ProspectMe = {
 			[22789] = 275,
 		},
 	},
-	[0] = nil --[[ skipped userdata ]],
 	["FormatPrice"] = nil --[[ skipped inline function ]],
 	["GetItemValue"] = nil --[[ skipped inline function ]],
 }

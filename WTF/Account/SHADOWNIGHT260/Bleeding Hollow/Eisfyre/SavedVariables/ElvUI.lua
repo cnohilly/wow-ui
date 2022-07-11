@@ -2237,13 +2237,6 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},
-	["ConvertKeybindings"] = true,
-	["BodyGuard"] = {
-		["Active"] = false,
-		["Health"] = 0,
-		["MaxHealth"] = 0,
-		["IsInValidZone"] = true,
-	},
 	["ChatEditHistory"] = {
 		"lol", -- [1]
 		"making me excited to do it", -- [2]
@@ -2266,4 +2259,13 @@ ElvCharacterDB = {
 		"/salute", -- [19]
 		"/wave", -- [20]
 	},
+	["CliqueDatatext"] = {
+	},
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 0,
+		["MaxHealth"] = 0,
+		["IsInValidZone"] = true,
+	},
+	["ConvertKeybindings"] = true,
 }

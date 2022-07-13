@@ -1,30 +1,32 @@
 
 RaiderIO_Config = {
-	["disableScoreColors"] = false,
-	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = true,
 	["enableUnitTooltips"] = true,
+	["enableKeystoneTooltips"] = true,
 	["enableFriendsTooltips"] = true,
-	["showScoreInCombat"] = true,
+	["disableScoreColors"] = false,
+	["alwaysExtendTooltip"] = true,
+	["enableWhoTooltips"] = true,
 	["showDropDownCopyURL"] = true,
 	["showAverageScore"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Geekk-bleeding-hollow"
+RaiderIO_LastCharacter = "us-Dorkk-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Xehanort-anvilmar"] = true,
-	["us-Katara-undermine"] = true,
-	["us-Alionir-wyrmrest-accord"] = true,
-	["us-Skullrok-twisting-nether"] = true,
-	["us-Thiphaine-hyjal"] = true,
-	["us-Jakazarreo-bleeding-hollow"] = true,
-	["us-Yendor-warsong"] = true,
+	["us-Getspal-bleeding-hollow"] = true,
+	["us-Ohgodnowhy-Bleeding Hollow"] = true,
+	["us-Whineken-bleeding-hollow"] = true,
+	["us-Hashtagthicc-Bleeding Hollow"] = true,
+	["us-Kyotojones-bleeding-hollow"] = true,
+	["us-Caladaon-bleeding-hollow"] = true,
+	["us-Slapcc-hyjal"] = true,
+	["us-Peezuh-Bleeding Hollow"] = true,
+	["us-Travieso-Bleeding Hollow"] = true,
 }
 RaiderIO_MissingServers = {
 }

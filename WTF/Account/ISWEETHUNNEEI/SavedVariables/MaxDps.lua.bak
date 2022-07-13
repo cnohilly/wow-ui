@@ -1,0 +1,11 @@
+
+MaxDpsOptions = {
+	["profileKeys"] = {
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+	},
+	["global"] = {
+		["customRotations"] = {
+		},
+	},
+}

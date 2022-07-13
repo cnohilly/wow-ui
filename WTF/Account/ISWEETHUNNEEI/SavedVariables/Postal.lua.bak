@@ -1,21 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
-		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
-		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
-		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
-		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
-		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
-		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
-		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -26,7 +10,7 @@ Postal3DB = {
 				"Emogin|Bleeding Hollow|Horde|60|WARLOCK", -- [5]
 				"Happybirth|Tichondrius|Horde|1|PRIEST", -- [6]
 				"Holynoly|Bleeding Hollow|Horde|60|PRIEST", -- [7]
-				"Inolie|Bleeding Hollow|Horde|48|DEATHKNIGHT", -- [8]
+				"Inolie|Bleeding Hollow|Horde|49|DEATHKNIGHT", -- [8]
 				"Katdoge|Bleeding Hollow|Horde|49|DRUID", -- [9]
 				"Noliee|Bleeding Hollow|Horde|48|WARRIOR", -- [10]
 				"Nolieper|Bleeding Hollow|Horde|48|DEMONHUNTER", -- [11]
@@ -35,6 +19,22 @@ Postal3DB = {
 				"Trublmakr|Bleeding Hollow|Horde|60|MAGE", -- [14]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Katdoge - Bleeding Hollow"] = {
@@ -48,12 +48,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Blù - Bleeding Hollow"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"unorthodorkk|Bleeding Hollow|Horde", -- [1]
-				},
-			},
+		["Dorkks - Wyrmrest Accord"] = {
 		},
 		["Noliee - Bleeding Hollow"] = {
 			["BlackBook"] = {
@@ -62,10 +57,11 @@ Postal3DB = {
 				},
 			},
 		},
-		["Diá - Bleeding Hollow"] = {
+		["Nolieper - Bleeding Hollow"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Unorthodorkk|Bleeding Hollow|Horde", -- [1]
+					"Holynoly|Bleeding Hollow|Horde", -- [1]
+					"Trublmakr|Bleeding Hollow|Horde", -- [2]
 				},
 			},
 		},
@@ -100,9 +96,19 @@ Postal3DB = {
 				},
 			},
 		},
-		["Inolie - Bleeding Hollow"] = {
+		["Blù - Bleeding Hollow"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"unorthodorkk|Bleeding Hollow|Horde", -- [1]
+				},
+			},
 		},
-		["Dorkks - Wyrmrest Accord"] = {
+		["Diá - Bleeding Hollow"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Unorthodorkk|Bleeding Hollow|Horde", -- [1]
+				},
+			},
 		},
 		["Pándan - Bleeding Hollow"] = {
 			["BlackBook"] = {
@@ -111,6 +117,12 @@ Postal3DB = {
 					"Holynoly|Bleeding Hollow|Horde", -- [2]
 				},
 			},
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Happybirth - Tichondrius"] = {
+		},
+		["Emoclëw - Bleeding Hollow"] = {
 		},
 		["Holynoly - Bleeding Hollow"] = {
 			["BlackBook"] = {
@@ -125,18 +137,6 @@ Postal3DB = {
 					"Trublmakr|Bleeding Hollow|Horde", -- [8]
 					"Jerkk|Bleeding Hollow|Horde", -- [9]
 					"Unorthodorkk-BleedingHollow|Bleeding Hollow|Horde", -- [10]
-				},
-			},
-		},
-		["Happybirth - Tichondrius"] = {
-		},
-		["Emoclëw - Bleeding Hollow"] = {
-		},
-		["Nolieper - Bleeding Hollow"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Holynoly|Bleeding Hollow|Horde", -- [1]
-					"Trublmakr|Bleeding Hollow|Horde", -- [2]
 				},
 			},
 		},

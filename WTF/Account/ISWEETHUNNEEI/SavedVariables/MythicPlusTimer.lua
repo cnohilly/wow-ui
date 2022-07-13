@@ -28,9 +28,56 @@ MythicPlusTimerDB = {
 		["color_prideful_value_alert"] = "FFFF0000",
 		["show_pull_values"] = false,
 		["show_percent_numbers"] = true,
-		["best_runs"] = {
-		},
+		["color_current_pull"] = "FF00FF00",
 		["insert_keystone"] = true,
+		["npc_progress_id"] = "sl_1",
+		["color_timeleft_expired"] = "FFFF0000",
+		["color_chest_time_expired"] = "FF808080",
+		["color_dungeon_name"] = "FFFFD100",
+		["color_objective_completed"] = "FF808080",
+		["show_affixes_as_text"] = true,
+		["color_deathcounter"] = "FFFFFFFF",
+		["objective_time_delta_only"] = false,
+		["color_time"] = "FFFFFFFF",
+		["current_run"] = {
+			["is_completed"] = true,
+			["is_teeming"] = false,
+			["is_prideful"] = false,
+			["quantity_number"] = 600,
+			["cm_level"] = 4,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Plaguefall",
+			["time_left"] = 597,
+			["deathcount_visible"] = false,
+			["steps"] = 5,
+			["time_left_2"] = 141,
+			["affixes_key"] = "affixes-10-6",
+			["is_reaping"] = false,
+			["current_zone_id"] = 2289,
+			["max_time"] = 2280,
+			["affixes"] = {
+				10, -- [1]
+				6, -- [2]
+			},
+			["times"] = {
+				345, -- [1]
+				854, -- [2]
+				1428, -- [3]
+				1683, -- [4]
+				1543, -- [5]
+			},
+			["current_map_id"] = 379,
+			["level_key"] = "l4",
+			["final_quantity_number"] = 600,
+			["elapsed_time"] = 1683,
+		},
+		["objective_time"] = true,
+		["color_chest_timeleft"] = "FF00FF00",
+		["hide_default_objectivetracker"] = true,
+		["color_prideful"] = "FFFFFFFF",
+		["color_prideful_value"] = "FFFFFFFF",
+		["color_timeleft"] = "FF00FF00",
 		["best_times"] = {
 			[2284] = {
 				611, -- [1]
@@ -132,54 +179,6 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
-		["color_timeleft_expired"] = "FFFF0000",
-		["color_chest_time_expired"] = "FF808080",
-		["color_dungeon_name"] = "FFFFD100",
-		["color_prideful_value"] = "FFFFFFFF",
-		["show_affixes_as_text"] = true,
-		["color_deathcounter"] = "FFFFFFFF",
-		["objective_time_delta_only"] = false,
-		["color_prideful"] = "FFFFFFFF",
-		["current_run"] = {
-			["is_completed"] = true,
-			["is_teeming"] = false,
-			["is_prideful"] = false,
-			["quantity_number"] = 600,
-			["cm_level"] = 4,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Plaguefall",
-			["time_left"] = 597,
-			["deathcount_visible"] = false,
-			["steps"] = 5,
-			["elapsed_time"] = 1683,
-			["final_quantity_number"] = 600,
-			["is_reaping"] = false,
-			["level_key"] = "l4",
-			["current_zone_id"] = 2289,
-			["current_map_id"] = 379,
-			["times"] = {
-				345, -- [1]
-				854, -- [2]
-				1428, -- [3]
-				1683, -- [4]
-				1543, -- [5]
-			},
-			["affixes"] = {
-				10, -- [1]
-				6, -- [2]
-			},
-			["max_time"] = 2280,
-			["affixes_key"] = "affixes-10-6",
-			["time_left_2"] = 141,
-		},
-		["hide_default_objectivetracker"] = true,
-		["color_chest_timeleft"] = "FF00FF00",
-		["objective_time"] = true,
-		["color_time"] = "FFFFFFFF",
-		["color_objective_completed"] = "FF808080",
-		["color_timeleft"] = "FF00FF00",
-		["npc_progress_id"] = "sl_1",
 		["npc_progress"] = {
 			[165076] = {
 				[4] = 5,
@@ -229,8 +228,8 @@ MythicPlusTimerDB = {
 			[179837] = {
 				[20] = 1,
 			},
-			[165919] = {
-				[6] = 1,
+			[171376] = {
+				[10] = 1,
 			},
 			[179386] = {
 				[5] = 2,
@@ -241,20 +240,20 @@ MythicPlusTimerDB = {
 			[171805] = {
 				[4] = 4,
 			},
-			[162729] = {
-				[4] = 6,
+			[180495] = {
+				[10] = 1,
 			},
 			[162056] = {
 				5, -- [1]
 			},
-			[180432] = {
-				[5] = 2,
+			[162040] = {
+				[7] = 2,
 			},
 			[179334] = {
 				[20] = 1,
 			},
-			[166396] = {
-				[4] = 4,
+			[180015] = {
+				[5] = 6,
 			},
 			[177807] = {
 				[4] = 7,
@@ -280,14 +279,14 @@ MythicPlusTimerDB = {
 			[166302] = {
 				[4] = 2,
 			},
-			[171799] = {
-				[7] = 2,
-			},
 			[167956] = {
 				11, -- [1]
 			},
-			[178139] = {
-				[6] = 9,
+			[171799] = {
+				[7] = 2,
+			},
+			[179840] = {
+				[4] = 2,
 			},
 			[163121] = {
 				[5] = 2,
@@ -298,20 +297,20 @@ MythicPlusTimerDB = {
 			[177816] = {
 				[4] = 3,
 			},
-			[179840] = {
-				[4] = 2,
+			[178139] = {
+				[6] = 9,
 			},
-			[163618] = {
-				[8] = 1,
-			},
-			[180431] = {
-				[5] = 3,
+			[178171] = {
+				[10] = 4,
 			},
 			[178163] = {
 				28, -- [1]
 			},
-			[178171] = {
-				[10] = 4,
+			[180431] = {
+				[5] = 3,
+			},
+			[163618] = {
+				[8] = 1,
 			},
 			[165138] = {
 				5, -- [1]
@@ -325,22 +324,23 @@ MythicPlusTimerDB = {
 			[162057] = {
 				[7] = 2,
 			},
-			[180015] = {
-				[5] = 6,
+			[166396] = {
+				[4] = 4,
 			},
-			[162040] = {
-				[7] = 2,
+			[180432] = {
+				[5] = 2,
 			},
-			[180495] = {
-				[10] = 1,
+			[162729] = {
+				[4] = 6,
 			},
 			[163619] = {
 				[4] = 2,
 			},
-			[171376] = {
-				[10] = 1,
+			[165919] = {
+				[6] = 1,
 			},
 		},
-		["color_current_pull"] = "FF00FF00",
+		["best_runs"] = {
+		},
 	},
 }

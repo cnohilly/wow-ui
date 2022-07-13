@@ -178,3 +178,4 @@ ElvUI_CustomTags: disabled
 Hekili: disabled
 Riftfarmhelper: disabled
 LazyReadycheck: disabled
+kExtraBossFrames: disabled

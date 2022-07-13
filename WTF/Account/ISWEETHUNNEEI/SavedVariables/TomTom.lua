@@ -2,19 +2,19 @@
 TomTomDB = {
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Default",
-		["Nolieper - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
 		["Noliee - Bleeding Hollow"] = "Default",
-		["Diá - Bleeding Hollow"] = "Default",
+		["Dorkks - Wyrmrest Accord"] = "Default",
 		["Emogin - Bleeding Hollow"] = "Default",
 		["Trublmakr - Bleeding Hollow"] = "Default",
 		["Stryfë - Bleeding Hollow"] = "Default",
 		["Holynoly - Bleeding Hollow"] = "Default",
-		["Dorkks - Wyrmrest Accord"] = "Default",
-		["Inolie - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
 		["Blù - Bleeding Hollow"] = "Default",
 		["Happybirth - Tichondrius"] = "Default",
 		["Emoclëw - Bleeding Hollow"] = "Default",
-		["Pándan - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -38,19 +38,19 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Katdoge - Bleeding Hollow"] = {
@@ -70,9 +70,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -93,9 +93,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -116,9 +116,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -141,9 +141,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -166,9 +166,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -191,9 +191,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -216,9 +216,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -239,9 +239,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -262,9 +262,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -287,9 +287,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -310,9 +310,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -333,9 +333,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -356,151 +356,82 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
 					["world"] = true,
 				},
 			},
-			[207] = {
-				["207:490000000:540000000:Elder Stonebrand"] = {
-					207, -- [1]
-					0.49, -- [2]
-					0.54, -- [3]
+			[119] = {
+				["119:638000000:490000000:Elder Wanikaya"] = {
+					119, -- [1]
+					0.638, -- [2]
+					0.49, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Elder Stonebrand",
+					["desc"] = "Elder Wanikaya",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Elder Stonebrand",
+					["title"] = "Elder Wanikaya",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["207:270000000:690000000:Elder Deepforge"] = {
-					207, -- [1]
-					0.27, -- [2]
-					0.69, -- [3]
+				["119:498000000:630000000:Elder Sandrene"] = {
+					119, -- [1]
+					0.498, -- [2]
+					0.63, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Elder Deepforge",
+					["desc"] = "Elder Sandrene",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Elder Deepforge",
+					["title"] = "Elder Sandrene",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
 					["world"] = true,
 				},
 			},
-			[114] = {
-				["114:429000000:496000000:Elder Pamuya"] = {
-					114, -- [1]
-					0.429, -- [2]
-					0.496, -- [3]
+			[205] = {
+				["205:570000000:860000000:Elder Moonlance"] = {
+					205, -- [1]
+					0.57, -- [2]
+					0.86, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Elder Pamuya",
+					["desc"] = "Elder Moonlance",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Elder Pamuya",
+					["title"] = "Elder Moonlance",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
 						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["114:573000000:437000000:Elder Arp"] = {
-					114, -- [1]
-					0.573, -- [2]
-					0.437, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Arp",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Arp",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["114:338000000:344000000:Elder Northal"] = {
-					114, -- [1]
-					0.338, -- [2]
-					0.344, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Northal",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Northal",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["114:591000000:656000000:Elder Sardis"] = {
-					114, -- [1]
-					0.591, -- [2]
-					0.656, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Sardis",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Sardis",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -523,9 +454,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -548,135 +479,6 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[205] = {
-				["205:570000000:860000000:Elder Moonlance"] = {
-					205, -- [1]
-					0.57, -- [2]
-					0.86, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Moonlance",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Moonlance",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[119] = {
-				["119:638000000:490000000:Elder Wanikaya"] = {
-					119, -- [1]
-					0.638, -- [2]
-					0.49, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Wanikaya",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Wanikaya",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["119:498000000:630000000:Elder Sandrene"] = {
-					119, -- [1]
-					0.498, -- [2]
-					0.63, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Sandrene",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Sandrene",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-		},
-		["Nolieper - Bleeding Hollow"] = {
-		},
-		["Noliee - Bleeding Hollow"] = {
-		},
-		["Diá - Bleeding Hollow"] = {
-		},
-		["Emogin - Bleeding Hollow"] = {
-			[1536] = {
-				["1536:331000000:361000000:Rune of Constructs #3"] = {
-					1536, -- [1]
-					0.331, -- [2]
-					0.361, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Rune of Constructs #3",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Rune of Constructs #3",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1536:331000000:361000000:TomTom waypoint"] = {
-					1536, -- [1]
-					0.331, -- [2]
-					0.361, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "TomTom waypoint",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "TomTom waypoint",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["world"] = {
 						},
 						["minimap"] = {
@@ -686,20 +488,18 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-		},
-		["Trublmakr - Bleeding Hollow"] = {
-			[198] = {
-				["198:620000000:220000000:Elder Evershade"] = {
-					198, -- [1]
-					0.62, -- [2]
-					0.22, -- [3]
+			[114] = {
+				["114:573000000:437000000:Elder Arp"] = {
+					114, -- [1]
+					0.573, -- [2]
+					0.437, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Elder Evershade",
+					["desc"] = "Elder Arp",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Elder Evershade",
+					["title"] = "Elder Arp",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -712,17 +512,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["198:260000000:620000000:Elder Windsong"] = {
-					198, -- [1]
-					0.26, -- [2]
-					0.62, -- [3]
+				["114:429000000:496000000:Elder Pamuya"] = {
+					114, -- [1]
+					0.429, -- [2]
+					0.496, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Elder Windsong",
+					["desc"] = "Elder Pamuya",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Elder Windsong",
+					["title"] = "Elder Pamuya",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -735,19 +535,40 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-			},
-			[77] = {
-				["77:383000000:529000000:Elder Nightwind"] = {
-					77, -- [1]
-					0.383, -- [2]
-					0.529, -- [3]
+				["114:338000000:344000000:Elder Northal"] = {
+					114, -- [1]
+					0.338, -- [2]
+					0.344, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Elder Nightwind",
+					["desc"] = "Elder Northal",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Elder Nightwind",
+					["title"] = "Elder Northal",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["114:591000000:656000000:Elder Sardis"] = {
+					114, -- [1]
+					0.591, -- [2]
+					0.656, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Sardis",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Sardis",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -809,6 +630,185 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Noliee - Bleeding Hollow"] = {
+		},
+		["Dorkks - Wyrmrest Accord"] = {
+		},
+		["Emogin - Bleeding Hollow"] = {
+			[1536] = {
+				["1536:331000000:361000000:TomTom waypoint"] = {
+					1536, -- [1]
+					0.331, -- [2]
+					0.361, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom waypoint",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom waypoint",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1536:331000000:361000000:Rune of Constructs #3"] = {
+					1536, -- [1]
+					0.331, -- [2]
+					0.361, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Rune of Constructs #3",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Rune of Constructs #3",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+		},
+		["Trublmakr - Bleeding Hollow"] = {
+			[198] = {
+				["198:260000000:620000000:Elder Windsong"] = {
+					198, -- [1]
+					0.26, -- [2]
+					0.62, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Windsong",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Windsong",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["198:620000000:220000000:Elder Evershade"] = {
+					198, -- [1]
+					0.62, -- [2]
+					0.22, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Evershade",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Evershade",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[77] = {
+				["77:383000000:529000000:Elder Nightwind"] = {
+					77, -- [1]
+					0.383, -- [2]
+					0.529, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Nightwind",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Nightwind",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[207] = {
+				["207:490000000:540000000:Elder Stonebrand"] = {
+					207, -- [1]
+					0.49, -- [2]
+					0.54, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Stonebrand",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Stonebrand",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["207:270000000:690000000:Elder Deepforge"] = {
+					207, -- [1]
+					0.27, -- [2]
+					0.69, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Deepforge",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Deepforge",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
 			[1333] = {
 				["1333:495000000:190000000:Elder Starweave"] = {
 					1333, -- [1]
@@ -825,9 +825,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -850,9 +850,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -875,251 +875,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
 						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[119] = {
-				["119:638000000:490000000:Elder Wanikaya"] = {
-					119, -- [1]
-					0.638, -- [2]
-					0.49, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Wanikaya",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Wanikaya",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["119:498000000:630000000:Elder Sandrene"] = {
-					119, -- [1]
-					0.498, -- [2]
-					0.63, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Sandrene",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Sandrene",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[83] = {
-				["83:601000000:499000000:Elder Stonespire"] = {
-					83, -- [1]
-					0.601, -- [2]
-					0.499, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Stonespire",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Stonespire",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["83:532000000:568000000:Elder Brightspear"] = {
-					83, -- [1]
-					0.532, -- [2]
-					0.568, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Brightspear",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Brightspear",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[205] = {
-				["205:570000000:860000000:Elder Moonlance"] = {
-					205, -- [1]
-					0.57, -- [2]
-					0.86, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Moonlance",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Moonlance",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[76] = {
-				["76:647000000:793000000:Elder Skygleam"] = {
-					76, -- [1]
-					0.647, -- [2]
-					0.793, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Skygleam",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Skygleam",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[57] = {
-				["57:570000000:530000000:Elder Bladeleaf"] = {
-					57, -- [1]
-					0.57, -- [2]
-					0.53, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Bladeleaf",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Bladeleaf",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[114] = {
-				["114:573000000:437000000:Elder Arp"] = {
-					114, -- [1]
-					0.573, -- [2]
-					0.437, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Arp",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Arp",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["114:338000000:344000000:Elder Northal"] = {
-					114, -- [1]
-					0.338, -- [2]
-					0.344, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Northal",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Northal",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["114:591000000:656000000:Elder Sardis"] = {
-					114, -- [1]
-					0.591, -- [2]
-					0.656, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Sardis",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Sardis",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1142,9 +900,251 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["minimap"] = {
+						},
 						["world"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[83] = {
+				["83:601000000:499000000:Elder Stonespire"] = {
+					83, -- [1]
+					0.601, -- [2]
+					0.499, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Stonespire",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Stonespire",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["83:532000000:568000000:Elder Brightspear"] = {
+					83, -- [1]
+					0.532, -- [2]
+					0.568, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Brightspear",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Brightspear",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[114] = {
+				["114:573000000:437000000:Elder Arp"] = {
+					114, -- [1]
+					0.573, -- [2]
+					0.437, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Arp",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Arp",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["114:338000000:344000000:Elder Northal"] = {
+					114, -- [1]
+					0.338, -- [2]
+					0.344, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Northal",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Northal",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["114:591000000:656000000:Elder Sardis"] = {
+					114, -- [1]
+					0.591, -- [2]
+					0.656, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Sardis",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Sardis",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[76] = {
+				["76:647000000:793000000:Elder Skygleam"] = {
+					76, -- [1]
+					0.647, -- [2]
+					0.793, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Skygleam",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Skygleam",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[57] = {
+				["57:570000000:530000000:Elder Bladeleaf"] = {
+					57, -- [1]
+					0.57, -- [2]
+					0.53, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Bladeleaf",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Bladeleaf",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[205] = {
+				["205:570000000:860000000:Elder Moonlance"] = {
+					205, -- [1]
+					0.57, -- [2]
+					0.86, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Moonlance",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Moonlance",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[119] = {
+				["119:638000000:490000000:Elder Wanikaya"] = {
+					119, -- [1]
+					0.638, -- [2]
+					0.49, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Wanikaya",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Wanikaya",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["119:498000000:630000000:Elder Sandrene"] = {
+					119, -- [1]
+					0.498, -- [2]
+					0.63, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Sandrene",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Sandrene",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1169,9 +1169,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1194,9 +1194,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1219,9 +1219,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1244,9 +1244,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1269,9 +1269,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1294,9 +1294,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1319,9 +1319,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1344,9 +1344,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1369,9 +1369,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1394,9 +1394,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1419,9 +1419,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1444,9 +1444,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1469,9 +1469,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1492,9 +1492,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1517,9 +1517,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1540,9 +1540,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1565,9 +1565,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1590,9 +1590,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1615,9 +1615,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1625,29 +1625,6 @@ TomTomWaypointsM = {
 				},
 			},
 			[114] = {
-				["114:573000000:437000000:Elder Arp"] = {
-					114, -- [1]
-					0.573, -- [2]
-					0.437, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Arp",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Arp",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
 				["114:429000000:496000000:Elder Pamuya"] = {
 					114, -- [1]
 					0.429, -- [2]
@@ -1663,9 +1640,32 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["world"] = {
+						},
 						["minimap"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["114:573000000:437000000:Elder Arp"] = {
+					114, -- [1]
+					0.573, -- [2]
+					0.437, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Arp",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Arp",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1686,9 +1686,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1709,9 +1709,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1734,9 +1734,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1757,9 +1757,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1782,9 +1782,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1807,9 +1807,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1830,9 +1830,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1853,9 +1853,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1863,29 +1863,6 @@ TomTomWaypointsM = {
 				},
 			},
 			[198] = {
-				["198:260000000:620000000:Elder Windsong"] = {
-					198, -- [1]
-					0.26, -- [2]
-					0.62, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Windsong",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Windsong",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
 				["198:620000000:220000000:Elder Evershade"] = {
 					198, -- [1]
 					0.62, -- [2]
@@ -1901,9 +1878,32 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["world"] = {
+						},
 						["minimap"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["198:260000000:620000000:Elder Windsong"] = {
+					198, -- [1]
+					0.26, -- [2]
+					0.62, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Windsong",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Windsong",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1926,9 +1926,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1949,9 +1949,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1972,9 +1972,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1997,9 +1997,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -2020,9 +2020,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -2045,666 +2045,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
 						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[199] = {
-				["199:415000000:475000000:Elder High Mountain"] = {
-					199, -- [1]
-					0.415, -- [2]
-					0.475, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder High Mountain",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder High Mountain",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[18] = {
-				["18:619000000:539000000:Elder Graveborn"] = {
-					18, -- [1]
-					0.619, -- [2]
-					0.539, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Graveborn",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Graveborn",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[22] = {
-				["22:635000000:361000000:Elder Meadowrun"] = {
-					22, -- [1]
-					0.635, -- [2]
-					0.361, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Meadowrun",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Meadowrun",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["22:692000000:735000000:Elder Moonstrike"] = {
-					22, -- [1]
-					0.692, -- [2]
-					0.735, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Moonstrike",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Moonstrike",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[26] = {
-				["26:490000000:479000000:Elder Highpeak"] = {
-					26, -- [1]
-					0.49, -- [2]
-					0.479, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Highpeak",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Highpeak",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[23] = {
-				["23:356000000:688000000:Elder Windrun"] = {
-					23, -- [1]
-					0.356, -- [2]
-					0.688, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Windrun",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Windrun",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["23:750000000:540000000:Elder Snowcrown"] = {
-					23, -- [1]
-					0.75, -- [2]
-					0.54, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Snowcrown",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Snowcrown",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[71] = {
-				["71:513000000:278000000:Elder Dreamseer"] = {
-					71, -- [1]
-					0.513, -- [2]
-					0.278, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Dreamseer",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Dreamseer",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["71:372000000:791000000:Elder Ragetotem"] = {
-					71, -- [1]
-					0.372, -- [2]
-					0.791, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Ragetotem",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Ragetotem",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[10] = {
-				["10:485000000:593000000:Elder Moonwarden"] = {
-					10, -- [1]
-					0.485, -- [2]
-					0.593, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Moonwarden",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Moonwarden",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[52] = {
-				["52:566000000:470000000:Elder Skychaser"] = {
-					52, -- [1]
-					0.566, -- [2]
-					0.47, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Skychaser",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Skychaser",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[119] = {
-				["119:638000000:490000000:Elder Wanikaya"] = {
-					119, -- [1]
-					0.638, -- [2]
-					0.49, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Wanikaya",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Wanikaya",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["119:498000000:630000000:Elder Sandrene"] = {
-					119, -- [1]
-					0.498, -- [2]
-					0.63, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Sandrene",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Sandrene",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[205] = {
-				["205:570000000:860000000:Elder Moonlance"] = {
-					205, -- [1]
-					0.57, -- [2]
-					0.86, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Moonlance",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Moonlance",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[281] = {
-				["281:515000000:937000000:Elder Splitrock"] = {
-					281, -- [1]
-					0.515, -- [2]
-					0.937, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Splitrock",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Splitrock",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[37] = {
-				["37:398000000:637000000:Elder Stormbrow"] = {
-					37, -- [1]
-					0.398, -- [2]
-					0.637, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Stormbrow",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Stormbrow",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[120] = {
-				["120:646000000:513000000:Elder Muraco"] = {
-					120, -- [1]
-					0.646, -- [2]
-					0.513, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Muraco",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Muraco",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["120:412000000:847000000:Elder Graymane"] = {
-					120, -- [1]
-					0.412, -- [2]
-					0.847, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Graymane",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Graymane",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["120:313000000:376000000:Elder Stonebeard"] = {
-					120, -- [1]
-					0.313, -- [2]
-					0.376, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Stonebeard",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Stonebeard",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["120:289000000:737000000:Elder Fargal"] = {
-					120, -- [1]
-					0.289, -- [2]
-					0.737, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Fargal",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Fargal",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[207] = {
-				["207:490000000:540000000:Elder Stonebrand"] = {
-					207, -- [1]
-					0.49, -- [2]
-					0.54, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Stonebrand",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Stonebrand",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["207:270000000:690000000:Elder Deepforge"] = {
-					207, -- [1]
-					0.27, -- [2]
-					0.69, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Deepforge",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Deepforge",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[36] = {
-				["36:536000000:245000000:Elder Dawnstrider"] = {
-					36, -- [1]
-					0.536, -- [2]
-					0.245, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Dawnstrider",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Dawnstrider",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["36:701000000:454000000:Elder Rumblerock"] = {
-					36, -- [1]
-					0.701, -- [2]
-					0.454, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Rumblerock",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Rumblerock",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[210] = {
-				["210:399000000:725000000:Elder Winterhoof"] = {
-					210, -- [1]
-					0.399, -- [2]
-					0.725, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Winterhoof",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Winterhoof",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[121] = {
-				["121:589000000:560000000:Elder Tauros"] = {
-					121, -- [1]
-					0.589, -- [2]
-					0.56, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Tauros",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Tauros",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[88] = {
-				["88:730000000:233000000:Elder Ezra Wheathoof"] = {
-					88, -- [1]
-					0.73, -- [2]
-					0.233, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Elder Ezra Wheathoof",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elder Ezra Wheathoof",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -2727,9 +2070,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -2750,9 +2093,107 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["world"] = {
+						},
 						["minimap"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[18] = {
+				["18:619000000:539000000:Elder Graveborn"] = {
+					18, -- [1]
+					0.619, -- [2]
+					0.539, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Graveborn",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Graveborn",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[22] = {
+				["22:635000000:361000000:Elder Meadowrun"] = {
+					22, -- [1]
+					0.635, -- [2]
+					0.361, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Meadowrun",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Meadowrun",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["22:692000000:735000000:Elder Moonstrike"] = {
+					22, -- [1]
+					0.692, -- [2]
+					0.735, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Moonstrike",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Moonstrike",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[26] = {
+				["26:490000000:479000000:Elder Highpeak"] = {
+					26, -- [1]
+					0.49, -- [2]
+					0.479, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Highpeak",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Highpeak",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -2775,9 +2216,568 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["world"] = {
+						},
 						["minimap"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[71] = {
+				["71:513000000:278000000:Elder Dreamseer"] = {
+					71, -- [1]
+					0.513, -- [2]
+					0.278, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Dreamseer",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Dreamseer",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["71:372000000:791000000:Elder Ragetotem"] = {
+					71, -- [1]
+					0.372, -- [2]
+					0.791, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Ragetotem",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Ragetotem",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[281] = {
+				["281:515000000:937000000:Elder Splitrock"] = {
+					281, -- [1]
+					0.515, -- [2]
+					0.937, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Splitrock",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Splitrock",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[52] = {
+				["52:566000000:470000000:Elder Skychaser"] = {
+					52, -- [1]
+					0.566, -- [2]
+					0.47, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Skychaser",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Skychaser",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[119] = {
+				["119:638000000:490000000:Elder Wanikaya"] = {
+					119, -- [1]
+					0.638, -- [2]
+					0.49, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Wanikaya",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Wanikaya",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["119:498000000:630000000:Elder Sandrene"] = {
+					119, -- [1]
+					0.498, -- [2]
+					0.63, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Sandrene",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Sandrene",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[205] = {
+				["205:570000000:860000000:Elder Moonlance"] = {
+					205, -- [1]
+					0.57, -- [2]
+					0.86, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Moonlance",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Moonlance",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[88] = {
+				["88:730000000:233000000:Elder Ezra Wheathoof"] = {
+					88, -- [1]
+					0.73, -- [2]
+					0.233, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Ezra Wheathoof",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Ezra Wheathoof",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[207] = {
+				["207:490000000:540000000:Elder Stonebrand"] = {
+					207, -- [1]
+					0.49, -- [2]
+					0.54, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Stonebrand",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Stonebrand",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["207:270000000:690000000:Elder Deepforge"] = {
+					207, -- [1]
+					0.27, -- [2]
+					0.69, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Deepforge",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Deepforge",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[120] = {
+				["120:646000000:513000000:Elder Muraco"] = {
+					120, -- [1]
+					0.646, -- [2]
+					0.513, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Muraco",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Muraco",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["120:412000000:847000000:Elder Graymane"] = {
+					120, -- [1]
+					0.412, -- [2]
+					0.847, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Graymane",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Graymane",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["120:313000000:376000000:Elder Stonebeard"] = {
+					120, -- [1]
+					0.313, -- [2]
+					0.376, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Stonebeard",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Stonebeard",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["120:289000000:737000000:Elder Fargal"] = {
+					120, -- [1]
+					0.289, -- [2]
+					0.737, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Fargal",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Fargal",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[37] = {
+				["37:398000000:637000000:Elder Stormbrow"] = {
+					37, -- [1]
+					0.398, -- [2]
+					0.637, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Stormbrow",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Stormbrow",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[210] = {
+				["210:399000000:725000000:Elder Winterhoof"] = {
+					210, -- [1]
+					0.399, -- [2]
+					0.725, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Winterhoof",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Winterhoof",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[36] = {
+				["36:701000000:454000000:Elder Rumblerock"] = {
+					36, -- [1]
+					0.701, -- [2]
+					0.454, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Rumblerock",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Rumblerock",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["36:536000000:245000000:Elder Dawnstrider"] = {
+					36, -- [1]
+					0.536, -- [2]
+					0.245, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Dawnstrider",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Dawnstrider",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[121] = {
+				["121:589000000:560000000:Elder Tauros"] = {
+					121, -- [1]
+					0.589, -- [2]
+					0.56, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Tauros",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Tauros",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[10] = {
+				["10:485000000:593000000:Elder Moonwarden"] = {
+					10, -- [1]
+					0.485, -- [2]
+					0.593, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Moonwarden",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Moonwarden",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[23] = {
+				["23:356000000:688000000:Elder Windrun"] = {
+					23, -- [1]
+					0.356, -- [2]
+					0.688, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Windrun",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Windrun",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["23:750000000:540000000:Elder Snowcrown"] = {
+					23, -- [1]
+					0.75, -- [2]
+					0.54, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder Snowcrown",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder Snowcrown",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[199] = {
+				["199:415000000:475000000:Elder High Mountain"] = {
+					199, -- [1]
+					0.415, -- [2]
+					0.475, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Elder High Mountain",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Elder High Mountain",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -2787,9 +2787,9 @@ TomTomWaypointsM = {
 		},
 		["Holynoly - Bleeding Hollow"] = {
 		},
-		["Dorkks - Wyrmrest Accord"] = {
+		["Diá - Bleeding Hollow"] = {
 		},
-		["Inolie - Bleeding Hollow"] = {
+		["Pándan - Bleeding Hollow"] = {
 		},
 		["Blù - Bleeding Hollow"] = {
 		},
@@ -2797,7 +2797,7 @@ TomTomWaypointsM = {
 		},
 		["Emoclëw - Bleeding Hollow"] = {
 		},
-		["Pándan - Bleeding Hollow"] = {
+		["Nolieper - Bleeding Hollow"] = {
 		},
 	},
 }

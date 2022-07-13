@@ -1,146 +1,141 @@
 
 ElvCharacterDB = {
-	["BodyGuard"] = {
-		["IsInValidZone"] = true,
-		["MaxHealth"] = 0,
-		["Health"] = 0,
-		["Active"] = false,
-	},
+	["ConvertKeybindings"] = true,
 	["ChatHistoryLog"] = {
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:15650:Player-73-06EE3479:1:7:7:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Streets of Wonder]|h|r!", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"{rt4} 2", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			942, -- [11]
-			"Player-73-06EE3479", -- [12]
+			5723, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657248101,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510254,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:15650:Player-73-0EA72FFE:1:7:7:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Streets of Wonder]|h|r!", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt6} 2", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			943, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5724, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248101,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510254,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"nice", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt5} 2", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			951, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5725, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248111,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1657510254,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"HEY I GOT RATING FOR THAT", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			957, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5726, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248117,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1657510254,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"LOL", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			958, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5727, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248118,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1657510254,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"hyuge", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt4} 1", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			963, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5728, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248123,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510255,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"lol", -- [1]
+			"{rt2} 1", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -150,7 +145,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			964, -- [11]
+			5729, -- [11]
 			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -158,209 +153,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248123,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1657510255,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"fuckin finally i get the dagger", -- [1]
-			"Zerisimp-Area52", -- [2]
+			"{rt6} 1", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zerisimp-Area52", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			965, -- [11]
-			"Player-3676-0DD8945A", -- [12]
+			5730, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcZerisimp-Area52|r",
-			[51] = 1657248123,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510255,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"pogger", -- [1]
-			"Zerisimp-Area52", -- [2]
+			"{rt5} 1", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zerisimp-Area52", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			966, -- [11]
-			"Player-3676-0DD8945A", -- [12]
+			5731, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcZerisimp-Area52|r",
-			[51] = 1657248124,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1657510255,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"gg lads and lasses thanks for the keys", -- [1]
-			"Zerisimp-Area52", -- [2]
+			"{rt1} 1", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zerisimp-Area52", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			968, -- [11]
-			"Player-3676-0DD8945A", -- [12]
+			5732, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcZerisimp-Area52|r",
-			[51] = 1657248151,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1657510255,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"UGE", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"I'M PANICKING", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			969, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5736, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248152,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1657510271,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"ty ", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Bomb (6{rt6}) on Swayzexd", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			970, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5738, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248157,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510273,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"ttyl", -- [1]
-			"Zerisimp-Area52", -- [2]
+			"Bomb (3{rt3}) on Ohgodnowhy", -- [1]
+			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zerisimp-Area52", -- [5]
+			"Ohgodnowhy-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			971, -- [11]
-			"Player-3676-0DD8945A", -- [12]
+			5739, -- [11]
+			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcZerisimp-Area52|r",
-			[51] = 1657248158,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcOhgodnowhy|r",
+			[51] = 1657510273,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"thanks for the key", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			972, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5746, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248162,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1657510276,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"she only gripped me once mike", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt6} 3", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			975, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5747, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248190,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510276,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"ha", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt2} 3", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			976, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5748, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248193,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1657510276,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"KIND DISAPPOINTED TBH", -- [1]
+			"{rt3} 3", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -370,7 +365,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			977, -- [11]
+			5749, -- [11]
 			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -378,231 +373,231 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248197,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657510276,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"she was gonna do it more but then you killed yourself twice", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt5} 3", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			978, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5750, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248215,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1657510276,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"With how much you grief in raid", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			979, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5751, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248215,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1657510277,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"oh yeah def", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt6} 2", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			980, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5752, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248221,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510277,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"i was expecting her to be PI'ing sorq", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			981, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5753, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248225,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1657510277,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"true out of the 3 of us he deserves it the most", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt3} 2", -- [1]
+			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Ohgodnowhy-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			982, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5754, -- [11]
+			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248237,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcOhgodnowhy|r",
+			[51] = 1657510277,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"lol either of you would be better targets", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt5} 2", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			983, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5755, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248243,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1657510277,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"hes a lovley guy tbh", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt1} 1", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			984, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5756, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248247,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1657510278,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"truly an unsung hero of starworld", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			985, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5757, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248260,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1657510278,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"i miss him tbh", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt4} 1", -- [1]
+			"Phycoz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Phycoz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			986, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5758, -- [11]
+			"Player-73-0EAB3E5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248273,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefePhycoz|r",
+			[51] = 1657510278,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"i dont have another healer so idk if you wanna do another ", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt6} 1", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			987, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5759, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248278,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510278,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"i have to do sunmmoning duty", -- [1]
+			"{rt3} 1", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -612,7 +607,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			988, -- [11]
+			5760, -- [11]
 			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -620,33 +615,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248278,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657510278,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"becky heals ?", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt5} 1", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			989, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5761, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248302,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1657510278,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"you want the heals", -- [1]
+			"not falling with 0.7 seconds left!", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -656,7 +651,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			990, -- [11]
+			5762, -- [11]
 			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -664,209 +659,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248310,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657510279,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [30]
 		{
-			"lmao", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Bomb (6{rt6}) on Cocogoat", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			991, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5766, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248313,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510299,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"|cffff8000|Hitem:173242::::::::60:263::66:6:7000:6649:6647:8156:7882:1588:1:28:2142::::Player-73-0E92FEBC:|h[Cloak of Earthen Harmony]|h|r", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (3{rt3}) on Dorkk", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			992, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5767, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248322,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1657510299,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"big earthsields", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Bomb (4{rt4}) on Peezuh", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			993, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5768, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248332,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510299,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"i need to lvl a drood or something to heal so we have asooths", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (2{rt2}) on Jrpoopsie", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			994, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5769, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248356,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510299,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"hunter has soothe", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt6} 3", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			995, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5776, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248387,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510302,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"good point", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Zubx-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Zubx-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			996, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5777, -- [11]
+			"Player-73-0E835A7E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248394,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaZubx|r",
+			[51] = 1657510302,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"i should just play hunter", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt4} 3", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			997, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5778, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248398,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510302,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"move over dorkk", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt5} 3", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			998, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5779, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248403,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1657510302,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"true", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt2} 3", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			999, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5780, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248404,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510302,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"we can just have 4 hunters in raid", -- [1]
+			"{rt3} 3", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -876,7 +871,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1000, -- [11]
+			5781, -- [11]
 			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -884,99 +879,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248414,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1657510302,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"despite the fact we've been benching one", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt6} 2", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1001, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5782, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248479,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510303,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"lol", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Zubx-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Zubx-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1002, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5783, -- [11]
+			"Player-73-0E835A7E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248425,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaZubx|r",
+			[51] = 1657510303,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"he deserves to be benched", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt4} 2", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1003, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5784, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248427,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510303,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"who's out for Jailer?", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1004, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5785, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248433,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510303,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"idt he does lol", -- [1]
+			"{rt3} 2", -- [1]
 			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -986,7 +981,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1005, -- [11]
+			5786, -- [11]
 			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -994,869 +989,869 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248435,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1657510303,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"he does lol", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt5} 2", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1006, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5787, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248442,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1657510303,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"no one yet ?", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt6} 1", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1007, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5788, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248443,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510304,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"im out", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt4} 1", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1008, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5789, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248446,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510304,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"thank god", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt1} 1", -- [1]
+			"Zubx-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Zubx-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1009, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5790, -- [11]
+			"Player-73-0E835A7E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248448,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaZubx|r",
+			[51] = 1657510304,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"oh nice, I thought you meant being benched for jailer", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt3} 1", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1010, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5791, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248456,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1657510304,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"someone find a heal so we can go one more", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1011, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5792, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248464,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510304,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"pizza was benched ryg", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt5} 1", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1012, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5793, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248473,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1657510304,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"whats your gf's name dorkk", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"not falling with 0.6 seconds left!", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1013, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5795, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248474,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510306,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [53]
 		{
-			"nolie", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Tank Combo on Shpack", -- [1]
+			"Shpack-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Shpack-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1014, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5799, -- [11]
+			"Player-73-0EBD7876", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248477,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cShpack|r",
+			[51] = 1657510323,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [54]
 		{
-			"ah", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"2", -- [1]
+			"Shpack-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Shpack-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1015, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5800, -- [11]
+			"Player-73-0EBD7876", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248538,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cShpack|r",
+			[51] = 1657510325,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [55]
 		{
-			"Noli wanna heal sorq?", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"1", -- [1]
+			"Shpack-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Shpack-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1016, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5801, -- [11]
+			"Player-73-0EBD7876", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248486,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cShpack|r",
+			[51] = 1657510326,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [56]
 		{
-			"lmao", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"Bomb (2{rt2}) on Plumper", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1017, -- [11]
-			"Player-73-06EE3479", -- [12]
+			5803, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657248493,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1657510328,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"hes a good guy", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (3{rt3}) on Pteargrifon", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1018, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5804, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248497,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1657510328,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"im sure he is", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"Bomb (4{rt4}) on Tarnius", -- [1]
+			"Tarnius-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"Tarnius-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1019, -- [11]
-			"Player-73-06EE3479", -- [12]
+			5805, -- [11]
+			"Player-73-0E98E584", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657248501,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Tarnius|r",
+			[51] = 1657510328,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"a little ruff around th eedges", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (6{rt6}) on Phycoz", -- [1]
+			"Phycoz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Phycoz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1020, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5806, -- [11]
+			"Player-73-0EAB3E5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248502,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefePhycoz|r",
+			[51] = 1657510328,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"I could always heal Dorkk", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Bomb (5{rt5}) on Swayzexd", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1021, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5807, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248505,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510328,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"but hes got a cute cat", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (1{rt1}) on Vroomvroom", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1022, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5808, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248507,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1657510328,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"i like how i told you her name and you still dropped the e instantly ", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt2} 3", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1023, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5815, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248507,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1657510331,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"idk that cat liked to turn off his computer a lot", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt5} 3", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1025, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5816, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248523,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510331,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"idt i've healed since mop....or even siege?", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"{rt3} 3", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1026, -- [11]
-			"Player-73-06EE3479", -- [12]
+			5817, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657248530,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1657510331,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"would it be normal of me to actually take anything seriously dorkk?", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt4} 3", -- [1]
+			"Tarnius-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Tarnius-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1027, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5818, -- [11]
+			"Player-73-0E98E584", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248536,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Tarnius|r",
+			[51] = 1657510331,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"I have since gotten a second monitor and relocated my tower", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt6} 3", -- [1]
+			"Phycoz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Phycoz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1028, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5819, -- [11]
+			"Player-73-0EAB3E5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248545,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefePhycoz|r",
+			[51] = 1657510331,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"huge", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1029, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5820, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248552,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1657510331,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"she's only turned it off once with the move", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1030, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5821, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248552,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1657510332,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"ok so i guess i tank you heal then if you're up for that", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt4} 2", -- [1]
+			"Tarnius-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tarnius-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1031, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5822, -- [11]
+			"Player-73-0E98E584", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248565,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa9d271Tarnius|r",
+			[51] = 1657510332,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"look healings easy", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt5} 2", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1032, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5823, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248567,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510332,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"and we find a dps", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt3} 2", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1033, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5824, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248569,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1657510332,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"so you just target me", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt6} 2", -- [1]
+			"Phycoz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Phycoz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1034, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5825, -- [11]
+			"Player-73-0EAB3E5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248570,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefePhycoz|r",
+			[51] = 1657510332,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"yeah that's fine with me Dorkk", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1035, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5826, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248573,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1657510332,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"and press flash heal", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1036, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5827, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248575,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1657510333,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"ok", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt5} 1", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1037, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5828, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248577,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1657510333,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"oh im out", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt3} 1", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1039, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5829, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248582,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1657510333,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"btw", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt6} 1", -- [1]
+			"Phycoz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Phycoz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1040, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5830, -- [11]
+			"Player-73-0EAB3E5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248583,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefePhycoz|r",
+			[51] = 1657510333,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"rip", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt4} 1", -- [1]
+			"Tarnius-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tarnius-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1041, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5831, -- [11]
+			"Player-73-0E98E584", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248586,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa9d271Tarnius|r",
+			[51] = 1657510333,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"i gotta go bed time", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt1} 1", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1042, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5832, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248586,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1657510333,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"his one and gone", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"not falling with 0.7 seconds left!", -- [1]
+			"Tarnius-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tarnius-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1043, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5833, -- [11]
+			"Player-73-0E98E584", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248588,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa9d271Tarnius|r",
+			[51] = 1657510335,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [81]
 		{
-			"damn lol", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Bomb (2{rt2}) on Dorkk", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1046, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			5840, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657248598,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1657510355,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"I WORK", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (5{rt5}) on Peezuh", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1047, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5841, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248598,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510355,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"FOR", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (4{rt4}) on Cocogoat", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1048, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5842, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248598,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510355,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"A", -- [1]
+			"Bomb (3{rt3}) on Ohgodnowhy", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1866,7 +1861,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1049, -- [11]
+			5843, -- [11]
 			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1874,253 +1869,275 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248598,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1657510355,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"LIVING ", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (6{rt6}) on Worobeam", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1050, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5844, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248598,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1657510355,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"DORK", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"Bomb (1{rt1}) on Jrpoopsie", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1051, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5851, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248659,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510355,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"coward", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt5} 3", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1052, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5853, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248603,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510358,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"you can raid till 12:30 yet cant key ", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt4} 3", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1053, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5854, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248614,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510358,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"i get it ", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1054, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5855, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248615,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510358,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
-			"it's 1130", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt5} 2", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1055, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5856, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248622,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510359,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"buck up", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"{rt4} 2", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1056, -- [11]
-			"Player-73-06EE3479", -- [12]
+			5857, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657248623,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510359,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"thank you very much", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1057, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5858, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248625,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510359,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [93]
 		{
-			"ive been up for over 24hrs", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"{rt5} 1", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1058, -- [11]
-			"Player-73-06EE3479", -- [12]
+			5859, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657248631,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510360,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"dorkk how old are you", -- [1]
-			"Ohgodnowhy-BleedingHollow", -- [2]
+			"{rt4} 1", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ohgodnowhy-BleedingHollow", -- [5]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1059, -- [11]
-			"Player-73-0EA72FFE", -- [12]
+			5860, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248634,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1657510360,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"27", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"{rt1} 1", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1060, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5861, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248639,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1657510360,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [96]
 		{
-			"fucking young buck", -- [1]
+			"not falling with 0.7 seconds left!", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5862, -- [11]
+			"Player-73-0E9AF323", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1657510362,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [97]
+		{
+			"that video", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2130,7 +2147,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1061, -- [11]
+			5869, -- [11]
 			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2138,75 +2155,58 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcOhgodnowhy|r",
-			[51] = 1657248643,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
-		{
-			"nah ask her, im and old man", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1062, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248651,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1657510395,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [98]
 		{
-			"an old", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"is actually really good", -- [1]
+			"Ohgodnowhy-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Ohgodnowhy-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1063, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			5871, -- [11]
+			"Player-73-0EA72FFE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1657248655,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcOhgodnowhy|r",
+			[51] = 1657510399,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [99]
 	},
-	["ChatEditHistory"] = {
-		"/p idt he does lol", -- [1]
-		"/p no one yet ?", -- [2]
-		"/p someone find a heal so we can go one more", -- [3]
-		"/p pizza was benched ryg", -- [4]
-		"/p nolie", -- [5]
-		"/p i like how i told you her name and you still dropped the e instantly", -- [6]
-		"/p idk that cat liked to turn off his computer a lot", -- [7]
-		"/p huge", -- [8]
-		"/p ok so i guess i tank you heal then if you're up for that", -- [9]
-		"/p and we find a dps", -- [10]
-		"/p ok", -- [11]
-		"/lick", -- [12]
-		"/p rip", -- [13]
-		"/p his one and gone", -- [14]
-		"/p coward", -- [15]
-		"/p you can raid till 12:30 yet cant key", -- [16]
-		"/p i get it", -- [17]
-		"/p 27", -- [18]
-		"/p nah ask her, im and old man", -- [19]
-		"/p an old", -- [20]
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 0,
+		["MaxHealth"] = 0,
+		["IsInValidZone"] = true,
 	},
-	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/cw Ohgodnowhy-BleedingHollow was hote", -- [1]
+		"/ROLL 20000", -- [2]
+		"/raid 1", -- [3]
+		"/roll 20000", -- [4]
+		"/raid oof", -- [5]
+		"/raid went across the world to rez ron for ethan to immediately tell me to kill myself : (", -- [6]
+		"/cw Ohgodnowhy-BleedingHollow i havent gotten to let any beyblades rip yet today", -- [7]
+		"/cw Ohgodnowhy-BleedingHollow and im not happy", -- [8]
+		"/cw Ohgodnowhy-BleedingHollow goblin jumpping raptor form", -- [9]
+		"/cw Ohgodnowhy-BleedingHollow yeesh this guy doesnt even know you're an orc", -- [10]
+		"/cw Ohgodnowhy-BleedingHollow he doesnt even care about us", -- [11]
+		"/cw Ohgodnowhy-BleedingHollow we're just pawns on the game board for him", -- [12]
+		"/cw Ohgodnowhy-BleedingHollow we're the pawns, kory is the king and bhang is the queen", -- [13]
+		"/cw Ohgodnowhy-BleedingHollow still enjoys it and us i guess", -- [14]
+		"/cw Ohgodnowhy-BleedingHollow lmfao", -- [15]
+		"/raid hey woro we had some pretty cool beyblades", -- [16]
+		"Healers get bomb right ?", -- [17]
+		"ok. thought so but was wondering if i could just leave 6th tick to you or something", -- [18]
+		"but rip", -- [19]
+		"/m", -- [20]
+	},
 }

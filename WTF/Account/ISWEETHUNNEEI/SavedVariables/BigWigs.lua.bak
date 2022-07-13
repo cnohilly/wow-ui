@@ -41,11 +41,11 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_Common Auras"] = {
+		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -56,11 +56,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Messages"] = {
 		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Plugins_Common Auras"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -69,13 +69,13 @@ BigWigs3DB = {
 		["Emogin - Bleeding Hollow"] = "Default",
 		["Trublmakr - Bleeding Hollow"] = "Default",
 		["Stryfë - Bleeding Hollow"] = "Default",
-		["Diá - Bleeding Hollow"] = "Default",
-		["Nolieper - Bleeding Hollow"] = "Default",
-		["Pándan - Bleeding Hollow"] = "Default",
 		["Blù - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
 		["Holynoly - Bleeding Hollow"] = "Default",
 		["Emoclëw - Bleeding Hollow"] = "Default",
-		["Inolie - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -112,9 +112,9 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2418] = {
-			["LFR"] = {
-				["best"] = 587.8040000000037,
+		[2425] = {
+			["heroic"] = {
+				["best"] = 512.4869999999646,
 				["kills"] = 1,
 			},
 		},
@@ -125,9 +125,9 @@ BigWigsStatsDB = {
 				["best"] = 454.8220000001602,
 			},
 		},
-		[2425] = {
-			["heroic"] = {
-				["best"] = 512.4869999999646,
+		[2418] = {
+			["LFR"] = {
+				["best"] = 587.8040000000037,
 				["kills"] = 1,
 			},
 		},
@@ -174,16 +174,16 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
+		[2463] = {
+			["LFR"] = {
+				["wipes"] = 2,
+			},
+		},
 		[2458] = {
 			["LFR"] = {
 				["kills"] = 1,
 				["wipes"] = 1,
 				["best"] = 508.6359999999986,
-			},
-		},
-		[2463] = {
-			["LFR"] = {
-				["wipes"] = 2,
 			},
 		},
 	},

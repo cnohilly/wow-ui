@@ -1,4 +1,11 @@
 Version: 1
+Frame: BagSync_MinimapButton
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -115
+Y: -143
+W: 32
+H: 32
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -62,7 +69,7 @@ X: 0
 Y: 0
 W: 100
 H: 80
-Frame: RAPlayerCheckMainFrame
+Frame: OPPlayerCheckMainFrame
 FrameLevel: 1
 Anchor: CENTER
 X: 0
@@ -76,13 +83,6 @@ X: 0
 Y: 0
 W: 100
 H: 80
-Frame: RABisListRaidMainFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
-W: 100
-H: 80
 Frame: RAInviteMainFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -90,7 +90,7 @@ X: 0
 Y: 0
 W: 100
 H: 80
-Frame: RANotepadMainFrame
+Frame: OPNotepadMainFrame
 FrameLevel: 1
 Anchor: CENTER
 X: 0
@@ -124,7 +124,7 @@ Anchor: CENTER
 X: 0
 Y: 0
 W: 300
-H: 200
+H: 240
 Frame: RALeaderToolbarMainFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -146,13 +146,6 @@ X: 0
 Y: 0
 W: 100
 H: 80
-Frame: RAAuraBankMainFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
-W: 100
-H: 80
 Frame: RAPasteTextMainFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -166,4 +159,4 @@ Anchor: CENTER
 X: 0
 Y: 0
 W: 600
-H: 200
+H: 250

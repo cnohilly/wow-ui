@@ -14,11 +14,11 @@ TomTomDB = {
 		["Zzxzz - Skullcrusher"] = "Default",
 		["Dwarfdorkk - Dalaran"] = "Default",
 		["Jerkk - Bleeding Hollow"] = "Default",
-		["Genericbank - Darkspear"] = "Default",
-		["Sasúke - Gilneas"] = "Default",
-		["Albiorix - Emerald Dream"] = "Default",
-		["Voodroosaur - Bleeding Hollow"] = "Default",
 		["Dorkkborne - Area 52"] = "Default",
+		["Sasúke - Gilneas"] = "Default",
+		["Genericbank - Darkspear"] = "Default",
+		["Voodroosaur - Bleeding Hollow"] = "Default",
+		["Albiorix - Emerald Dream"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -59,11 +59,11 @@ TomTomWaypointsM = {
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 	},
 	["profiles"] = {
 		["Platebaleful - Mal'Ganis"] = {
@@ -92,15 +92,15 @@ TomTomWaypointsM = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Dorkkborne - Area 52"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Genericbank - Darkspear"] = {
 		},
 		["Voodroosaur - Bleeding Hollow"] = {
 		},
-		["Dorkkborne - Area 52"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
 	},
 }

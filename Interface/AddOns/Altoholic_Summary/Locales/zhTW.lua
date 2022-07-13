@@ -28,6 +28,7 @@ L["Activity"] = "活動"
 -- L["Currencies"] = true
 -- L["PATCH_X.0"] = "Expansion Patch"
 -- L["PATCH_9.1"] = "Chains of Domination"
+-- L["PATCH_9.2"] = "Eternity's End"
 
 -- ** Filter Icons **
 L["FILTER_CLASSES"] = "職業過濾"
@@ -107,6 +108,7 @@ L["COLUMN_RESTXP_TITLE"] = "雙倍經驗"
 L["COLUMN_RESTXP_TITLE_SHORT"] = "雙倍經驗"
 -- L["Fully rested"] = true
 -- L["Fully rested in"] = true
+-- L["CHARACTER_NOT_IN_RESTING_AREA"] = "This character is not in a resting area !"
 
 -- Column Money
 L["COLUMN_MONEY_TITLE"] = "金錢"

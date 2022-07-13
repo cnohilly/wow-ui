@@ -1,5 +1,7 @@
 
 ElvCharacterDB = {
+	["CliqueDatatext"] = {
+	},
 	["ChatHistoryLog"] = {
 		{
 			"What is the week 1 gear cap?", -- [1]
@@ -2185,22 +2187,22 @@ ElvCharacterDB = {
 		" its always a tough choice", -- [2]
 		" the story is riv's hero Sylvannas is dragging us all down to hell", -- [3]
 		" you traitor", -- [4]
-		"/p i thought i would hate it as a dps", -- [5]
-		"/p 14 guarentees 955", -- [6]
-		"/inv jerkk", -- [7]
-		"/p i normally tank, but ive gotten used to it", -- [8]
+		"/p i normally tank, but ive gotten used to it", -- [5]
+		"/p caps at 15 being 960", -- [6]
+		"/sdm", -- [7]
+		"/tomtom", -- [8]
 		"whats up", -- [9]
-		"/p done with this toon. ty for the group", -- [10]
+		"/p i thought i would hate it as a dps", -- [10]
 		"its always a tough choice", -- [11]
 		"you traitor", -- [12]
-		"/tomtom", -- [13]
-		"/p caps at 15 being 960", -- [14]
+		"/p done with this toon. ty for the group", -- [13]
+		"/inv jerkk", -- [14]
 		"nice", -- [15]
 		"the story is riv's hero Sylvannas is dragging us all down to hell", -- [16]
 		"how much that worth rn", -- [17]
 		"thats pretty good", -- [18]
 		"/wa", -- [19]
-		"/sdm", -- [20]
+		"/p 14 guarentees 955", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

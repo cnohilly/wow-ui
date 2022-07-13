@@ -180,3 +180,5 @@ SuperDuperMacro: disabled
 Hekili: disabled
 Riftfarmhelper: disabled
 LazyReadycheck: disabled
+ElvUI_CustomTags: disabled
+kExtraBossFrames: disabled

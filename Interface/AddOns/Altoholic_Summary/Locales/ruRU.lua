@@ -33,6 +33,7 @@ L["Activity"] = "Активность"
 -- L["Currencies"] = true
 L["PATCH_X.0"] = "Expansion Patch"
 L["PATCH_9.1"] = "Chains of Domination"
+L["PATCH_9.2"] = "Eternity's End"
 
 -- ** Filter Icons **
 L["FILTER_CLASSES"] = "Фильтр классов"
@@ -112,6 +113,7 @@ L["COLUMN_RESTXP_TITLE"] = "Отдых"
 L["COLUMN_RESTXP_TITLE_SHORT"] = "Отдых"
 L["Fully rested"] = "Полностью отдохнувший"
 L["Fully rested in"] = "Полностью отдохнёт в"
+-- L["CHARACTER_NOT_IN_RESTING_AREA"] = "This character is not in a resting area !"
 
 -- Column Money
 L["COLUMN_MONEY_SUBTITLE_1"] = "Твоя прелесть"

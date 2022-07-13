@@ -6,11 +6,11 @@ OmniCDDB = {
 		["Eisfyre - Bleeding Hollow"] = "Default",
 		["Illidorkk - Bleeding Hollow"] = "Default",
 		["Freakk - Bleeding Hollow"] = "Default",
-		["Wardorkk - Bleeding Hollow"] = "Default",
 		["Unorthodorkk - Bleeding Hollow"] = "Default",
-		["Lickk - Bleeding Hollow"] = "Default",
-		["Jerkk - Bleeding Hollow"] = "Default",
+		["Wardorkk - Bleeding Hollow"] = "Default",
 		["Voodroo - Bleeding Hollow"] = "Default",
+		["Jerkk - Bleeding Hollow"] = "Default",
+		["Lickk - Bleeding Hollow"] = "Default",
 		["Voodroosaur - Bleeding Hollow"] = "Default",
 		["Dorkk - Bleeding Hollow"] = "Default",
 	},
@@ -23,51 +23,24 @@ OmniCDDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["version"] = 2.51,
 	["cooldowns"] = {
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
 					["extraBars"] = {
-						["interruptBar"] = {
-							["locked"] = true,
-						},
 						["raidCDBar"] = {
 							["locked"] = true,
 							["enabled"] = true,
 						},
-					},
-					["manualPos"] = {
-						{
-							["y"] = 384.3550042531351,
-							["x"] = 682.3116694426026,
-						}, -- [1]
-						{
-							["y"] = 384.3550042531351,
-							["x"] = 682.3116694426026,
-						}, -- [2]
-						{
-							["y"] = 384.3550042531351,
-							["x"] = 682.3116694426026,
-						}, -- [3]
-						{
-							["y"] = 384.3550042531351,
-							["x"] = 682.3116694426026,
-						}, -- [4]
-						{
-							["y"] = 384.3550042531351,
-							["x"] = 682.3116694426026,
-						}, -- [5]
 						["interruptBar"] = {
-							["y"] = 454.043902903828,
-							["x"] = 0,
+							["locked"] = true,
 						},
-						["raidCDBar"] = {
-							["y"] = 563.5548560150783,
-							["x"] = 0,
-						},
+					},
+					["general"] = {
+						["showPlayer"] = true,
 					},
 					["spells"] = {
 						["367241"] = false,
@@ -95,8 +68,35 @@ OmniCDDB = {
 						["offsetY"] = 10,
 						["anchorMore"] = "RIGHT",
 					},
-					["general"] = {
-						["showPlayer"] = true,
+					["manualPos"] = {
+						{
+							["y"] = 384.3550042531351,
+							["x"] = 682.3116694426026,
+						}, -- [1]
+						{
+							["y"] = 384.3550042531351,
+							["x"] = 682.3116694426026,
+						}, -- [2]
+						{
+							["y"] = 384.3550042531351,
+							["x"] = 682.3116694426026,
+						}, -- [3]
+						{
+							["y"] = 384.3550042531351,
+							["x"] = 682.3116694426026,
+						}, -- [4]
+						{
+							["y"] = 384.3550042531351,
+							["x"] = 682.3116694426026,
+						}, -- [5]
+						["raidCDBar"] = {
+							["y"] = 563.5548560150783,
+							["x"] = 0,
+						},
+						["interruptBar"] = {
+							["y"] = 454.043902903828,
+							["x"] = 0,
+						},
 					},
 				},
 				["raid"] = {

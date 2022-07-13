@@ -14,14 +14,14 @@ SimulationCraftDB = {
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
-		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
-		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 	},
 	["profiles"] = {
 		["Quirkk - Bleeding Hollow"] = {
@@ -54,21 +54,21 @@ SimulationCraftDB = {
 		},
 		["Illidorkk - Bleeding Hollow"] = {
 		},
-		["Pricecheckin - Area 52"] = {
-		},
-		["Trickk - Bleeding Hollow"] = {
-		},
-		["Unorthodorkk - Bleeding Hollow"] = {
-		},
-		["Albiorix - Emerald Dream"] = {
-		},
-		["Voodroosaur - Bleeding Hollow"] = {
-		},
-		["Voodroo - Bleeding Hollow"] = {
+		["Eore - The Forgotten Coast"] = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Eore - The Forgotten Coast"] = {
+		["Unorthodorkk - Bleeding Hollow"] = {
+		},
+		["Voodroo - Bleeding Hollow"] = {
+		},
+		["Voodroosaur - Bleeding Hollow"] = {
+		},
+		["Albiorix - Emerald Dream"] = {
+		},
+		["Trickk - Bleeding Hollow"] = {
+		},
+		["Pricecheckin - Area 52"] = {
 		},
 	},
 }

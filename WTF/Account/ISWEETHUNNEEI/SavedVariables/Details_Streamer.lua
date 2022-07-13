@@ -2,19 +2,19 @@
 Details_StreamerDB = {
 	["characters"] = {
 		["Katdoge - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Noliee - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Inolie - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Inolie - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Blù - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Happybirth - Tichondrius"] = "Inolie - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Inolie - Bleeding Hollow"] = {
@@ -39,33 +39,18 @@ Details_StreamerDB = {
 			["minimap"] = {
 				["minimapPos"] = 160,
 				["radius"] = 160,
-				["hide"] = false,
+				["hide"] = true,
 			},
-			["arrow_anchor_y"] = 0,
+			["point"] = "CENTER",
 			["arrow_anchor_x"] = 0,
-			["main_frame_locked"] = false,
+			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["use_spark"] = true,
-			["main_frame_strata"] = "LOW",
+			["scale"] = 1,
+			["use_square_mode"] = false,
+			["author"] = "Details! Team",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["author"] = "Details! Team",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -73,18 +58,33 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = 3.0517578125e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["y"] = 4.57763671875e-05,
+			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["use_square_mode"] = false,
-			["scale"] = 1,
-			["row_height"] = 20,
-			["point"] = "CENTER",
+			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 }

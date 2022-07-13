@@ -1,0 +1,589 @@
+
+BagSyncDB = {
+	["forceDBReset§"] = 2,
+	["blacklist§"] = {
+	},
+	["options§"] = {
+		["enableCrossRealmsItems"] = true,
+		["enableFactionIcons"] = false,
+		["enableExtTooltip"] = false,
+		["tooltipOnlySearch"] = false,
+		["unitDBVersion"] = {
+			["auction"] = 1,
+		},
+		["addonversion"] = "16.7",
+		["enableMailbox"] = true,
+		["enableFaction"] = true,
+		["enableGuild"] = true,
+		["enableXR_BNETRealmNames"] = true,
+		["enableTooltipItemID"] = false,
+		["enableUnitClass"] = true,
+		["enableMinimap"] = true,
+		["enableAuction"] = true,
+		["enableRealmAstrickName"] = false,
+		["enableTooltipSeperator"] = true,
+		["showGuildInGoldTooltip"] = true,
+		["enableShowUniqueItemsTotals"] = true,
+		["enableTooltips"] = true,
+		["enableTooltipGreenCheck"] = true,
+		["enableBNetAccountItems"] = false,
+		["showGuildCurrentCharacter"] = false,
+		["showTotal"] = true,
+		["colors"] = {
+			["debug"] = {
+				["r"] = 0.3019607843137255,
+				["g"] = 0.8470588235294118,
+				["b"] = 0.1529411764705883,
+			},
+			["total"] = {
+				["r"] = 0.9568627450980393,
+				["g"] = 0.6431372549019608,
+				["b"] = 0.3764705882352941,
+			},
+			["guild"] = {
+				["r"] = 0.396078431372549,
+				["g"] = 0.7215686274509804,
+				["b"] = 0.7529411764705882,
+			},
+			["cross"] = {
+				["r"] = 1,
+				["g"] = 0.4901960784313725,
+				["b"] = 0.0392156862745098,
+			},
+			["bnet"] = {
+				["r"] = 0.207843137254902,
+				["g"] = 0.5333333333333333,
+				["b"] = 1,
+			},
+			["first"] = {
+				["r"] = 0.5019607843137255,
+				["g"] = 1,
+				["b"] = 0,
+			},
+			["itemid"] = {
+				["r"] = 0.3215686274509804,
+				["g"] = 0.8274509803921568,
+				["b"] = 0.5254901960784314,
+			},
+			["second"] = {
+				["r"] = 1,
+				["g"] = 1,
+				["b"] = 1,
+			},
+		},
+		["enableRealmShortName"] = false,
+		["enableLoginVersionInfo"] = true,
+		["enableSourceDebugInfo"] = false,
+		["showGuildBankScanAlert"] = true,
+		["enableRealmIDTags"] = true,
+	},
+	["Bleeding Hollow"] = {
+		["Inolie"] = {
+			["bag"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+					"6219", -- [1]
+					"109076;20", -- [2]
+					"109076;20", -- [3]
+					"109076;20", -- [4]
+					"109076;20", -- [5]
+					"109076;20", -- [6]
+					"109076", -- [7]
+					"109184;20", -- [8]
+					"109184;2", -- [9]
+					"143681;16", -- [10]
+					"133572;20", -- [11]
+					"133572;20", -- [12]
+					"133572;3", -- [13]
+				}, -- [3]
+				{
+					"127849;13", -- [1]
+					"116268;4", -- [2]
+					"127834;10", -- [3]
+					"142117;47", -- [4]
+					"143785", -- [5]
+					"130218;2", -- [6]
+					"86143;20", -- [7]
+					"120257;16", -- [8]
+					"141605", -- [9]
+					"137642;4", -- [10]
+					"128353", -- [11]
+					"116117", -- [12]
+					"112093;2", -- [13]
+					"128559;2", -- [14]
+					"2901", -- [15]
+					"45991", -- [16]
+					"140587;8", -- [17]
+					"114943", -- [18]
+					"140192", -- [19]
+					"110560", -- [20]
+					"6948", -- [21]
+					"113578;5", -- [22]
+					"147449", -- [23]
+					"152786", -- [24]
+					"10498", -- [25]
+					"5956", -- [26]
+				}, -- [4]
+				[0] = {
+					"176852", -- [1]
+					"173202;7", -- [2]
+					"178114", -- [3]
+					"173204", -- [4]
+					"184390", -- [5]
+					"171441", -- [6]
+					"153153", -- [7]
+					"152740", -- [8]
+				},
+			},
+			["guild"] = "Nightmare Unending©",
+			["money"] = 1975450754,
+			["class"] = "DEATHKNIGHT",
+			["race"] = "BloodElf",
+			["gender"] = 3,
+			["faction"] = "Horde",
+			["professions"] = {
+			},
+			["currency"] = {
+				[402] = {
+					["name"] = "Ironpaw Token",
+					["header"] = "Miscellaneous",
+					["icon"] = 134912,
+					["count"] = 1,
+				},
+				[697] = {
+					["name"] = "Elder Charm of Good Fortune",
+					["header"] = "Mists of Pandaria",
+					["icon"] = 237281,
+					["count"] = 0,
+				},
+				[823] = {
+					["name"] = "Apexis Crystal",
+					["header"] = "Warlords of Draenor",
+					["icon"] = 1061300,
+					["count"] = 44533,
+				},
+				[994] = {
+					["name"] = "Seal of Tempered Fate",
+					["header"] = "Warlords of Draenor",
+					["icon"] = 838813,
+					["count"] = 6,
+				},
+				[1275] = {
+					["name"] = "Curious Coin",
+					["header"] = "Legion",
+					["icon"] = 1604168,
+					["count"] = 67,
+				},
+				[1191] = {
+					["name"] = "Valor",
+					["header"] = "Shadowlands",
+					["icon"] = 463447,
+					["count"] = 0,
+				},
+				[1155] = {
+					["name"] = "Ancient Mana",
+					["header"] = "Legion",
+					["icon"] = 1377394,
+					["count"] = 300,
+				},
+				[1342] = {
+					["name"] = "Legionfall War Supplies",
+					["header"] = "Legion",
+					["icon"] = 803763,
+					["count"] = 14,
+				},
+				[1273] = {
+					["name"] = "Seal of Broken Fate",
+					["header"] = "Legion",
+					["icon"] = 1604167,
+					["count"] = 6,
+				},
+				[1220] = {
+					["name"] = "Order Resources",
+					["header"] = "Legion",
+					["icon"] = 1397630,
+					["count"] = 175207,
+				},
+				[1508] = {
+					["name"] = "Veiled Argunite",
+					["header"] = "Legion",
+					["icon"] = 1064188,
+					["count"] = 775,
+				},
+				[1129] = {
+					["name"] = "Seal of Inevitable Fate",
+					["header"] = "Warlords of Draenor",
+					["icon"] = 1119886,
+					["count"] = 13,
+				},
+				[1533] = {
+					["name"] = "Wakening Essence",
+					["header"] = "Legion",
+					["icon"] = 236521,
+					["count"] = 950,
+				},
+				[738] = {
+					["name"] = "Lesser Charm of Good Fortune",
+					["header"] = "Mists of Pandaria",
+					["icon"] = 237282,
+					["count"] = 6,
+				},
+				[1101] = {
+					["name"] = "Oil",
+					["header"] = "Warlords of Draenor",
+					["icon"] = 1131085,
+					["count"] = 4405,
+				},
+				[1226] = {
+					["name"] = "Nethershard",
+					["header"] = "Legion",
+					["icon"] = 132775,
+					["count"] = 38301,
+				},
+				[614] = {
+					["name"] = "Mote of Darkness",
+					["header"] = "Cataclysm",
+					["icon"] = 136192,
+					["count"] = 12,
+				},
+				[1166] = {
+					["name"] = "Timewarped Badge",
+					["header"] = "Dungeon and Raid",
+					["icon"] = 463446,
+					["count"] = 2180,
+				},
+				[615] = {
+					["name"] = "Essence of Corrupted Deathwing",
+					["header"] = "Cataclysm",
+					["icon"] = 132851,
+					["count"] = 4,
+				},
+				[824] = {
+					["name"] = "Garrison Resources",
+					["header"] = "Warlords of Draenor",
+					["icon"] = 1005027,
+					["count"] = 3790,
+				},
+				[777] = {
+					["name"] = "Timeless Coin",
+					["header"] = "Mists of Pandaria",
+					["icon"] = 900319,
+					["count"] = 1467,
+				},
+			},
+			["equip"] = {
+				"133629::::::::::::3:3536:1475:3337:::", -- [1]
+				"158075::::::::::::4:4932:4933:4935:1469:::", -- [2]
+				"134184::::::::::::3:3535:1474:3337:::", -- [3]
+				"146758::::::::::::3:1824:1472:3528:::", -- [4]
+				"132366::::::::::::2:3459:3630:::", -- [5]
+				"134183::::::::::::3:3536:1476:3337:::", -- [6]
+				"137482::::::::::::3:3534:1474:3337:::", -- [7]
+				"132458::::::::::::2:3459:3630:::", -- [8]
+				"137355::::::::::::4:3534:1808:1474:3337:::", -- [9]
+				"134490::::::::::::3:3536:1475:3337:::", -- [10]
+				"133638::::::::::::3:3536:1473:3528:::", -- [11]
+				"137486::::::::::::3:3535:1472:3528:::", -- [12]
+				"142167::::::::::::3:3418:1472:3337:::", -- [13]
+				"134408::::::::::::3:3536:1474:3336:::", -- [14]
+				"128403::::::::::::2:718:1522:::", -- [15]
+			},
+			["mailbox"] = {
+			},
+		},
+		["Trublmakr"] = {
+			["bag"] = {
+				{
+					"50695", -- [1]
+					"50693", -- [2]
+					"50694", -- [3]
+					"50705", -- [4]
+					"50707", -- [5]
+					"50708", -- [6]
+					"52030", -- [7]
+					"45534", -- [8]
+					"45534", -- [9]
+					"45635", -- [10]
+					"45635", -- [11]
+					"46312", -- [12]
+					"45535", -- [13]
+					"46095", -- [14]
+					"50345", -- [15]
+					"51909", -- [16]
+					"187187", -- [17]
+					"187187", -- [18]
+					"187187", -- [19]
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+					"178791", -- [1]
+					"177062;186", -- [2]
+				}, -- [3]
+				{
+					"183955;173", -- [1]
+					"183266", -- [2]
+					"183275", -- [3]
+					"181550;3", -- [4]
+					"181552", -- [5]
+					"184381", -- [6]
+					"181647", -- [7]
+					"138111", -- [8]
+					"116415;25", -- [9]
+					"71634", -- [10]
+					"71083;5", -- [11]
+					"127847;4", -- [12]
+					"171267", -- [13]
+					"109076;11", -- [14]
+					"177835", -- [15]
+					"133570;19", -- [16]
+					"71715", -- [17]
+					"180405;2", -- [18]
+					"71638", -- [19]
+					"140192", -- [20]
+					"6948", -- [21]
+					"110560", -- [22]
+					"128353", -- [23]
+					"147707", -- [24]
+					"103678", -- [25]
+					"141605", -- [26]
+					"183269", -- [27]
+				}, -- [4]
+				[0] = {
+					"52976;2", -- [1]
+					"53010;13", -- [2]
+					"33568;62", -- [3]
+					"33470;165", -- [4]
+					"49908;8", -- [5]
+					"45087;18", -- [6]
+					"52327;3", -- [7]
+					"52325;4", -- [8]
+					"69237;5", -- [9]
+					"52326;6", -- [10]
+					"89112;29", -- [11]
+					"44128;2", -- [12]
+					"52025", -- [13]
+					"50671", -- [14]
+					"43852", -- [15]
+					"33452", -- [16]
+					"50676", -- [17]
+					"50684", -- [18]
+					"50675", -- [19]
+					"36679::::::::::::2:6655:1677:::", -- [20]
+				},
+			},
+			["guild"] = "Nightmare Unending©",
+			["money"] = 3071540861,
+			["class"] = "MAGE",
+			["race"] = "BloodElf",
+			["gender"] = 3,
+			["faction"] = "Horde",
+			["professions"] = {
+			},
+			["equip"] = {
+				"186666::::::::::::5:7692:6652:7579:1472:6646:::", -- [1]
+				"180115::::::::::::6:7376:7359:6652:7193:1498:6646:::", -- [2]
+				"186670::::::::::::4:7692:6652:1472:6646:::", -- [3]
+				"173214::::::::::::1:6893:::", -- [4]
+				"179343::::::::::::6:7362:7359:6652:7194:1498:6646:::", -- [5]
+				"180107::::::::::::5:7358:7359:6652:1498:6646:::", -- [6]
+				"181404::::::::::::4:43:1472:5861:6616:::", -- [7]
+				"185861::::::::::::5:7692:6652:7578:1472:6646:::", -- [8]
+				"178833::::::::::::5:7362:7359:6652:1498:6646:::", -- [9]
+				"178824::::::::::::6:7379:7359:6652:7194:1508:6646:::", -- [10]
+				"178871::::::::::::6:7377:7359:6652:7193:1501:6646:::", -- [11]
+				"179350::::::::::::5:7362:7359:6652:1498:6646:::", -- [12]
+				"178769::::::::::::5:7362:7359:6652:1498:6646:::", -- [13]
+				"185905::::::::::::4:7692:6652:1472:6646:::", -- [14]
+				"178714::::::::::::5:7409:7359:6652:1514:6646:::", -- [15]
+			},
+			["currency"] = {
+				[1820] = {
+					["icon"] = 133250,
+					["count"] = 55,
+					["header"] = "Shadowlands",
+					["name"] = "Infused Ruby",
+				},
+				[402] = {
+					["icon"] = 134912,
+					["count"] = 191,
+					["header"] = "Miscellaneous",
+					["name"] = "Ironpaw Token",
+				},
+				[614] = {
+					["icon"] = 136192,
+					["count"] = 39,
+					["header"] = "Cataclysm",
+					["name"] = "Mote of Darkness",
+				},
+				[789] = {
+					["icon"] = 900318,
+					["count"] = 4,
+					["header"] = "Mists of Pandaria",
+					["name"] = "Bloody Coin",
+				},
+				[615] = {
+					["icon"] = 132851,
+					["count"] = 5,
+					["header"] = "Cataclysm",
+					["name"] = "Essence of Corrupted Deathwing",
+				},
+				[697] = {
+					["icon"] = 237281,
+					["count"] = 0,
+					["header"] = "Mists of Pandaria",
+					["name"] = "Elder Charm of Good Fortune",
+				},
+				[777] = {
+					["icon"] = 900319,
+					["count"] = 134000,
+					["header"] = "Mists of Pandaria",
+					["name"] = "Timeless Coin",
+				},
+				[1767] = {
+					["icon"] = 3743739,
+					["count"] = 71,
+					["header"] = "Shadowlands",
+					["name"] = "Stygia",
+				},
+				[776] = {
+					["icon"] = 514015,
+					["count"] = 9,
+					["header"] = "Mists of Pandaria",
+					["name"] = "Warforged Seal",
+				},
+				[1273] = {
+					["icon"] = 1604167,
+					["count"] = 5,
+					["header"] = "Legion",
+					["name"] = "Seal of Broken Fate",
+				},
+				[994] = {
+					["icon"] = 838813,
+					["count"] = 20,
+					["header"] = "Warlords of Draenor",
+					["name"] = "Seal of Tempered Fate",
+				},
+				[1275] = {
+					["icon"] = 1604168,
+					["count"] = 158,
+					["header"] = "Legion",
+					["name"] = "Curious Coin",
+				},
+				[752] = {
+					["icon"] = 646678,
+					["count"] = 0,
+					["header"] = "Mists of Pandaria",
+					["name"] = "Mogu Rune of Fate",
+				},
+				[515] = {
+					["icon"] = 134481,
+					["count"] = 105,
+					["header"] = "Miscellaneous",
+					["name"] = "Darkmoon Prize Ticket",
+				},
+				[824] = {
+					["icon"] = 1005027,
+					["count"] = 9850,
+					["header"] = "Warlords of Draenor",
+					["name"] = "Garrison Resources",
+				},
+				[1155] = {
+					["icon"] = 1377394,
+					["count"] = 399,
+					["header"] = "Legion",
+					["name"] = "Ancient Mana",
+				},
+				[1342] = {
+					["icon"] = 803763,
+					["count"] = 707,
+					["header"] = "Legion",
+					["name"] = "Legionfall War Supplies",
+				},
+				[1129] = {
+					["icon"] = 1119886,
+					["count"] = 20,
+					["header"] = "Warlords of Draenor",
+					["name"] = "Seal of Inevitable Fate",
+				},
+				[1220] = {
+					["icon"] = 1397630,
+					["count"] = 100338,
+					["header"] = "Legion",
+					["name"] = "Order Resources",
+				},
+				[391] = {
+					["icon"] = 409548,
+					["count"] = 0,
+					["header"] = "Player vs. Player",
+					["name"] = "Tol Barad Commendation",
+				},
+				[1191] = {
+					["icon"] = 463447,
+					["count"] = 0,
+					["header"] = "Shadowlands",
+					["name"] = "Valor",
+				},
+				[1533] = {
+					["icon"] = 236521,
+					["count"] = 719,
+					["header"] = "Legion",
+					["name"] = "Wakening Essence",
+				},
+				[1813] = {
+					["icon"] = 3528288,
+					["count"] = 240,
+					["header"] = "Shadowlands",
+					["name"] = "Reservoir Anima",
+				},
+				[1101] = {
+					["icon"] = 1131085,
+					["count"] = 19395,
+					["header"] = "Warlords of Draenor",
+					["name"] = "Oil",
+				},
+				[1226] = {
+					["icon"] = 132775,
+					["count"] = 26426,
+					["header"] = "Legion",
+					["name"] = "Nethershard",
+				},
+				[738] = {
+					["icon"] = 237282,
+					["count"] = 5195,
+					["header"] = "Mists of Pandaria",
+					["name"] = "Lesser Charm of Good Fortune",
+				},
+				[1166] = {
+					["icon"] = 463446,
+					["count"] = 3495,
+					["header"] = "Dungeon and Raid",
+					["name"] = "Timewarped Badge",
+				},
+				[1508] = {
+					["icon"] = 1064188,
+					["count"] = 935,
+					["header"] = "Legion",
+					["name"] = "Veiled Argunite",
+				},
+				[81] = {
+					["icon"] = 134411,
+					["count"] = 40,
+					["header"] = "Miscellaneous",
+					["name"] = "Epicurean's Award",
+				},
+				[823] = {
+					["icon"] = 1061300,
+					["count"] = 395880,
+					["header"] = "Warlords of Draenor",
+					["name"] = "Apexis Crystal",
+				},
+			},
+			["mailbox"] = {
+			},
+		},
+	},
+}

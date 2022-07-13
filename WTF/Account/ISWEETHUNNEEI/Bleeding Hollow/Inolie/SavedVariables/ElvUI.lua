@@ -1,27 +1,6 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"/wa", -- [1]
-		"/way 65.4, 29.5 (at felblaze inside stump of big tree)", -- [2]
-		"/way 65.5, 42.4 (next to water, near bridge in the corner of Hatecoil Warcamp)", -- [3]
-		"/way 67, 33.7", -- [4]
-		"/cw Parsegodqt-Thrall i have so many cath keys", -- [5]
-		"/p running out for blobs or just killing", -- [6]
-		"/m", -- [7]
-		"/p so no groups will take me : (", -- [8]
-		"/s we did it boys", -- [9]
-		"/s do the guardsever stop", -- [10]
-		"/way 67, 46 (next to the log)", -- [11]
-		"/way 67.7, 32.8 (Felblaze Ingress - down hill near water)", -- [12]
-		"/cw Henikece-Zul'jin alt dk and like 5th alt tank", -- [13]
-		"/p rez him ?", -- [14]
-		"/elvui", -- [15]
-		"this isnt nolie atm lol. just hijacking her account", -- [16]
-		"she said: no u", -- [17]
-		"you can add me on my account:  Dorkk#1553", -- [18]
-		"but yeah. im still in an area where im not sure if i want to raid or not lol", -- [19]
-		"yeah. idt i feel like committing to a schedule to do mythic raiding again lol", -- [20]
-	},
+	["ConvertKeybindings"] = true,
 	["ChatHistoryLog"] = {
 		{
 			">>!!!WTS M+ 7-20 keys!!!<<World Tour M+0>>!!WTS KSM +15!!<< || WTS Castle Nathria full clears || || WTS Torghast ||(( SPECIAL DEAL FOR 4 OR 8 RUNS)) !!Only Gold!! <<HUOKAN COMMUNITY>>> ", -- [1]
@@ -2201,5 +2180,29 @@ ElvCharacterDB = {
 			[51] = 1614640680,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
+	},
+	["ChatEditHistory"] = {
+		"/wa", -- [1]
+		"/way 65.4, 29.5 (at felblaze inside stump of big tree)", -- [2]
+		"/way 65.5, 42.4 (next to water, near bridge in the corner of Hatecoil Warcamp)", -- [3]
+		"/way 67, 33.7", -- [4]
+		"/cw Parsegodqt-Thrall i have so many cath keys", -- [5]
+		"/p running out for blobs or just killing", -- [6]
+		"/m", -- [7]
+		"/p so no groups will take me : (", -- [8]
+		"/s we did it boys", -- [9]
+		"/s do the guardsever stop", -- [10]
+		"/way 67, 46 (next to the log)", -- [11]
+		"/way 67.7, 32.8 (Felblaze Ingress - down hill near water)", -- [12]
+		"/cw Henikece-Zul'jin alt dk and like 5th alt tank", -- [13]
+		"/p rez him ?", -- [14]
+		"/elvui", -- [15]
+		"this isnt nolie atm lol. just hijacking her account", -- [16]
+		"she said: no u", -- [17]
+		"you can add me on my account:  Dorkk#1553", -- [18]
+		"but yeah. im still in an area where im not sure if i want to raid or not lol", -- [19]
+		"yeah. idt i feel like committing to a schedule to do mythic raiding again lol", -- [20]
+	},
+	["CliqueDatatext"] = {
 	},
 }

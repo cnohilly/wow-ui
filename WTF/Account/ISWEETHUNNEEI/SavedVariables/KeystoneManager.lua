@@ -10,7 +10,7 @@ KeystoneManagerDb = {
 	},
 	["minLevel"] = 0,
 	["target"] = "GUILD",
-	["maxLevel"] = 20,
-	["announce"] = true,
 	["whisper"] = "",
+	["announce"] = true,
+	["maxLevel"] = 20,
 }

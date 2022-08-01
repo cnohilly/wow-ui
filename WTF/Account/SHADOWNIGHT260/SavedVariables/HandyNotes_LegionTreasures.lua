@@ -6,29 +6,29 @@ HandyNotes_LegionTreasuresDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
-		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
-		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
-		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Quirkk - Bleeding Hollow"] = {
@@ -41,23 +41,23 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Awkk - Bleeding Hollow"] = {
 		},
-		["Dorkkore - Tichondrius"] = {
+		["Platebaleful - Mal'Ganis"] = {
 		},
 		["Wardorkk - Bleeding Hollow"] = {
 		},
-		["Geekk - Bleeding Hollow"] = {
+		["Scongi - Kil'jaeden"] = {
 		},
 		["Smíte - The Forgotten Coast"] = {
 		},
 		["Lickk - Bleeding Hollow"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
+		["Dorkkore - Tichondrius"] = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
-		["Voodroo - Bleeding Hollow"] = {
+		["Genericbank - Darkspear"] = {
 		},
-		["Trickk - Bleeding Hollow"] = {
+		["Geekk - Bleeding Hollow"] = {
 		},
 		["Dorkkborne - Area 52"] = {
 		},
@@ -65,7 +65,7 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Illidorkk - Bleeding Hollow"] = {
 		},
-		["Eore - The Forgotten Coast"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
 		["Lildorkk - Mal'Ganis"] = {
 		},
@@ -73,19 +73,19 @@ HandyNotes_LegionTreasuresDB = {
 		},
 		["Dwarfdorkk - Dalaran"] = {
 		},
-		["Jerkk - Bleeding Hollow"] = {
-		},
 		["Unorthodorkk - Bleeding Hollow"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Jerkk - Bleeding Hollow"] = {
+		},
+		["Eore - The Forgotten Coast"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Voodroo - Bleeding Hollow"] = {
 		},
-		["Scongi - Kil'jaeden"] = {
+		["Trickk - Bleeding Hollow"] = {
 		},
-		["Platebaleful - Mal'Ganis"] = {
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 	},
 }

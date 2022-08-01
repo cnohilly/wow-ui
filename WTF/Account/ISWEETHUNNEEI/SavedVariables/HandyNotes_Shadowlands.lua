@@ -2,6 +2,8 @@
 HandyNotes_ShadowlandsDB = {
 	["profileKeys"] = {
 		["Holynoly - Bleeding Hollow"] = "Default",
+		["Dorkks - Wyrmrest Accord"] = "Default",
+		["Stryfë - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

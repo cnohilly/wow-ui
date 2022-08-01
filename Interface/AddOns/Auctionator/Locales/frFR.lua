@@ -473,6 +473,8 @@ L["TRANSLATORS_RUSSIAN"] = "Russe"
 L["TRANSLATORS_SIMPLIFIED_CHINESE"] = "Chinois simplifié"
 L["TRANSLATORS_SPANISH"] = "Espagnol"
 L["TRANSLATORS_TRADITIONAL_CHINESE"] = "Chinois traditionnel"
+--[[Translation missing --]]
+L["UNDERCUT_BID"] = "Bid"
 L["UNDERCUT_NO"] = "Non"
 L["UNDERCUT_PREFERENCE"] = "Préférence de baisse des prix"
 L["UNDERCUT_SCAN"] = "Vérifier les prix des objets"

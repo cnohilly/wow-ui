@@ -46,3 +46,6 @@ RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 BigWigs_CommonAuras: enabled
 LittleWigs: enabled
+DataStore: enabled
+Altoholic: enabled
+ElvUI_OptionsUI: enabled

@@ -1,5 +1,27 @@
 
 ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"idk if that applies to both difficulties or just heroic", -- [1]
+		"but it was definitely very little damage on heroic", -- [2]
+		"uhhhh", -- [3]
+		"for a small investment of 400k", -- [4]
+		"theyre great", -- [5]
+		"yeah, i think more dangerous is his little ring he does aroudn himself", -- [6]
+		"so melee just has to make sure they dont get clipped by that", -- [7]
+		"and theyre usually fine for tank swaps", -- [8]
+		"as long as tanks do it right", -- [9]
+		"which piece are you looking for again ?", -- [10]
+		"head ?", -- [11]
+		"seems semi-annoying for pantheon where sometimes you are running across the room for kill add or dispel bubble", -- [12]
+		"dasausage seemed fine, skolex just gotta not get killed by puddles", -- [13]
+		"lmao. no promises but ill at least look at the costs", -- [14]
+		"yeah hunter is a little out of sorts as well", -- [15]
+		"yeah ill see. cus odds are if you need it at least the 2 other druids do too", -- [16]
+		"i just dont have a ton of gold to be leveling everything", -- [17]
+		"so if im gonna level anything, at least it can be something several people need", -- [18]
+		"pog, trade me it", -- [19]
+		"/wa", -- [20]
+	},
 	["ChatHistoryLog"] = {
 		{
 			"WTS>Friends group  M+15-25 ||||PORTAL DEAL M+20 SPEC KEY TIMED ||||Torgast farm ||KSM DEAL ||||<ONLY GOLD> Group ready whit high Rio!!!", -- [1]
@@ -2271,33 +2293,11 @@ ElvCharacterDB = {
 			[53] = "Party",
 		}, -- [99]
 	},
-	["ConvertKeybindings"] = true,
 	["BodyGuard"] = {
-		["Active"] = false,
-		["Health"] = 0,
-		["MaxHealth"] = 0,
 		["IsInValidZone"] = true,
+		["MaxHealth"] = 0,
+		["Health"] = 0,
+		["Active"] = false,
 	},
-	["ChatEditHistory"] = {
-		"idk if that applies to both difficulties or just heroic", -- [1]
-		"but it was definitely very little damage on heroic", -- [2]
-		"uhhhh", -- [3]
-		"for a small investment of 400k", -- [4]
-		"theyre great", -- [5]
-		"yeah, i think more dangerous is his little ring he does aroudn himself", -- [6]
-		"so melee just has to make sure they dont get clipped by that", -- [7]
-		"and theyre usually fine for tank swaps", -- [8]
-		"as long as tanks do it right", -- [9]
-		"which piece are you looking for again ?", -- [10]
-		"head ?", -- [11]
-		"seems semi-annoying for pantheon where sometimes you are running across the room for kill add or dispel bubble", -- [12]
-		"dasausage seemed fine, skolex just gotta not get killed by puddles", -- [13]
-		"lmao. no promises but ill at least look at the costs", -- [14]
-		"yeah hunter is a little out of sorts as well", -- [15]
-		"yeah ill see. cus odds are if you need it at least the 2 other druids do too", -- [16]
-		"i just dont have a ton of gold to be leveling everything", -- [17]
-		"so if im gonna level anything, at least it can be something several people need", -- [18]
-		"pog, trade me it", -- [19]
-		"/wa", -- [20]
-	},
+	["ConvertKeybindings"] = true,
 }

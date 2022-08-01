@@ -468,6 +468,8 @@ L["TRANSLATORS_RUSSIAN"] = "Русский"
 L["TRANSLATORS_SIMPLIFIED_CHINESE"] = "Китайский"
 L["TRANSLATORS_SPANISH"] = "Испанский"
 L["TRANSLATORS_TRADITIONAL_CHINESE"] = "Китайский трад."
+--[[Translation missing --]]
+L["UNDERCUT_BID"] = "Bid"
 L["UNDERCUT_NO"] = "Нет"
 L["UNDERCUT_PREFERENCE"] = "Предпочтения снижения цены"
 L["UNDERCUT_SCAN"] = "Сканирование на снижение цены"

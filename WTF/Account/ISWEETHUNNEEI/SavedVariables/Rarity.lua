@@ -2,27 +2,28 @@
 RarityDB = {
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Default",
-		["Holynoly - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
 		["Noliee - Bleeding Hollow"] = "Default",
-		["Dorkks - Wyrmrest Accord"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
 		["Emogin - Bleeding Hollow"] = "Default",
 		["Trublmakr - Bleeding Hollow"] = "Default",
 		["Stryfë - Bleeding Hollow"] = "Default",
-		["Inolie - Bleeding Hollow"] = "Default",
-		["Diá - Bleeding Hollow"] = "Default",
 		["Pándan - Bleeding Hollow"] = "Default",
+		["Dorkks - Wyrmrest Accord"] = "Default",
 		["Blù - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
 		["Happybirth - Tichondrius"] = "Default",
 		["Emoclëw - Bleeding Hollow"] = "Default",
-		["Nolieper - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["groups"] = {
 				["pets"] = {
-					["Snarly's Bucket"] = {
-						["enabled"] = false,
+					["Elementium Back Plate"] = {
 						["known"] = true,
+						["attempts"] = 4,
+						["enabled"] = false,
 						["found"] = true,
 					},
 					["Spiky Collar"] = {
@@ -31,6 +32,16 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Bone Serpent"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Mischievous Zephyr"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Shy Melvin"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -46,6 +57,11 @@ RarityDB = {
 						},
 						["attempts"] = 1,
 					},
+					["Rattling Bones"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Servant of Demidos"] = {
 						["enabled"] = false,
 						["known"] = true,
@@ -57,7 +73,15 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
+					["Sandshell Chitterer"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Fandral's Pet Carrier"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 						["attempts"] = 2,
 					},
 					["Vibrating Arcane Crystal"] = {
@@ -65,17 +89,48 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
+					["Tiny Amber Wings"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Call of the Frozen Blade"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+						["attempts"] = 2,
+					},
 					["Slithershock Elver"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Time-Locked Box"] = {
+					["Parrot Cage (Green Wing Macaw)"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Mark of Flame"] = {
+					["Shard of Supremus"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Bottled Essence of Hydrath"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Azure Cloud Serpent Egg"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Teeny Titan Orb"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Captain Nibs"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -95,6 +150,11 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
+					["Grasping Manifestation"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Death Adder Hatchling"] = {
 						["enabled"] = false,
 						["known"] = true,
@@ -110,7 +170,12 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Jadefire Spirit"] = {
+					["Spinemaw Gormling"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Soullocked Sinstone"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -130,20 +195,30 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Cinderweb Egg"] = {
-						["attempts"] = 1,
+					["Zur'aj the Depleted"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Direhorn Runt"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Lil' Bling"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Whistle of Chromatic Bone"] = {
+					["Strand Crawler"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
 					["Drudge Remains"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 						["attempts"] = 2,
 					},
 					["Gluth's Bone"] = {
@@ -153,19 +228,31 @@ RarityDB = {
 					},
 					["Razzashi Hatchling"] = {
 						["known"] = true,
-						["found"] = true,
 						["enabled"] = false,
+						["found"] = true,
 					},
 					["Wriggling Darkness"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 						["attempts"] = 17,
 					},
-					["Son of Animus"] = {
+					["Craghoof Kid"] = {
+						["enabled"] = false,
 						["known"] = true,
-						["attempts"] = 6,
+						["found"] = true,
+					},
+					["Darkmoon Eye"] = {
+						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
 					["Zandalari Toenibbler"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Maw Crawler"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -195,8 +282,23 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Lesser Circle of Binding"] = {
-						["attempts"] = 4,
+					["Porcupette"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Nightmare Whelpling"] = {
+						["attempts"] = 40,
+					},
+					["Eye of Allseeing"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Stoneclaw"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Warm Arcane Crystal"] = {
 						["enabled"] = false,
@@ -205,11 +307,19 @@ RarityDB = {
 					},
 					["Tiny Emerald Whelpling"] = {
 						["enabled"] = false,
-						["known"] = true,
 						["found"] = true,
+						["known"] = true,
 					},
 					["Rough-Hewn Remote"] = {
+						["known"] = true,
 						["attempts"] = 6,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Skull of a Frozen Whelp"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Sprite Darter Egg"] = {
 						["known"] = true,
@@ -236,12 +346,37 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
+					["Copperback Etherwyrm"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Tainted Core"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Scorched Stone"] = {
+					["Strange Humming Crystal"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Invasive Buzzer"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Micromancer's Mystical Cowl"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Muskflank Calfling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Giggling Flame"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -252,6 +387,11 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Half-Empty Food Container"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Angry Egg"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -267,6 +407,11 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Chuck's Bucket"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Giant Worm Egg"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -293,11 +438,19 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Blessed Seed"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 						["attempts"] = 4,
 					},
 					["Savage Cub"] = {
 						["known"] = true,
 						["enabled"] = false,
+						["found"] = true,
+					},
+					["Thistlebrush Bud"] = {
+						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Puddle Terror"] = {
@@ -311,9 +464,17 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Puddle of Black Liquid"] = {
+						["known"] = true,
 						["attempts"] = 6,
+						["enabled"] = false,
+						["found"] = true,
 					},
 					["Anubisath Idol"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Grappling Gauntlet"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -328,6 +489,11 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
+					["Shard of Fozruk"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Sea Pony"] = {
 						["enabled"] = false,
 						["known"] = true,
@@ -336,6 +502,11 @@ RarityDB = {
 					["Zangar Spore"] = {
 						["known"] = true,
 						["enabled"] = false,
+						["found"] = true,
+					},
+					["Plagued Egg"] = {
+						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Blazing Rune"] = {
@@ -365,7 +536,29 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Red Goren Egg"] = {
+					["Lord Woofington"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Droplet of Y'Shaarj"] = {
+						["known"] = true,
+						["attempts"] = 2,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Darkshore Sentinel"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Pygmy Direhorn"] = {
+						["known"] = true,
+						["attempts"] = 11,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Fragment of Frozen Bone"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -380,9 +573,14 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Deviate Hatchling"] = {
+					["Viscidus Globule"] = {
 						["enabled"] = false,
 						["known"] = true,
+						["found"] = true,
+					},
+					["Red Helper Box"] = {
+						["known"] = true,
+						["enabled"] = false,
 						["found"] = true,
 					},
 					["Corrupted Nest Guardian"] = {
@@ -390,7 +588,32 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
+					["Land Shark"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Gilded Darknight"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Docile Skyfin"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Zandalari Anklerender"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Quivering Blob"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Snort"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -399,6 +622,17 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 						["enabled"] = false,
+					},
+					["Stormforged Rune"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Breezy Essence"] = {
+						["known"] = true,
+						["attempts"] = 19,
+						["enabled"] = false,
+						["found"] = true,
 					},
 					["Nightmare Bell"] = {
 						["known"] = true,
@@ -415,16 +649,96 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
+					["Captured Firefly"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Mark of Flame"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Celestial Gift"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Spawn of Garalon"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Luminous Webspinner"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Uuna's Doll"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Fuzzy Creepling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Amber Goo Puddle"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Bloodstone Tunneler"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Octopode Fry"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Sunblade Rune of Activation"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Shadowy Pile of Bones"] = {
-						["attempts"] = 6,
+					["Laughing Stonekin"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
-					["Breezy Essence"] = {
-						["attempts"] = 19,
+					["Shadowy Pile of Bones"] = {
+						["known"] = true,
+						["attempts"] = 6,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Red-Hot Coal"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Binding of Cyclarus"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Scuttle"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Mogu Statue"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Tiny Fel Engine Key"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Disgusting Oozeling"] = {
 						["enabled"] = false,
@@ -432,6 +746,31 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Zandalari Kneebiter"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Playful Frostkin"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Deathsting Scorpid"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Lump of Coal"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Sunscale Hatchling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["False Knucklebump"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -446,9 +785,14 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Seaborne Spore"] = {
-						["known"] = true,
+					["Unscathed Egg"] = {
 						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Putricide's Alchemy Supplies"] = {
+						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Thistleleaf Adventurer"] = {
@@ -483,6 +827,11 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
+					["Gahz'rooki's Summoning Stone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Elementium Geode"] = {
 						["enabled"] = false,
 						["known"] = true,
@@ -497,9 +846,20 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Viscidus Globule"] = {
+					["Wayward Spirit"] = {
 						["enabled"] = false,
 						["known"] = true,
+						["found"] = true,
+					},
+					["Rebellious Imp"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Severed Tentacle"] = {
+						["known"] = true,
+						["attempts"] = 8,
+						["enabled"] = false,
 						["found"] = true,
 					},
 					["Sultry Grimoire"] = {
@@ -518,9 +878,47 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Zephyr's Call"] = {
+						["known"] = true,
 						["attempts"] = 18,
+						["enabled"] = false,
+						["found"] = true,
 					},
 					["Dusty Clutch of Eggs"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Scraps"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Littlehoof"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Kunchong Hatchling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Baby Stonehide"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Jar of Ashes"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Inky"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Ironbound Collar"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -531,9 +929,22 @@ RarityDB = {
 						["found"] = true,
 					},
 					["Experiment-In-A-Jar"] = {
+						["known"] = true,
 						["attempts"] = 7,
+						["enabled"] = false,
+						["found"] = true,
 					},
-					["Unscathed Egg"] = {
+					["Spirit of the Spring"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Irongrasp"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Essence of Pride"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -548,8 +959,24 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
+					["Kor'thik Swarmling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Snowman Kit"] = {
 						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Nerubian Relic"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Ominous Pile of Snow"] = {
+						["known"] = true,
+						["attempts"] = 4,
 						["enabled"] = false,
 						["found"] = true,
 					},
@@ -558,13 +985,14 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Elementium Back Plate"] = {
-						["attempts"] = 4,
-					},
-					["Droplet of Y'Shaarj"] = {
-						["known"] = true,
-						["attempts"] = 2,
+					["Maw Stalker"] = {
 						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Pair of Tiny Bat Wings"] = {
+						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Sun Sproutling"] = {
@@ -572,12 +1000,7 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Syd the Squid"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Spectral Bell"] = {
+					["Aldrusian Sproutling"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -592,12 +1015,10 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Gu'chi Swarmling"] = {
+					["Vibrating Stone"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
-					},
-					["Vibrating Stone"] = {
 						["attempts"] = 1,
 					},
 					["Blighted Spore"] = {
@@ -605,23 +1026,27 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Red Helper Box"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Land Shark"] = {
+					["Vial of Roiling Emotions"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Ominous Pile of Snow"] = {
+					["Tower Deathroach"] = {
+						["enabled"] = false,
 						["known"] = true,
-						["attempts"] = 4,
+						["found"] = true,
+					},
+					["Young Talbuk"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Sludge Feeler"] = {
+						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Zandalari Anklerender"] = {
+					["Decaying Mawrat"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -636,15 +1061,17 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Call of the Frozen Blade"] = {
-						["attempts"] = 2,
+					["Frenzied Mawrat"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Jingling Bell"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Fragment of Anger"] = {
+					["Spectral Bell"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -659,19 +1086,25 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Parrot Cage (Green Wing Macaw)"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
 					["Model D1-BB-L3R"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
+					["Cinderweb Egg"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+						["attempts"] = 1,
+					},
 					["Nightshade Sproutling"] = {
 						["enabled"] = false,
 						["known"] = true,
+						["found"] = true,
+					},
+					["Emerald Whelpling"] = {
+						["known"] = true,
+						["enabled"] = false,
 						["found"] = true,
 					},
 					["Living Sandling"] = {
@@ -679,12 +1112,32 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Shard of Supremus"] = {
+					["Snarly's Bucket"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Captured Firefly"] = {
+					["Red Goren Egg"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Tiny Grimoire"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Fodder"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Gu'chi Swarmling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Kindleweb Spiderling"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -694,10 +1147,23 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Twilight Summoning Portal"] = {
-						["attempts"] = 4,
+					["Deviate Hatchling"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
-					["Skunky Alemental"] = {
+					["Twilight Summoning Portal"] = {
+						["known"] = true,
+						["attempts"] = 4,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Time-Locked Box"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Severs"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -707,7 +1173,7 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Tiny Fel Engine Key"] = {
+					["Hissing Deathroach"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -717,20 +1183,19 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Lump of Coal"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
-					["Direhorn Runt"] = {
+					["Writhing Spine"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Ji-Kun Hatchling"] = {
-						["known"] = true,
-						["attempts"] = 8,
+					["Jadefire Spirit"] = {
 						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Skunky Alemental"] = {
+						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Snowy Panda"] = {
@@ -743,40 +1208,20 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Gooey Sha-ling"] = {
+					["Ji-Kun Hatchling"] = {
 						["known"] = true,
-						["attempts"] = 1,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Hyjal Wisp"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Severed Tentacle"] = {
 						["attempts"] = 8,
-					},
-					["Darkmoon Eye"] = {
-						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Porcupette"] = {
+					["Trapped Stonefiend"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Odd Twilight Egg"] = {
-						["attempts"] = 4,
-					},
-					["Nightmare Whelpling"] = {
-						["attempts"] = 40,
-					},
-					["Pygmy Direhorn"] = {
-						["known"] = true,
-						["attempts"] = 11,
+					["Dark Whelpling"] = {
 						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Imbued Jade Fragment"] = {
@@ -784,38 +1229,71 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Strange Humming Crystal"] = {
+					["Gooey Sha-ling"] = {
+						["known"] = true,
+						["attempts"] = 1,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Seaborne Spore"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Whistle of Chromatic Bone"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Smoldering Treat"] = {
-						["attempts"] = 1,
+					["Hyjal Wisp"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Clockwork Rocket Bot"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Smelly Gravestone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Odd Twilight Egg"] = {
+						["known"] = true,
+						["attempts"] = 4,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Larion Cub"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Son of Animus"] = {
+						["known"] = true,
+						["attempts"] = 6,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Foulwing Buzzer"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Lesser Circle of Binding"] = {
+						["known"] = true,
+						["attempts"] = 4,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Scorched Stone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Cat Carrier (Black Tabby)"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Young Talbuk"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Crystal of the Void"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Sunfire Kaliri"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Remains of a Blood Beast"] = {
-						["attempts"] = 1,
-					},
-					["Dark Whelpling"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -837,22 +1315,44 @@ RarityDB = {
 						},
 						["attempts"] = 3,
 					},
+					["Sunfire Kaliri"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Remains of a Blood Beast"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+						["attempts"] = 1,
+					},
+					["Sparkleshell Sandcrawler"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Crystal of the Void"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Smoldering Treat"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+						["attempts"] = 1,
+					},
 					["Sunfur Panda"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Quivering Blob"] = {
+					["Syd the Squid"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Clockwork Rocket Bot"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
-					["Smelly Gravestone"] = {
+					["Fragment of Anger"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -867,68 +1367,18 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Swift Brewfest Ram"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Fossilized Raptor"] = {
+					["Cloudwing Hippogryph"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Crimson Slavermaw"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Glorious Felcrusher"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Reins of the Thundering Onyx Cloud Serpent"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Ashes of Al'ar"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Kor'kron Juggernaut"] = {
+					["Reins of the Azure Drake"] = {
 						["known"] = true,
 						["enabled"] = false,
-						["found"] = true,
-					},
-					["Great Brewfest Kodo"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Life-Binder's Handmaiden"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Scintillating Mana Ray"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Highmountain Elderhorn"] = {
-						["enabled"] = false,
-						["known"] = true,
 						["found"] = true,
 					},
 					["Abyss Worm"] = {
 						["attempts"] = 3,
-					},
-					["Reins of the Grand Black War Mammoth Horde"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
 					},
 					["Invincible's Reins"] = {
 						["known"] = true,
@@ -945,7 +1395,7 @@ RarityDB = {
 						["found"] = true,
 						["enabled"] = false,
 					},
-					["Reins of the Drake of the North Wind"] = {
+					["Reins of the Drake of the South Wind"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
@@ -960,16 +1410,6 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Swift Zulian Panther"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Reins of the Amber Primordial Direhorn"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
 					["Spawn of Horridon"] = {
 						["attempts"] = 52,
 					},
@@ -978,7 +1418,7 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Valarjar Stormwing"] = {
+					["Sea Turtle"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -986,25 +1426,8 @@ RarityDB = {
 					["Reins of the Thundering Cobalt Cloud Serpent"] = {
 						["attempts"] = 56,
 					},
-					["Red Qiraji Resonating Crystal"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Scepter of Azj'Aqir"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Smoldering Egg of Millagazor"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Reins of the White Polar Bear"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
+					["Felsteel Annihilator"] = {
+						["attempts"] = 1,
 					},
 					["Reins of the Blue Proto-Drake"] = {
 						["known"] = true,
@@ -1014,31 +1437,13 @@ RarityDB = {
 					["Reins of the Cobalt Primordial Direhorn"] = {
 						["attempts"] = 29,
 					},
-					["Vile Fiend"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
 					["Reins of the Bone-White Primal Raptor"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Reins of the Crimson Water Strider"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
 					["Antoran Charhound"] = {
 						["attempts"] = 9,
-					},
-					["Swift White Hawkstrider"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
-					["Living Infernal Core"] = {
-						["attempts"] = 3,
 					},
 					["Fiery Warhorse's Reins"] = {
 						["known"] = true,
@@ -1048,11 +1453,6 @@ RarityDB = {
 					["Reins of the Vitreous Stone Drake"] = {
 						["known"] = true,
 						["enabled"] = false,
-						["found"] = true,
-					},
-					["Bristling Hellboar"] = {
-						["enabled"] = false,
-						["known"] = true,
 						["found"] = true,
 					},
 					["Reins of the Infinite Timereaver"] = {
@@ -1070,64 +1470,15 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Reins of the Heavenly Onyx Cloud Serpent"] = {
-						["attempts"] = 60,
-					},
-					["Torn Invitation"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Cloudwing Hippogryph"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Biletooth Gnasher"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
+					["Deathcharger's Reins"] = {
+						["attempts"] = 20,
 					},
 					["Vibrant Mana Ray"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Darkspore Mana Ray"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Tundra Icehoof"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Reins of the Astral Cloud Serpent"] = {
-						["attempts"] = 115,
-					},
-					["Reins of the Onyxian Drake"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Mimiron's Head"] = {
-						["attempts"] = 224,
-					},
-					["Felsteel Annihilator"] = {
-						["attempts"] = 1,
-					},
-					["Reins of the Green Proto-Drake"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Reins of the Drake of the South Wind"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Warsong Direfang"] = {
+					["Life-Binder's Handmaiden"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
@@ -1151,20 +1502,83 @@ RarityDB = {
 						["attempts"] = 39,
 						["time"] = 1,
 					},
-					["The Horseman's Reins"] = {
+					["Reins of the Blue Drake"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Reins of the Azure Drake"] = {
+					["Smoldering Ember Wyrm"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Grand Black War Mammoth Horde"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Deathcharger's Reins"] = {
-						["attempts"] = 20,
+					["Fossilized Raptor"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
-					["Garn Nighthowl"] = {
+					["Reins of the Thundering Onyx Cloud Serpent"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Ashes of Al'ar"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Crimson Water Strider"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Scintillating Mana Ray"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Highmountain Elderhorn"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Kor'kron Juggernaut"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Silessa's Battle Harness"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Glorious Felcrusher"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Astral Cloud Serpent"] = {
+						["known"] = true,
+						["attempts"] = 115,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Reins of the Grand Black War Mammoth Alliance"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Swift Zulian Panther"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Amber Primordial Direhorn"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -1174,12 +1588,111 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Reins of the Grand Black War Mammoth Alliance"] = {
+					["Valarjar Stormwing"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Green Proto-Drake"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Reins of the Blue Drake"] = {
+					["Scepter of Azj'Aqir"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Smoldering Egg of Millagazor"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Reins of the White Polar Bear"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Vile Fiend"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Garn Nighthowl"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Swift White Hawkstrider"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Living Infernal Core"] = {
+						["attempts"] = 3,
+					},
+					["Marrowfang's Reins"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Bristling Hellboar"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Heavenly Onyx Cloud Serpent"] = {
+						["attempts"] = 60,
+					},
+					["The Horseman's Reins"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Swift Brewfest Ram"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Reins of the Slate Primordial Direhorn"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Crimson Slavermaw"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Mimiron's Head"] = {
+						["attempts"] = 224,
+					},
+					["Great Brewfest Kodo"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Warsong Direfang"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Reins of the Drake of the North Wind"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Darkspore Mana Ray"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Red Qiraji Resonating Crystal"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Reins of the Onyxian Drake"] = {
 						["known"] = true,
 						["enabled"] = false,
 						["found"] = true,
@@ -1189,14 +1702,29 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
+					["Reins of the Blazing Drake"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
 					["Felglow Mana Ray"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Reins of the Slate Primordial Direhorn"] = {
+					["Torn Invitation"] = {
 						["enabled"] = false,
 						["known"] = true,
+						["found"] = true,
+					},
+					["Tundra Icehoof"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Biletooth Gnasher"] = {
+						["known"] = true,
+						["enabled"] = false,
 						["found"] = true,
 					},
 					["Reins of the Raven Lord"] = {
@@ -1204,34 +1732,9 @@ RarityDB = {
 						["found"] = true,
 						["enabled"] = false,
 					},
-					["Reins of the Blazing Drake"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Sea Turtle"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
 				},
 				["items"] = {
-					["The Pigskin"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
 					["Hardened Shell"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Hozen Beach Ball"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Pandaren Firework Launcher"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -1262,67 +1765,27 @@ RarityDB = {
 						["found"] = true,
 						["lastTime"] = 1,
 					},
-					["Helpful Wikky's Whistle"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
 					["Ash-Covered Horn"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Crashin' Thrashin' Cannon Controller"] = {
+					["Kaldorei Light Globe"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Farwater Conch"] = {
-						["enabled"] = false,
+					["Crashin' Thrashin' Shredder Controller"] = {
 						["known"] = true,
 						["found"] = true,
-					},
-					["Chalice of Secrets"] = {
 						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
 					},
 					["Pineapple Lounge Cushion"] = {
 						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Moonfang Shroud"] = {
-						["known"] = true,
 						["found"] = true,
 						["enabled"] = false,
 					},
-					["Shard of Archstone"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Mr. Pinchy"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["MiniZep Controller"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
-					["Salyin Battle Banner"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Eternal Warrior's Sigil"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Crashin' Thrashin' Flyer Controller"] = {
+					["Hearthstation (Alliance)"] = {
 						["known"] = true,
 						["found"] = true,
 						["enabled"] = false,
@@ -1340,57 +1803,27 @@ RarityDB = {
 						},
 						["attempts"] = 1,
 					},
-					["Frenzyheart Brew"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Displacer Meditation Stone"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Moonfang's Paw"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
 					["Sack of Spectral Spiders"] = {
 						["known"] = true,
 						["found"] = true,
 						["enabled"] = false,
 					},
-					["Panflute of Pandaria"] = {
+					["Vesper of Harmony"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Fuzzy Green Lounge Cushion"] = {
+					["Silver-Plated Turkey Shooter"] = {
 						["known"] = true,
-						["enabled"] = false,
 						["found"] = true,
+						["enabled"] = false,
 					},
-					["Crashin' Thrashin' Shredder Controller"] = {
+					["Acrobatic Steward"] = {
+						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
-						["enabled"] = false,
 					},
 					["Essence of the Breeze"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Rime of the Time-Lost Mariner"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Crashin' Thrashin' Flamer Controller"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
-					["Gastropod Shell"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -1432,15 +1865,224 @@ RarityDB = {
 						["found"] = true,
 						["lastTime"] = 2,
 					},
+					["Sassy Imp"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Toy Weapon Set (Horde)"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Arcano-Shower"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Barrier Generator"] = {
+						["dates"] = {
+							[20180226] = {
+								["attempts"] = 1,
+							},
+							[20180227] = {
+								["time"] = 1,
+							},
+						},
+						["attempts"] = 1,
+						["time"] = 1,
+					},
+					["Coin of Many Faces"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Special Edition Foot Ball"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Toy Weapon Set (Alliance)"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Crashin' Thrashin' Mortar Controller"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Odd Polished Stone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Micro-Artillery Controller"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Safari Lounge Cushion"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Skull of Corruption"] = {
+						["attempts"] = 4,
+					},
+					["Mark of Purity"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Orb of the Sin'dorei"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
 					["Disposable Winter Veil Suits"] = {
 						["known"] = true,
 						["found"] = true,
 						["enabled"] = false,
 					},
-					["Sassy Imp"] = {
+					["Hozen Beach Ball"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
+					},
+					["Scroll of Storytelling"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Salyin Battle Banner"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Shard of Archstone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Old Crafty"] = {
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Crashin' Thrashin' Cannon Controller"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["The Heartbreaker"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["Farwater Conch"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Chalice of Secrets"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Hearthstation (Horde)"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Moonfang Shroud"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Mr. Pinchy"] = {
+						["known"] = true,
+						["enabled"] = false,
+						["found"] = true,
+					},
+					["MiniZep Controller"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Eternal Warrior's Sigil"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Crashin' Thrashin' Flyer Controller"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Frenzyheart Brew"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Displacer Meditation Stone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Moonfang's Paw"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Panflute of Pandaria"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Fuzzy Green Lounge Cushion"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Soothing Vesper"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Rime of the Time-Lost Mariner"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Greatfather Winter's Hearthstone"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Crashin' Thrashin' Flamer Controller"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Gastropod Shell"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Pilfered Sweeper"] = {
+						["time"] = 40.6879999999655,
+						["dates"] = {
+							[20180609] = {
+								["time"] = 40.6879999999655,
+								["attempts"] = 2,
+							},
+						},
+						["attempts"] = 2,
+					},
+					["Endothermic Blaster"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
 					},
 					["Crashin' Thrashin' Racer Controller"] = {
 						["known"] = true,
@@ -1467,54 +2109,57 @@ RarityDB = {
 						["known"] = true,
 						["found"] = true,
 					},
-					["Arcano-Shower"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
 					["Zhevra Lounge Cushion"] = {
 						["known"] = true,
+						["found"] = true,
 						["enabled"] = false,
+					},
+					["Orophea's Lyre"] = {
+						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
-					["Barrier Generator"] = {
-						["dates"] = {
-							[20180226] = {
-								["attempts"] = 1,
-							},
-							[20180227] = {
-								["time"] = 1,
-							},
-						},
-						["attempts"] = 1,
-						["time"] = 1,
+					["Malfunctioning Goliath Gauntlet"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
 					},
 					["Bottled Tornado"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Coin of Many Faces"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
-					["Crashin' Thrashin' Mortar Controller"] = {
+					["Makaris's Satchel of Mines"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Odd Polished Stone"] = {
+					["The Pigskin"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
+					},
+					["Pandaren Firework Launcher"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
+					},
+					["Helpful Wikky's Whistle"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Shaded Judgment Stone"] = {
+						["enabled"] = false,
+						["known"] = true,
+						["found"] = true,
+					},
+					["Wreath-A-Rang"] = {
+						["known"] = true,
+						["found"] = true,
+						["enabled"] = false,
 					},
 					["Mr. Smite's Brass Compass"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Eternal Kiln"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -1524,9 +2169,9 @@ RarityDB = {
 						["found"] = true,
 						["enabled"] = false,
 					},
-					["Safari Lounge Cushion"] = {
-						["known"] = true,
+					["Eternal Kiln"] = {
 						["enabled"] = false,
+						["known"] = true,
 						["found"] = true,
 					},
 					["Crashin' Thrashin' Roller Controller"] = {
@@ -1537,59 +2182,17 @@ RarityDB = {
 					["Golden Hearthstone Card: Lord Jaraxxus"] = {
 						["attempts"] = 4,
 					},
-					["Silver-Plated Turkey Shooter"] = {
-						["known"] = true,
-						["found"] = true,
-						["enabled"] = false,
-					},
 					["Battle Horn"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
-					},
-					["Old Crafty"] = {
-						["enabled"] = false,
-						["found"] = true,
-					},
-					["Pilfered Sweeper"] = {
-						["time"] = 40.6879999999655,
-						["dates"] = {
-							[20180609] = {
-								["time"] = 40.6879999999655,
-								["attempts"] = 2,
-							},
-						},
-						["attempts"] = 2,
-					},
-					["Skull of Corruption"] = {
-						["attempts"] = 4,
 					},
 					["Unusual Compass"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
 					},
-					["Kaldorei Light Globe"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["The Heartbreaker"] = {
-						["known"] = true,
-						["enabled"] = false,
-						["found"] = true,
-					},
 					["Aqua Jewel"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Orb of the Sin'dorei"] = {
-						["enabled"] = false,
-						["known"] = true,
-						["found"] = true,
-					},
-					["Micro-Artillery Controller"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
@@ -2221,7 +2824,7 @@ RarityDB = {
 				"Stormshield", -- [622]
 				"Hillsbrad Foothills (Southshore vs. Tarren Mill)", -- [623]
 				"Warspear", -- [624]
-				"Dalaran", -- [625]
+				nil, -- [625]
 				"Dalaran", -- [626]
 				"Dalaran", -- [627]
 				"Dalaran", -- [628]
@@ -2478,7 +3081,7 @@ RarityDB = {
 				"Mardum, the Shattered Abyss", -- [879]
 				"Mardum, the Shattered Abyss", -- [880]
 				"The Eye of Eternity", -- [881]
-				"Mac'Aree", -- [882]
+				"Eredath", -- [882]
 				"The Vindicaar", -- [883]
 				"The Vindicaar", -- [884]
 				"Antoran Wastes", -- [885]
@@ -2533,231 +3136,1129 @@ RarityDB = {
 				"Atal'Dazar", -- [934]
 				"Atal'Dazar", -- [935]
 				"Freehold", -- [936]
-				[938] = "Gilneas Island",
-				[939] = "Tropical Isle 8.0",
-				[940] = "The Vindicaar",
-				[941] = "The Vindicaar",
-				[942] = "Stormsong Valley",
-				[943] = "Arathi Highlands",
-				[946] = "Cosmic",
-				[947] = "Azeroth",
-				[948] = "The Maelstrom",
-				[998] = "Undercity",
-				[1036] = "The Dread Chain",
-				[1164] = "Dazar'alor",
-				[1037] = "Whispering Reef",
-				[1356] = "Battle of Dazar'alor",
-				[1165] = "Dazar'alor",
-				[1038] = "Temple of Sethraliss",
-				[1357] = "Battle of Dazar'alor",
-				[1166] = "Zanchul",
-				[1039] = "Shrine of the Storm",
-				[1358] = "Battle of Dazar'alor",
-				[1167] = "Zanchul",
-				[1040] = "Shrine of the Storm",
-				[1359] = "Icecrown Citadel",
-				[1041] = "The Underrot",
-				[1360] = "Icecrown Citadel",
-				[1169] = "Tol Dagor",
-				[1042] = "The Underrot",
-				[1361] = "OldIronforge",
-				[1170] = "Gorgrond - Mag'har Scenario",
-				[1043] = "Temple of Sethraliss",
-				[1362] = "Shrine of the Storm",
-				[1171] = "Gol Thovas",
-				[1044] = "Arathi Highlands",
-				[1363] = "Crucible of Storms",
-				[1172] = "Gol Thovas",
-				[1045] = "Thros, The Blighted Lands",
-				[1364] = "Battle of Dazar'alor",
-				[971] = "Telogrus Rift",
-				[1174] = "Rastakhan's Might",
-				[1366] = "Arathi Basin",
-				[972] = "Telogrus Rift",
-				[1004] = "Kings' Rest",
-				[1367] = "Battle of Dazar'alor",
-				[1176] = "Breath Of Pa'ku",
-				[973] = "The Sunwell",
-				[1305] = "Durotar",
-				[1306] = "Mulgore",
-				[974] = "Tol Dagor",
-				[1307] = "Northern Barrens",
-				[1180] = "Abyssal Melody",
-				[1244] = "Arathi Highlands",
-				[1308] = "Teldrassil",
-				[975] = "Tol Dagor",
-				[1245] = "Badlands",
-				[1309] = "Darkshore",
-				[1182] = "Saltstone Mine",
-				[1246] = "Blasted Lands",
-				[1310] = "Ashenvale",
-				[976] = "Tol Dagor",
-				[1247] = "Tirisfal Glades",
-				[1311] = "Thousand Needles",
-				[1184] = "Winterchill Mine",
-				[1248] = "Silverpine Forest",
-				[1312] = "Stonetalon Mountains",
-				[977] = "Tol Dagor",
-				[1009] = "Atul'Aman",
-				[1313] = "Desolace",
-				[1186] = "Blackrock Depths",
-				[1250] = "Eastern Plaguelands",
-				[1314] = "Feralas",
-				[978] = "Tol Dagor",
-				[1010] = "The MOTHERLODE!!",
-				[1315] = "Dustwallow Marsh",
-				[1188] = "Val'sharah",
-				[1252] = "The Hinterlands",
-				[1316] = "Tanaris",
-				[979] = "Tol Dagor",
-				[1011] = "Zandalar",
-				[1317] = "Azshara",
-				[1381] = "Uldir",
-				[1190] = "Stormheim",
-				[1254] = "Searing Gorge",
-				[1318] = "Felwood",
-				[1382] = "Uldir",
-				[980] = "Tol Dagor",
-				[1012] = "Stormwind City",
-				[1319] = "Un'Goro Crater",
-				[1383] = "Arathi Basin",
-				[1192] = "Broken Shore",
-				[1256] = "Elwynn Forest",
-				[1320] = "Moonglade",
-				[1384] = "Northrend",
-				[981] = "Un'gol Ruins",
-				[1013] = "The Stockade",
-				[1321] = "Silithus",
-				[1194] = "Nazmir",
-				[1258] = "Duskwood",
-				[1322] = "Winterspring",
-				[1195] = "Vol'dun",
-				[1014] = "Kul Tiras",
-				[1323] = "Thunder Bluff",
-				[1196] = "Tiragarde Sound",
-				[1260] = "Redridge Mountains",
-				[1324] = "Darnassus",
-				[1197] = "Drustvar",
-				[1015] = "Waycrest Manor",
-				[1325] = "Azuremyst Isle",
-				[1198] = "Stormsong Valley",
-				[1262] = "Westfall",
-				[1326] = "The Exodar",
-				[1187] = "Azsuna",
-				[1016] = "Waycrest Manor",
-				[1327] = "Bloodmyst Isle",
-				[1177] = "Breath Of Pa'ku",
-				[1408] = "Ashran",
-				[1264] = "Stormwind City",
-				[1328] = "Mount Hyjal",
-				[1407] = "Prison of Ink",
-				[985] = "Eastern Kingdoms",
-				[1017] = "Waycrest Manor",
-				[1329] = "Southern Barrens",
-				[1406] = "Hrothgar's Landing",
-				[1405] = "Crystalsong Forest",
-				[1266] = "Undercity",
-				[1330] = "Uldum",
-				[1404] = "Wintergrasp",
-				[986] = "Kalimdor",
-				[1018] = "Waycrest Manor",
-				[1331] = "The Exodar",
-				[1403] = "Zul'Drak",
-				[1181] = "Zuldazar",
-				[1268] = "Ghostlands",
-				[1332] = "Darkshore",
-				[1396] = "Borean Tundra",
-				[987] = "Outland",
-				[1269] = "Silvermoon City",
-				[1333] = "Darkshore",
-				[1397] = "Dragonblight",
-				[1183] = "Thornheart",
-				[1270] = "Isle of Quel'Danas",
-				[1334] = "Wintergrasp",
-				[1398] = "Grizzly Hills",
-				[988] = "Northrend",
-				[1271] = "Gilneas",
-				[1335] = "Cooking: Impossible",
-				[1399] = "Howling Fjord",
-				[1208] = "Eastern Kingdoms",
-				[1272] = "Vashj'ir",
-				[1336] = "Havenswood",
-				[1400] = "Icecrown",
-				[989] = "Pandaria",
-				[1021] = "Chamber of Heart",
-				[1337] = "Jorundall",
-				[1401] = "Sholazar Basin",
-				[1465] = "Scarlet Halls",
-				[1274] = "Stranglethorn Vale",
-				[1338] = "Darkshore",
-				[1402] = "The Storm Peaks",
-				[990] = "Draenor",
-				[1022] = "Uncharted Island",
-				[1339] = "Warsong Gulch",
-				[1148] = "Uldir",
-				[1467] = "Outland",
-				[1276] = "Tol Barad",
-				[1191] = "Suramar",
-				[1149] = "Uldir",
-				[991] = "Zandalar",
-				[1277] = "Tol Barad Peninsula",
-				[1203] = "Darkshore",
-				[1150] = "Uldir",
-				[1249] = "Western Plaguelands",
-				[1253] = "Dun Morogh",
-				[1257] = "Deadwind Pass",
-				[1151] = "Uldir",
-				[992] = "Kul Tiras",
-				[1263] = "Wetlands",
-				[1343] = "8.1 Darkshore Outdoor Final Phase",
-				[1152] = "Uldir",
-				[1275] = "Twilight Highlands",
-				[1273] = "Ruins of Gilneas",
-				[1267] = "Eversong Woods",
-				[1153] = "Uldir",
-				[993] = "Broken Isles",
-				[1265] = "Ironforge",
-				[1345] = "Crucible of Storms",
-				[1154] = "Uldir",
-				[1261] = "Swamp of Sorrows",
-				[1259] = "Loch Modan",
-				[1346] = "Crucible of Storms",
-				[1155] = "Uldir",
-				[994] = "Argus",
-				[1255] = "Burning Steppes",
-				[1347] = "Zandalari Treasury",
-				[1156] = "The Great Sea",
-				[1251] = "Hillsbrad Foothills",
-				[1029] = "Waycrest Manor",
-				[1348] = "Zandalari Treasury",
-				[1157] = "The Great Sea",
-				[1209] = "Kalimdor",
-				[1030] = "Greymane Manor",
-				[1349] = "Tol Dagor",
-				[1158] = "Arathi Highlands",
-				[1193] = "Zuldazar",
-				[1031] = "Greymane Manor",
-				[1350] = "Tol Dagor",
-				[1159] = "Blackrock Depths",
-				[1189] = "Highmountain",
-				[1032] = "Skittering Hollow",
-				[1351] = "Tol Dagor",
-				[1160] = "Blackrock Depths",
-				[1185] = "Winterchill Mine",
-				[1033] = "The Rotting Mire",
-				[1352] = "Battle of Dazar'alor",
-				[1161] = "Boralus",
-				[997] = "Tirisfal Glades",
-				[1034] = "Verdant Wilds",
-				[1353] = "Battle of Dazar'alor",
-				[1162] = "Siege of Boralus",
-				[1179] = "Abyssal Melody",
-				[1035] = "Molten Cay",
-				[1354] = "Battle of Dazar'alor",
-				[1163] = "Dazar'alor",
-				[1173] = "Rastakhan's Might",
+				nil, -- [937]
+				"Gilneas Island", -- [938]
+				"Tropical Isle 8.0", -- [939]
+				"The Vindicaar", -- [940]
+				"The Vindicaar", -- [941]
+				"Stormsong Valley", -- [942]
+				"Arathi Highlands", -- [943]
+				nil, -- [944]
+				nil, -- [945]
+				"Cosmic", -- [946]
+				"Azeroth", -- [947]
+				"The Maelstrom", -- [948]
+				nil, -- [949]
+				nil, -- [950]
+				nil, -- [951]
+				nil, -- [952]
+				nil, -- [953]
+				nil, -- [954]
+				nil, -- [955]
+				nil, -- [956]
+				nil, -- [957]
+				nil, -- [958]
+				nil, -- [959]
+				nil, -- [960]
+				nil, -- [961]
+				nil, -- [962]
+				nil, -- [963]
+				nil, -- [964]
+				nil, -- [965]
+				nil, -- [966]
+				nil, -- [967]
+				nil, -- [968]
+				nil, -- [969]
+				nil, -- [970]
+				"Telogrus Rift", -- [971]
+				"Telogrus Rift", -- [972]
+				"The Sunwell", -- [973]
+				"Tol Dagor", -- [974]
+				"Tol Dagor", -- [975]
+				"Tol Dagor", -- [976]
+				"Tol Dagor", -- [977]
+				"Tol Dagor", -- [978]
+				"Tol Dagor", -- [979]
+				"Tol Dagor", -- [980]
+				"Un'gol Ruins", -- [981]
+				nil, -- [982]
+				nil, -- [983]
+				nil, -- [984]
+				"Eastern Kingdoms", -- [985]
+				"Kalimdor", -- [986]
+				"Outland", -- [987]
+				"Northrend", -- [988]
+				"Pandaria", -- [989]
+				"Draenor", -- [990]
+				"Zandalar", -- [991]
+				"Kul Tiras", -- [992]
+				"Broken Isles", -- [993]
+				"Argus", -- [994]
+				nil, -- [995]
+				nil, -- [996]
+				"Tirisfal Glades", -- [997]
+				"Undercity", -- [998]
+				nil, -- [999]
+				nil, -- [1000]
+				nil, -- [1001]
+				nil, -- [1002]
+				nil, -- [1003]
+				"Kings' Rest", -- [1004]
+				nil, -- [1005]
+				nil, -- [1006]
+				nil, -- [1007]
+				nil, -- [1008]
+				"Atul'Aman", -- [1009]
+				"The MOTHERLODE!!", -- [1010]
+				"Zandalar", -- [1011]
+				"Stormwind City", -- [1012]
+				"The Stockade", -- [1013]
+				"Kul Tiras", -- [1014]
+				"Waycrest Manor", -- [1015]
+				"Waycrest Manor", -- [1016]
+				"Waycrest Manor", -- [1017]
+				"Waycrest Manor", -- [1018]
+				nil, -- [1019]
+				nil, -- [1020]
+				"Chamber of Heart", -- [1021]
+				"Uncharted Island", -- [1022]
+				nil, -- [1023]
+				nil, -- [1024]
+				nil, -- [1025]
+				nil, -- [1026]
+				nil, -- [1027]
+				nil, -- [1028]
+				"Waycrest Manor", -- [1029]
+				"Greymane Manor", -- [1030]
+				"Greymane Manor", -- [1031]
+				"Skittering Hollow", -- [1032]
+				"The Rotting Mire", -- [1033]
+				"Verdant Wilds", -- [1034]
+				"Molten Cay", -- [1035]
+				"The Dread Chain", -- [1036]
+				"Whispering Reef", -- [1037]
+				"Temple of Sethraliss", -- [1038]
+				"Shrine of the Storm", -- [1039]
+				"Shrine of the Storm", -- [1040]
+				"The Underrot", -- [1041]
+				"The Underrot", -- [1042]
+				"Temple of Sethraliss", -- [1043]
+				"Arathi Highlands", -- [1044]
+				"Thros, The Blighted Lands", -- [1045]
+				nil, -- [1046]
+				nil, -- [1047]
+				nil, -- [1048]
+				nil, -- [1049]
+				nil, -- [1050]
+				nil, -- [1051]
+				nil, -- [1052]
+				nil, -- [1053]
+				nil, -- [1054]
+				nil, -- [1055]
+				nil, -- [1056]
+				nil, -- [1057]
+				nil, -- [1058]
+				nil, -- [1059]
+				nil, -- [1060]
+				nil, -- [1061]
+				nil, -- [1062]
+				nil, -- [1063]
+				nil, -- [1064]
+				nil, -- [1065]
+				nil, -- [1066]
+				nil, -- [1067]
+				nil, -- [1068]
+				nil, -- [1069]
+				nil, -- [1070]
+				nil, -- [1071]
+				nil, -- [1072]
+				nil, -- [1073]
+				nil, -- [1074]
+				nil, -- [1075]
+				nil, -- [1076]
+				nil, -- [1077]
+				nil, -- [1078]
+				nil, -- [1079]
+				nil, -- [1080]
+				nil, -- [1081]
+				nil, -- [1082]
+				nil, -- [1083]
+				nil, -- [1084]
+				nil, -- [1085]
+				nil, -- [1086]
+				nil, -- [1087]
+				nil, -- [1088]
+				nil, -- [1089]
+				nil, -- [1090]
+				nil, -- [1091]
+				nil, -- [1092]
+				nil, -- [1093]
+				nil, -- [1094]
+				nil, -- [1095]
+				nil, -- [1096]
+				nil, -- [1097]
+				nil, -- [1098]
+				nil, -- [1099]
+				nil, -- [1100]
+				nil, -- [1101]
+				nil, -- [1102]
+				nil, -- [1103]
+				nil, -- [1104]
+				nil, -- [1105]
+				nil, -- [1106]
+				nil, -- [1107]
+				nil, -- [1108]
+				nil, -- [1109]
+				nil, -- [1110]
+				nil, -- [1111]
+				nil, -- [1112]
+				nil, -- [1113]
+				nil, -- [1114]
+				nil, -- [1115]
+				nil, -- [1116]
+				nil, -- [1117]
+				nil, -- [1118]
+				nil, -- [1119]
+				nil, -- [1120]
+				nil, -- [1121]
+				nil, -- [1122]
+				nil, -- [1123]
+				nil, -- [1124]
+				nil, -- [1125]
+				nil, -- [1126]
+				nil, -- [1127]
+				nil, -- [1128]
+				nil, -- [1129]
+				nil, -- [1130]
+				nil, -- [1131]
+				nil, -- [1132]
+				nil, -- [1133]
+				nil, -- [1134]
+				nil, -- [1135]
+				nil, -- [1136]
+				nil, -- [1137]
+				nil, -- [1138]
+				nil, -- [1139]
+				nil, -- [1140]
+				nil, -- [1141]
+				nil, -- [1142]
+				nil, -- [1143]
+				nil, -- [1144]
+				nil, -- [1145]
+				nil, -- [1146]
+				nil, -- [1147]
+				"Uldir", -- [1148]
+				"Uldir", -- [1149]
+				"Uldir", -- [1150]
+				"Uldir", -- [1151]
+				"Uldir", -- [1152]
+				"Uldir", -- [1153]
+				"Uldir", -- [1154]
+				"Uldir", -- [1155]
+				"The Great Sea", -- [1156]
+				"The Great Sea", -- [1157]
+				"Arathi Highlands", -- [1158]
+				"Blackrock Depths", -- [1159]
+				"Blackrock Depths", -- [1160]
+				"Boralus", -- [1161]
+				"Siege of Boralus", -- [1162]
+				"Dazar'alor", -- [1163]
+				"Dazar'alor", -- [1164]
+				"Dazar'alor", -- [1165]
+				"Zanchul", -- [1166]
+				"Zanchul", -- [1167]
+				nil, -- [1168]
+				"Tol Dagor", -- [1169]
+				"Gorgrond - Mag'har Scenario", -- [1170]
+				"Gol Thovas", -- [1171]
+				"Gol Thovas", -- [1172]
+				"Rastakhan's Might", -- [1173]
+				"Rastakhan's Might", -- [1174]
+				nil, -- [1175]
+				"Breath Of Pa'ku", -- [1176]
+				"Breath Of Pa'ku", -- [1177]
+				nil, -- [1178]
+				"Abyssal Melody", -- [1179]
+				"Abyssal Melody", -- [1180]
+				"Zuldazar", -- [1181]
+				"Saltstone Mine", -- [1182]
+				"Thornheart", -- [1183]
+				"Winterchill Mine", -- [1184]
+				"Winterchill Mine", -- [1185]
+				"Blackrock Depths", -- [1186]
+				"Azsuna", -- [1187]
+				"Val'sharah", -- [1188]
+				"Highmountain", -- [1189]
+				"Stormheim", -- [1190]
+				"Suramar", -- [1191]
+				"Broken Shore", -- [1192]
+				"Zuldazar", -- [1193]
+				"Nazmir", -- [1194]
+				"Vol'dun", -- [1195]
+				"Tiragarde Sound", -- [1196]
+				"Drustvar", -- [1197]
+				"Stormsong Valley", -- [1198]
+				nil, -- [1199]
+				nil, -- [1200]
+				nil, -- [1201]
+				nil, -- [1202]
+				"Darkshore", -- [1203]
+				nil, -- [1204]
+				nil, -- [1205]
+				nil, -- [1206]
+				nil, -- [1207]
+				"Eastern Kingdoms", -- [1208]
+				"Kalimdor", -- [1209]
+				nil, -- [1210]
+				nil, -- [1211]
+				nil, -- [1212]
+				nil, -- [1213]
+				nil, -- [1214]
+				nil, -- [1215]
+				nil, -- [1216]
+				nil, -- [1217]
+				nil, -- [1218]
+				nil, -- [1219]
+				nil, -- [1220]
+				nil, -- [1221]
+				nil, -- [1222]
+				nil, -- [1223]
+				nil, -- [1224]
+				nil, -- [1225]
+				nil, -- [1226]
+				nil, -- [1227]
+				nil, -- [1228]
+				nil, -- [1229]
+				nil, -- [1230]
+				nil, -- [1231]
+				nil, -- [1232]
+				nil, -- [1233]
+				nil, -- [1234]
+				nil, -- [1235]
+				nil, -- [1236]
+				nil, -- [1237]
+				nil, -- [1238]
+				nil, -- [1239]
+				nil, -- [1240]
+				nil, -- [1241]
+				nil, -- [1242]
+				nil, -- [1243]
+				"Arathi Highlands", -- [1244]
+				"Badlands", -- [1245]
+				"Blasted Lands", -- [1246]
+				"Tirisfal Glades", -- [1247]
+				"Silverpine Forest", -- [1248]
+				"Western Plaguelands", -- [1249]
+				"Eastern Plaguelands", -- [1250]
+				"Hillsbrad Foothills", -- [1251]
+				"The Hinterlands", -- [1252]
+				"Dun Morogh", -- [1253]
+				"Searing Gorge", -- [1254]
+				"Burning Steppes", -- [1255]
+				"Elwynn Forest", -- [1256]
+				"Deadwind Pass", -- [1257]
+				"Duskwood", -- [1258]
+				"Loch Modan", -- [1259]
+				"Redridge Mountains", -- [1260]
+				"Swamp of Sorrows", -- [1261]
+				"Westfall", -- [1262]
+				"Wetlands", -- [1263]
+				"Stormwind City", -- [1264]
+				"Ironforge", -- [1265]
+				"Undercity", -- [1266]
+				"Eversong Woods", -- [1267]
+				"Ghostlands", -- [1268]
+				"Silvermoon City", -- [1269]
+				"Isle of Quel'Danas", -- [1270]
+				"Gilneas", -- [1271]
+				"Vashj'ir", -- [1272]
+				"Ruins of Gilneas", -- [1273]
+				"Stranglethorn Vale", -- [1274]
+				"Twilight Highlands", -- [1275]
+				"Tol Barad", -- [1276]
+				"Tol Barad Peninsula", -- [1277]
+				nil, -- [1278]
+				nil, -- [1279]
+				nil, -- [1280]
+				nil, -- [1281]
+				nil, -- [1282]
+				nil, -- [1283]
+				nil, -- [1284]
+				nil, -- [1285]
+				nil, -- [1286]
+				nil, -- [1287]
+				nil, -- [1288]
+				nil, -- [1289]
+				nil, -- [1290]
+				nil, -- [1291]
+				nil, -- [1292]
+				nil, -- [1293]
+				nil, -- [1294]
+				nil, -- [1295]
+				nil, -- [1296]
+				nil, -- [1297]
+				nil, -- [1298]
+				nil, -- [1299]
+				nil, -- [1300]
+				nil, -- [1301]
+				nil, -- [1302]
+				nil, -- [1303]
+				nil, -- [1304]
+				"Durotar", -- [1305]
+				"Mulgore", -- [1306]
+				"Northern Barrens", -- [1307]
+				"Teldrassil", -- [1308]
+				"Darkshore", -- [1309]
+				"Ashenvale", -- [1310]
+				"Thousand Needles", -- [1311]
+				"Stonetalon Mountains", -- [1312]
+				"Desolace", -- [1313]
+				"Feralas", -- [1314]
+				"Dustwallow Marsh", -- [1315]
+				"Tanaris", -- [1316]
+				"Azshara", -- [1317]
+				"Felwood", -- [1318]
+				"Un'Goro Crater", -- [1319]
+				"Moonglade", -- [1320]
+				"Silithus", -- [1321]
+				"Winterspring", -- [1322]
+				"Thunder Bluff", -- [1323]
+				"Darnassus", -- [1324]
+				"Azuremyst Isle", -- [1325]
+				"The Exodar", -- [1326]
+				"Bloodmyst Isle", -- [1327]
+				"Mount Hyjal", -- [1328]
+				"Southern Barrens", -- [1329]
+				"Uldum", -- [1330]
+				"The Exodar", -- [1331]
+				"Darkshore", -- [1332]
+				"Darkshore", -- [1333]
+				"Wintergrasp", -- [1334]
+				"Cooking: Impossible", -- [1335]
+				"Havenswood", -- [1336]
+				"Jorundall", -- [1337]
+				"Darkshore", -- [1338]
+				"Warsong Gulch", -- [1339]
+				nil, -- [1340]
+				nil, -- [1341]
+				nil, -- [1342]
+				"8.1 Darkshore Outdoor Final Phase", -- [1343]
+				nil, -- [1344]
+				"Crucible of Storms", -- [1345]
+				"Crucible of Storms", -- [1346]
+				"Zandalari Treasury", -- [1347]
+				"Zandalari Treasury", -- [1348]
+				"Tol Dagor", -- [1349]
+				"Tol Dagor", -- [1350]
+				"Tol Dagor", -- [1351]
+				"Battle of Dazar'alor", -- [1352]
+				"Battle of Dazar'alor", -- [1353]
+				"Battle of Dazar'alor", -- [1354]
+				"Nazjatar", -- [1355]
+				"Battle of Dazar'alor", -- [1356]
+				"Battle of Dazar'alor", -- [1357]
+				"Battle of Dazar'alor", -- [1358]
+				"Icecrown Citadel", -- [1359]
+				"Icecrown Citadel", -- [1360]
+				"OldIronforge", -- [1361]
+				"Shrine of the Storm", -- [1362]
+				"Crucible of Storms", -- [1363]
+				"Battle of Dazar'alor", -- [1364]
+				nil, -- [1365]
+				"Arathi Basin", -- [1366]
+				"Battle of Dazar'alor", -- [1367]
+				nil, -- [1368]
+				nil, -- [1369]
+				nil, -- [1370]
+				"GnomereganA", -- [1371]
+				"GnomereganB", -- [1372]
+				nil, -- [1373]
+				"GnomereganD", -- [1374]
+				"Halls of Stone", -- [1375]
+				nil, -- [1376]
+				nil, -- [1377]
+				nil, -- [1378]
+				"8.3 Visions of N'Zoth - Prototype", -- [1379]
+				"GnomereganC", -- [1380]
+				"Uldir", -- [1381]
+				"Uldir", -- [1382]
+				"Arathi Basin", -- [1383]
+				"Northrend", -- [1384]
+				nil, -- [1385]
+				nil, -- [1386]
+				nil, -- [1387]
+				nil, -- [1388]
+				nil, -- [1389]
+				nil, -- [1390]
+				nil, -- [1391]
+				nil, -- [1392]
+				nil, -- [1393]
+				nil, -- [1394]
+				nil, -- [1395]
+				"Borean Tundra", -- [1396]
+				"Dragonblight", -- [1397]
+				"Grizzly Hills", -- [1398]
+				"Howling Fjord", -- [1399]
+				"Icecrown", -- [1400]
+				"Sholazar Basin", -- [1401]
+				"The Storm Peaks", -- [1402]
+				"Zul'Drak", -- [1403]
+				"Wintergrasp", -- [1404]
+				"Crystalsong Forest", -- [1405]
+				"Hrothgar's Landing", -- [1406]
+				"Prison of Ink", -- [1407]
+				"Ashran", -- [1408]
+				"Exile's Reach", -- [1409]
+				nil, -- [1410]
+				nil, -- [1411]
+				nil, -- [1412]
+				nil, -- [1413]
+				nil, -- [1414]
+				nil, -- [1415]
+				nil, -- [1416]
+				nil, -- [1417]
+				nil, -- [1418]
+				nil, -- [1419]
+				nil, -- [1420]
+				nil, -- [1421]
+				nil, -- [1422]
+				nil, -- [1423]
+				nil, -- [1424]
+				nil, -- [1425]
+				nil, -- [1426]
+				nil, -- [1427]
+				nil, -- [1428]
+				nil, -- [1429]
+				nil, -- [1430]
+				nil, -- [1431]
+				nil, -- [1432]
+				nil, -- [1433]
+				nil, -- [1434]
+				nil, -- [1435]
+				nil, -- [1436]
+				nil, -- [1437]
+				nil, -- [1438]
+				nil, -- [1439]
+				nil, -- [1440]
+				nil, -- [1441]
+				nil, -- [1442]
+				nil, -- [1443]
+				nil, -- [1444]
+				nil, -- [1445]
+				nil, -- [1446]
+				nil, -- [1447]
+				nil, -- [1448]
+				nil, -- [1449]
+				nil, -- [1450]
+				nil, -- [1451]
+				nil, -- [1452]
+				nil, -- [1453]
+				nil, -- [1454]
+				nil, -- [1455]
+				nil, -- [1456]
+				nil, -- [1457]
+				nil, -- [1458]
+				nil, -- [1459]
+				nil, -- [1460]
+				nil, -- [1461]
+				"Mechagon Island", -- [1462]
+				nil, -- [1463]
+				nil, -- [1464]
+				"Scarlet Halls", -- [1465]
+				nil, -- [1466]
+				"Outland", -- [1467]
+				"The Dreamgrove", -- [1468]
+				"Vision of Orgrimmar", -- [1469]
+				"Vision of Stormwind", -- [1470]
+				"Emerald Dreamway", -- [1471]
+				"The Dragon's Spine", -- [1472]
+				"Chamber of Heart", -- [1473]
+				"The Maelstrom - Heart of Azeroth", -- [1474]
+				"The Emerald Dream", -- [1475]
+				"Twilight Highlands", -- [1476]
+				nil, -- [1477]
+				"Ashran", -- [1478]
+				"Baine Rescue", -- [1479]
+				nil, -- [1480]
+				nil, -- [1481]
+				nil, -- [1482]
+				nil, -- [1483]
+				nil, -- [1484]
+				nil, -- [1485]
+				nil, -- [1486]
+				nil, -- [1487]
+				nil, -- [1488]
+				nil, -- [1489]
+				"Mechagon", -- [1490]
+				"Mechagon", -- [1491]
+				nil, -- [1492]
+				"Mechagon", -- [1493]
+				"Mechagon", -- [1494]
+				nil, -- [1495]
+				nil, -- [1496]
+				"Mechagon", -- [1497]
+				nil, -- [1498]
+				"Zin-Azshari", -- [1499]
+				"", -- [1500]
+				"Crestfall", -- [1501]
+				"Snowblossom Village", -- [1502]
+				nil, -- [1503]
+				"Nazjatar", -- [1504]
+				"Stratholme", -- [1505]
+				nil, -- [1506]
+				nil, -- [1507]
+				nil, -- [1508]
+				nil, -- [1509]
+				nil, -- [1510]
+				nil, -- [1511]
+				"The Eternal Palace", -- [1512]
+				"The Eternal Palace", -- [1513]
+				"The Eternal Palace", -- [1514]
+				"The Eternal Palace", -- [1515]
+				"The Eternal Palace", -- [1516]
+				"The Eternal Palace", -- [1517]
+				"The Eternal Palace", -- [1518]
+				"The Eternal Palace", -- [1519]
+				"The Eternal Palace", -- [1520]
+				"Karazhan Catacombs", -- [1521]
+				"Crumbling Cavern", -- [1522]
+				"Solesa Naksu [DNT]", -- [1523]
+				"", -- [1524]
+				"Revendreth", -- [1525]
+				nil, -- [1526]
+				"Uldum", -- [1527]
+				"Nazjatar", -- [1528]
+				nil, -- [1529]
+				"Vale of Eternal Blossoms", -- [1530]
+				"Crapopolis", -- [1531]
+				"Crapopolis", -- [1532]
+				"Bastion", -- [1533]
+				"Orgrimmar", -- [1534]
+				"Durotar", -- [1535]
+				"Maldraxxus", -- [1536]
+				"Alterac Valley", -- [1537]
+				"Blackwing Descent", -- [1538]
+				"Blackwing Descent", -- [1539]
+				"Halls of Origination", -- [1540]
+				"Halls of Origination", -- [1541]
+				"Halls of Origination", -- [1542]
+				"The Maw", -- [1543]
+				"Mogu'shan Palace", -- [1544]
+				"Mogu'shan Palace", -- [1545]
+				"Mogu'shan Palace", -- [1546]
+				"Mogu'shan Vaults", -- [1547]
+				"Mogu'shan Vaults", -- [1548]
+				"Mogu'shan Vaults", -- [1549]
+				"The Shadowlands", -- [1550]
+				nil, -- [1551]
+				"Caverns of Time", -- [1552]
+				"Caverns of Time", -- [1553]
+				"Serpentshrine Cavern", -- [1554]
+				"Tempest Keep", -- [1555]
+				"Hyjal Summit", -- [1556]
+				"Naxxramas", -- [1557]
+				"Icecrown Citadel", -- [1558]
+				"The Bastion of Twilight", -- [1559]
+				"Blackwing Lair", -- [1560]
+				"Firelands", -- [1561]
+				nil, -- [1562]
+				"Trial of the Crusader", -- [1563]
+				nil, -- [1564]
+				"Ardenweald", -- [1565]
+				nil, -- [1566]
+				nil, -- [1567]
+				nil, -- [1568]
+				"Bastion", -- [1569]
+				"Vale of Eternal Blossoms", -- [1570]
+				"Uldum", -- [1571]
+				nil, -- [1572]
+				"Mechagon City", -- [1573]
+				"Mechagon City", -- [1574]
+				nil, -- [1575]
+				"Deepwind Gorge", -- [1576]
+				"Gilneas City", -- [1577]
+				"Blackrock Depths", -- [1578]
+				"Pools Of Power", -- [1579]
+				"Ny'alotha", -- [1580]
+				"Ny'alotha", -- [1581]
+				"Ny'alotha", -- [1582]
+				nil, -- [1583]
+				nil, -- [1584]
+				nil, -- [1585]
+				nil, -- [1586]
+				nil, -- [1587]
+				nil, -- [1588]
+				nil, -- [1589]
+				"Ny'alotha", -- [1590]
+				"Ny'alotha", -- [1591]
+				"Ny'alotha", -- [1592]
+				"Ny'alotha", -- [1593]
+				"Ny'alotha", -- [1594]
+				"Ny'alotha", -- [1595]
+				"Ny'alotha", -- [1596]
+				"Ny'alotha", -- [1597]
+				nil, -- [1598]
+				nil, -- [1599]
+				"Vault of Y'Shaarj", -- [1600]
+				nil, -- [1601]
+				"Icecrown Citadel", -- [1602]
+				"Ardenweald", -- [1603]
+				"Chamber Of Heart", -- [1604]
+				nil, -- [1605]
+				nil, -- [1606]
+				nil, -- [1607]
+				nil, -- [1608]
+				"Darkmaul Citadel", -- [1609]
+				"Darkmaul Citadel", -- [1610]
+				"Dark Citadel", -- [1611]
+				nil, -- [1612]
+				nil, -- [1613]
+				"JT_New_A", -- [1614]
+				"TG10_Floor [Deprecated]", -- [1615]
+				"TG11_Floor [Deprecated]", -- [1616]
+				"TG12_Floor [Deprecated]", -- [1617]
+				"Torghast", -- [1618]
+				"Torghast", -- [1619]
+				"Torghast", -- [1620]
+				"Torghast", -- [1621]
+				nil, -- [1622]
+				"Torghast", -- [1623]
+				"Torghast", -- [1624]
+				nil, -- [1625]
+				nil, -- [1626]
+				"Torghast", -- [1627]
+				"Torghast", -- [1628]
+				"Torghast", -- [1629]
+				"Torghast", -- [1630]
+				"Torghast", -- [1631]
+				"Torghast", -- [1632]
+				nil, -- [1633]
+				nil, -- [1634]
+				"Torghast", -- [1635]
+				"Torghast", -- [1636]
+				nil, -- [1637]
+				nil, -- [1638]
+				nil, -- [1639]
+				nil, -- [1640]
+				"Torghast", -- [1641]
+				"Val'sharah", -- [1642]
+				"Ardenweald", -- [1643]
+				"Ember Court", -- [1644]
+				"Torghast", -- [1645]
+				nil, -- [1646]
+				"The Shadowlands", -- [1647]
+				"The Maw", -- [1648]
+				"Etheric Vault", -- [1649]
+				"Sightless Hold", -- [1650]
+				"Molten Forge", -- [1651]
+				"Vault of Souls", -- [1652]
+				nil, -- [1653]
+				nil, -- [1654]
+				nil, -- [1655]
+				"Torghast - Map Floor 10 [Deprecated]", -- [1656]
+				nil, -- [1657]
+				"Alpha_TG_R02", -- [1658]
+				"Alpha_TG_R03", -- [1659]
+				nil, -- [1660]
+				"Alpha_TG_R05", -- [1661]
+				"Queen's Conservatory", -- [1662]
+				"Halls of Atonement", -- [1663]
+				"Halls of Atonement", -- [1664]
+				"Halls of Atonement", -- [1665]
+				"The Necrotic Wake", -- [1666]
+				"The Necrotic Wake", -- [1667]
+				"The Necrotic Wake", -- [1668]
+				"Mists of Tirna Scithe", -- [1669]
+				"Oribos", -- [1670]
+				"Oribos", -- [1671]
+				"Oribos", -- [1672]
+				"Oribos", -- [1673]
+				"Plaguefall", -- [1674]
+				"Sanguine Depths", -- [1675]
+				"Sanguine Depths", -- [1676]
+				"De Other Side", -- [1677]
+				"De Other Side", -- [1678]
+				"De Other Side", -- [1679]
+				"De Other Side", -- [1680]
+				"Icecrown Citadel", -- [1681]
+				"Icecrown Citadel", -- [1682]
+				"Theater of Pain", -- [1683]
+				"Theater of Pain", -- [1684]
+				"Theater of Pain", -- [1685]
+				"Theater of Pain", -- [1686]
+				"Theater of Pain", -- [1687]
+				"Revendreth", -- [1688]
+				"Maldraxxus", -- [1689]
+				"Aspirant's Quarters", -- [1690]
+				"Shattered Grove", -- [1691]
+				"Spires Of Ascension", -- [1692]
+				"Spires Of Ascension", -- [1693]
+				"Spires Of Ascension", -- [1694]
+				"Spires Of Ascension", -- [1695]
+				nil, -- [1696]
+				"Plaguefall", -- [1697]
+				"Seat of the Primus", -- [1698]
+				"Sinfall", -- [1699]
+				"Sinfall", -- [1700]
+				"Heart of the Forest", -- [1701]
+				"Heart of the Forest", -- [1702]
+				"Heart of the Forest", -- [1703]
+				nil, -- [1704]
+				"Torghast - Entrance", -- [1705]
+				nil, -- [1706]
+				"Elysian Hold", -- [1707]
+				"Elysian Hold", -- [1708]
+				"Ardenweald", -- [1709]
+				nil, -- [1710]
+				"Ascension Coliseum", -- [1711]
+				"Torghast", -- [1712]
+				"Path of Wisdom", -- [1713]
+				"Third Chamber of Kalliope", -- [1714]
+				"Vestibule Of Eternity", -- [1715]
+				"Torghast - Map Floor 22", -- [1716]
+				"Chill's Reach", -- [1717]
+				nil, -- [1718]
+				nil, -- [1719]
+				"Covenant_Ard_Torghast", -- [1720]
+				"Torghast", -- [1721]
+				nil, -- [1722]
+				nil, -- [1723]
+				"Vortrexxis", -- [1724]
+				nil, -- [1725]
+				"The North Sea", -- [1726]
+				"The North Sea", -- [1727]
+				"The Runecarver", -- [1728]
+				nil, -- [1729]
+				nil, -- [1730]
+				nil, -- [1731]
+				nil, -- [1732]
+				nil, -- [1733]
+				"Revendreth", -- [1734]
+				"Castle Nathria", -- [1735]
+				"Torghast", -- [1736]
+				nil, -- [1737]
+				"Revendreth", -- [1738]
+				"Ardenweald", -- [1739]
+				"Ardenweald", -- [1740]
+				"Maldraxxus", -- [1741]
+				"Revendreth", -- [1742]
+				nil, -- [1743]
+				"Castle Nathria", -- [1744]
+				"Castle Nathria", -- [1745]
+				"Castle Nathria", -- [1746]
+				"Castle Nathria", -- [1747]
+				"Castle Nathria", -- [1748]
+				"Torghast", -- [1749]
+				"Castle Nathria", -- [1750]
+				"Torghast", -- [1751]
+				"Torghast", -- [1752]
+				"Torghast", -- [1753]
+				"Torghast", -- [1754]
+				"Castle Nathria", -- [1755]
+				"Torghast", -- [1756]
+				"Torghast", -- [1757]
+				"Torghast", -- [1758]
+				"Torghast", -- [1759]
+				"Torghast", -- [1760]
+				"Torghast", -- [1761]
+				"Torghast, Tower of the Damned", -- [1762]
+				"Torghast", -- [1763]
+				"Torghast", -- [1764]
+				"Torghast", -- [1765]
+				"Torghast", -- [1766]
+				"Torghast", -- [1767]
+				"Torghast", -- [1768]
+				"Torghast", -- [1769]
+				"Torghast", -- [1770]
+				"Torghast", -- [1771]
+				"Torghast", -- [1772]
+				"Torghast", -- [1773]
+				"Torghast", -- [1774]
+				nil, -- [1775]
+				"Torghast", -- [1776]
+				"Torghast", -- [1777]
+				"Torghast", -- [1778]
+				"Torghast", -- [1779]
+				"Torghast", -- [1780]
+				"Torghast", -- [1781]
+				"Torghast", -- [1782]
+				"Torghast", -- [1783]
+				"Torghast", -- [1784]
+				"Torghast", -- [1785]
+				"Torghast", -- [1786]
+				"Torghast", -- [1787]
+				"Torghast", -- [1788]
+				"Torghast", -- [1789]
+				nil, -- [1790]
+				"Torghast", -- [1791]
+				"Torghast", -- [1792]
+				"Torghast", -- [1793]
+				"Torghast", -- [1794]
+				"Torghast", -- [1795]
+				"Torghast", -- [1796]
+				"Torghast", -- [1797]
+				"Torghast", -- [1798]
+				"Torghast", -- [1799]
+				"Torghast", -- [1800]
+				"Torghast", -- [1801]
+				"Torghast", -- [1802]
+				"Torghast", -- [1803]
+				"Torghast", -- [1804]
+				"Torghast", -- [1805]
+				"Torghast", -- [1806]
+				"Torghast", -- [1807]
+				"Torghast", -- [1808]
+				"Torghast", -- [1809]
+				"Torghast", -- [1810]
+				"Torghast", -- [1811]
+				"Torghast", -- [1812]
+				"Bastion", -- [1813]
+				"Maldraxxus", -- [1814]
+				nil, -- [1815]
+				"Claw's Edge", -- [1816]
+				nil, -- [1817]
+				"Tirna Vaal", -- [1818]
+				"Fungal Terminus", -- [1819]
+				"Pit of Anguish", -- [1820]
+				"Pit of Anguish", -- [1821]
+				"Extractor's Sanatorium", -- [1822]
+				"Altar of Domination", -- [1823]
+				"Matriarch's Den", -- [1824]
+				"The Root Cellar", -- [1825]
+				"The Root Cellar", -- [1826]
+				"The Root Cellar", -- [1827]
+				nil, -- [1828]
+				"", -- [1829]
+				nil, -- [1830]
+				nil, -- [1831]
+				nil, -- [1832]
+				"Torghast", -- [1833]
+				"Torghast - Map Floor 24", -- [1834]
+				"Torghast - Map Floor 25", -- [1835]
+				"Torghast - Map Floor 26", -- [1836]
+				"Torghast - Map Floor 27", -- [1837]
+				"Torghast - Map Floor 41", -- [1838]
+				"Torghast - Map Floor 28", -- [1839]
+				"Torghast - Map Floor 40", -- [1840]
+				"Torghast - Map Floor 39", -- [1841]
+				"Torghast - Map Floor 29", -- [1842]
+				"Torghast - Map Floor 38", -- [1843]
+				"Torghast - Map Floor 32", -- [1844]
+				"Torghast - Map Floor 31", -- [1845]
+				"Torghast - Map Floor 33", -- [1846]
+				"Torghast - Map Floor 34", -- [1847]
+				"Torghast - Map Floor 14", -- [1848]
+				"Torghast - Map Floor 16", -- [1849]
+				"Torghast - Map Floor 18", -- [1850]
+				"Torghast - Map Floor 42", -- [1851]
+				"Torghast - Map Floor 44", -- [1852]
+				"Torghast - Map Floor 46", -- [1853]
+				"Torghast - Map Floor 48", -- [1854]
+				"Torghast - Map Floor 49", -- [1855]
+				"Torghast - Map Floor 50", -- [1856]
+				"Torghast - Map Floor 51", -- [1857]
+				"Torghast - Map Floor 52", -- [1858]
+				"Torghast - Map Floor 53", -- [1859]
+				"Torghast - Map Floor 54", -- [1860]
+				"Torghast - Map Floor 57", -- [1861]
+				"Torghast - Map Floor 59", -- [1862]
+				"Torghast - Map Floor 61", -- [1863]
+				"Torghast - Map Floor 63", -- [1864]
+				"Torghast - Map Floor 64", -- [1865]
+				nil, -- [1866]
+				"Torghast - Map Floor 66", -- [1867]
+				"Torghast - Map Floor 67", -- [1868]
+				"Torghast - Map Floor 68", -- [1869]
+				"Torghast - Map Floor 69", -- [1870]
+				"Torghast - Map Floor 70", -- [1871]
+				"Torghast - Map Floor 71", -- [1872]
+				"Torghast - Map Floor 74", -- [1873]
+				"Torghast - Map Floor 75", -- [1874]
+				"Torghast - Map Floor 76", -- [1875]
+				"Torghast - Map Floor 77", -- [1876]
+				"Torghast - Map Floor 78", -- [1877]
+				"Torghast - Map Floor 80", -- [1878]
+				"Torghast - Map Floor 81", -- [1879]
+				"Torghast - Map Floor 83", -- [1880]
+				"Torghast - Map Floor 84", -- [1881]
+				"Torghast - Map Floor 86", -- [1882]
+				"Torghast - Map Floor 87", -- [1883]
+				"Torghast - Map Floor 88", -- [1884]
+				"Torghast - Map Floor 89", -- [1885]
+				"Torghast - Map Floor 92", -- [1886]
+				"Torghast - Map Floor 93", -- [1887]
+				"Torghast - Map Floor 94", -- [1888]
+				"Torghast - Map Floor 95", -- [1889]
+				"Torghast - Map Floor 97", -- [1890]
+				"Torghast - Map Floor 98", -- [1891]
+				"Torghast - Map Floor 99", -- [1892]
+				"Torghast - Map Floor 100", -- [1893]
+				"Torghast - Map Floor 23", -- [1894]
+				"Torghast - Map Floor 35", -- [1895]
+				"Torghast - Map Floor 56", -- [1896]
+				"Torghast - Map Floor 62", -- [1897]
+				"Torghast - Map Floor 82", -- [1898]
+				"Torghast - Map Floor 101", -- [1899]
+				"Torghast - Map Floor 58", -- [1900]
+				"Torghast - Map Floor 73", -- [1901]
+				"Torghast - Map Floor 79", -- [1902]
+				"Torghast - Map Floor 85", -- [1903]
+				"Torghast - Map Floor 90", -- [1904]
+				"Torghast - Map Floor 96", -- [1905]
+				nil, -- [1906]
+				"Torghast - Map Floor 102", -- [1907]
+				"Torghast - Map Floor 60", -- [1908]
+				"Torghast - Map Floor 21", -- [1909]
+				"Torghast - Map Floor 91", -- [1910]
+				"Torghast - Entrance", -- [1911]
+				"The Runecarver's Oubliette", -- [1912]
+				"Torghast", -- [1913]
+				"Torghast", -- [1914]
+				nil, -- [1915]
+				nil, -- [1916]
+				"De Other Side", -- [1917]
+				nil, -- [1918]
+				nil, -- [1919]
+				"Torghast", -- [1920]
+				"Torghast", -- [1921]
+				"Draenor", -- [1922]
+				"Pandaria", -- [1923]
+				nil, -- [1924]
+				nil, -- [1925]
+				nil, -- [1926]
+				nil, -- [1927]
+				nil, -- [1928]
+				nil, -- [1929]
+				nil, -- [1930]
+				nil, -- [1931]
+				nil, -- [1932]
+				nil, -- [1933]
+				nil, -- [1934]
+				nil, -- [1935]
+				nil, -- [1936]
+				nil, -- [1937]
+				nil, -- [1938]
+				nil, -- [1939]
+				nil, -- [1940]
+				nil, -- [1941]
+				nil, -- [1942]
+				nil, -- [1943]
+				nil, -- [1944]
+				nil, -- [1945]
+				nil, -- [1946]
+				nil, -- [1947]
+				nil, -- [1948]
+				nil, -- [1949]
+				nil, -- [1950]
+				nil, -- [1951]
+				nil, -- [1952]
+				nil, -- [1953]
+				nil, -- [1954]
+				nil, -- [1955]
+				nil, -- [1956]
+				nil, -- [1957]
+				"Firelands", -- [1958]
+				"Firelands", -- [1959]
+				"The Maw", -- [1960]
+				"Korthia", -- [1961]
+				"Torghast", -- [1962]
+				"Torghast", -- [1963]
+				"Torghast", -- [1964]
+				"Torghast", -- [1965]
+				"Torghast", -- [1966]
+				"Torghast", -- [1967]
+				"Torghast", -- [1968]
+				"Torghast", -- [1969]
+				"Zereth Mortis", -- [1970]
+				"Skyhold", -- [1971]
+				nil, -- [1972]
+				nil, -- [1973]
+				"Torghast", -- [1974]
+				"Torghast", -- [1975]
+				"Torghast", -- [1976]
+				"Torghast", -- [1977]
+				nil, -- [1978]
+				"Torghast", -- [1979]
+				"Torghast", -- [1980]
+				"Torghast", -- [1981]
+				"Torghast", -- [1982]
+				"Torghast", -- [1983]
+				"Torghast", -- [1984]
+				"Torghast", -- [1985]
+				"Torghast", -- [1986]
+				"Torghast", -- [1987]
+				"Torghast", -- [1988]
+				"Tazavesh, the Veiled Market", -- [1989]
+				"Tazavesh, the Veiled Market", -- [1990]
+				"Tazavesh, the Veiled Market", -- [1991]
+				"Tazavesh, the Veiled Market", -- [1992]
+				"Tazavesh, the Veiled Market", -- [1993]
+				nil, -- [1994]
+				"Tazavesh, the Veiled Market", -- [1995]
+				"Tazavesh, the Veiled Market", -- [1996]
+				"Tazavesh, the Veiled Market", -- [1997]
+				"Sanctum of Domination", -- [1998]
+				"Sanctum of Domination", -- [1999]
+				"Sanctum of Domination", -- [2000]
+				"Sanctum of Domination", -- [2001]
+				"Sanctum of Domination", -- [2002]
+				"Sanctum of Domination", -- [2003]
+				"Sanctum of Domination", -- [2004]
+				"Ardenweald", -- [2005]
+				"Cavern of Contemplation", -- [2006]
+				"Gromit Hollow", -- [2007]
+				"Chamber of the Sigil", -- [2008]
+				"TG106_Floor_MM", -- [2009]
+				"Torghast", -- [2010]
+				"Torghast", -- [2011]
+				"Torghast", -- [2012]
+				nil, -- [2013]
+				nil, -- [2014]
+				nil, -- [2015]
+				"Tazavesh, the Veiled Market", -- [2016]
+				"Spires of Ascension", -- [2017]
+				"Spires of Ascension", -- [2018]
+				"Torghast", -- [2019]
+				nil, -- [2020]
+				nil, -- [2021]
+				nil, -- [2022]
+				nil, -- [2023]
+				nil, -- [2024]
+				nil, -- [2025]
+				nil, -- [2026]
+				"Blooming Foundry", -- [2027]
+				"Locrian Esper", -- [2028]
+				"Gravid Repose", -- [2029]
+				"Nexus of Actualization", -- [2030]
+				"Crypts of the Eternal", -- [2031]
+				nil, -- [2032]
+				nil, -- [2033]
+				nil, -- [2034]
+				nil, -- [2035]
+				nil, -- [2036]
+				nil, -- [2037]
+				nil, -- [2038]
+				nil, -- [2039]
+				nil, -- [2040]
+				nil, -- [2041]
+				"The Crucible", -- [2042]
+				nil, -- [2043]
+				nil, -- [2044]
+				nil, -- [2045]
+				"Zereth Mortis", -- [2046]
+				"Sepulcher of the First Ones", -- [2047]
+				"Sepulcher of the First Ones", -- [2048]
+				"Sepulcher of the First Ones", -- [2049]
+				"Sepulcher of the First Ones", -- [2050]
+				"Sepulcher of the First Ones", -- [2051]
+				"Sepulcher of the First Ones", -- [2052]
+				[2066] = "Catalyst Wards",
+				[2059] = "Resonant Peaks",
+				[2061] = "Sepulcher of the First Ones",
+				[2055] = "Sepulcher of the First Ones",
+				[2070] = "Tirisfal Glades",
 			},
-			["lastRevision"] = 687,
+			["lastRevision"] = 715,
 			["accountWideStatistics"] = {
 				["Player-73-0A1F6A81"] = {
 					["playerName"] = "Emoclëw",
@@ -2809,33 +4310,33 @@ RarityDB = {
 						[5568] = 0,
 						[2864] = 0,
 						[5570] = 0,
-						[10977] = 0,
+						[5569] = 0,
 						[2865] = 0,
-						[12118] = 0,
+						[5964] = 0,
 						[5572] = 0,
-						[11959] = 0,
-						[11957] = 0,
+						[2883] = 3,
+						[11893] = 0,
 						[7923] = 0,
 						[5574] = 0,
 						[7924] = 0,
 						[5575] = 0,
-						[5571] = 0,
-						[5576] = 0,
-						[4688] = 0,
-						[5577] = 0,
-						[4686] = 0,
-						[10980] = 0,
-						[5560] = 0,
-						[2869] = 1,
-						[4687] = 0,
-						[9279] = 0,
-						[5975] = 0,
-						[6989] = 1,
 						[11896] = 0,
-						[11893] = 0,
-						[2883] = 3,
-						[5964] = 0,
-						[5569] = 0,
+						[5576] = 0,
+						[6989] = 1,
+						[4688] = 0,
+						[5975] = 0,
+						[9279] = 0,
+						[4687] = 0,
+						[2869] = 1,
+						[5560] = 0,
+						[10980] = 0,
+						[4686] = 0,
+						[5577] = 0,
+						[5571] = 0,
+						[11957] = 0,
+						[11959] = 0,
+						[12118] = 0,
+						[10977] = 0,
 					},
 					["server"] = "Bleeding Hollow",
 				},
@@ -2889,33 +4390,33 @@ RarityDB = {
 						[5568] = 0,
 						[2864] = 1,
 						[5570] = 0,
-						[10977] = 0,
+						[2865] = 1,
 						[5571] = 0,
-						[12118] = 0,
+						[5964] = 2,
 						[5572] = 0,
-						[11959] = 0,
-						[11957] = 0,
+						[9279] = 0,
+						[4686] = 0,
 						[7923] = 0,
 						[5574] = 0,
 						[7924] = 0,
 						[5575] = 2,
-						[2883] = 21,
-						[5576] = 2,
-						[6989] = 14,
-						[5577] = 0,
-						[5569] = 0,
-						[11893] = 0,
-						[11896] = 0,
-						[2869] = 2,
-						[5975] = 2,
-						[10929] = 0,
-						[10980] = 0,
-						[4688] = 5,
 						[4687] = 0,
-						[4686] = 0,
-						[9279] = 0,
-						[5964] = 2,
-						[2865] = 1,
+						[5576] = 2,
+						[4688] = 5,
+						[5577] = 0,
+						[10980] = 0,
+						[10929] = 0,
+						[5975] = 2,
+						[2869] = 2,
+						[11896] = 0,
+						[11893] = 0,
+						[5569] = 0,
+						[6989] = 14,
+						[2883] = 21,
+						[11957] = 0,
+						[11959] = 0,
+						[12118] = 0,
+						[10977] = 0,
 					},
 					["server"] = "Bleeding Hollow",
 				},
@@ -2969,124 +4470,179 @@ RarityDB = {
 						[5568] = 0,
 						[2864] = 0,
 						[5570] = 0,
-						[5569] = 0,
+						[10977] = 0,
 						[2865] = 0,
-						[5964] = 0,
+						[12118] = 0,
 						[5572] = 0,
-						[2883] = 14,
-						[5560] = 0,
+						[11957] = 0,
+						[11959] = 0,
 						[7923] = 0,
 						[5574] = 0,
 						[7924] = 0,
 						[5575] = 0,
-						[11893] = 0,
-						[5576] = 0,
-						[11896] = 0,
-						[5577] = 0,
-						[5975] = 3,
-						[4688] = 0,
-						[10980] = 0,
-						[2869] = 0,
-						[4687] = 0,
-						[9279] = 0,
-						[4686] = 0,
-						[6989] = 0,
 						[5571] = 0,
-						[11959] = 0,
-						[11957] = 0,
-						[12118] = 0,
-						[10977] = 0,
+						[5576] = 0,
+						[6989] = 0,
+						[5577] = 0,
+						[4686] = 0,
+						[9279] = 0,
+						[4687] = 0,
+						[2869] = 0,
+						[10980] = 0,
+						[4688] = 0,
+						[5975] = 3,
+						[11896] = 0,
+						[11893] = 0,
+						[5560] = 0,
+						[2883] = 14,
+						[5964] = 0,
+						[5569] = 0,
 					},
 					["server"] = "Bleeding Hollow",
 				},
 				["Player-1171-085C5B6A"] = {
 					["playerName"] = "Dorkks",
 					["statistics"] = {
-						[5965] = 0,
-						[10978] = 0,
-						[10979] = 0,
 						[6157] = 0,
 						[6158] = 0,
+						[10252] = 0,
+						[6165] = 0,
+						[6166] = 0,
+						[6167] = 0,
+						[14089] = 0,
+						[14091] = 0,
+						[14093] = 0,
+						[13591] = 0,
+						[13593] = 0,
+						[14107] = 0,
+						[14109] = 0,
+						[13601] = 0,
+						[13603] = 0,
+						[4653] = 0,
+						[15141] = 0,
+						[13613] = 0,
+						[15145] = 0,
+						[13617] = 0,
+						[13364] = 0,
+						[13366] = 0,
+						[15153] = 0,
+						[14135] = 0,
+						[13372] = 0,
+						[4663] = 0,
+						[4664] = 0,
+						[14398] = 0,
+						[13382] = 0,
+						[15169] = 0,
+						[15171] = 0,
+						[4686] = 0,
+						[4687] = 0,
+						[4688] = 0,
+						[5964] = 0,
+						[5965] = 0,
+						[2864] = 0,
 						[5968] = 0,
-						[5969] = 0,
-						[6797] = 0,
+						[2865] = 0,
+						[14458] = 0,
 						[5972] = 0,
-						[6798] = 0,
 						[5973] = 0,
 						[5974] = 0,
-						[6165] = 0,
-						[1097] = 0,
-						[6166] = 0,
-						[3258] = 0,
-						[6167] = 0,
-						[6168] = 0,
-						[4645] = 0,
-						[11894] = 0,
-						[11895] = 0,
+						[5975] = 0,
+						[2869] = 0,
+						[10928] = 0,
+						[10930] = 0,
+						[11958] = 0,
 						[2879] = 0,
-						[10252] = 0,
-						[4653] = 0,
+						[2883] = 0,
+						[12745] = 0,
+						[11986] = 0,
+						[12763] = 0,
+						[10980] = 0,
+						[6797] = 0,
+						[6798] = 0,
+						[14094] = 0,
+						[13592] = 0,
+						[13594] = 0,
+						[14108] = 0,
+						[14110] = 0,
+						[13602] = 0,
+						[15140] = 0,
+						[13612] = 0,
+						[9279] = 0,
+						[15146] = 0,
+						[13618] = 0,
+						[13365] = 0,
+						[15152] = 0,
+						[15154] = 0,
+						[14136] = 0,
+						[13373] = 0,
+						[14395] = 0,
+						[5557] = 0,
+						[13379] = 0,
+						[5559] = 0,
+						[5560] = 0,
+						[15170] = 0,
+						[15172] = 0,
+						[5565] = 0,
+						[5566] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[5569] = 0,
+						[5570] = 0,
+						[5571] = 0,
+						[5572] = 0,
+						[5574] = 0,
+						[5575] = 0,
+						[5576] = 0,
+						[5577] = 0,
+						[11893] = 0,
+						[11895] = 0,
+						[14455] = 0,
 						[8146] = 0,
 						[8147] = 0,
+						[15143] = 0,
 						[8149] = 0,
 						[8150] = 0,
 						[8151] = 0,
 						[8152] = 0,
-						[4662] = 0,
-						[4663] = 0,
-						[4664] = 0,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 0,
+						[15142] = 0,
+						[14138] = 0,
+						[14128] = 0,
+						[15155] = 0,
+						[14137] = 0,
 						[10929] = 0,
-						[10930] = 0,
 						[10931] = 0,
-						[11893] = 0,
-						[5964] = 0,
-						[10977] = 0,
-						[9279] = 0,
-						[5560] = 0,
-						[5566] = 0,
-						[11959] = 0,
-						[5565] = 0,
-						[10980] = 0,
+						[15147] = 0,
+						[14130] = 0,
 						[11957] = 0,
-						[11958] = 0,
-						[5567] = 0,
-						[2864] = 0,
-						[5568] = 0,
-						[12745] = 0,
-						[5569] = 0,
-						[13366] = 0,
-						[5570] = 0,
-						[4686] = 0,
-						[5571] = 0,
-						[13365] = 0,
-						[5572] = 0,
-						[5576] = 0,
-						[4688] = 0,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[13372] = 0,
-						[13373] = 0,
-						[4687] = 0,
-						[11896] = 0,
-						[5577] = 0,
+						[11959] = 0,
+						[10978] = 0,
 						[13374] = 0,
-						[5575] = 0,
-						[13379] = 0,
-						[2869] = 0,
-						[2865] = 0,
-						[5975] = 0,
-						[11986] = 0,
-						[13364] = 0,
-						[12763] = 0,
-						[2883] = 0,
-						[12752] = 0,
-						[12118] = 0,
+						[14129] = 0,
+						[5969] = 0,
+						[13616] = 0,
+						[15144] = 0,
+						[3258] = 0,
+						[6168] = 0,
+						[4645] = 0,
+						[11894] = 0,
+						[13614] = 0,
+						[13619] = 0,
 						[6989] = 0,
+						[12752] = 0,
+						[7923] = 0,
+						[7924] = 0,
+						[15168] = 0,
+						[1097] = 0,
+						[10977] = 0,
+						[10979] = 0,
+						[14127] = 0,
+						[11896] = 0,
+						[4662] = 0,
+						[12118] = 0,
+						[13620] = 0,
+						[5558] = 0,
+						[13600] = 0,
+						[13615] = 0,
 					},
 					["server"] = "Wyrmrest Accord",
 				},
@@ -3140,33 +4696,33 @@ RarityDB = {
 						[5568] = 1,
 						[5569] = 3,
 						[5570] = 1,
-						[2864] = 3,
+						[10977] = 1,
 						[2865] = 3,
-						[5964] = 11,
+						[12118] = 3,
 						[5572] = 3,
-						[11893] = 1,
-						[5571] = 1,
+						[11959] = 0,
+						[11957] = 1,
 						[7923] = 0,
 						[5574] = 8,
 						[7924] = 0,
 						[5575] = 11,
-						[2883] = 64,
-						[5576] = 10,
-						[5577] = 8,
-						[4688] = 47,
-						[5975] = 13,
-						[10980] = 0,
-						[4687] = 3,
-						[2869] = 2,
-						[5560] = 2,
-						[4686] = 0,
-						[9279] = 12,
-						[2879] = 46,
 						[6989] = 30,
-						[11957] = 1,
-						[11959] = 0,
-						[12118] = 3,
-						[10977] = 1,
+						[5576] = 10,
+						[2879] = 46,
+						[5577] = 8,
+						[9279] = 12,
+						[4686] = 0,
+						[5560] = 2,
+						[2869] = 2,
+						[4687] = 3,
+						[10980] = 0,
+						[5975] = 13,
+						[4688] = 47,
+						[2883] = 64,
+						[5571] = 1,
+						[11893] = 1,
+						[5964] = 11,
+						[2864] = 3,
 					},
 					["server"] = "Bleeding Hollow",
 				},
@@ -3202,17 +4758,17 @@ RarityDB = {
 						[10252] = 0,
 						[4653] = 0,
 						[8146] = 6,
-						[10977] = 0,
+						[2883] = 17,
 						[8147] = 0,
-						[12118] = 3,
+						[5964] = 0,
 						[8148] = 0,
 						[11896] = 0,
 						[8149] = 11,
-						[6989] = 4,
+						[11893] = 2,
 						[8150] = 0,
 						[5968] = 0,
 						[8151] = 0,
-						[6158] = 5,
+						[8153] = 0,
 						[8620] = 0,
 						[8621] = 1,
 						[8622] = 1,
@@ -3226,29 +4782,29 @@ RarityDB = {
 						[8630] = 0,
 						[8631] = 0,
 						[10980] = 0,
-						[5975] = 1,
+						[4664] = 1,
 						[8152] = 0,
 						[3256] = 4,
 						[4663] = 0,
 						[5557] = 0,
-						[4662] = 0,
+						[5560] = 0,
 						[5558] = 0,
-						[10930] = 3,
+						[9279] = 0,
 						[5559] = 0,
 						[10928] = 3,
 						[10929] = 4,
-						[9279] = 0,
+						[10930] = 3,
 						[10931] = 0,
-						[4688] = 2,
-						[2862] = 0,
-						[4687] = 0,
-						[11957] = 0,
-						[4686] = 0,
-						[8178] = 0,
-						[8168] = 0,
+						[5577] = 0,
 						[5565] = 0,
-						[8169] = 8,
+						[5576] = 0,
 						[5566] = 0,
+						[5575] = 0,
+						[7924] = 0,
+						[8168] = 0,
+						[2862] = 0,
+						[8169] = 8,
+						[11957] = 0,
 						[11958] = 0,
 						[11959] = 0,
 						[8171] = 0,
@@ -3257,602 +4813,33 @@ RarityDB = {
 						[2864] = 0,
 						[5567] = 0,
 						[5570] = 0,
-						[2865] = 0,
 						[5571] = 0,
-						[8567] = 0,
+						[2865] = 0,
+						[8170] = 0,
 						[5572] = 0,
 						[5569] = 0,
-						[8170] = 0,
+						[8567] = 0,
 						[7923] = 0,
 						[5574] = 0,
-						[7924] = 0,
-						[5575] = 0,
+						[8178] = 0,
+						[4686] = 0,
 						[8179] = 7,
-						[5576] = 0,
+						[4687] = 0,
 						[8180] = 0,
-						[5577] = 0,
+						[4688] = 2,
 						[8181] = 0,
-						[5560] = 0,
+						[4662] = 0,
 						[8182] = 0,
 						[2869] = 0,
 						[8183] = 0,
-						[4664] = 1,
+						[5975] = 1,
 						[8184] = 6,
-						[8153] = 0,
+						[6158] = 5,
 						[8185] = 0,
-						[11893] = 2,
-						[8186] = 0,
-						[5964] = 0,
-						[2883] = 17,
-					},
-					["server"] = "Bleeding Hollow",
-				},
-				["Player-11-0B60B86E"] = {
-					["playerName"] = "Happybirth",
-					["statistics"] = {
-						[5965] = 0,
-						[10978] = 0,
-						[10979] = 0,
-						[6157] = 0,
-						[6158] = 0,
-						[5968] = 0,
-						[5969] = 0,
-						[6797] = 0,
-						[5972] = 0,
-						[6798] = 0,
-						[5973] = 0,
-						[5974] = 0,
-						[6165] = 0,
-						[1097] = 0,
-						[6166] = 0,
-						[3258] = 0,
-						[6167] = 0,
-						[6168] = 0,
-						[4645] = 0,
-						[11894] = 0,
-						[11895] = 0,
-						[11896] = 0,
-						[10252] = 0,
-						[4653] = 0,
-						[8146] = 0,
-						[2883] = 0,
-						[8149] = 0,
-						[8150] = 0,
-						[8151] = 0,
-						[8152] = 0,
-						[4662] = 0,
-						[4663] = 0,
-						[4664] = 0,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 0,
-						[5560] = 0,
-						[9279] = 0,
-						[10931] = 0,
-						[8147] = 0,
-						[12118] = 0,
-						[10980] = 0,
-						[10929] = 0,
-						[5571] = 0,
-						[5565] = 0,
-						[6989] = 0,
-						[11957] = 0,
-						[11958] = 0,
-						[11959] = 0,
-						[13366] = 0,
-						[5568] = 0,
-						[2864] = 0,
-						[5569] = 0,
-						[4687] = 0,
-						[5570] = 0,
-						[2869] = 0,
-						[13364] = 0,
-						[13365] = 0,
-						[5572] = 0,
-						[5576] = 0,
-						[4686] = 0,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[13372] = 0,
-						[13373] = 0,
-						[13374] = 0,
-						[11893] = 0,
-						[4688] = 0,
-						[5577] = 0,
-						[5566] = 0,
-						[13379] = 0,
-						[12745] = 0,
-						[5575] = 0,
-						[5975] = 0,
-						[11986] = 0,
-						[5567] = 0,
-						[12763] = 0,
-						[10977] = 0,
-						[12752] = 0,
-						[5964] = 0,
-						[10930] = 0,
-					},
-					["server"] = "Tichondrius",
-				},
-				["Player-73-06F96386"] = {
-					["playerName"] = "Noliee",
-					["statistics"] = {
-						[5965] = 0,
-						[10978] = 0,
-						[10979] = 0,
-						[6157] = 8,
-						[6158] = 0,
-						[5968] = 0,
-						[5969] = 0,
-						[6797] = 5,
-						[5972] = 0,
-						[6798] = 0,
-						[5973] = 0,
-						[5974] = 0,
-						[6165] = 2,
-						[1097] = 0,
-						[6166] = 0,
-						[3258] = 0,
-						[6167] = 6,
-						[6168] = 0,
-						[4645] = 0,
-						[11894] = 0,
-						[11895] = 0,
-						[2879] = 0,
-						[10252] = 0,
-						[4653] = 0,
-						[8146] = 0,
-						[8147] = 0,
-						[8149] = 0,
-						[8150] = 0,
-						[8151] = 0,
-						[8152] = 0,
-						[4662] = 0,
-						[4663] = 0,
-						[4664] = 0,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 0,
-						[5560] = 0,
-						[10930] = 0,
-						[10931] = 0,
-						[5565] = 0,
-						[5566] = 0,
-						[11958] = 0,
-						[5567] = 0,
-						[5568] = 0,
-						[5569] = 0,
-						[5570] = 0,
-						[10977] = 0,
-						[2865] = 0,
-						[12118] = 0,
-						[5572] = 0,
-						[11959] = 0,
-						[11957] = 0,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[5575] = 0,
-						[2883] = 11,
-						[4687] = 0,
-						[4686] = 0,
-						[5577] = 0,
-						[11893] = 0,
-						[11896] = 0,
-						[5571] = 0,
-						[2869] = 2,
-						[10929] = 0,
-						[5975] = 0,
-						[4688] = 0,
-						[10980] = 0,
-						[5576] = 0,
-						[2864] = 0,
-						[9279] = 0,
-						[5964] = 0,
-						[6989] = 0,
-					},
-					["server"] = "Bleeding Hollow",
-				},
-				["Player-73-09FAE558"] = {
-					["playerName"] = "Diá",
-					["statistics"] = {
-						[5965] = 1,
-						[10978] = 0,
-						[10979] = 0,
-						[6157] = 1,
-						[6158] = 0,
-						[5968] = 0,
-						[5969] = 1,
-						[6797] = 5,
-						[5972] = 0,
-						[6798] = 0,
-						[5973] = 1,
-						[5974] = 0,
-						[6165] = 0,
-						[1097] = 0,
-						[6166] = 0,
-						[3258] = 0,
-						[6167] = 4,
-						[6168] = 0,
-						[4645] = 0,
-						[11894] = 0,
-						[11895] = 0,
-						[2879] = 0,
-						[10252] = 0,
-						[4653] = 0,
-						[8146] = 0,
-						[8147] = 0,
-						[8149] = 0,
-						[8150] = 0,
-						[8151] = 0,
-						[8152] = 0,
-						[4662] = 0,
-						[4663] = 0,
-						[4664] = 0,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 0,
-						[10929] = 0,
-						[10930] = 0,
-						[10931] = 0,
-						[5565] = 0,
-						[5566] = 0,
-						[11958] = 0,
-						[5567] = 0,
-						[5568] = 0,
-						[5569] = 0,
-						[5570] = 0,
-						[11957] = 0,
-						[2865] = 0,
-						[12118] = 0,
-						[5572] = 0,
-						[11959] = 0,
-						[6989] = 2,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[5575] = 0,
-						[2864] = 0,
-						[5576] = 0,
-						[5577] = 0,
-						[4688] = 0,
-						[11893] = 0,
-						[11896] = 0,
-						[5975] = 1,
-						[2869] = 2,
-						[2883] = 11,
-						[10980] = 0,
-						[4687] = 0,
-						[4686] = 0,
-						[9279] = 0,
-						[5560] = 0,
-						[5571] = 0,
-						[5964] = 0,
-						[10977] = 0,
-					},
-					["server"] = "Bleeding Hollow",
-				},
-				["Player-73-0A14AB5D"] = {
-					["playerName"] = "Inolie",
-					["statistics"] = {
-						[5965] = 0,
-						[10978] = 0,
-						[10979] = 0,
-						[6157] = 1,
-						[6158] = 0,
-						[5968] = 0,
-						[5969] = 0,
-						[6797] = 5,
-						[5972] = 0,
-						[6798] = 0,
-						[5973] = 0,
-						[5974] = 0,
-						[6165] = 0,
-						[1097] = 0,
-						[6166] = 0,
-						[3258] = 0,
-						[6167] = 4,
-						[6168] = 0,
-						[4645] = 0,
-						[11894] = 0,
-						[11895] = 0,
-						[2879] = 0,
-						[10252] = 0,
-						[4653] = 0,
-						[8146] = 0,
-						[8147] = 0,
-						[8149] = 0,
-						[8150] = 0,
-						[8151] = 0,
-						[8152] = 0,
-						[4662] = 0,
-						[4663] = 0,
-						[4664] = 0,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 0,
-						[5560] = 0,
-						[10930] = 0,
-						[10931] = 0,
-						[5565] = 0,
-						[5566] = 0,
-						[11958] = 0,
-						[5567] = 0,
-						[5568] = 0,
-						[2864] = 0,
-						[5570] = 0,
-						[11959] = 0,
-						[2865] = 0,
-						[12118] = 0,
-						[5572] = 0,
-						[11957] = 0,
-						[5569] = 0,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[5575] = 0,
-						[6989] = 0,
-						[5576] = 0,
-						[2883] = 11,
-						[5577] = 0,
-						[10929] = 0,
-						[11893] = 0,
-						[11896] = 0,
-						[2869] = 1,
-						[5975] = 0,
-						[4688] = 0,
-						[10980] = 0,
-						[4687] = 0,
-						[9279] = 0,
-						[4686] = 0,
-						[5571] = 0,
-						[5964] = 0,
-						[10977] = 0,
-					},
-					["server"] = "Bleeding Hollow",
-				},
-				["Player-73-0A98FC4A"] = {
-					["playerName"] = "Nolieper",
-					["statistics"] = {
-						[5965] = 0,
-						[10978] = 0,
-						[10979] = 0,
-						[6157] = 0,
-						[6158] = 0,
-						[5968] = 0,
-						[5969] = 0,
-						[6797] = 0,
-						[5972] = 0,
-						[6798] = 0,
-						[5973] = 0,
-						[5974] = 0,
-						[6165] = 0,
-						[1097] = 0,
-						[6166] = 0,
-						[3258] = 0,
-						[6167] = 0,
-						[6168] = 0,
-						[4645] = 0,
-						[11894] = 0,
-						[11895] = 0,
-						[2879] = 0,
-						[10252] = 0,
-						[4653] = 0,
-						[8146] = 0,
-						[8147] = 0,
-						[8149] = 0,
-						[8150] = 0,
-						[8151] = 0,
-						[8152] = 0,
-						[4662] = 0,
-						[4663] = 0,
-						[4664] = 0,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 1,
-						[5560] = 0,
-						[10930] = 1,
-						[10931] = 0,
-						[5565] = 0,
-						[5566] = 0,
-						[11958] = 0,
-						[5567] = 0,
-						[5568] = 0,
-						[2864] = 0,
-						[5570] = 0,
-						[6989] = 0,
-						[2865] = 0,
-						[5964] = 0,
-						[5572] = 0,
-						[10929] = 0,
-						[5569] = 0,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[5575] = 0,
-						[11893] = 0,
-						[5576] = 0,
-						[11896] = 0,
-						[5577] = 0,
-						[5975] = 0,
-						[2883] = 1,
-						[10980] = 0,
-						[2869] = 0,
-						[4687] = 0,
-						[9279] = 0,
-						[4686] = 0,
-						[4688] = 0,
-						[5571] = 0,
-						[11957] = 0,
-						[11959] = 0,
-						[12118] = 0,
-						[10977] = 0,
-					},
-					["server"] = "Bleeding Hollow",
-				},
-				["Player-73-08568160"] = {
-					["playerName"] = "Katdoge",
-					["statistics"] = {
-						[5965] = 14,
-						[10978] = 0,
-						[10979] = 0,
-						[6157] = 1,
-						[6158] = 0,
-						[5968] = 0,
-						[5969] = 14,
-						[6797] = 11,
-						[5972] = 0,
-						[6798] = 0,
-						[5973] = 14,
-						[5974] = 1,
-						[6165] = 0,
-						[1097] = 0,
-						[6166] = 0,
-						[3258] = 0,
-						[6167] = 5,
-						[6168] = 0,
-						[4645] = 0,
-						[11894] = 0,
-						[11895] = 0,
-						[2879] = 0,
-						[10252] = 0,
-						[4653] = 0,
-						[8146] = 0,
-						[8147] = 0,
-						[8149] = 0,
-						[8150] = 0,
-						[8151] = 0,
-						[8152] = 0,
-						[4662] = 0,
-						[4663] = 0,
-						[4664] = 0,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 0,
-						[5560] = 0,
-						[10930] = 0,
-						[10931] = 0,
-						[5565] = 0,
-						[5566] = 0,
-						[11958] = 0,
-						[5567] = 0,
-						[5568] = 0,
-						[2864] = 0,
-						[5570] = 0,
-						[5569] = 0,
-						[2865] = 0,
-						[5964] = 0,
-						[5572] = 0,
-						[10929] = 0,
-						[11893] = 0,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[5575] = 0,
-						[11896] = 0,
-						[5576] = 0,
-						[5975] = 14,
-						[5577] = 0,
-						[2883] = 13,
-						[10980] = 0,
-						[4687] = 0,
-						[2869] = 1,
-						[4688] = 0,
-						[9279] = 0,
-						[4686] = 0,
-						[6989] = 3,
-						[5571] = 0,
-						[11957] = 0,
-						[11959] = 0,
-						[12118] = 1,
-						[10977] = 0,
-					},
-					["server"] = "Bleeding Hollow",
-				},
-				["Player-73-09C7DA56"] = {
-					["playerName"] = "Pándan",
-					["statistics"] = {
-						[5965] = 1,
-						[10978] = 0,
-						[10979] = 0,
-						[10980] = 0,
-						[6158] = 20,
-						[5968] = 0,
-						[5969] = 1,
-						[6797] = 12,
-						[5972] = 0,
-						[6798] = 0,
-						[5973] = 1,
-						[5974] = 0,
-						[6165] = 2,
-						[1097] = 10,
-						[6166] = 3,
-						[3258] = 18,
-						[6167] = 7,
-						[6168] = 3,
-						[4645] = 1,
-						[11894] = 0,
-						[11895] = 0,
-						[11896] = 0,
-						[10252] = 0,
-						[4653] = 1,
-						[8146] = 2,
-						[8147] = 3,
-						[8149] = 1,
-						[8150] = 0,
-						[8151] = 1,
-						[8152] = 0,
-						[4662] = 0,
-						[4663] = 2,
-						[4664] = 21,
-						[5557] = 0,
-						[5558] = 0,
-						[5559] = 0,
-						[10928] = 0,
-						[5560] = 0,
-						[10930] = 0,
-						[10931] = 0,
-						[5565] = 0,
-						[5566] = 0,
-						[11958] = 0,
-						[5567] = 0,
-						[5568] = 0,
-						[2864] = 5,
-						[5570] = 0,
-						[10977] = 0,
-						[2865] = 5,
-						[12118] = 1,
-						[5572] = 0,
-						[11959] = 0,
-						[11957] = 0,
-						[7923] = 0,
-						[5574] = 0,
-						[7924] = 0,
-						[5575] = 9,
 						[6989] = 4,
-						[5576] = 7,
-						[4688] = 25,
-						[5577] = 2,
-						[4686] = 0,
-						[2879] = 18,
-						[6157] = 10,
-						[2869] = 3,
-						[4687] = 2,
-						[9279] = 0,
-						[5975] = 1,
-						[5571] = 0,
-						[11893] = 0,
-						[10929] = 0,
-						[2883] = 30,
-						[5964] = 0,
-						[5569] = 0,
+						[8186] = 0,
+						[12118] = 3,
+						[10977] = 0,
 					},
 					["server"] = "Bleeding Hollow",
 				},
@@ -3906,31 +4893,600 @@ RarityDB = {
 						[5568] = 0,
 						[2864] = 0,
 						[5570] = 0,
+						[10977] = 0,
+						[2865] = 0,
+						[12118] = 0,
+						[5572] = 0,
+						[11957] = 0,
+						[11959] = 0,
+						[7923] = 0,
+						[5574] = 0,
+						[7924] = 0,
+						[5575] = 0,
+						[6989] = 2,
+						[5576] = 0,
+						[4686] = 0,
+						[5577] = 0,
+						[9279] = 0,
+						[5560] = 0,
+						[4687] = 0,
+						[2869] = 2,
+						[10980] = 0,
+						[4688] = 1,
+						[5975] = 1,
+						[2883] = 12,
+						[5571] = 0,
+						[11896] = 0,
+						[11893] = 0,
+						[5964] = 0,
 						[5569] = 0,
+					},
+					["server"] = "Bleeding Hollow",
+				},
+				["Player-73-09C7DA56"] = {
+					["playerName"] = "Pándan",
+					["statistics"] = {
+						[5965] = 1,
+						[10978] = 0,
+						[10979] = 0,
+						[10980] = 0,
+						[6158] = 20,
+						[5968] = 0,
+						[5969] = 1,
+						[6797] = 12,
+						[5972] = 0,
+						[6798] = 0,
+						[5973] = 1,
+						[5974] = 0,
+						[6165] = 2,
+						[1097] = 10,
+						[6166] = 3,
+						[3258] = 18,
+						[6167] = 7,
+						[6168] = 3,
+						[4645] = 1,
+						[11894] = 0,
+						[11895] = 0,
+						[11896] = 0,
+						[10252] = 0,
+						[4653] = 1,
+						[8146] = 2,
+						[8147] = 3,
+						[8149] = 1,
+						[8150] = 0,
+						[8151] = 1,
+						[8152] = 0,
+						[4662] = 0,
+						[4663] = 2,
+						[4664] = 21,
+						[5557] = 0,
+						[5558] = 0,
+						[5559] = 0,
+						[10928] = 0,
+						[5560] = 0,
+						[10930] = 0,
+						[10931] = 0,
+						[5565] = 0,
+						[5566] = 0,
+						[11958] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[2864] = 5,
+						[5570] = 0,
+						[5569] = 0,
+						[2865] = 5,
+						[5964] = 0,
+						[5572] = 0,
+						[2883] = 30,
+						[10929] = 0,
+						[7923] = 0,
+						[5574] = 0,
+						[7924] = 0,
+						[5575] = 9,
+						[11893] = 0,
+						[5576] = 7,
+						[5571] = 0,
+						[4688] = 25,
+						[5975] = 1,
+						[9279] = 0,
+						[4687] = 2,
+						[2869] = 3,
+						[6157] = 10,
+						[2879] = 18,
+						[4686] = 0,
+						[5577] = 2,
+						[6989] = 4,
+						[11957] = 0,
+						[11959] = 0,
+						[12118] = 1,
+						[10977] = 0,
+					},
+					["server"] = "Bleeding Hollow",
+				},
+				["Player-73-09FAE558"] = {
+					["playerName"] = "Diá",
+					["statistics"] = {
+						[5965] = 1,
+						[10978] = 0,
+						[10979] = 0,
+						[6157] = 1,
+						[6158] = 0,
+						[5968] = 0,
+						[5969] = 1,
+						[6797] = 5,
+						[5972] = 0,
+						[6798] = 0,
+						[5973] = 1,
+						[5974] = 0,
+						[6165] = 0,
+						[1097] = 0,
+						[6166] = 0,
+						[3258] = 0,
+						[6167] = 4,
+						[6168] = 0,
+						[4645] = 0,
+						[11894] = 0,
+						[11895] = 0,
+						[2879] = 0,
+						[10252] = 0,
+						[4653] = 0,
+						[8146] = 0,
+						[8147] = 0,
+						[8149] = 0,
+						[8150] = 0,
+						[8151] = 0,
+						[8152] = 0,
+						[4662] = 0,
+						[4663] = 0,
+						[4664] = 0,
+						[5557] = 0,
+						[5558] = 0,
+						[5559] = 0,
+						[10928] = 0,
+						[10929] = 0,
+						[10930] = 0,
+						[10931] = 0,
+						[5565] = 0,
+						[5566] = 0,
+						[11958] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[5569] = 0,
+						[5570] = 0,
+						[10977] = 0,
 						[2865] = 0,
 						[5964] = 0,
 						[5572] = 0,
-						[11893] = 0,
+						[5571] = 0,
+						[5560] = 0,
+						[7923] = 0,
+						[5574] = 0,
+						[7924] = 0,
+						[5575] = 0,
+						[9279] = 0,
+						[5576] = 0,
+						[4686] = 0,
+						[5577] = 0,
+						[4687] = 0,
+						[10980] = 0,
+						[2883] = 11,
+						[2869] = 2,
+						[5975] = 1,
 						[11896] = 0,
+						[11893] = 0,
+						[4688] = 0,
+						[2864] = 0,
+						[6989] = 2,
+						[11959] = 0,
+						[12118] = 0,
+						[11957] = 0,
+					},
+					["server"] = "Bleeding Hollow",
+				},
+				["Player-73-08568160"] = {
+					["playerName"] = "Katdoge",
+					["statistics"] = {
+						[5965] = 14,
+						[10978] = 0,
+						[10979] = 0,
+						[6157] = 1,
+						[6158] = 0,
+						[5968] = 0,
+						[5969] = 14,
+						[6797] = 11,
+						[5972] = 0,
+						[6798] = 0,
+						[5973] = 14,
+						[5974] = 1,
+						[6165] = 0,
+						[1097] = 0,
+						[6166] = 0,
+						[3258] = 0,
+						[6167] = 5,
+						[6168] = 0,
+						[4645] = 0,
+						[11894] = 0,
+						[11895] = 0,
+						[2879] = 0,
+						[10252] = 0,
+						[4653] = 0,
+						[8146] = 0,
+						[8147] = 0,
+						[8149] = 0,
+						[8150] = 0,
+						[8151] = 0,
+						[8152] = 0,
+						[4662] = 0,
+						[4663] = 0,
+						[4664] = 0,
+						[5557] = 0,
+						[5558] = 0,
+						[5559] = 0,
+						[10928] = 0,
+						[5560] = 0,
+						[10930] = 0,
+						[10931] = 0,
+						[5565] = 0,
+						[5566] = 0,
+						[11958] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[2864] = 0,
+						[5570] = 0,
+						[10977] = 0,
+						[2865] = 0,
+						[12118] = 1,
+						[5572] = 0,
+						[11959] = 0,
+						[11957] = 0,
 						[7923] = 0,
 						[5574] = 0,
 						[7924] = 0,
 						[5575] = 0,
 						[5571] = 0,
 						[5576] = 0,
-						[2883] = 12,
+						[6989] = 3,
 						[5577] = 0,
-						[5975] = 1,
-						[4688] = 1,
-						[10980] = 0,
-						[2869] = 2,
+						[4686] = 0,
+						[9279] = 0,
+						[4688] = 0,
+						[2869] = 1,
 						[4687] = 0,
+						[10980] = 0,
+						[2883] = 13,
+						[5975] = 14,
+						[11896] = 0,
+						[11893] = 0,
+						[10929] = 0,
+						[5964] = 0,
+						[5569] = 0,
+					},
+					["server"] = "Bleeding Hollow",
+				},
+				["Player-73-0A14AB5D"] = {
+					["playerName"] = "Inolie",
+					["statistics"] = {
+						[5965] = 0,
+						[10978] = 0,
+						[10979] = 0,
+						[6157] = 1,
+						[6158] = 0,
+						[5968] = 0,
+						[5969] = 0,
+						[6797] = 5,
+						[5972] = 0,
+						[6798] = 0,
+						[5973] = 0,
+						[5974] = 0,
+						[6165] = 0,
+						[1097] = 0,
+						[6166] = 0,
+						[3258] = 0,
+						[6167] = 4,
+						[6168] = 0,
+						[4645] = 0,
+						[11894] = 0,
+						[11895] = 0,
+						[2879] = 0,
+						[10252] = 0,
+						[4653] = 0,
+						[8146] = 0,
+						[8147] = 0,
+						[8149] = 0,
+						[8150] = 0,
+						[8151] = 0,
+						[8152] = 0,
+						[4662] = 0,
+						[4663] = 0,
+						[4664] = 0,
+						[5557] = 0,
+						[5558] = 0,
+						[5559] = 0,
+						[10928] = 0,
+						[5560] = 0,
+						[10930] = 0,
+						[10931] = 0,
+						[5565] = 0,
+						[5566] = 0,
+						[11958] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[2864] = 0,
+						[5570] = 0,
+						[10977] = 0,
+						[2865] = 0,
+						[5964] = 0,
+						[5572] = 0,
+						[5571] = 0,
+						[4686] = 0,
+						[7923] = 0,
+						[5574] = 0,
+						[7924] = 0,
+						[5575] = 0,
+						[9279] = 0,
+						[5576] = 0,
+						[4687] = 0,
+						[5577] = 0,
+						[10980] = 0,
+						[4688] = 0,
+						[5975] = 0,
+						[2869] = 1,
+						[11896] = 0,
+						[11893] = 0,
+						[10929] = 0,
+						[2883] = 11,
+						[6989] = 0,
+						[5569] = 0,
+						[11957] = 0,
+						[12118] = 0,
+						[11959] = 0,
+					},
+					["server"] = "Bleeding Hollow",
+				},
+				["Player-11-0B60B86E"] = {
+					["playerName"] = "Happybirth",
+					["statistics"] = {
+						[5965] = 0,
+						[10978] = 0,
+						[10979] = 0,
+						[6157] = 0,
+						[6158] = 0,
+						[5968] = 0,
+						[5969] = 0,
+						[6797] = 0,
+						[5972] = 0,
+						[6798] = 0,
+						[5973] = 0,
+						[5974] = 0,
+						[6165] = 0,
+						[1097] = 0,
+						[6166] = 0,
+						[3258] = 0,
+						[6167] = 0,
+						[6168] = 0,
+						[4645] = 0,
+						[11894] = 0,
+						[11895] = 0,
+						[11896] = 0,
+						[10252] = 0,
+						[4653] = 0,
+						[8146] = 0,
+						[2883] = 0,
+						[8149] = 0,
+						[8150] = 0,
+						[8151] = 0,
+						[8152] = 0,
+						[4662] = 0,
+						[4663] = 0,
+						[4664] = 0,
+						[5557] = 0,
+						[5558] = 0,
+						[5559] = 0,
+						[10928] = 0,
 						[5560] = 0,
 						[9279] = 0,
+						[10931] = 0,
+						[10930] = 0,
+						[5964] = 0,
+						[10980] = 0,
+						[10977] = 0,
+						[12763] = 0,
+						[5565] = 0,
+						[5567] = 0,
+						[11957] = 0,
+						[11958] = 0,
+						[11959] = 0,
+						[13364] = 0,
+						[5568] = 0,
+						[5975] = 0,
+						[2864] = 0,
+						[5575] = 0,
+						[5570] = 0,
+						[12745] = 0,
+						[5571] = 0,
+						[13365] = 0,
+						[13366] = 0,
+						[13372] = 0,
+						[5566] = 0,
+						[7923] = 0,
+						[5574] = 0,
+						[7924] = 0,
 						[4686] = 0,
-						[6989] = 2,
+						[13373] = 0,
+						[4687] = 0,
+						[5577] = 0,
+						[4688] = 0,
+						[11893] = 0,
+						[13374] = 0,
+						[13379] = 0,
+						[2869] = 0,
+						[5576] = 0,
+						[5572] = 0,
+						[11986] = 0,
+						[5569] = 0,
+						[6989] = 0,
+						[10929] = 0,
+						[12752] = 0,
+						[12118] = 0,
+						[8147] = 0,
+					},
+					["server"] = "Tichondrius",
+				},
+				["Player-73-0A98FC4A"] = {
+					["playerName"] = "Nolieper",
+					["statistics"] = {
+						[5965] = 0,
+						[10978] = 0,
+						[10979] = 0,
+						[6157] = 0,
+						[6158] = 0,
+						[5968] = 0,
+						[5969] = 0,
+						[6797] = 0,
+						[5972] = 0,
+						[6798] = 0,
+						[5973] = 0,
+						[5974] = 0,
+						[6165] = 0,
+						[1097] = 0,
+						[6166] = 0,
+						[3258] = 0,
+						[6167] = 0,
+						[6168] = 0,
+						[4645] = 0,
+						[11894] = 0,
+						[11895] = 0,
+						[2879] = 0,
+						[10252] = 0,
+						[4653] = 0,
+						[8146] = 0,
+						[8147] = 0,
+						[8149] = 0,
+						[8150] = 0,
+						[8151] = 0,
+						[8152] = 0,
+						[4662] = 0,
+						[4663] = 0,
+						[4664] = 0,
+						[5557] = 0,
+						[5558] = 0,
+						[5559] = 0,
+						[10928] = 1,
+						[5560] = 0,
+						[10930] = 1,
+						[10931] = 0,
+						[5565] = 0,
+						[5566] = 0,
+						[11958] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[2864] = 0,
+						[5570] = 0,
+						[10977] = 0,
+						[2865] = 0,
+						[12118] = 0,
+						[5572] = 0,
 						[11959] = 0,
 						[11957] = 0,
+						[7923] = 0,
+						[5574] = 0,
+						[7924] = 0,
+						[5575] = 0,
+						[5571] = 0,
+						[5576] = 0,
+						[4688] = 0,
+						[5577] = 0,
+						[4686] = 0,
+						[9279] = 0,
+						[4687] = 0,
+						[2869] = 0,
+						[10980] = 0,
+						[2883] = 1,
+						[5975] = 0,
+						[11896] = 0,
+						[11893] = 0,
+						[5569] = 0,
+						[10929] = 0,
+						[5964] = 0,
+						[6989] = 0,
+					},
+					["server"] = "Bleeding Hollow",
+				},
+				["Player-73-06F96386"] = {
+					["playerName"] = "Noliee",
+					["statistics"] = {
+						[5965] = 0,
+						[10978] = 0,
+						[10979] = 0,
+						[6157] = 8,
+						[6158] = 0,
+						[5968] = 0,
+						[5969] = 0,
+						[6797] = 5,
+						[5972] = 0,
+						[6798] = 0,
+						[5973] = 0,
+						[5974] = 0,
+						[6165] = 2,
+						[1097] = 0,
+						[6166] = 0,
+						[3258] = 0,
+						[6167] = 6,
+						[6168] = 0,
+						[4645] = 0,
+						[11894] = 0,
+						[11895] = 0,
+						[2879] = 0,
+						[10252] = 0,
+						[4653] = 0,
+						[8146] = 0,
+						[8147] = 0,
+						[8149] = 0,
+						[8150] = 0,
+						[8151] = 0,
+						[8152] = 0,
+						[4662] = 0,
+						[4663] = 0,
+						[4664] = 0,
+						[5557] = 0,
+						[5558] = 0,
+						[5559] = 0,
+						[10928] = 0,
+						[5560] = 0,
+						[10930] = 0,
+						[10931] = 0,
+						[5565] = 0,
+						[5566] = 0,
+						[11958] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[5569] = 0,
+						[5570] = 0,
+						[6989] = 0,
+						[2865] = 0,
+						[5964] = 0,
+						[5572] = 0,
+						[9279] = 0,
+						[2864] = 0,
+						[7923] = 0,
+						[5574] = 0,
+						[7924] = 0,
+						[5575] = 0,
+						[5576] = 0,
+						[4687] = 0,
+						[10980] = 0,
+						[5577] = 0,
+						[4688] = 0,
+						[5975] = 0,
+						[10929] = 0,
+						[2869] = 2,
+						[5571] = 0,
+						[11896] = 0,
+						[11893] = 0,
+						[4686] = 0,
+						[2883] = 11,
+						[11957] = 0,
+						[11959] = 0,
 						[12118] = 0,
 						[10977] = 0,
 					},

@@ -1,30 +1,24 @@
 
 RaiderIO_Config = {
-	["disableScoreColors"] = false,
-	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = true,
 	["enableUnitTooltips"] = true,
+	["enableKeystoneTooltips"] = true,
 	["enableFriendsTooltips"] = true,
-	["showScoreInCombat"] = true,
+	["disableScoreColors"] = false,
+	["alwaysExtendTooltip"] = true,
+	["enableWhoTooltips"] = true,
 	["showDropDownCopyURL"] = true,
 	["showAverageScore"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Geekk-bleeding-hollow"
+RaiderIO_LastCharacter = "us-Dorkk-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Xehanort-anvilmar"] = true,
-	["us-Katara-undermine"] = true,
-	["us-Alionir-wyrmrest-accord"] = true,
-	["us-Skullrok-twisting-nether"] = true,
-	["us-Thiphaine-hyjal"] = true,
-	["us-Jakazarreo-bleeding-hollow"] = true,
-	["us-Yendor-warsong"] = true,
+	["us-Scoopslap-bleeding-hollow"] = true,
 }
 RaiderIO_MissingServers = {
 }

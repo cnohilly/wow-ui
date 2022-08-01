@@ -1,34 +1,5 @@
 
 ElvCharacterDB = {
-	["BodyGuard"] = {
-		["IsInValidZone"] = true,
-		["MaxHealth"] = 0,
-		["Health"] = 0,
-		["Active"] = false,
-	},
-	["ConvertKeybindings"] = true,
-	["ChatEditHistory"] = {
-		"lol", -- [1]
-		"making me excited to do it", -- [2]
-		"zonde has been leveling the last few days", -- [3]
-		"you can teach him how to be a mage", -- [4]
-		"and then we'll remake papercut", -- [5]
-		"/kb", -- [6]
-		"what happened to doing your open raid raid", -- [7]
-		"how come", -- [8]
-		"wow i forgot how much i hate quests where the npcs dont shut the fuck up", -- [9]
-		"uh", -- [10]
-		"doing legion to level to 50 on this toon", -- [11]
-		"get my weapon", -- [12]
-		"|cffe6cc80|Hitem:128820::::::::41:63::9::1:28:642:::|h[Felo'melorn]|h|r", -- [13]
-		"ilvl 20", -- [14]
-		"when i have |cffa335ee|Hitem:124630:5334:::::::41:63:::3:229:653:648::::|h[Baleful Spire of the Aurora]|h|r", -- [15]
-		"hm", -- [16]
-		"/played", -- [17]
-		"according to my addon, my total time played is 1040 days", -- [18]
-		"/salute", -- [19]
-		"/wave", -- [20]
-	},
 	["ChatHistoryLog"] = {
 		{
 			"died at 500k hp", -- [1]
@@ -2265,5 +2236,34 @@ ElvCharacterDB = {
 			[51] = 1610492831,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
+	},
+	["ConvertKeybindings"] = true,
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 0,
+		["MaxHealth"] = 0,
+		["IsInValidZone"] = true,
+	},
+	["ChatEditHistory"] = {
+		"lol", -- [1]
+		"making me excited to do it", -- [2]
+		"zonde has been leveling the last few days", -- [3]
+		"you can teach him how to be a mage", -- [4]
+		"and then we'll remake papercut", -- [5]
+		"/kb", -- [6]
+		"what happened to doing your open raid raid", -- [7]
+		"how come", -- [8]
+		"wow i forgot how much i hate quests where the npcs dont shut the fuck up", -- [9]
+		"uh", -- [10]
+		"doing legion to level to 50 on this toon", -- [11]
+		"get my weapon", -- [12]
+		"|cffe6cc80|Hitem:128820::::::::41:63::9::1:28:642:::|h[Felo'melorn]|h|r", -- [13]
+		"ilvl 20", -- [14]
+		"when i have |cffa335ee|Hitem:124630:5334:::::::41:63:::3:229:653:648::::|h[Baleful Spire of the Aurora]|h|r", -- [15]
+		"hm", -- [16]
+		"/played", -- [17]
+		"according to my addon, my total time played is 1040 days", -- [18]
+		"/salute", -- [19]
+		"/wave", -- [20]
 	},
 }

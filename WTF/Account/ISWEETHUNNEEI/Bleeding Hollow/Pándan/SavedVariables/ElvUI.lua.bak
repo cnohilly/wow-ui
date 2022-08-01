@@ -2,94 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			":)", -- [1]
-			"Kirasarune-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kirasarune-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			813, -- [11]
-			"Player-73-0DEEBF9A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Kirasarune|r",
-			[51] = 1643662236,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"they need to feed their families too... more jobs lost cause of trump", -- [1]
-			"Krisswar-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Krisswar-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			816, -- [11]
-			"Player-73-0E49B88C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cKrisswar|r",
-			[51] = 1643662252,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"WTS M +15 in Time, Come to get your weekly chest item 252 + all tradeable loot and Valor Points, We sell to Torghast Layers (1-12) with (1-5 diamonds) Come for complete your Tazavesh HM in less than 40 min! Group ready to go! we get gold in any realm.", -- [1]
-			"Paramedicios-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Paramedicios-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			820, -- [11]
-			"Player-73-0EA39BB6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cParamedicios|r",
-			[51] = 1643662290,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r 84k! :) Comes with Achievement!", -- [1]
-			"Imadeyoulol-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Imadeyoulol-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			821, -- [11]
-			"Player-73-0A7DA1BF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Imadeyoulol|r",
-			[51] = 1643662290,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
 			"WTS><< PHANTEON GUILD>>> M+0-27 M+15 ||PORTAL DEAL M+20 SPEC KEY TIMED K||+25 ||KSM DEAL 4X15 TIMED SPECIFIC KEY K||||<ONLY GOLD> <3", -- [1]
 			"Hdealbd-BleedingHollow", -- [2]
 			"", -- [3]
@@ -110,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHdealbd|r",
 			[51] = 1643662968,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [1]
 		{
 			"long enough timeline this game will be called world of cooperation craft", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -132,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643662995,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [2]
 		{
 			"FOR THE HORDE", -- [1]
 			"Doktorchill-BleedingHollow", -- [2]
@@ -154,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Doktorchill|r",
 			[51] = 1643663018,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [3]
 		{
 			"World of Weiners more likely", -- [1]
 			"Grandpasalt-BleedingHollow", -- [2]
@@ -176,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Grandpasalt|r",
 			[51] = 1643663023,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [4]
 		{
 			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r 84k! :) Comes with Achievement!", -- [1]
 			"Imadeyoulol-BleedingHollow", -- [2]
@@ -198,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Imadeyoulol|r",
 			[51] = 1643663035,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [5]
 		{
 			"i hope i live long enough to play world of weiners", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -220,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643663050,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [6]
 		{
 			"Pornhub will buy Mircosoft mark my words", -- [1]
 			"Grandpasalt-BleedingHollow", -- [2]
@@ -242,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Grandpasalt|r",
 			[51] = 1643663065,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [7]
 		{
 			"fang can you slowdown a little, trying to take notes and im falling behind", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -264,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643663265,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [8]
 		{
 			"Ahh a nice and quiet trade chat", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -286,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643663489,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [9]
 		{
 			"LF 3 Shamans for Untimed 15 x3 - 17.5K each key! PM io", -- [1]
 			"Rpmx-BleedingHollow", -- [2]
@@ -308,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rpmx|r",
 			[51] = 1643663492,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [10]
 		{
 			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r 84k! :) Comes with Achievement!", -- [1]
 			"Imadeyoulol-BleedingHollow", -- [2]
@@ -330,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Imadeyoulol|r",
 			[51] = 1643663507,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [11]
 		{
 			"Where is the booster spam!?", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -352,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643663685,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [12]
 		{
 			"Blizz says they've banned booster communities. ", -- [1]
 			"Gehd-BleedingHollow", -- [2]
@@ -374,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGehd|r",
 			[51] = 1643663727,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [13]
 		{
 			"Perfect <3", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -396,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643663740,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [14]
 		{
 			"I like the peace and quiet", -- [1]
 			"Deathkrudy-BleedingHollow", -- [2]
@@ -418,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Deathkrudy|r",
 			[51] = 1643663750,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [15]
 		{
 			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r 84k! :) Comes with Achievement!", -- [1]
 			"Imadeyoulol-BleedingHollow", -- [2]
@@ -440,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Imadeyoulol|r",
 			[51] = 1643663768,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [16]
 		{
 			"guilds and individuals can still boost", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -462,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643663828,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [17]
 		{
 			"they will just need time ot get organized", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -484,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643663836,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [18]
 		{
 			"really boosters only help the community -- they should have just made a seperate channel called \"boost\"", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -506,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643663879,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [19]
 		{
 			"so people could just go to that channel if they wanted to shop for services", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -528,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643663896,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [20]
 		{
 			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r 84k! :) Comes with Achievement!", -- [1]
 			"Imadeyoulol-BleedingHollow", -- [2]
@@ -550,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Imadeyoulol|r",
 			[51] = 1643663899,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [21]
 		{
 			"Ruins the game. ", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -572,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643663907,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [22]
 		{
 			"It doesn't help the community lol", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -594,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643663925,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [23]
 		{
 			"LF 3 Shamans for Untimed 15 x3 - 17.5K each key! PM io", -- [1]
 			"Rpmx-BleedingHollow", -- [2]
@@ -616,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rpmx|r",
 			[51] = 1643663930,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [24]
 		{
 			"no it doesn't if I want to play the game by farming and playing AH -- so other people can do stuff I don't want to do -- that is my perogative", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -638,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643663939,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [25]
 		{
 			"Baby Jesus crys every time a booster makes a sale", -- [1]
 			"Syrkus-BleedingHollow", -- [2]
@@ -660,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSyrkus|r",
 			[51] = 1643663944,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [26]
 		{
 			"how?", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -682,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643663958,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [27]
 		{
 			"advertisers can still advertise, boosters can still boost all without giving a % to a discord.", -- [1]
 			"Phazen-BleedingHollow", -- [2]
@@ -704,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePhazen|r",
 			[51] = 1643663962,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [28]
 		{
 			"You have imaginary achievements. ", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -726,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643663982,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [29]
 		{
 			"more gold farmers to sell more gold, lowers the prices of everything else on the AH to make the avg player not make shit for gold", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -748,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643663998,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [30]
 		{
 			"the 600,000 gold I spent farming anchorweed for 2 weeks to buy it is not imaginary", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -770,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664005,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [31]
 		{
 			"cant wait to raid with the alliance", -- [1]
 			"Balorr-BleedingHollow", -- [2]
@@ -792,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Balorr|r",
 			[51] = 1643664007,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [32]
 		{
 			"Were talking boosting not farming. ", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -814,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664017,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [33]
 		{
 			"yeah but i farm to pay for a boost", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -836,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664027,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [34]
 		{
 			"Cringe", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -858,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664032,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [35]
 		{
 			"Lmao", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -880,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664034,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [36]
 		{
 			"because i don't have time to do that stuff", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -902,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664034,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [37]
 		{
 			"If you have time to farm 600k worth of herbs you have time to do whatever youre boosted in", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -924,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664049,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [38]
 		{
 			"But you have the time to farm?", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -946,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664053,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [39]
 		{
 			"but i don't want to", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -968,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664059,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [40]
 		{
 			"That sucks. ", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -990,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664065,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [41]
 		{
 			"Too bad :D", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -1012,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664066,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [42]
 		{
 			"boosting was great  for brand new alts to get some gear...Ill miss it", -- [1]
 			"Melgryn-BleedingHollow", -- [2]
@@ -1034,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMelgryn|r",
 			[51] = 1643664075,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [43]
 		{
 			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r 84k! :) Comes with Achievement!", -- [1]
 			"Imadeyoulol-BleedingHollow", -- [2]
@@ -1056,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Imadeyoulol|r",
 			[51] = 1643664077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [44]
 		{
 			"GITGUD as the kids would say", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -1078,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664083,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [45]
 		{
 			"boosting is not banned --- just the cross server communities", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -1100,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664087,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [46]
 		{
 			"i can sell a boost right now", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -1122,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664091,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [47]
 		{
 			"boosting is still a thing. just not cross realms", -- [1]
 			"Torhano-BleedingHollow", -- [2]
@@ -1144,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Torhano|r",
 			[51] = 1643664092,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [48]
 		{
 			"nobody will take a 200 ilvl anywhere...not even  guildies", -- [1]
 			"Melgryn-BleedingHollow", -- [2]
@@ -1166,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMelgryn|r",
 			[51] = 1643664097,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [49]
 		{
 			"1 step in the right direction ", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -1188,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664101,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [50]
 		{
 			"so now instead of trade being spammed by boosters all day -- we'll have people arguing poltics and talking about their personal lives and feelings ...", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -1210,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664135,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [51]
 		{
 			"great ...", -- [1]
 			"Hacion-BleedingHollow", -- [2]
@@ -1232,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Hacion|r",
 			[51] = 1643664139,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [52]
 		{
 			"Perfect, the way it was meant to be", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -1254,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664145,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [53]
 		{
 			"make wow great again", -- [1]
 			"Moronomonos-BleedingHollow", -- [2]
@@ -1276,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Moronomonos|r",
 			[51] = 1643664149,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [54]
 		{
 			"Yessir", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -1298,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664151,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [55]
 		{
 			"smell my finger", -- [1]
 			"Artstar-BleedingHollow", -- [2]
@@ -1320,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edArtstar|r",
 			[51] = 1643664165,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [56]
 		{
 			"eewwww", -- [1]
 			"Raneilina-BleedingHollow", -- [2]
@@ -1342,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Raneilina|r",
 			[51] = 1643664172,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [57]
 		{
 			"i love a good game of smell my finger", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -1364,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643664199,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [58]
 		{
 			"can anyone buy my |cffffffff|Hitem:171413::::::::60:71::68:2:7451:1559:1:28:2142::::Player-73-0AF861F1:|h[Shadowghast Sabatons]|h|r for 50k? i bought for 60k but its the wrong one i messed up", -- [1]
 			"Jimmyguapo-BleedingHollow", -- [2]
@@ -1386,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJimmyguapo|r",
 			[51] = 1643664202,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [59]
 		{
 			"im undefeated", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -1408,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643664208,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [60]
 		{
 			"this is the most active ive seen trade in prob 3 years", -- [1]
 			"Avn-BleedingHollow", -- [2]
@@ -1430,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaAvn|r",
 			[51] = 1643664223,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [61]
 		{
 			"Its amazing", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -1452,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664232,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [62]
 		{
 			"Thank god all the boosting advertisers are gone", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -1474,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664234,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [63]
 		{
 			"This is a good start to get WoW back on track", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -1496,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664248,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [64]
 		{
 			"<Moisty Boyz> WTS Mythic SoD Tuesday @ 8:30pm EST. Funnels available. PST", -- [1]
 			"Phazen-BleedingHollow", -- [2]
@@ -1518,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePhazen|r",
 			[51] = 1643664249,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [65]
 		{
 			"your mom is a good start to get wow on track", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -1540,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643664264,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [66]
 		{
 			"trump 2024", -- [1]
 			"Ludian-BleedingHollow", -- [2]
@@ -1562,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLudian|r",
 			[51] = 1643664286,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [67]
 		{
 			"She is, shes a very nice lady with great ideas and responds well with community feedback", -- [1]
 			"Deathkrudy-BleedingHollow", -- [2]
@@ -1584,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Deathkrudy|r",
 			[51] = 1643664287,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [68]
 		{
 			"microsoft gunna get shit done", -- [1]
 			"Moronomonos-BleedingHollow", -- [2]
@@ -1606,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Moronomonos|r",
 			[51] = 1643664309,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [69]
 		{
 			"if we dont have bill gates as some sort of holiday boss they fail", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -1628,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643664356,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [70]
 		{
 			"Lets be real, they bought cod... not WoW", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -1650,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664357,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [71]
 		{
 			"Now if we could only stop idiots undercutting and ruining markets.", -- [1]
 			"Kaêyo-BleedingHollow", -- [2]
@@ -1672,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKaêyo|r",
 			[51] = 1643664390,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [72]
 		{
 			"i undercut and ruin markets", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -1694,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643664408,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [73]
 		{
 			"^ With 600k worth of a single herb", -- [1]
 			"Chayzxy-BleedingHollow", -- [2]
@@ -1716,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chayzxy|r",
 			[51] = 1643664411,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [74]
 		{
 			"Theres undercutting, and setting unrealistic prices.", -- [1]
 			"Phazen-BleedingHollow", -- [2]
@@ -1738,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePhazen|r",
 			[51] = 1643664419,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [75]
 		{
 			"so go out n farm it yourself", -- [1]
 			"Bootyplugs-BleedingHollow", -- [2]
@@ -1760,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Bootyplugs|r",
 			[51] = 1643664433,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [76]
 		{
 			"alls i see are a buncha lazy larrys", -- [1]
 			"Bootyplugs-BleedingHollow", -- [2]
@@ -1782,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Bootyplugs|r",
 			[51] = 1643664446,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [77]
 		{
 			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r 84k! :) Comes with Achievement!", -- [1]
 			"Imadeyoulol-BleedingHollow", -- [2]
@@ -1804,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Imadeyoulol|r",
 			[51] = 1643664450,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [78]
 		{
 			"damn i miss the boosters", -- [1]
 			"Sackjab-BleedingHollow", -- [2]
@@ -1826,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sackjab|r",
 			[51] = 1643664455,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [79]
 		{
 			"LF 1 Shamans for Untimed 15 x3 - 17.5K each key! PM io", -- [1]
 			"Rpmx-BleedingHollow", -- [2]
@@ -1848,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rpmx|r",
 			[51] = 1643664462,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [80]
 		{
 			"<Moisty Boyz> WTS Mythic SoD Tuesday @ 8:30pm EST. Funnels available. PST", -- [1]
 			"Phazen-BleedingHollow", -- [2]
@@ -1870,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePhazen|r",
 			[51] = 1643664462,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [81]
 		{
 			"haha ", -- [1]
 			"Kaêyo-BleedingHollow", -- [2]
@@ -1892,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKaêyo|r",
 			[51] = 1643664464,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [82]
 		{
 			"WTS><< PHANTEON GUILD>>> M+0-27 M+15 ||PORTAL DEAL M+20 SPEC KEY TIMED K||+25 ||KSM DEAL 4X15 TIMED SPECIFIC KEY K||||<ONLY GOLD> <3", -- [1]
 			"Hdealbd-BleedingHollow", -- [2]
@@ -1914,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHdealbd|r",
 			[51] = 1643664489,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [83]
 		{
 			"WTS KSM/Torghast/Raid/PVP/World Mounts! Book your SoD raid spot today! GOLD ONLY! Support local business!", -- [1]
 			"Rpmx-BleedingHollow", -- [2]
@@ -1936,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rpmx|r",
 			[51] = 1643664503,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [84]
 		{
 			"ladies and gents", -- [1]
 			"Sackjab-BleedingHollow", -- [2]
@@ -1958,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sackjab|r",
 			[51] = 1643664504,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [85]
 		{
 			"we got em", -- [1]
 			"Sackjab-BleedingHollow", -- [2]
@@ -1980,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sackjab|r",
 			[51] = 1643664506,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [86]
 		{
 			"crabs?", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -2002,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643664516,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [87]
 		{
 			"worse", -- [1]
 			"Norphyn-BleedingHollow", -- [2]
@@ -2024,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNorphyn|r",
 			[51] = 1643664522,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [88]
 		{
 			"da derps", -- [1]
 			"Norphyn-BleedingHollow", -- [2]
@@ -2046,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNorphyn|r",
 			[51] = 1643664527,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [89]
 		{
 			"the queen? that bish has crabs", -- [1]
 			"Sackjab-BleedingHollow", -- [2]
@@ -2068,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sackjab|r",
 			[51] = 1643664533,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [90]
 		{
 			"I would know, THEYS WAS MINES", -- [1]
 			"Sackjab-BleedingHollow", -- [2]
@@ -2090,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sackjab|r",
 			[51] = 1643664543,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [91]
 		{
 			"that corndog is always instigating", -- [1]
 			"Norphyn-BleedingHollow", -- [2]
@@ -2112,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNorphyn|r",
 			[51] = 1643664553,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [92]
 		{
 			"i love corndogs", -- [1]
 			"Footodor-BleedingHollow", -- [2]
@@ -2134,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Footodor|r",
 			[51] = 1643664591,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [93]
 		{
 			"p /p ", -- [1]
 			"Avn-BleedingHollow", -- [2]
@@ -2156,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaAvn|r",
 			[51] = 1643664637,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [94]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15259:Player-73-0EB19D23:1:4:23:22:4294967295:4294967295:4294967295:4294967295|h[Secrets of the First Ones]|h|r!", -- [1]
 			"Xiuyi-BleedingHollow", -- [2]
@@ -2178,6 +2090,94 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeXiuyi|r",
 			[51] = 1650756409,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [95]
+		{
+			"<Resonate 11/11M> Offering SoFO Clears TONIGHT at 9pm EST. Only 1 11/11H spot and 1 AOTC spot left!         -Gold Only-        DM me for prices and info.  ", -- [1]
+			"Dumpp-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dumpp-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-73-0EBD4CB5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Dumpp|r",
+			[51] = 1656533988,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			" <Fierce> 11/11M Selling Heroic Sepulcher of the First Ones THURSDAY @ 9:00 PM EST. Offering full runs, funnels and aotc. -GOLD ONLY- PM me for pricing/details. |cffffff00|Hachievement:15475:Guild-73-00000560BF74:1:4:26:22:4294967295:4294967295:4294967295:4294967295|h[Hall of Fame: The Jailer (Horde)]|h|r", -- [1]
+			"Revoltage-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Revoltage-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			65, -- [11]
+			"Player-73-0C94A84A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcRevoltage|r",
+			[51] = 1656533993,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"marketable owns", -- [1]
+			"Grommonk-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Grommonk-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-73-0E88A061", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Grommonk|r",
+			[51] = 1656533951,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"WTS 15-20 keys, KSM and KSH bundles. Specific keys/partial armor stack available. Boosted by Tormented Heroes and 3,6k IO season 3 players. PST for more info. GOLD ONLY.", -- [1]
+			"Sámmý-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sámmý-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-73-0CD88BC7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edSámmý|r",
+			[51] = 1656533955,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {

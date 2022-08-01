@@ -2,338 +2,341 @@
 DataStore_TalentsDB = {
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
 		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Bleeding Hollow.Katdoge"] = {
-				["EquippedArtifact"] = "Scythe of Elune",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1532496413,
 				["Specializations"] = {
 					12292, -- [1]
 					10971, -- [2]
 					7167, -- [3]
 					13789, -- [4]
 				},
-				["lastUpdate"] = 1532496413,
-				["Class"] = "DRUID",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "DRUID",
 				["Artifacts"] = {
 					["Claws of Ursoc"] = {
-						["tier"] = 2,
-						["rank"] = 69,
 						["pointsRemaining"] = 40592598570,
+						["rank"] = 69,
+						["tier"] = 2,
 					},
 					["Scythe of Elune"] = {
-						["pointsRemaining"] = 16092785219,
-						["rank"] = 148,
 						["tier"] = 2,
+						["rank"] = 148,
+						["pointsRemaining"] = 16092785219,
 					},
 					["Fangs of Ashamane"] = {
-						["pointsRemaining"] = 100,
 						["tier"] = 1,
+						["pointsRemaining"] = 100,
 					},
 					["G'Hanir, the Mother Tree"] = {
-						["tier"] = 1,
 						["pointsRemaining"] = 100,
+						["tier"] = 1,
 					},
 				},
+				["EquippedArtifact"] = "Scythe of Elune",
 			},
 			["Default.Bleeding Hollow.Inolie"] = {
-				["EquippedArtifact"] = "Blades of the Fallen Prince",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1532233256,
 				["Specializations"] = {
 					14742, -- [1]
 					15850, -- [2]
 				},
-				["lastUpdate"] = 1532233256,
-				["Class"] = "DEATHKNIGHT",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "DEATHKNIGHT",
 				["Artifacts"] = {
-					["Maw of the Damned"] = {
-						["tier"] = 2,
-						["rank"] = 136,
-						["pointsRemaining"] = 88680299270,
-					},
 					["Blades of the Fallen Prince"] = {
-						["tier"] = 2,
-						["rank"] = 148,
 						["pointsRemaining"] = 58209286750,
+						["rank"] = 148,
+						["tier"] = 2,
+					},
+					["Maw of the Damned"] = {
+						["pointsRemaining"] = 88680299270,
+						["rank"] = 136,
+						["tier"] = 2,
 					},
 				},
+				["EquippedArtifact"] = "Blades of the Fallen Prince",
 			},
 			["Default.Bleeding Hollow.Holynoly"] = {
-				["EquippedArtifact"] = "Xal'atath, Blade of the Black Empire",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1531733086,
 				["Specializations"] = {
 					10196, -- [1]
 					5477, -- [2]
 					7769, -- [3]
 				},
-				["lastUpdate"] = 1531733086,
-				["Class"] = "PRIEST",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "PRIEST",
 				["Artifacts"] = {
 					["T'uure, Beacon of the Naaru"] = {
-						["tier"] = 2,
-						["rank"] = 126,
 						["pointsRemaining"] = 7346825520,
-					},
-					["Xal'atath, Blade of the Black Empire"] = {
+						["rank"] = 126,
 						["tier"] = 2,
-						["rank"] = 150,
-						["pointsRemaining"] = 28858858900,
 					},
 					["Light's Wrath"] = {
-						["pointsRemaining"] = 901747206450,
+						["tier"] = 2,
 						["rank"] = 126,
+						["pointsRemaining"] = 901747206450,
+					},
+					["Xal'atath, Blade of the Black Empire"] = {
+						["pointsRemaining"] = 28858858900,
+						["rank"] = 150,
 						["tier"] = 2,
 					},
 				},
+				["EquippedArtifact"] = "Xal'atath, Blade of the Black Empire",
 			},
 			["Default.Bleeding Hollow.Stryfë"] = {
-				["EquippedArtifact"] = "Titanstrike",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1531732456,
 				["Specializations"] = {
 					11607, -- [1]
 					15829, -- [2]
 					8043, -- [3]
 				},
-				["lastUpdate"] = 1531732456,
-				["Class"] = "HUNTER",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "HUNTER",
 				["Artifacts"] = {
 					["Talonclaw, Spear of the Wild Gods"] = {
-						["tier"] = 2,
-						["rank"] = 60,
 						["pointsRemaining"] = 315638309720,
+						["rank"] = 60,
+						["tier"] = 2,
 					},
 					["Titanstrike"] = {
-						["tier"] = 2,
-						["rank"] = 150,
 						["pointsRemaining"] = 11416507609,
+						["rank"] = 150,
+						["tier"] = 2,
 					},
 					["Thas'dorah, Legacy of the Windrunners"] = {
-						["tier"] = 2,
-						["rank"] = 75,
 						["pointsRemaining"] = 32760776130,
+						["rank"] = 75,
+						["tier"] = 2,
 					},
 				},
+				["EquippedArtifact"] = "Titanstrike",
 			},
 			["Default.Bleeding Hollow.Trublmakr"] = {
-				["EquippedArtifact"] = "Felo'melorn",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1531732698,
 				["Specializations"] = {
 					[2] = 5494,
 					[3] = 10533,
 				},
-				["lastUpdate"] = 1531732698,
-				["Class"] = "MAGE",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "MAGE",
 				["Artifacts"] = {
 					["Felo'melorn"] = {
-						["tier"] = 2,
-						["rank"] = 150,
 						["pointsRemaining"] = 72912361517,
+						["rank"] = 150,
+						["tier"] = 2,
 					},
 					["Ebonchill, Greatstaff of Alodi"] = {
-						["tier"] = 2,
-						["rank"] = 64,
 						["pointsRemaining"] = 820424558120,
+						["rank"] = 64,
+						["tier"] = 2,
 					},
 				},
+				["EquippedArtifact"] = "Felo'melorn",
 			},
 			["Default.Bleeding Hollow.Emoclëw"] = {
-				["EquippedArtifact"] = "The Fist of Ra-den",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1531802356,
 				["Specializations"] = {
 					16279, -- [1]
 					[3] = 15319,
 				},
-				["lastUpdate"] = 1531802356,
-				["Class"] = "SHAMAN",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "SHAMAN",
 				["Artifacts"] = {
 					["The Fist of Ra-den"] = {
-						["tier"] = 2,
-						["rank"] = 151,
 						["pointsRemaining"] = 8048547950,
+						["rank"] = 151,
+						["tier"] = 2,
 					},
 					["Sharas'dal, Scepter of Tides"] = {
-						["pointsRemaining"] = 142701263770,
-						["rank"] = 64,
 						["tier"] = 2,
+						["rank"] = 64,
+						["pointsRemaining"] = 142701263770,
 					},
 				},
+				["EquippedArtifact"] = "The Fist of Ra-den",
 			},
 			["Default.Bleeding Hollow.Diá"] = {
-				["EquippedArtifact"] = "Fangs of the Devourer",
+				["lastUpdate"] = 1531629324,
+				["Class"] = "ROGUE",
+				["ArtifactKnowledge"] = 55,
 				["Artifacts"] = {
 					["Fangs of the Devourer"] = {
-						["pointsRemaining"] = 407809865880,
-						["rank"] = 148,
 						["tier"] = 2,
+						["rank"] = 148,
+						["pointsRemaining"] = 407809865880,
 					},
 				},
-				["Class"] = "ROGUE",
-				["lastUpdate"] = 1531629324,
 				["Specializations"] = {
 					7927, -- [1]
 					[3] = 13973,
 				},
-				["ArtifactKnowledge"] = 55,
 				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["EquippedArtifact"] = "Fangs of the Devourer",
 			},
 			["Default.Bleeding Hollow.Nolieper"] = {
-				["EquippedArtifact"] = "Twinblades of the Deceiver",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1531732793,
 				["Specializations"] = {
 					15871, -- [1]
 					8109, -- [2]
 				},
-				["lastUpdate"] = 1531732793,
-				["Class"] = "DEMONHUNTER",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "DEMONHUNTER",
 				["Artifacts"] = {
 					["Twinblades of the Deceiver"] = {
-						["tier"] = 2,
-						["rank"] = 150,
 						["pointsRemaining"] = 69108369838,
+						["rank"] = 150,
+						["tier"] = 2,
 					},
 					["The Aldrachi Warblades"] = {
-						["pointsRemaining"] = 799039172220,
-						["rank"] = 127,
 						["tier"] = 2,
+						["rank"] = 127,
+						["pointsRemaining"] = 799039172220,
 					},
 				},
+				["EquippedArtifact"] = "Twinblades of the Deceiver",
 			},
 			["Default.Wyrmrest Accord.Dorkks"] = {
-				["lastUpdate"] = 1551759120,
-				["Specializations"] = {
-					5869, -- [1]
-				},
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1657840691,
 				["Class"] = "HUNTER",
-			},
-			["Default.Bleeding Hollow.Emogin"] = {
-				["EquippedArtifact"] = "Scepter of Sargeras",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Beast Mastery",
 				["Specializations"] = {
-					16023, -- [1]
-					[3] = 0,
+					0, -- [1]
 				},
-				["lastUpdate"] = 1531884305,
-				["Class"] = "WARLOCK",
+			},
+			["Default.Bleeding Hollow.Noliee"] = {
+				["lastUpdate"] = 1532532993,
+				["Class"] = "WARRIOR",
 				["ArtifactKnowledge"] = 55,
 				["Artifacts"] = {
-					["Scepter of Sargeras"] = {
+					["Scale of the Earth-Warder"] = {
+						["tier"] = 2,
+						["rank"] = 66,
+						["pointsRemaining"] = 38971253370,
+					},
+					["Warswords of the Valarjar"] = {
 						["tier"] = 2,
 						["rank"] = 150,
-						["pointsRemaining"] = 76598921065,
-					},
-					["Ulthalesh, the Deadwind Harvester"] = {
-						["tier"] = 2,
-						["rank"] = 60,
-						["pointsRemaining"] = 845564817575,
-					},
-					["Skull of the Man'ari"] = {
-						["tier"] = 2,
-						["rank"] = 26,
-						["pointsRemaining"] = 1209025,
+						["pointsRemaining"] = 516421885375,
 					},
 				},
+				["Specializations"] = {
+					[2] = 0,
+					[3] = 7517,
+				},
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["EquippedArtifact"] = "Warswords of the Valarjar",
 			},
 			["Default.Bleeding Hollow.Blù"] = {
-				["EquippedArtifact"] = "Fists of the Heavens",
-				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["lastUpdate"] = 1531732876,
 				["Specializations"] = {
 					9719, -- [1]
 					12245, -- [2]
 					15831, -- [3]
 				},
-				["lastUpdate"] = 1531732876,
-				["Class"] = "MONK",
 				["ArtifactKnowledge"] = 55,
+				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["Class"] = "MONK",
 				["Artifacts"] = {
 					["Sheilun, Staff of the Mists"] = {
-						["rank"] = 53,
-						["tier"] = 2,
 						["pointsRemaining"] = 308236350,
+						["tier"] = 2,
+						["rank"] = 53,
 					},
 					["Fu Zan, the Wanderer's Companion"] = {
-						["pointsRemaining"] = 16409754220,
-						["tier"] = 2,
 						["rank"] = 67,
+						["tier"] = 2,
+						["pointsRemaining"] = 16409754220,
 					},
 					["Fists of the Heavens"] = {
+						["tier"] = 2,
+						["rank"] = 150,
 						["pointsRemaining"] = 47080890635,
-						["rank"] = 150,
-						["tier"] = 2,
 					},
 				},
+				["EquippedArtifact"] = "Fists of the Heavens",
 			},
-			["Default.Bleeding Hollow.Noliee"] = {
-				["EquippedArtifact"] = "Warswords of the Valarjar",
-				["Artifacts"] = {
-					["Scale of the Earth-Warder"] = {
-						["pointsRemaining"] = 38971253370,
-						["rank"] = 66,
-						["tier"] = 2,
-					},
-					["Warswords of the Valarjar"] = {
-						["pointsRemaining"] = 516421885375,
-						["rank"] = 150,
-						["tier"] = 2,
-					},
-				},
-				["Class"] = "WARRIOR",
-				["lastUpdate"] = 1532532993,
+			["Default.Bleeding Hollow.Emogin"] = {
+				["lastUpdate"] = 1531884305,
 				["Specializations"] = {
-					[2] = 0,
-					[3] = 7517,
+					16023, -- [1]
+					[3] = 0,
 				},
 				["ArtifactKnowledge"] = 55,
 				["ArtifactKnowledgeMultiplier"] = 6300001,
-			},
-			["Default.Bleeding Hollow.Pándan"] = {
-				["EquippedArtifact"] = "Truthguard",
+				["Class"] = "WARLOCK",
 				["Artifacts"] = {
-					["Truthguard"] = {
-						["pointsRemaining"] = 180763285470,
+					["Scepter of Sargeras"] = {
+						["pointsRemaining"] = 76598921065,
 						["rank"] = 150,
 						["tier"] = 2,
 					},
-					["The Silver Hand"] = {
+					["Ulthalesh, the Deadwind Harvester"] = {
+						["pointsRemaining"] = 845564817575,
+						["rank"] = 60,
 						["tier"] = 2,
-						["rank"] = 126,
-						["pointsRemaining"] = 57991509150,
 					},
-					["Ashbringer"] = {
-						["rank"] = 150,
+					["Skull of the Man'ari"] = {
+						["pointsRemaining"] = 1209025,
+						["rank"] = 26,
 						["tier"] = 2,
-						["pointsRemaining"] = 8619386460,
 					},
 				},
-				["Class"] = "PALADIN",
+				["EquippedArtifact"] = "Scepter of Sargeras",
+			},
+			["Default.Bleeding Hollow.Pándan"] = {
 				["lastUpdate"] = 1531725643,
+				["Class"] = "PALADIN",
+				["ArtifactKnowledge"] = 55,
+				["Artifacts"] = {
+					["Truthguard"] = {
+						["tier"] = 2,
+						["rank"] = 150,
+						["pointsRemaining"] = 180763285470,
+					},
+					["The Silver Hand"] = {
+						["pointsRemaining"] = 57991509150,
+						["rank"] = 126,
+						["tier"] = 2,
+					},
+					["Ashbringer"] = {
+						["pointsRemaining"] = 8619386460,
+						["tier"] = 2,
+						["rank"] = 150,
+					},
+				},
 				["Specializations"] = {
 					11253, -- [1]
 					6486, -- [2]
 					10237, -- [3]
 				},
-				["ArtifactKnowledge"] = 55,
 				["ArtifactKnowledgeMultiplier"] = 6300001,
+				["EquippedArtifact"] = "Truthguard",
 			},
 		},
 	},
@@ -341,19 +344,19 @@ DataStore_TalentsDB = {
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
 		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 	},
 	["global"] = {
 		["HUNTER"] = {
@@ -380,9 +383,6 @@ DataStore_TalentsRefDB = {
 						19357, -- [16]
 						22002, -- [17]
 						23044, -- [18]
-						22273, -- [19]
-						21986, -- [20]
-						22295, -- [21]
 					},
 				}, -- [1]
 				{
@@ -438,7 +438,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 29600,
+			["Version"] = 44325,
 		},
 		["WARRIOR"] = {
 			["Locale"] = "enUS",
@@ -698,63 +698,63 @@ DataStore_TalentsRefDB = {
 			},
 			["Version"] = 26972,
 		},
-		["DEATHKNIGHT"] = {
+		["ROGUE"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 250,
+					["id"] = 259,
 					["talents"] = {
-						19165, -- [1]
-						19166, -- [2]
-						19217, -- [3]
-						19218, -- [4]
-						19219, -- [5]
-						19220, -- [6]
-						19221, -- [7]
-						22134, -- [8]
-						22135, -- [9]
-						22013, -- [10]
-						22014, -- [11]
-						22015, -- [12]
-						19227, -- [13]
-						19226, -- [14]
-						19228, -- [15]
-						19230, -- [16]
-						19231, -- [17]
-						19232, -- [18]
-						21207, -- [19]
-						21208, -- [20]
-						21209, -- [21]
+						22337, -- [1]
+						22338, -- [2]
+						22339, -- [3]
+						22331, -- [4]
+						22332, -- [5]
+						22333, -- [6]
+						19239, -- [7]
+						19240, -- [8]
+						19241, -- [9]
+						22340, -- [10]
+						22122, -- [11]
+						22123, -- [12]
+						22341, -- [13]
+						22114, -- [14]
+						22115, -- [15]
+						22343, -- [16]
+						19249, -- [17]
+						22344, -- [18]
+						21186, -- [19]
+						22133, -- [20]
+						21188, -- [21]
 					},
 				}, -- [1]
-				{
-					["id"] = 251,
+				[3] = {
+					["id"] = 261,
 					["talents"] = {
-						22016, -- [1]
-						22017, -- [2]
-						22018, -- [3]
-						22019, -- [4]
-						22020, -- [5]
-						22021, -- [6]
-						22515, -- [7]
-						22517, -- [8]
-						22519, -- [9]
-						22521, -- [10]
-						22523, -- [11]
-						22525, -- [12]
-						22527, -- [13]
-						22530, -- [14]
-						23373, -- [15]
-						22531, -- [16]
-						22533, -- [17]
-						22535, -- [18]
-						22023, -- [19]
-						22109, -- [20]
-						22537, -- [21]
+						19233, -- [1]
+						19234, -- [2]
+						19235, -- [3]
+						22331, -- [4]
+						22332, -- [5]
+						22333, -- [6]
+						19239, -- [7]
+						19240, -- [8]
+						19241, -- [9]
+						22128, -- [10]
+						22122, -- [11]
+						22123, -- [12]
+						22334, -- [13]
+						22114, -- [14]
+						22131, -- [15]
+						22335, -- [16]
+						19249, -- [17]
+						22336, -- [18]
+						22132, -- [19]
+						22133, -- [20]
+						21188, -- [21]
 					},
-				}, -- [2]
+				},
 			},
-			["Version"] = 27144,
+			["Version"] = 26972,
 		},
 		["WARLOCK"] = {
 			["Locale"] = "enUS",
@@ -1150,63 +1150,63 @@ DataStore_TalentsRefDB = {
 			},
 			["Version"] = 26972,
 		},
-		["ROGUE"] = {
+		["DEATHKNIGHT"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 259,
+					["id"] = 250,
 					["talents"] = {
-						22337, -- [1]
-						22338, -- [2]
-						22339, -- [3]
-						22331, -- [4]
-						22332, -- [5]
-						22333, -- [6]
-						19239, -- [7]
-						19240, -- [8]
-						19241, -- [9]
-						22340, -- [10]
-						22122, -- [11]
-						22123, -- [12]
-						22341, -- [13]
-						22114, -- [14]
-						22115, -- [15]
-						22343, -- [16]
-						19249, -- [17]
-						22344, -- [18]
-						21186, -- [19]
-						22133, -- [20]
-						21188, -- [21]
+						19165, -- [1]
+						19166, -- [2]
+						19217, -- [3]
+						19218, -- [4]
+						19219, -- [5]
+						19220, -- [6]
+						19221, -- [7]
+						22134, -- [8]
+						22135, -- [9]
+						22013, -- [10]
+						22014, -- [11]
+						22015, -- [12]
+						19227, -- [13]
+						19226, -- [14]
+						19228, -- [15]
+						19230, -- [16]
+						19231, -- [17]
+						19232, -- [18]
+						21207, -- [19]
+						21208, -- [20]
+						21209, -- [21]
 					},
 				}, -- [1]
-				[3] = {
-					["id"] = 261,
+				{
+					["id"] = 251,
 					["talents"] = {
-						19233, -- [1]
-						19234, -- [2]
-						19235, -- [3]
-						22331, -- [4]
-						22332, -- [5]
-						22333, -- [6]
-						19239, -- [7]
-						19240, -- [8]
-						19241, -- [9]
-						22128, -- [10]
-						22122, -- [11]
-						22123, -- [12]
-						22334, -- [13]
-						22114, -- [14]
-						22131, -- [15]
-						22335, -- [16]
-						19249, -- [17]
-						22336, -- [18]
-						22132, -- [19]
-						22133, -- [20]
-						21188, -- [21]
+						22016, -- [1]
+						22017, -- [2]
+						22018, -- [3]
+						22019, -- [4]
+						22020, -- [5]
+						22021, -- [6]
+						22515, -- [7]
+						22517, -- [8]
+						22519, -- [9]
+						22521, -- [10]
+						22523, -- [11]
+						22525, -- [12]
+						22527, -- [13]
+						22530, -- [14]
+						23373, -- [15]
+						22531, -- [16]
+						22533, -- [17]
+						22535, -- [18]
+						22023, -- [19]
+						22109, -- [20]
+						22537, -- [21]
 					},
-				},
+				}, -- [2]
 			},
-			["Version"] = 26972,
+			["Version"] = 27144,
 		},
 	},
 }

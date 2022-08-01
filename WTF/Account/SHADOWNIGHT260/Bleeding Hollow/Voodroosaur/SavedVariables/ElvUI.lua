@@ -2,160 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"Otiosen (6%) |cffffff00|Hworldmap:1970:4372:8827|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
-			"Kickrøcks-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Zereth Mortis", -- [4]
-			"Kickrøcks-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Zereth Mortis", -- [9]
-			0, -- [10]
-			1971, -- [11]
-			"Player-73-0E9B7A0E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edKickrøcks|r",
-			[51] = 1646173838,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"how do we get the undulating foliage treasure", -- [1]
-			"Maïdeth-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Zereth Mortis", -- [4]
-			"Maïdeth-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Zereth Mortis", -- [9]
-			0, -- [10]
-			1973, -- [11]
-			"Player-73-0AE85DD4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Maïdeth|r",
-			[51] = 1646173852,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"tbh it's easier to google", -- [1]
-			"Lighthearted-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Zereth Mortis", -- [4]
-			"Lighthearted-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Zereth Mortis", -- [9]
-			0, -- [10]
-			1975, -- [11]
-			"Player-73-0E9F48C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Lighthearted|r",
-			[51] = 1646173915,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"than explain in chat", -- [1]
-			"Lighthearted-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Zereth Mortis", -- [4]
-			"Lighthearted-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Zereth Mortis", -- [9]
-			0, -- [10]
-			1976, -- [11]
-			"Player-73-0E9F48C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Lighthearted|r",
-			[51] = 1646173918,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"fair ty", -- [1]
-			"Maïdeth-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Zereth Mortis", -- [4]
-			"Maïdeth-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Zereth Mortis", -- [9]
-			0, -- [10]
-			1977, -- [11]
-			"Player-73-0AE85DD4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Maïdeth|r",
-			[51] = 1646173928,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"handynotes addon is also a great resource", -- [1]
-			"Sejata-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Zereth Mortis", -- [4]
-			"Sejata-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Zereth Mortis", -- [9]
-			0, -- [10]
-			1978, -- [11]
-			"Player-73-0D4620C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSejata|r",
-			[51] = 1646173934,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"gl with iska mount", -- [1]
-			"Senile-Gilneas", -- [2]
-			"", -- [3]
-			"1. General - Zereth Mortis", -- [4]
-			"Senile-Gilneas", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Zereth Mortis", -- [9]
-			0, -- [10]
-			1983, -- [11]
-			"Player-67-091D8BE4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaSenile-Gilneas|r",
-			[51] = 1646174002,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
 			"Guys dont provoke him", -- [1]
 			"Nexora-Area52", -- [2]
 			"", -- [3]
@@ -176,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexora-Area52|r",
 			[51] = 1646174036,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [1]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15515:Player-73-0EA72FFE:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Path to Enlightenment]|h|r!", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
@@ -198,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOhgodnowhy|r",
 			[51] = 1646174054,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [9]
+		}, -- [2]
 		{
 			"stop spam taunting ", -- [1]
 			"Redstarbrst-BleedingHollow", -- [2]
@@ -220,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Redstarbrst|r",
 			[51] = 1646174072,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [3]
 		{
 			"yeah pets", -- [1]
 			"Manabubble-Blackhand", -- [2]
@@ -242,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Manabubble-Blackhand|r",
 			[51] = 1646174093,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [4]
 		{
 			"Spawning Gluttonous overgrowth", -- [1]
 			"Nexora-Area52", -- [2]
@@ -264,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexora-Area52|r",
 			[51] = 1646174113,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [5]
 		{
 			"|cffa335ee|Hitem:190126::::::::60:104::::1:28:2169:::::|h[Rotculler's Encroaching Shears]|h|r huge", -- [1]
 			"Voodroosaur-BleedingHollow", -- [2]
@@ -286,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Voodroosaur|r",
 			[51] = 1646174118,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [6]
 		{
 			"from |cff0070dd|Hitem:181630::::::::60:104::25:4:6652:1472:5865:6616::::::|h[Honortoll Spear]|h|r lmfaoo", -- [1]
 			"Voodroosaur-BleedingHollow", -- [2]
@@ -308,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Voodroosaur|r",
 			[51] = 1646174125,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
+		}, -- [7]
 		{
 			"nice", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
@@ -330,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOhgodnowhy|r",
 			[51] = 1646174135,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
+		}, -- [8]
 		{
 			"where? ", -- [1]
 			"Maïdeth-BleedingHollow", -- [2]
@@ -352,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Maïdeth|r",
 			[51] = 1646174137,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [9]
 		{
 			"|cffffff00|Hworldmap:1970:5133:9364|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r ish", -- [1]
 			"Jabaahl-Area52", -- [2]
@@ -374,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Jabaahl-Area52|r",
 			[51] = 1646174147,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [10]
 		{
 			"ty", -- [1]
 			"Maïdeth-BleedingHollow", -- [2]
@@ -396,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Maïdeth|r",
 			[51] = 1646174151,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [11]
 		{
 			"|cffffff00|Hworldmap:1970:5803:3888|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r Otaris", -- [1]
 			"Manabubble-Blackhand", -- [2]
@@ -418,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Manabubble-Blackhand|r",
 			[51] = 1646174325,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [12]
 		{
 			"Feasting up at Pilgrims Grace", -- [1]
 			"Avalugg-BleedingHollow", -- [2]
@@ -440,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Avalugg|r",
 			[51] = 1646174495,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [13]
 		{
 			"|cffffff00|Hworldmap:1970:6312:5186|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r|cffffff00|Hworldmap:1970:6312:5186|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Avalugg-BleedingHollow", -- [2]
@@ -462,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Avalugg|r",
 			[51] = 1646174511,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [14]
 		{
 			"pretty weak we only get ", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
@@ -484,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOhgodnowhy|r",
 			[51] = 1646174749,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
+		}, -- [15]
 		{
 			"1 chapter", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
@@ -506,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOhgodnowhy|r",
 			[51] = 1646174753,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
+		}, -- [16]
 		{
 			"Is Jiro to Hero bugged for anyone else?", -- [1]
 			"Threepeece-BleedingHollow", -- [2]
@@ -528,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Threepeece|r",
 			[51] = 1646174763,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [17]
 		{
 			"that's what they've been doing this xpac", -- [1]
 			"Boomkinboy-BleedingHollow", -- [2]
@@ -550,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Boomkinboy|r",
 			[51] = 1646174784,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
+		}, -- [18]
 		{
 			"gotta make this xpac last a full 2 years", -- [1]
 			"Limebot-BleedingHollow", -- [2]
@@ -572,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLimebot|r",
 			[51] = 1646174794,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [19]
 		{
 			"idk having to do 3 chapters every week before raid would not be fun", -- [1]
 			"Boomkinboy-BleedingHollow", -- [2]
@@ -594,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Boomkinboy|r",
 			[51] = 1646174810,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [20]
 		{
 			"how do we reach the world boss?", -- [1]
 			"Dahhaka-BleedingHollow", -- [2]
@@ -616,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edDahhaka|r",
 			[51] = 1646174841,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [21]
 		{
 			"portal", -- [1]
 			"Talrinmonk-BleedingHollow", -- [2]
@@ -638,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Talrinmonk|r",
 			[51] = 1646174853,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [22]
 		{
 			"theres a transport console on that end", -- [1]
 			"Failblow-BleedingHollow", -- [2]
@@ -660,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFailblow|r",
 			[51] = 1646174856,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [23]
 		{
 			"at the top of the map", -- [1]
 			"Talrinmonk-BleedingHollow", -- [2]
@@ -682,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Talrinmonk|r",
 			[51] = 1646174856,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [24]
 		{
 			"there's a tp up there", -- [1]
 			"Ilada-BleedingHollow", -- [2]
@@ -704,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Ilada|r",
 			[51] = 1646174859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [25]
 		{
 			"|cffffff00|Hworldmap:1970:4577:2134|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r teleport here", -- [1]
 			"Oogwey-Stormreaver", -- [2]
@@ -726,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oogwey-Stormreaver|r",
 			[51] = 1646174864,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [26]
 		{
 			"it's around |cffffff00|Hworldmap:1970:4390:2216|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Caithairn-BleedingHollow", -- [2]
@@ -748,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCaithairn|r",
 			[51] = 1646174869,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [27]
 		{
 			"ty", -- [1]
 			"Dahhaka-BleedingHollow", -- [2]
@@ -770,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edDahhaka|r",
 			[51] = 1646174877,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [28]
 		{
 			"now go murderize the fuck outta that sumbitch", -- [1]
 			"Caithairn-BleedingHollow", -- [2]
@@ -792,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCaithairn|r",
 			[51] = 1646174888,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [29]
 		{
 			"kill him til he dies from it, ya understand?", -- [1]
 			"Caithairn-BleedingHollow", -- [2]
@@ -814,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCaithairn|r",
 			[51] = 1646174900,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [30]
 		{
 			"Mother Phestis is up", -- [1]
 			"Xayage-BleedingHollow", -- [2]
@@ -836,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaXayage|r",
 			[51] = 1646174948,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [31]
 		{
 			"pacifizm is never the way", -- [1]
 			"Doombuttons-BleedingHollow", -- [2]
@@ -858,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edDoombuttons|r",
 			[51] = 1646174978,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [32]
 		{
 			"any tanks need 14 top?", -- [1]
 			"Hashtagthicc-BleedingHollow", -- [2]
@@ -880,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHashtagthicc|r",
 			[51] = 1646175038,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [33]
 		{
 			"Mother Phestis up", -- [1]
 			"Nightbayne-Area52", -- [2]
@@ -902,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nightbayne-Area52|r",
 			[51] = 1646175135,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [34]
 		{
 			"mommy phes", -- [1]
 			"Lighthearted-BleedingHollow", -- [2]
@@ -924,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Lighthearted|r",
 			[51] = 1646175167,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [35]
 		{
 			"Step Mommy Phestistits", -- [1]
 			"Daes-BleedingHollow", -- [2]
@@ -946,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaDaes|r",
 			[51] = 1646175184,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [36]
 		{
 			";o", -- [1]
 			"Nexora-Area52", -- [2]
@@ -968,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexora-Area52|r",
 			[51] = 1646175198,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [37]
 		{
 			"That's hot", -- [1]
 			"Jabaahl-Area52", -- [2]
@@ -990,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Jabaahl-Area52|r",
 			[51] = 1646175202,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [38]
 		{
 			"why step mom? keep it in the family", -- [1]
 			"Carmelita-Ysera", -- [2]
@@ -1012,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Carmelita-Ysera|r",
 			[51] = 1646175224,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [39]
 		{
 			"Could still be", -- [1]
 			"Jabaahl-Area52", -- [2]
@@ -1034,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Jabaahl-Area52|r",
 			[51] = 1646175233,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [40]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6469:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Shado-Pan Monastery]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1056,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646172028,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [48]
+		}, -- [41]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6470:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Shado-Pan Monastery]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1078,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646172028,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [49]
+		}, -- [42]
 		{
 			"Sand Matriarch Ileus (100%) |cffffff00|Hworldmap:1970:5213:4688|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Tyranitar-Thrall", -- [2]
@@ -1100,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTyranitar-Thrall|r",
 			[51] = 1646172042,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [43]
 		{
 			"Anybody for Gorkek?", -- [1]
 			"Conquest-Exodar", -- [2]
@@ -1122,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Conquest-Exodar|r",
 			[51] = 1646175728,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [44]
 		{
 			"omw", -- [1]
 			"Fupina-BleedingHollow", -- [2]
@@ -1144,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fupina|r",
 			[51] = 1646175734,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [45]
 		{
 			"On the way", -- [1]
 			"Nexora-Area52", -- [2]
@@ -1166,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexora-Area52|r",
 			[51] = 1646175739,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [46]
 		{
 			"Omw to Gorcuk", -- [1]
 			"Jabaahl-Area52", -- [2]
@@ -1188,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Jabaahl-Area52|r",
 			[51] = 1646175744,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [47]
 		{
 			"If you can teleport over", -- [1]
 			"Conquest-Exodar", -- [2]
@@ -1210,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Conquest-Exodar|r",
 			[51] = 1646175752,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [48]
 		{
 			"how come my cypher equipment still 233 when rank 2 ?", -- [1]
 			"Johnsnowe-BleedingHollow", -- [2]
@@ -1232,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Johnsnowe|r",
 			[51] = 1646175893,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [49]
 		{
 			"Corrupted Architect |cffffff00|Hworldmap:1970:4746:6221|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Stiiffy-BleedingHollow", -- [2]
@@ -1254,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stiiffy|r",
 			[51] = 1646175909,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [50]
 		{
 			"On;y newer will have the next rank", -- [1]
 			"Conquest-Exodar", -- [2]
@@ -1276,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Conquest-Exodar|r",
 			[51] = 1646175916,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [51]
 		{
 			"yeah even new", -- [1]
 			"Johnsnowe-BleedingHollow", -- [2]
@@ -1298,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Johnsnowe|r",
 			[51] = 1646175925,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [52]
 		{
 			"3800 into friendly i need more rep ?", -- [1]
 			"Johnsnowe-BleedingHollow", -- [2]
@@ -1320,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Johnsnowe|r",
 			[51] = 1646175956,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [53]
 		{
 			"If you reached rank 2 the next time a cypher gear is given to you it will have the upgraded item lvl", -- [1]
 			"Conquest-Exodar", -- [2]
@@ -1342,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Conquest-Exodar|r",
 			[51] = 1646176020,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [54]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15515:Player-73-0E8B494D:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Path to Enlightenment]|h|r!", -- [1]
 			"Limebot-BleedingHollow", -- [2]
@@ -1364,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLimebot|r",
 			[51] = 1646176027,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [62]
+		}, -- [55]
 		{
 			"this quest is saying 233 at rank 2", -- [1]
 			"Johnsnowe-BleedingHollow", -- [2]
@@ -1386,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Johnsnowe|r",
 			[51] = 1646176035,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [56]
 		{
 			"wow. one of the beast rares in zm gave 8x|cff0070dd|Hitem:187701::::::::60:104:::::::::|h[Protogenic Pelt]|h|r", -- [1]
 			"Voodroosaur-BleedingHollow", -- [2]
@@ -1408,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Voodroosaur|r",
 			[51] = 1646176100,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [57]
 		{
 			"everything online is saying 3500 is what you also need and i have :(", -- [1]
 			"Johnsnowe-BleedingHollow", -- [2]
@@ -1430,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Johnsnowe|r",
 			[51] = 1646176104,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [58]
 		{
 			"jiro hero still broke?", -- [1]
 			"Sam-BleedingHollow", -- [2]
@@ -1452,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sam|r",
 			[51] = 1646176225,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [59]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6478:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Glintrok N' Roll]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1474,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646176240,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [67]
+		}, -- [60]
 		{
 			"any groups for world boss?", -- [1]
 			"Feliix-BleedingHollow", -- [2]
@@ -1496,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFeliix|r",
 			[51] = 1646176382,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [61]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6755:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Mogu'shan Palace]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1518,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646176490,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [69]
+		}, -- [62]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6756:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Mogu'shan Palace]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1540,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646176490,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [70]
+		}, -- [63]
 		{
 			"Look in ur group finder tool :)", -- [1]
 			"Nexora-Area52", -- [2]
@@ -1562,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexora-Area52|r",
 			[51] = 1646176501,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [64]
 		{
 			"garu up", -- [1]
 			"Fupina-BleedingHollow", -- [2]
@@ -1584,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fupina|r",
 			[51] = 1646176544,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [65]
 		{
 			"{rt8}Garudeon unpulled", -- [1]
 			"Kurzok-BleedingHollow", -- [2]
@@ -1606,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kurzok|r",
 			[51] = 1646176569,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [66]
 		{
 			"nm", -- [1]
 			"Kurzok-BleedingHollow", -- [2]
@@ -1628,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kurzok|r",
 			[51] = 1646176571,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [67]
 		{
 			"does cypher equipment work in raid?", -- [1]
 			"Mcgoats-BleedingHollow", -- [2]
@@ -1650,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMcgoats|r",
 			[51] = 1646176602,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [68]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14797:Player-73-0EA72FFE:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r!", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
@@ -1672,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOhgodnowhy|r",
 			[51] = 1646176621,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [76]
+		}, -- [69]
 		{
 			"phestis up", -- [1]
 			"Fupina-BleedingHollow", -- [2]
@@ -1694,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fupina|r",
 			[51] = 1646176793,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [70]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6456:Player-73-0DE9EC91:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Stormstout Brewery]|h|r!", -- [1]
 			"Aelysa-BleedingHollow", -- [2]
@@ -1716,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aelysa|r",
 			[51] = 1646176825,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
+		}, -- [71]
 		{
 			"Alexa? Will I ever get laid again?", -- [1]
 			"Conquest-Exodar", -- [2]
@@ -1738,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Conquest-Exodar|r",
 			[51] = 1646176848,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [72]
 		{
 			"Heres whats on youtube...", -- [1]
 			"Dimmn-Mal'Ganis", -- [2]
@@ -1760,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dimmn-Mal'Ganis|r",
 			[51] = 1646176867,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [73]
 		{
 			"you've been laid", -- [1]
 			"Flambothrall-BleedingHollow", -- [2]
@@ -1782,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Flambothrall|r",
 			[51] = 1646176867,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [74]
 		{
 			"LUCKY!", -- [1]
 			"Flambothrall-BleedingHollow", -- [2]
@@ -1804,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Flambothrall|r",
 			[51] = 1646176869,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [75]
 		{
 			"anyone wanna do a key?", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
@@ -1826,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOhgodnowhy|r",
 			[51] = 1646176918,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [76]
 		{
 			"how do I take this taxi service to antros", -- [1]
 			"Hetrik-BleedingHollow", -- [2]
@@ -1848,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHetrik|r",
 			[51] = 1646176931,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [77]
 		{
 			"nvm", -- [1]
 			"Hetrik-BleedingHollow", -- [2]
@@ -1870,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHetrik|r",
 			[51] = 1646176943,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [78]
 		{
 			"onde dropa isso ?|cffff8000|Hitem:187707::::::::60:253:::::::::|h[Essência Progenitora]|h|r", -- [1]
 			"Huntertøp-Azralon", -- [2]
@@ -1892,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huntertøp-Azralon|r",
 			[51] = 1646177006,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [79]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10010:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Gate of the Setting Sun]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1914,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646177026,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [87]
+		}, -- [80]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6759:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Gate of the Setting Sun]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1936,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646177026,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [88]
+		}, -- [81]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4476:Player-73-0EA59604:1:3:1:22:4294967295:4294967295:4294967295:4294967295|h[Looking For More]|h|r!", -- [1]
 			"Bungul-BleedingHollow", -- [2]
@@ -1958,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeBungul|r",
 			[51] = 1646177026,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [89]
+		}, -- [82]
 		{
 			"rare from treasure usually for me", -- [1]
 			"Manabubble-Blackhand", -- [2]
@@ -1980,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Manabubble-Blackhand|r",
 			[51] = 1646177064,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [83]
 		{
 			"seems like if youre still researching the cypher gear wont upgrade till its complete ", -- [1]
 			"Johnsnowe-BleedingHollow", -- [2]
@@ -2002,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Johnsnowe|r",
 			[51] = 1646177154,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [84]
 		{
 			"Selling 15-20s, get that juicy 278 vault, all 262s traded! EZ pz. You can even afk. Loot funnel/specific keys available too. Get that io up so your gf stops laughing at you! Make it so your gm doesn't bench you. We got you!", -- [1]
 			"Dvdk-BleedingHollow", -- [2]
@@ -2024,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dvdk|r",
 			[51] = 1656546038,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [85]
 		{
 			"can i change the effect of |cffff8000|Hitem:190464::::::::60:62::11:2:6652:7578:1:28:2057:::::|h[Cord of Unity]|h|r?", -- [1]
 			"Ethylene-BleedingHollow", -- [2]
@@ -2046,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaEthylene|r",
 			[51] = 1656546121,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [86]
 		{
 			"<Resonate 11/11M> Offering SoFO Clears TONIGHT at 9pm EST. Only 1 11/11H spot and 1 AOTC spot left!         -Gold Only-        DM me for prices and info.  ", -- [1]
 			"Dumpp-BleedingHollow", -- [2]
@@ -2068,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dumpp|r",
 			[51] = 1656546131,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [87]
 		{
 			"change covenants", -- [1]
 			"Dvdk-BleedingHollow", -- [2]
@@ -2090,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dvdk|r",
 			[51] = 1656546132,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [88]
 		{
 			"o i see", -- [1]
 			"Ethylene-BleedingHollow", -- [2]
@@ -2112,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaEthylene|r",
 			[51] = 1656546137,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [89]
 		{
 			"^ its covenant bases", -- [1]
 			"Trapnocap-BleedingHollow", -- [2]
@@ -2134,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Trapnocap|r",
 			[51] = 1656546141,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [90]
 		{
 			"based", -- [1]
 			"Trapnocap-BleedingHollow", -- [2]
@@ -2156,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Trapnocap|r",
 			[51] = 1656546145,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [91]
 		{
 			"thanks", -- [1]
 			"Ethylene-BleedingHollow", -- [2]
@@ -2178,29 +2024,183 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaEthylene|r",
 			[51] = 1656546152,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"wts |cff1eff00|Hitem:121027::::::::25:72:::3:6654:1808:1783:2:9:25:28:331:::::|h[Azurewing Signet of the Harmonious]|h|r275k |cff1eff00|Hitem:159566::::::::25:72:::4:6655:4802:41:1712:2:9:22:28:186:::::|h[Shipwrecker Spire of the Harmonious]|h|r350k |cff1eff00|Hitem:121070::::::::25:72:::4:6654:1808:42:603:2:9:25:28:1705:::::|h[Hexweaver's Charm]|h|r300k", -- [1]
+			"Twentyàteboe-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Twentyàteboe-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-73-0EB8E9A0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cTwentyàteboe|r",
+			[51] = 1658073534,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-402715-73-109596564|h[Guild: Fair To Middling]|h|r Laid back and drama free guild looking for others to enjoy the game with. Mythic plus is our primary focus for now. All roles are welcome but tanks are needed.", -- [1]
+			"Papmonk-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Papmonk-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-73-0EC0202D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Papmonk|r",
+			[51] = 1658073624,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"wts |cff0070dd|Hbattlepet:1806:25:3:1546:260:289:BattlePet-0-000016827AC6:59042|h[Knockoff Blingtron]|h|r 200k 75k less than ah", -- [1]
+			"Shavedd-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shavedd-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-73-0BBB6C2B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Shavedd|r",
+			[51] = 1658073719,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"||Selling *|cffa335ee|Hitem:156798::::::::60:103::23::1:28:872:::::|h[The Hivemind]|h|r* MOUNT ,RUN 100% guaranteed!!||Gold only! Run 20min", -- [1]
+			"Leblanclb-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Leblanclb-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-73-0C6F6CBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Leblanclb|r",
+			[51] = 1658074977,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			" how much", -- [1]
+			"Alaskka-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Alaskka-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-73-0C3FD624", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Alaskka|r",
+			[51] = 1658075525,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-402715-73-109596564|h[Guild: Fair To Middling]|h|r Laid back and drama free guild looking for others to enjoy the game with. Mythic plus is our primary focus for now. All roles are welcome but tanks are needed.", -- [1]
+			"Papmonk-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Papmonk-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-73-0EC0202D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Papmonk|r",
+			[51] = 1658076090,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"cum", -- [1]
+			"Shaddux-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shaddux-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-73-0E7779AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcShaddux|r",
+			[51] = 1658076184,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
 		"/gquit", -- [1]
-		"lol", -- [2]
-		"/p ty", -- [3]
-		"terrible, only 3 ilvl upgrade but w/e", -- [4]
-		"/g from |cff0070dd|Hitem:181630::::::::60:104::25:4:6652:1472:5865:6616::::::|h[Honortoll Spear]|h|r lmfaoo", -- [5]
-		"unfortunate", -- [6]
-		"lmao", -- [7]
-		"get 210 gloves again", -- [8]
-		"/kb", -- [9]
-		"/sit", -- [10]
-		"/ert cd", -- [11]
-		"had 207  gloves from world boss on this toon already last week", -- [12]
-		"/wa", -- [13]
+		"/g from |cff0070dd|Hitem:181630::::::::60:104::25:4:6652:1472:5865:6616::::::|h[Honortoll Spear]|h|r lmfaoo", -- [2]
+		"/kb", -- [3]
+		"/g wow. one of the beast rares in zm gave 8x|cff0070dd|Hitem:187701::::::::60:104:::::::::|h[Protogenic Pelt]|h|r", -- [4]
+		"/elvui", -- [5]
+		"lol", -- [6]
+		"/cw Boomkinboy ginv please - Dorkk", -- [7]
+		"/g |cffa335ee|Hitem:190126::::::::60:104::::1:28:2169:::::|h[Rotculler's Encroaching Shears]|h|r huge", -- [8]
+		"had 207  gloves from world boss on this toon already last week", -- [9]
+		"lmao", -- [10]
+		"/p ty", -- [11]
+		"/ert cd", -- [12]
+		"terrible, only 3 ilvl upgrade but w/e", -- [13]
 		"open vault and get 210 gloves last week", -- [14]
-		"fuck off blizzard", -- [15]
-		"/cw Boomkinboy ginv please - Dorkk", -- [16]
-		"/elvui", -- [17]
-		"/g |cffa335ee|Hitem:190126::::::::60:104::::1:28:2169:::::|h[Rotculler's Encroaching Shears]|h|r huge", -- [18]
-		"/g wow. one of the beast rares in zm gave 8x|cff0070dd|Hitem:187701::::::::60:104:::::::::|h[Protogenic Pelt]|h|r", -- [19]
-		"open vault today", -- [20]
+		"open vault today", -- [15]
+		"/sit", -- [16]
+		"unfortunate", -- [17]
+		"get 210 gloves again", -- [18]
+		"fuck off blizzard", -- [19]
+		"/wa", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

@@ -1,94 +1,12 @@
 
 ElvCharacterDB = {
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 97854,
+		["MaxHealth"] = 97854,
+		["IsInValidZone"] = true,
+	},
 	["ChatHistoryLog"] = {
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-318573-73-106309557|h[Guild: Justice]|h|r is recruiting for 9.2 Raiding! 10/10h looking to progress fast. Raid: Tues&Thurs 830-1130p est. Need ALL (Offtank/Heals/DPS)", -- [1]
-			"Stardream-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stardream-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			7881, -- [11]
-			"Player-73-0E87D483", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Stardream|r",
-			[51] = 1644872292,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"yo mami be gobbling my glizzy ngl", -- [1]
-			"Kushgodx-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kushgodx-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			7882, -- [11]
-			"Player-73-0E2A33D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Kushgodx|r",
-			[51] = 1644872302,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"the f is a glizzy bro", -- [1]
-			"Stardream-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stardream-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			7884, -- [11]
-			"Player-73-0E87D483", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Stardream|r",
-			[51] = 1644872336,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"what words are you conjuring up man", -- [1]
-			"Stardream-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stardream-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			7885, -- [11]
-			"Player-73-0E87D483", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Stardream|r",
-			[51] = 1644872364,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
 		{
 			"Yer a milk dud.", -- [1]
 			"Aläni-Area52", -- [2]
@@ -110,7 +28,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcAläni-Area52|r",
 			[51] = 1645641890,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [1]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15253:Player-73-0E793306:1:2:23:22:4294967295:4294967295:4294967295:4294967295|h[The Jailer's Gauntlet: Layer 3]|h|r!", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -132,7 +50,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1645642002,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [6]
+		}, -- [2]
 		{
 			"|cffa335ee|Hitem:190615::::::::60:71::81:5:6652:8133:8116:1505:6646:1:28:2057:::::|h[Cosmic Guardian's Casing]|h|r LET'S FUCKING GOOO", -- [1]
 			"Grufferstein-BleedingHollow", -- [2]
@@ -154,7 +72,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGrufferstein|r",
 			[51] = 1646159864,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
+		}, -- [3]
 		{
 			"I just still think the play is unity on head", -- [1]
 			"|Kq12|k", -- [2]
@@ -177,7 +95,7 @@ ElvCharacterDB = {
 			[51] = 1646676890,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [8]
+		}, -- [4]
 		{
 			"but it will take diff people diff time to get there depending on luck w/ tier", -- [1]
 			"|Kq12|k", -- [2]
@@ -200,7 +118,7 @@ ElvCharacterDB = {
 			[51] = 1646676895,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [9]
+		}, -- [5]
 		{
 			"nothing like briny tube meat in a can", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -222,7 +140,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646676897,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
+		}, -- [6]
 		{
 			"says the guy with \"jelk\" in his toon name", -- [1]
 			"Twiggylegs-BleedingHollow", -- [2]
@@ -244,7 +162,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Twiggylegs|r",
 			[51] = 1646676903,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
+		}, -- [7]
 		{
 			"only the finest sausage juice", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -266,7 +184,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646676906,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
+		}, -- [8]
 		{
 			"then we just need to see how it carbonates in the soda stream", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -288,7 +206,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646676916,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [9]
 		{
 			"brb gonna make an expresso", -- [1]
 			"Twiggylegs-BleedingHollow", -- [2]
@@ -310,7 +228,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Twiggylegs|r",
 			[51] = 1646676933,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
+		}, -- [10]
 		{
 			"yeah thats mostly why ive hesitated to level anything for both leather or mail, i only leveled the mail piece that i know i need for my non-unity leggo ", -- [1]
 			"|Kq12|k", -- [2]
@@ -333,7 +251,7 @@ ElvCharacterDB = {
 			[51] = 1646676938,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [15]
+		}, -- [11]
 		{
 			"jelking is a recognized in many states as a healthy activity", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -355,7 +273,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646676952,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
+		}, -- [12]
 		{
 			"p sure for resto I'll end up w/ unity head and leggo feet", -- [1]
 			"|Kq12|k", -- [2]
@@ -378,7 +296,7 @@ ElvCharacterDB = {
 			[51] = 1646676978,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [17]
+		}, -- [13]
 		{
 			"oh god gruff", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -400,7 +318,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646676982,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
+		}, -- [14]
 		{
 			"I don't know if me being a woman makes the name better or worse ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -422,7 +340,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646676988,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
+		}, -- [15]
 		{
 			"sodastream vienna juice", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -444,7 +362,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646676988,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
+		}, -- [16]
 		{
 			"balance is prob ring and head", -- [1]
 			"|Kq12|k", -- [2]
@@ -467,7 +385,7 @@ ElvCharacterDB = {
 			[51] = 1646676989,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [21]
+		}, -- [17]
 		{
 			"did you do the milk yet ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -489,7 +407,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677000,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
+		}, -- [18]
 		{
 			"you're welcome", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -511,7 +429,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677007,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
+		}, -- [19]
 		{
 			"nah haven't tried spicy milk out yet either", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -533,7 +451,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677022,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
+		}, -- [20]
 		{
 			"cmon man ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -555,7 +473,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677026,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
+		}, -- [21]
 		{
 			"do it ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -577,7 +495,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677028,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [22]
 		{
 			"im 36, i dont drink milk", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -599,7 +517,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677041,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [23]
 		{
 			"??", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -621,7 +539,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677047,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [24]
 		{
 			"it makes it better ", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -643,7 +561,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677049,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [25]
 		{
 			"youre in danger of osteoperosis ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -665,7 +583,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677055,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [26]
 		{
 			"and youre passing up milk? wild ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -687,7 +605,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677061,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [27]
 		{
 			"no, i eat animal flesh to claim their nutrients. not their milk", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -709,7 +627,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677085,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [28]
 		{
 			"just a little milk as a treat ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -731,7 +649,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677096,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [29]
 		{
 			"ice cream is pretty great", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -753,7 +671,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677107,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
+		}, -- [30]
 		{
 			"maybe for a milksteak with a side of jelly beans", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -775,7 +693,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677111,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
+		}, -- [31]
 		{
 			"as it cheese, butter, yogurt", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -797,7 +715,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677113,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [32]
 		{
 			"boiled over hard?", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -819,7 +737,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677117,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [33]
 		{
 			"what about rum ham ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -841,7 +759,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677132,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
+		}, -- [34]
 		{
 			"its from the gods", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -863,7 +781,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677139,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [35]
 		{
 			"milk is bad makes my tummy hurt", -- [1]
 			"Heejin-BleedingHollow", -- [2]
@@ -885,7 +803,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Heejin|r",
 			[51] = 1646677167,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [36]
 		{
 			"itd make sense for us to go head for mail cus theres no helm above 278", -- [1]
 			"|Kq12|k", -- [2]
@@ -908,7 +826,7 @@ ElvCharacterDB = {
 			[51] = 1646677182,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [41]
+		}, -- [37]
 		{
 			"weak genes", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -930,7 +848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677190,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [38]
 		{
 			"I believe that's true for everyone", -- [1]
 			"|Kq12|k", -- [2]
@@ -953,7 +871,7 @@ ElvCharacterDB = {
 			[51] = 1646677198,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [43]
+		}, -- [39]
 		{
 			"but theres tier chest, tier shoulders, hands and pants from the last 3", -- [1]
 			"|Kq12|k", -- [2]
@@ -976,7 +894,7 @@ ElvCharacterDB = {
 			[51] = 1646677199,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [44]
+		}, -- [40]
 		{
 			"Milk is great!", -- [1]
 			"Flavinia-BleedingHollow", -- [2]
@@ -998,7 +916,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Flavinia|r",
 			[51] = 1646677201,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [41]
 		{
 			"ah wasnt sure", -- [1]
 			"|Kq12|k", -- [2]
@@ -1021,7 +939,7 @@ ElvCharacterDB = {
 			[51] = 1646677204,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [46]
+		}, -- [42]
 		{
 			"wait  zovall drops tier?", -- [1]
 			"|Kq12|k", -- [2]
@@ -1044,7 +962,7 @@ ElvCharacterDB = {
 			[51] = 1646677209,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [47]
+		}, -- [43]
 		{
 			"good peoples here", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -1066,7 +984,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677214,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [44]
 		{
 			"like you can make ice cream from it", -- [1]
 			"Flavinia-BleedingHollow", -- [2]
@@ -1088,7 +1006,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Flavinia|r",
 			[51] = 1646677215,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [45]
 		{
 			"nah he doesnt", -- [1]
 			"|Kq12|k", -- [2]
@@ -1111,7 +1029,7 @@ ElvCharacterDB = {
 			[51] = 1646677219,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [50]
+		}, -- [46]
 		{
 			"oh but he drops non tier pants", -- [1]
 			"|Kq12|k", -- [2]
@@ -1134,7 +1052,7 @@ ElvCharacterDB = {
 			[51] = 1646677252,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [51]
+		}, -- [47]
 		{
 			"so yeah maybe", -- [1]
 			"|Kq12|k", -- [2]
@@ -1157,7 +1075,7 @@ ElvCharacterDB = {
 			[51] = 1646677254,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [52]
+		}, -- [48]
 		{
 			"milk is great but it makes me feel intense pain like nothing else", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -1179,7 +1097,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677258,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [49]
 		{
 			"nah saying tier shoulder is LoD, tier chest is Rygelon, 285 Hands are LoD and 285 pants are Jailer", -- [1]
 			"|Kq12|k", -- [2]
@@ -1202,7 +1120,7 @@ ElvCharacterDB = {
 			[51] = 1646677259,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [54]
+		}, -- [50]
 		{
 			"we're talking about the liquid form", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -1224,7 +1142,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677259,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
+		}, -- [51]
 		{
 			"cheese and ice cream are beast", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -1246,7 +1164,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677268,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [52]
 		{
 			"butter too", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -1268,7 +1186,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677271,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [53]
 		{
 			"probably where my love of toxic relationships comes from", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -1290,7 +1208,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677271,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
+		}, -- [54]
 		{
 			"i mean thats extreme minmaxing really if you're considering the last boss of the tier though", -- [1]
 			"|Kq12|k", -- [2]
@@ -1313,7 +1231,7 @@ ElvCharacterDB = {
 			[51] = 1646677277,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [59]
+		}, -- [55]
 		{
 			"so not sure that matters lol", -- [1]
 			"|Kq12|k", -- [2]
@@ -1336,7 +1254,7 @@ ElvCharacterDB = {
 			[51] = 1646677280,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [60]
+		}, -- [56]
 		{
 			"oof", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -1358,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677283,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [57]
 		{
 			"alright butter kinda fire cant lie", -- [1]
 			"Heejin-BleedingHollow", -- [2]
@@ -1380,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Heejin|r",
 			[51] = 1646677286,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [58]
 		{
 			"hmm yeah idk I haven't done the math that far", -- [1]
 			"|Kq12|k", -- [2]
@@ -1403,7 +1321,7 @@ ElvCharacterDB = {
 			[51] = 1646677288,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [63]
+		}, -- [59]
 		{
 			"the best type of liquid milk is whole milk by far", -- [1]
 			"Flavinia-BleedingHollow", -- [2]
@@ -1425,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Flavinia|r",
 			[51] = 1646677295,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [60]
 		{
 			"well yeah", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -1447,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677300,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
+		}, -- [61]
 		{
 			"whole milk is too thick ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -1469,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677304,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
+		}, -- [62]
 		{
 			"gross toxic relationships", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -1491,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677321,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [63]
 		{
 			"pfff ill straight up drink a glass of half n half", -- [1]
 			"Okthrom-BleedingHollow", -- [2]
@@ -1513,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOkthrom|r",
 			[51] = 1646677322,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [64]
 		{
 			"honestly pants might make more sense though just because the 285 from jailer would be so far away, but i can at least get a 278 helm from Vigilant Guardian", -- [1]
 			"|Kq12|k", -- [2]
@@ -1536,7 +1454,7 @@ ElvCharacterDB = {
 			[51] = 1646677325,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [69]
+		}, -- [65]
 		{
 			"you crazy grudd", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -1558,7 +1476,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677327,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+		}, -- [66]
 		{
 			"gruff", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -1580,7 +1498,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677329,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [67]
 		{
 			"i hate that you typed that out ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -1602,7 +1520,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677331,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [68]
 		{
 			"me? lol", -- [1]
 			"Okthrom-BleedingHollow", -- [2]
@@ -1624,7 +1542,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOkthrom|r",
 			[51] = 1646677339,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [69]
 		{
 			"not for me but it goes well in coffee", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -1646,7 +1564,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677343,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [70]
 		{
 			"YES", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -1668,7 +1586,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677345,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [71]
 		{
 			"yes", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -1690,7 +1608,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677348,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [72]
 		{
 			"milk doesnt go in coffee", -- [1]
 			"Parkgowon-BleedingHollow", -- [2]
@@ -1712,7 +1630,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Parkgowon|r",
 			[51] = 1646677360,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
+		}, -- [73]
 		{
 			"dont be rude. let him enjoy his treats", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -1734,7 +1652,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677361,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
+		}, -- [74]
 		{
 			"^", -- [1]
 			"Flavinia-BleedingHollow", -- [2]
@@ -1756,7 +1674,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Flavinia|r",
 			[51] = 1646677364,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
+		}, -- [75]
 		{
 			"milk goes in expresso and tea", -- [1]
 			"Flavinia-BleedingHollow", -- [2]
@@ -1778,7 +1696,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Flavinia|r",
 			[51] = 1646677370,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [76]
 		{
 			"i did it on accident the first time. iwas at my parents, poured a glass of \"milk\" and was like damn", -- [1]
 			"Okthrom-BleedingHollow", -- [2]
@@ -1800,7 +1718,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOkthrom|r",
 			[51] = 1646677371,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [77]
 		{
 			"this is the best milk ive ever had", -- [1]
 			"Okthrom-BleedingHollow", -- [2]
@@ -1822,7 +1740,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOkthrom|r",
 			[51] = 1646677376,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [78]
 		{
 			"innovation ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -1844,7 +1762,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677390,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [79]
 		{
 			"spawning a love of girthy milk for the rest of your days", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -1866,7 +1784,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677422,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
+		}, -- [80]
 		{
 			"yea there is really no going back", -- [1]
 			"Okthrom-BleedingHollow", -- [2]
@@ -1888,7 +1806,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOkthrom|r",
 			[51] = 1646677435,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [81]
 		{
 			"thicc is the best", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -1910,7 +1828,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677438,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [82]
 		{
 			"urgh", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -1932,7 +1850,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677438,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [83]
 		{
 			"i dont like girth combined with the word milk", -- [1]
 			"Yazzee-BleedingHollow", -- [2]
@@ -1954,7 +1872,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaYazzee|r",
 			[51] = 1646677455,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [84]
 		{
 			"I do ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -1976,7 +1894,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677460,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [85]
 		{
 			"new warrior name: Girthmilk", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -1998,7 +1916,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677474,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [86]
 		{
 			"we're just talking about daddys juice justin", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -2020,7 +1938,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677475,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [87]
 		{
 			"new hunter name: ropeshooter", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -2042,7 +1960,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677500,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [88]
 		{
 			"oh god", -- [1]
 			"Ugar-BleedingHollow", -- [2]
@@ -2064,7 +1982,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ugar|r",
 			[51] = 1646677512,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [89]
 		{
 			"def gotta be taken ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -2086,7 +2004,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677515,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [90]
 		{
 			"outlaw rogue would be better actually", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -2108,7 +2026,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677522,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [91]
 		{
 			"or surv hunter", -- [1]
 			"Sanordiel-BleedingHollow", -- [2]
@@ -2130,7 +2048,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sanordiel|r",
 			[51] = 1646677527,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [92]
 		{
 			"huh ", -- [1]
 			"Jelklord-BleedingHollow", -- [2]
@@ -2152,7 +2070,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeJelklord|r",
 			[51] = 1646677537,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [93]
 		{
 			"thanks bud cant wait to not use it till next week", -- [1]
 			"Yuglin-BleedingHollow", -- [2]
@@ -2174,7 +2092,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cYuglin|r",
 			[51] = 1646765559,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
+		}, -- [94]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15513:Player-73-0E471A7F:1:3:21:22:4294967295:4294967295:4294967295:4294967295|h[Curious Collections]|h|r!", -- [1]
 			"Lonekthx-BleedingHollow", -- [2]
@@ -2196,9 +2114,96 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Lonekthx|r",
 			[51] = 1647884692,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [95]
+		{
+			"wts m+15/20s pst", -- [1]
+			"Bÿ-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bÿ-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			128, -- [11]
+			"Player-73-0EAE2043", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Bÿ|r",
+			[51] = 1657145536,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:11477:Player-73-09E18597:1:7:6:22:4294967295:4294967295:4294967295:4294967295|h[Off the Top Rook]|h|r!", -- [1]
+			"Riverb-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Riverb-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			129, -- [11]
+			"Player-73-09E18597", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaRiverb|r",
+			[51] = 1657145634,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"WTS 2s Carries/Coaching 2.8k exp Multiglad individual 200k/per hour. GOLD ONLY |cffffff00|Hachievement:15352:Player-73-0E4C16CB:1:6:15:22:4294967295:4294967295:4294967295:4294967295|h[Gladiator: Shadowlands Season 3]|h|r", -- [1]
+			"Bopmemommy-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bopmemommy-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			130, -- [11]
+			"Player-73-0E4C16CB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Bopmemommy|r",
+			[51] = 1657145600,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"WTS M+15-20 Quality runs fast cheap and quick All LOOT Yours KSH Team can request specific dungeon / armor stack  KSM bundle special offer get ur 262 ilvl and 278 ilvl on gvault KSM budle Special offer  |cffffff00|Hachievement:15506:Player-73-0EB80C74:1:6:14:22:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Hero: Season Three]|h|r", -- [1]
+			"Rhomat-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rhomat-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-73-0EB80C74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Rhomat|r",
+			[51] = 1657145725,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
-	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
 		"/cw Ultiem can you invite this toon to guild when you get a chance", -- [1]
 		"/g ty sir", -- [2]
@@ -2221,10 +2226,5 @@ ElvCharacterDB = {
 		"honestly pants might make more sense though just because the 285 from jailer would be so far away, but i can at least get a 278 helm from Vigilant Guardian", -- [19]
 		"/elvui", -- [20]
 	},
-	["BodyGuard"] = {
-		["IsInValidZone"] = true,
-		["MaxHealth"] = 97854,
-		["Health"] = 97854,
-		["Active"] = false,
-	},
+	["ConvertKeybindings"] = true,
 }

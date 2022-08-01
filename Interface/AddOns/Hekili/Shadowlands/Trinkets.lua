@@ -1467,13 +1467,21 @@ do
             gcd = "off",
 
             item = 188253,
+            no_icd = function () return buff.the_fourth_rune.down end,
 
             handler = function ()
                 if buff.the_first_rune.up then applyBuff( "the_second_rune" )
                 elseif buff.the_second_rune.up then applyBuff( "the_third_rune" )
                 elseif buff.the_third_rune.up then applyBuff( "the_fourth_rune" )
-                elseif buff.the_fourth_rune.up then applyBuff( "the_final_rune" )
-                else applyBuff( "the_first_rune" ) end
+                elseif buff.the_fourth_rune.up then
+                    removeBuff( "the_first_rune" )
+                    removeBuff( "the_second_rune" )
+                    removeBuff( "the_third_rune" )
+                    removeBuff( "the_fourth_rune" )
+                    applyBuff( "the_final_rune" )
+                else
+                    applyBuff( "the_first_rune" )
+                end
             end,
 
             auras = {
@@ -1782,6 +1790,28 @@ do
 
             toggle = "cooldowns",
         },
+
+        bloodstained_handkerchief = {
+            cast = 0,
+            cooldown = 60,
+            gcd = "off",
+
+            item = 142159,
+
+            cycle = "cruel_garrote",
+
+            handler = function()
+                applyDebuff( "target", "cruel_garrote" )
+            end,
+
+            auras = {
+                cruel_garrote = {
+                    id = 230011,
+                    duration = 3600,
+                    max_stack = 1,
+                }
+            }
+        }
     } )
 
     all:RegisterAuras( {

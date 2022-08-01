@@ -18,8 +18,8 @@ QuickQuestDB2 = {
 		["Illidorkk - Bleeding Hollow"] = "Default",
 		["Jerkk - Bleeding Hollow"] = "Default",
 		["Eore - The Forgotten Coast"] = "Default",
-		["Albiorix - Emerald Dream"] = "Default",
 		["Voodroo - Bleeding Hollow"] = "Default",
+		["Albiorix - Emerald Dream"] = "Default",
 		["Scongi - Kil'jaeden"] = "Default",
 		["Unorthodorkk - Bleeding Hollow"] = "Default",
 	},
@@ -27,6 +27,7 @@ QuickQuestDB2 = {
 		["Default"] = {
 			["general"] = {
 				["skipgossipwhen"] = 0,
+				["share"] = true,
 			},
 		},
 	},

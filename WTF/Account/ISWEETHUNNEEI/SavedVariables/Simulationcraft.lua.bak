@@ -6,12 +6,13 @@ SimulationCraftDB = {
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
 	},
 	["profiles"] = {
 		["Katdoge - Bleeding Hollow"] = {
@@ -27,6 +28,8 @@ SimulationCraftDB = {
 		},
 		["Stryfë - Bleeding Hollow"] = {
 		},
+		["Blù - Bleeding Hollow"] = {
+		},
 		["Nolieper - Bleeding Hollow"] = {
 		},
 		["Holynoly - Bleeding Hollow"] = {
@@ -40,7 +43,7 @@ SimulationCraftDB = {
 		},
 		["Emoclëw - Bleeding Hollow"] = {
 		},
-		["Blù - Bleeding Hollow"] = {
+		["Dorkks - Wyrmrest Accord"] = {
 		},
 	},
 }

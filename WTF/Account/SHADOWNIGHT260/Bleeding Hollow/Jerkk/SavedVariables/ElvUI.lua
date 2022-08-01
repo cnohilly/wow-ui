@@ -1,2212 +1,2212 @@
 
 ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/p my i key being busted s getting really old", -- [1]
+		"/readycheck", -- [2]
+		"/p ok thad idk who you are", -- [3]
+		"/p but if you let my girlfriend die ill never forgive you", -- [4]
+		"/pull 10", -- [5]
+		"/p no he's free game", -- [6]
+		"/p thad why", -- [7]
+		"/p thats 3 strikes thad", -- [8]
+		"/p i think you're out", -- [9]
+		"/p turns out i forgot to put cancel bop in my cancel bubble macro", -- [10]
+		"/p oops", -- [11]
+		"/p ill solo other one then", -- [12]
+		"/p are we double gamers", -- [13]
+		"/p really limit testing thad's healing there", -- [14]
+		"/p imagine not bating the run through", -- [15]
+		"/p brandon", -- [16]
+		"/p sick portal", -- [17]
+		"/p thanks for keys", -- [18]
+		"/p she needs a lot more still to try to get 2500 lol", -- [19]
+		"/elvui", -- [20]
+	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Get back to work. This ore won't process itself.", -- [1]
+			"Shaddux-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Shaddux-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1156, -- [11]
-			"Player-73-083743C5", -- [12]
+			448, -- [11]
+			"Player-73-0E7779AF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249674,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcShaddux|r",
+			[51] = 1658258283,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [1]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"zug zug", -- [1]
+			"Âstros-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Âstros-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1157, -- [11]
-			"Player-73-083743C5", -- [12]
+			449, -- [11]
+			"Player-73-070D7308", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249676,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffef367Âstros|r",
+			[51] = 1658258304,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"its not easy being green", -- [1]
+			"Ragoth-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Ragoth-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1158, -- [11]
-			"Player-73-083743C5", -- [12]
+			450, -- [11]
+			"Player-73-0E9DDC6B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249621,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffef367Ragoth|r",
+			[51] = 1658258384,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			"2", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"instead its 2.5mil mythic sylv lol", -- [1]
+			"Bëllator-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Bëllator-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1161, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			177, -- [11]
+			"Player-73-0EA3BAD2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657249630,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffc59a6cBëllator|r",
+			[51] = 1658800446,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"and in that case i cant afford either", -- [1]
+			"Bëllator-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Bëllator-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1162, -- [11]
-			"Player-73-083743C5", -- [12]
+			178, -- [11]
+			"Player-73-0EA3BAD2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249707,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffc59a6cBëllator|r",
+			[51] = 1658800454,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [5]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"i want the sylv statue/bust", -- [1]
+			"Timprime-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Timprime-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1163, -- [11]
-			"Player-73-083743C5", -- [12]
+			179, -- [11]
+			"Player-73-0E1621B6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249702,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcTimprime|r",
+			[51] = 1658800460,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [6]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"back in 8.3 Mythic jainas was 350k", -- [1]
+			"Stockmarket-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Stockmarket-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1164, -- [11]
-			"Player-73-083743C5", -- [12]
+			180, -- [11]
+			"Player-73-0CBFCD1D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249766,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Stockmarket|r",
+			[51] = 1658800510,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [7]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Jaina*", -- [1]
+			"Stockmarket-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Stockmarket-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1165, -- [11]
-			"Player-73-083743C5", -- [12]
+			181, -- [11]
+			"Player-73-0CBFCD1D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249775,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Stockmarket|r",
+			[51] = 1658800515,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [8]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-405511-73-109629560|h[Guild: Dark Exiles]|h|r is looking for raiders of all classes and roles for our normal raid group. We are welcoming and willing to teach new players! We raid Tues/Thurs 7-9pm EST (server)", -- [1]
+			"Krahkhurz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Krahkhurz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1166, -- [11]
-			"Player-73-083743C5", -- [12]
+			182, -- [11]
+			"Player-73-0AB6ED27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249781,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Krahkhurz|r",
+			[51] = 1658800524,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"damn id pay that", -- [1]
+			"Bëllator-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Bëllator-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1167, -- [11]
-			"Player-73-083743C5", -- [12]
+			183, -- [11]
+			"Player-73-0EA3BAD2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249797,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffc59a6cBëllator|r",
+			[51] = 1658800525,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [10]
 		{
-			"that was a sick binding shot", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"you could also sneeze and finish jaina it was so fast", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1168, -- [11]
-			"Player-73-083743C5", -- [12]
+			184, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249836,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1658800605,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"tauren", -- [1]
+			"Kubinhaghin-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Kubinhaghin-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1170, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			202, -- [11]
+			"Player-73-0B96650F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249802,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeKubinhaghin|r",
+			[51] = 1658800677,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"fuck ur so hot moss", -- [1]
+			"Kubinhaghin-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Kubinhaghin-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1171, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			204, -- [11]
+			"Player-73-0B96650F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249812,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeKubinhaghin|r",
+			[51] = 1658800620,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"WHERE THE FUCK ARE THE PORTALS", -- [1]
+			"Pugsy-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Pugsy-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1172, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			209, -- [11]
+			"Player-73-0E305036", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249820,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcPugsy|r",
+			[51] = 1658800709,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [14]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"PLEASE GOD", -- [1]
+			"Pugsy-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Pugsy-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1173, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			210, -- [11]
+			"Player-73-0E305036", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249887,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcPugsy|r",
+			[51] = 1658800714,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [15]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"left", -- [1]
+			"Robbyrottin-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Robbyrottin-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1174, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			211, -- [11]
+			"Player-73-0EC1C680", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249892,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cRobbyrottin|r",
+			[51] = 1658800723,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [16]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"THE DADS ARE KICKING IN TOO HARD", -- [1]
+			"Pugsy-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Pugsy-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1175, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			212, -- [11]
+			"Player-73-0E305036", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249912,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcPugsy|r",
+			[51] = 1658800726,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [17]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"yamamma crib", -- [1]
+			"Bluesnick-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Bluesnick-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1176, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			213, -- [11]
+			"Player-73-0C7F1778", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249917,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Bluesnick|r",
+			[51] = 1658800729,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [18]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"JESUS MCCOY", -- [1]
+			"Pugsy-BleedingHollow", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Pugsy-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1177, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			214, -- [11]
+			"Player-73-0E305036", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657249861,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcPugsy|r",
+			[51] = 1658800732,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [19]
 		{
-			"wo", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
+			"IM A DOCTOR JIM, NOT A BRICKLAYER", -- [1]
+			"Vomitor-Zul'jin", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"Vomitor-Zul'jin", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			1181, -- [11]
-			"Player-73-083743C5", -- [12]
+			1, -- [10]
+			215, -- [11]
+			"Player-61-0E5B35AF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250148,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa9d271Vomitor-Zul'jin|r",
+			[51] = 1658800680,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [20]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"WTS +15 Mythic Plus keys. Group ready to go! Pst for more info!", -- [1]
+			"Spicibolt-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Spicibolt-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1182, -- [11]
-			"Player-73-083743C5", -- [12]
+			216, -- [11]
+			"Player-73-0EB963E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250103,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8687edSpicibolt|r",
+			[51] = 1658800696,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
 		{
-			"Interrupted Wo Drifter's |cff71d5ff|Hspell:366566:0|h[Burst]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Local Bleeding Hollow guild <Octopals> is selling AOTC Sunday at 9 server time. GOLD ONLY! Pst for more info. Last week to get AOTC!", -- [1]
+			"Moss-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Moss-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1184, -- [11]
-			"Player-73-083743C5", -- [12]
+			217, -- [11]
+			"Player-73-08410AC5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250107,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcMoss|r",
+			[51] = 1658800701,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [22]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"<3  WTS +15!// [ +20 ] KSM super price! loot and timed guaranteed ! Specific key! whisp info team ready n.n Ask for keys ! Only gold! not community.  <3", -- [1]
+			"Marytere-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Marytere-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1185, -- [11]
-			"Player-73-083743C5", -- [12]
+			218, -- [11]
+			"Player-73-0CE01371", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250114,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcMarytere|r",
+			[51] = 1658800787,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [23]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"remember when people didnt sell runs cause guilds were actually good?", -- [1]
+			"Moocowbell-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Moocowbell-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1186, -- [11]
-			"Player-73-083743C5", -- [12]
+			219, -- [11]
+			"Player-73-08568F5E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250121,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcMoocowbell|r",
+			[51] = 1658800753,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [24]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"your delusional runs have been sold since wotlk", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1187, -- [11]
-			"Player-73-083743C5", -- [12]
+			220, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250186,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1658800829,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [25]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"i member", -- [1]
+			"Wastecakes-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Wastecakes-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1188, -- [11]
-			"Player-73-083743C5", -- [12]
+			221, -- [11]
+			"Player-73-0BB1C8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250190,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffefefeWastecakes|r",
+			[51] = 1658800834,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [26]
 		{
-			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"even BC for bears", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1193, -- [11]
-			"Player-73-083743C5", -- [12]
+			222, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250171,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1658800840,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"i used to run server charity pug runs in wrath on Alterac Mountains... feel like an idiot that I wasn't \"selling\" them", -- [1]
+			"Tastykakes-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Tastykakes-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1195, -- [11]
-			"Player-73-083743C5", -- [12]
+			270, -- [11]
+			"Player-73-0EBDD9D2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250176,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Tastykakes|r",
+			[51] = 1658801027,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"Leap on Misload", -- [1]
-			"Misload-Illidan", -- [2]
+			"but they were definitely sold as far back", -- [1]
+			"Tastykakes-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Misload-Illidan", -- [5]
+			"2. Trade - City", -- [4]
+			"Tastykakes-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1197, -- [11]
-			"Player-57-0D02AA48", -- [12]
+			271, -- [11]
+			"Player-73-0EBDD9D2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Misload-Illidan|r",
-			[51] = 1657250177,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Tastykakes|r",
+			[51] = 1658801038,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
 		{
-			"3", -- [1]
-			"Misload-Illidan", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-367882-73-64168447|h[Guild: Trusted Assassins]|h|r recruiting mainly a M+ guild. All levels/roles welcomed. We are a new guild very chilled and mellow crew. Come join us and lets have fun!", -- [1]
+			"Bellìa-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Misload-Illidan", -- [5]
+			"2. Trade - City", -- [4]
+			"Bellìa-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1198, -- [11]
-			"Player-57-0D02AA48", -- [12]
+			272, -- [11]
+			"Player-73-09C98913", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Misload-Illidan|r",
-			[51] = 1657250179,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Bellìa|r",
+			[51] = 1658800996,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [30]
 		{
-			"2", -- [1]
-			"Misload-Illidan", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-405511-73-109629560|h[Guild: Dark Exiles]|h|r is looking for raiders of all classes and roles for our normal raid group. We are welcoming and willing to teach new players! We raid Tues/Thurs 7-9pm EST (server)", -- [1]
+			"Krahkhurz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Misload-Illidan", -- [5]
+			"2. Trade - City", -- [4]
+			"Krahkhurz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1199, -- [11]
-			"Player-57-0D02AA48", -- [12]
+			273, -- [11]
+			"Player-73-0AB6ED27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Misload-Illidan|r",
-			[51] = 1657250180,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff38bb9Krahkhurz|r",
+			[51] = 1658801044,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"1", -- [1]
-			"Misload-Illidan", -- [2]
+			"Ive completed |cffffff00|Hachievement:12478:Player-73-06F7AC9F:1:3:1:20:4294967295:4294967295:4294967295:4294967295|h[Secrets in the Sands]|h|rand Im standing in the Horde Embassy but I cant unlock Vulpera, what do??????", -- [1]
+			"Doggiedoor-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Misload-Illidan", -- [5]
+			"2. Trade - City", -- [4]
+			"Doggiedoor-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1200, -- [11]
-			"Player-57-0D02AA48", -- [12]
+			274, -- [11]
+			"Player-73-06F7AC9F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Misload-Illidan|r",
-			[51] = 1657250181,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff38bb9Doggiedoor|r",
+			[51] = 1658801143,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [32]
 		{
-			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-239044-73-99414554|h[Guild: LOOT BODIES]|h|r is looking for PvP focused players wanting to push rating in RBG/Arena in Season 4 and in Dragonflight! Also looking for RBG Team Leads! PST :)", -- [1]
+			"Troubskii-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Troubskii-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1203, -- [11]
-			"Player-73-083743C5", -- [12]
+			275, -- [11]
+			"Player-73-0EBCDB3B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250245,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Troubskii|r",
+			[51] = 1658801145,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
 		{
-			"Stone Shattering Leap on Jerkk", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"might be locked by rep?", -- [1]
+			"Tastykakes-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Tastykakes-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1208, -- [11]
-			"Player-73-083743C5", -- [12]
+			276, -- [11]
+			"Player-73-0EBDD9D2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250269,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Tastykakes|r",
+			[51] = 1658801159,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"3", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"I need rep?", -- [1]
+			"Doggiedoor-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Doggiedoor-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1209, -- [11]
-			"Player-73-083743C5", -- [12]
+			277, -- [11]
+			"Player-73-06F7AC9F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250271,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff38bb9Doggiedoor|r",
+			[51] = 1658801109,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [35]
 		{
-			"2", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"exalted with the vulpera", -- [1]
+			"Tastykakes-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Tastykakes-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1210, -- [11]
-			"Player-73-083743C5", -- [12]
+			278, -- [11]
+			"Player-73-0EBDD9D2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250272,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Tastykakes|r",
+			[51] = 1658801112,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [36]
 		{
-			"1", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"DAAAAAMN", -- [1]
+			"Doggiedoor-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Doggiedoor-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1211, -- [11]
-			"Player-73-083743C5", -- [12]
+			279, -- [11]
+			"Player-73-06F7AC9F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250273,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff38bb9Doggiedoor|r",
+			[51] = 1658801114,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [37]
 		{
-			"Stone Shattering Leap on Sorgeth", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Thought they took the rep lock out?", -- [1]
+			"Elisadi-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Elisadi-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1217, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			280, -- [11]
+			"Player-73-0CB13EF8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250237,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa22fc8Elisadi|r",
+			[51] = 1658801192,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [38]
 		{
-			"3", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Selling 15s! specific keys available! loot funnels available. Today is the last day of tyranical for s3 get that ksm mount!!", -- [1]
+			"Drvdm-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Drvdm-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1218, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			281, -- [11]
+			"Player-73-0E84A3A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250239,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Drvdm|r",
+			[51] = 1658801211,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [39]
 		{
-			"2", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"we have hit the limit for vulpera , so no more can be created", -- [1]
+			"Troubskii-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Troubskii-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1219, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			282, -- [11]
+			"Player-73-0EBCDB3B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250240,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff38bb9Troubskii|r",
+			[51] = 1658801163,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [40]
 		{
-			"1", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"try logging out completely and come back in", -- [1]
+			"Tastykakes-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Tastykakes-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1220, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			283, -- [11]
+			"Player-73-0EBDD9D2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250241,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Tastykakes|r",
+			[51] = 1658801178,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [41]
 		{
-			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"you have to ask someone if they will delete theirs for you but good luck", -- [1]
+			"Troubskii-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Troubskii-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1226, -- [11]
-			"Player-73-083743C5", -- [12]
+			284, -- [11]
+			"Player-73-0EBCDB3B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250328,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Troubskii|r",
+			[51] = 1658801179,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [42]
 		{
-			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"I dont want to make 1 just unlock it", -- [1]
+			"Doggiedoor-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Doggiedoor-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1227, -- [11]
-			"Player-73-083743C5", -- [12]
+			285, -- [11]
+			"Player-73-06F7AC9F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250328,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Doggiedoor|r",
+			[51] = 1658801179,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [43]
 		{
-			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"you need to do the mini questline about showing your worth to the horde as a vulpera", -- [1]
+			"Bëllator-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Bëllator-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1228, -- [11]
-			"Player-73-083743C5", -- [12]
+			286, -- [11]
+			"Player-73-0EA3BAD2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250328,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffc59a6cBëllator|r",
+			[51] = 1658801374,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [44]
 		{
-			"Interrupted Undying Stonefiend's |cff71d5ff|Hspell:328322:0|h[Villainous Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"its like a halfway point after doing the voldun storyline and actually unlocking it", -- [1]
+			"Bëllator-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Bëllator-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1231, -- [11]
-			"Player-73-083743C5", -- [12]
+			287, -- [11]
+			"Player-73-0EA3BAD2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250330,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffc59a6cBëllator|r",
+			[51] = 1658801388,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [45]
 		{
-			"Stone Shattering Leap on Jerkk", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Selling 15s! specific keys available! loot funnels available. Today is the last day of tyranical for s3 get that ksm mount!!", -- [1]
+			"Drvdm-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Drvdm-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1232, -- [11]
-			"Player-73-083743C5", -- [12]
+			288, -- [11]
+			"Player-73-0E84A3A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250331,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Drvdm|r",
+			[51] = 1658801388,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [46]
 		{
-			"3", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"hey can anyone come kill someone", -- [1]
+			"Foxtwo-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Foxtwo-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1233, -- [11]
-			"Player-73-083743C5", -- [12]
+			289, -- [11]
+			"Player-73-0EBD6864", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250332,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcFoxtwo|r",
+			[51] = 1658801397,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [47]
 		{
-			"2", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"for me outside org", -- [1]
+			"Foxtwo-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Foxtwo-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1234, -- [11]
-			"Player-73-083743C5", -- [12]
+			290, -- [11]
+			"Player-73-0EBD6864", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250334,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcFoxtwo|r",
+			[51] = 1658801340,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [48]
 		{
-			"1", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-401235-73-109577559|h[Guild: KITTY DEMON]|h|r's lf all roles/classes wanting to progress for AOTC/KSM every tier/season and prepare for DragonFlight! RBGs, 2v2, & 3v3. Free repairs too! Raids are Tue/Thu, 9pm-12am server. Pst or apply if interested. >:3", -- [1]
+			"Starffox-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Starffox-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1235, -- [11]
-			"Player-73-083743C5", -- [12]
+			291, -- [11]
+			"Player-73-0E93E7CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250335,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe97Starffox|r",
+			[51] = 1658801441,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"[WA RM+]: We still need 6.96 %", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"\"Best in Slot Homies\" Resurrected from the dead, the BISH is back.  Looking to enjoy the break with some new faces and old as well.", -- [1]
+			"Pointitout-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Pointitout-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1242, -- [11]
-			"Player-73-083743C5", -- [12]
+			292, -- [11]
+			"Player-73-0EC3ABB9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250362,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff00fe97Pointitout|r",
+			[51] = 1658801457,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"you have a pretty large box", -- [1]
+			"Netfire-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Netfire-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1243, -- [11]
-			"Player-73-083743C5", -- [12]
+			294, -- [11]
+			"Player-73-0BC2DA2B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250453,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff3ec6eaNetfire|r",
+			[51] = 1658801498,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			"Curse of Obliteration on Sorgeth", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"BISH? I thought she was a goner", -- [1]
+			"Blindlab-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Blindlab-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1244, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			297, -- [11]
+			"Player-73-0EBC1C27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250454,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcBlindlab|r",
+			[51] = 1658801501,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"3", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Selling 15s, 100k non specific, 120k specific or loot funnel. Guild run! Timed and all loot traded.", -- [1]
+			"Drvdm-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Drvdm-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1245, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			305, -- [11]
+			"Player-73-0E84A3A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250457,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Drvdm|r",
+			[51] = 1658801513,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"2", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-353065-73-107869557|h[Guild: SociallyAwkward]|h|r  Raiders - Tue/Thur. M+ Daily. PvP on demand. Casuals to Elitists without an ego, all are welcome. Cheers", -- [1]
+			"Shindown-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Shindown-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1246, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			331, -- [11]
+			"Player-73-0EC1C927", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250458,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffef367Shindown|r",
+			[51] = 1658801554,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"1", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Local Bleeding Hollow guild <Octopals> is selling AOTC Sunday at 9 server time. GOLD ONLY! Pst for more info. Last week to get AOTC!", -- [1]
+			"Moss-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Moss-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1250, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			348, -- [11]
+			"Player-73-08410AC5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250459,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcMoss|r",
+			[51] = 1658801576,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323538:0|h[Bolt of Power]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-239044-73-99414554|h[Guild: LOOT BODIES]|h|r is looking for PvP focused players wanting to push rating in RBG/Arena in Season 4 and in Dragonflight! Also looking for RBG Team Leads! PST :)", -- [1]
+			"Troubskii-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Troubskii-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1254, -- [11]
-			"Player-73-083743C5", -- [12]
+			364, -- [11]
+			"Player-73-0EBCDB3B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250545,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Troubskii|r",
+			[51] = 1658801534,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [56]
 		{
-			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Selling 15s, 100k non specific, 120k specific or loot funnel. Guild run! Timed and all loot traded. last week for ksm tyrannical week", -- [1]
+			"Drvdm-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Drvdm-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1256, -- [11]
-			"Player-73-083743C5", -- [12]
+			370, -- [11]
+			"Player-73-0E84A3A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250552,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Drvdm|r",
+			[51] = 1658801544,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [57]
 		{
-			"Haunting Fixation on Hebiursa", -- [1]
-			"Hebiursa-Illidan", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-401235-73-109577559|h[Guild: KITTY DEMON]|h|r's lf all roles/classes wanting to progress for AOTC/KSM every tier/season and prepare for DragonFlight! RBGs, 2v2, & 3v3. Free repairs too! Raids are Tue/Thu, 9pm-12am server. Pst or apply if interested. >:3", -- [1]
+			"Starffox-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Hebiursa-Illidan", -- [5]
+			"2. Trade - City", -- [4]
+			"Starffox-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1259, -- [11]
-			"Player-57-0D417AA7", -- [12]
+			376, -- [11]
+			"Player-73-0E93E7CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hebiursa-Illidan|r",
-			[51] = 1657250569,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe97Starffox|r",
+			[51] = 1658801612,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [58]
 		{
-			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323538:0|h[Bolt of Power]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-353065-73-107869557|h[Guild: SociallyAwkward]|h|r  Raiders - Tue/Sat 8:30 EST. M+ Daily. PvP on demand. Casuals to Elitists without an ego, all are welcome. Cheers", -- [1]
+			"Shindown-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Shindown-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1260, -- [11]
-			"Player-73-083743C5", -- [12]
+			385, -- [11]
+			"Player-73-0EC1C927", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250570,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffef367Shindown|r",
+			[51] = 1658801624,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [59]
 		{
-			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Roughly how much gold does it take to level Alch to max?", -- [1]
+			"Arnukk-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Arnukk-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1261, -- [11]
-			"Player-73-083743C5", -- [12]
+			429, -- [11]
+			"Player-73-0EB23106", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250577,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8687edArnukk|r",
+			[51] = 1658801648,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [60]
 		{
-			"Haunting Fixation on Misload", -- [1]
-			"Misload-Illidan", -- [2]
+			"Selling 15s, 100k non specific, 120k specific or loot funnel. Guild run! Timed and all loot traded. last week for ksm tyrannical week", -- [1]
+			"Drvdm-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Misload-Illidan", -- [5]
+			"2. Trade - City", -- [4]
+			"Drvdm-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1263, -- [11]
-			"Player-57-0D02AA48", -- [12]
+			450, -- [11]
+			"Player-73-0E84A3A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Misload-Illidan|r",
-			[51] = 1657250532,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffe7b09Drvdm|r",
+			[51] = 1658801733,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"2c", -- [1]
+			"Ripetomato-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Ripetomato-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1264, -- [11]
-			"Player-73-083743C5", -- [12]
+			457, -- [11]
+			"Player-73-0C890050", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250532,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Ripetomato|r",
+			[51] = 1658801736,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [62]
 		{
-			"I think I'm dcing?", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Local Bleeding Hollow guild <Octopals> is selling AOTC Sunday at 9 server time. GOLD ONLY! Pst for more info. Last week to get AOTC!", -- [1]
+			"Moss-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Moss-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1267, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			487, -- [11]
+			"Player-73-08410AC5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250615,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff006fdcMoss|r",
+			[51] = 1658801704,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [63]
 		{
-			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-405511-73-109629560|h[Guild: Dark Exiles]|h|r is looking for raiders of all classes and roles for our normal raid group. We are welcoming and willing to teach new players! We raid Tues/Thurs 7-9pm EST (server)", -- [1]
+			"Krahkhurz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Krahkhurz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1269, -- [11]
-			"Player-73-083743C5", -- [12]
+			502, -- [11]
+			"Player-73-0AB6ED27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250617,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Krahkhurz|r",
+			[51] = 1658801714,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [64]
 		{
-			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-401235-73-109577559|h[Guild: KITTY DEMON]|h|r's lf all roles/classes wanting to progress for AOTC/KSM every tier/season and prepare for DragonFlight! RBGs, 2v2, & 3v3. Free repairs too! Raids are Tue/Thu, 9pm-12am server. Pst or apply if interested. >:3", -- [1]
+			"Starffox-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Starffox-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1270, -- [11]
-			"Player-73-083743C5", -- [12]
+			517, -- [11]
+			"Player-73-0E93E7CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250627,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff00fe97Starffox|r",
+			[51] = 1658801727,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [65]
 		{
-			"okay the game has caught up lol", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"wtt |cff1eff00|Hitem:164438::::::::60:70::14::1:28:189:::::|h[Razorfin Helm]|h|r for belt", -- [1]
+			"Jothar-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Jothar-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1271, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			532, -- [11]
+			"Player-73-0DE381E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657250580,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfff38bb9Jothar|r",
+			[51] = 1658801806,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [66]
 		{
-			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"WTS |cff1eff00|Hitem:121083::::::::2:1454:::3:6654:1808:1776:2:9:25:28:1705:::::|h[Thunder Totem Spirit Necklace of the Aurora]|h|r  |cff1eff00|Hitem:5755::::::::2:1454:::::::::|h[Onyx Shredder Plate]|h|r  |cff0070dd|Hitem:19685::::::::2:1454:::::::::|h[Primal Batskin Jerkin]|h|r  |cff1eff00|Hitem:49567::::::::2:1454:::::::::|h[Gilnean Adventurer's Shirt]|h|r  ", -- [1]
+			"Rarewarez-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Rarewarez-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1277, -- [11]
-			"Player-73-083743C5", -- [12]
+			576, -- [11]
+			"Player-73-0EBCB5EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250664,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8687edRarewarez|r",
+			[51] = 1658801853,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [67]
 		{
-			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cff1eff00|Hitem:24143::::::::2:1454:::::::::|h[Initiate's Shirt]|h|r  |cff1eff00|Hitem:5107::::::::2:1454:::::::::|h[Deckhand's Shirt]|h|r", -- [1]
+			"Rarewarez-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Rarewarez-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1278, -- [11]
-			"Player-73-083743C5", -- [12]
+			583, -- [11]
+			"Player-73-0EBCB5EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250678,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8687edRarewarez|r",
+			[51] = 1658801859,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [68]
 		{
-			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"LF +10 STATS ENCHANT PST!!!", -- [1]
+			"Crupt", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Crupt", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1279, -- [11]
-			"Player-73-083743C5", -- [12]
+			630, -- [11]
+			"Player-1185-0E278EAC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250658,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffefefeCrupt|r",
+			[51] = 1658801919,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [69]
 		{
-			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"LF +10 STATS ENCHANT PST!!!", -- [1]
+			"Crupt-Bloodscalp", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Crupt-Bloodscalp", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1280, -- [11]
-			"Player-73-083743C5", -- [12]
+			631, -- [11]
+			"Player-1185-0E278EAC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250736,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffefefeCrupt-Bloodscalp|r",
+			[51] = 1658801920,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [70]
 		{
-			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"||Selling *|cffa335ee|Hitem:156798::::::::60:103::23::1:28:872:::::|h[The Hivemind]|h|r* MOUNT ,RUN 100% guaranteed!!||Gold only! Run 20min", -- [1]
+			"Leblanclb-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Leblanclb-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1281, -- [11]
-			"Player-73-083743C5", -- [12]
+			781, -- [11]
+			"Player-73-0C6F6CBA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250751,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Leblanclb|r",
+			[51] = 1658802070,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [71]
 		{
-			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-405511-73-109629560|h[Guild: Dark Exiles]|h|r is looking for raiders of all classes and roles for our normal raid group. We are welcoming and willing to teach new players! We raid Tues/Thurs 7-9pm EST (server)", -- [1]
+			"Krahkhurz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Krahkhurz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1282, -- [11]
-			"Player-73-083743C5", -- [12]
+			787, -- [11]
+			"Player-73-0AB6ED27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250708,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Krahkhurz|r",
+			[51] = 1658802084,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Local Bleeding Hollow guild <Octopals> is selling AOTC Sunday at 9 server time. GOLD ONLY! Pst for more info. Last week to get AOTC!", -- [1]
+			"Moss-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Moss-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1283, -- [11]
-			"Player-73-083743C5", -- [12]
+			887, -- [11]
+			"Player-73-08410AC5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250719,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcMoss|r",
+			[51] = 1658802336,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [73]
 		{
-			"need more % after boss", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-367882-73-64168447|h[Guild: Trusted Assassins]|h|r recruiting mainly a M+ guild. All levels/roles welcomed. We are a new guild very chilled and mellow crew. Come join us and lets have fun!", -- [1]
+			"Deyviá-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Deyviá-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1285, -- [11]
-			"Player-73-083743C5", -- [12]
+			890, -- [11]
+			"Player-73-09D76B27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250792,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8687edDeyviá|r",
+			[51] = 1658802338,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [74]
 		{
-			"[WA RM+]: We still need 5.49 %", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"recruiting like minded pvpers to push 2k every season, hmu", -- [1]
+			"Rauftrueshot-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Rauftrueshot-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1307, -- [11]
-			"Player-73-083743C5", -- [12]
+			895, -- [11]
+			"Player-73-0EAB21A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250882,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffa9d271Rauftrueshot|r",
+			[51] = 1658802341,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [75]
 		{
-			"take bat to front", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-401235-73-109577559|h[Guild: KITTY DEMON]|h|r's a new guild lf all wanting to progress for AOTC/KSM every tier/season and prepare for DragonFlight! RBGs, 2v2, & 3v3. Free repairs too! Raids are Tue/Thu, 9pm-12am server. Pst or apply if interested. >:3", -- [1]
+			"Starffox-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Starffox-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1308, -- [11]
-			"Player-73-083743C5", -- [12]
+			905, -- [11]
+			"Player-73-0E93E7CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250884,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff00fe97Starffox|r",
+			[51] = 1658802351,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [76]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"WTS carry  m+15 -+20 Timed  / full KSM all Group ready / Only gold / Pst for more info", -- [1]
+			"Albús-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Albús-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1309, -- [11]
-			"Player-73-083743C5", -- [12]
+			931, -- [11]
+			"Player-73-0EC3644D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250981,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff8687edAlbús|r",
+			[51] = 1658802319,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [77]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"WTS Mythic +15 ||KSM|| Torghast 12 - 16|| Lvl 51 to 60|| !!GOLD ONLY!! ", -- [1]
+			"Miguelb-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Miguelb-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1310, -- [11]
-			"Player-73-083743C5", -- [12]
+			260, -- [11]
+			"Player-73-0E5E3FB7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250984,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffc31d39Miguelb|r",
+			[51] = 1658858030,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [78]
 		{
-			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"LF 2v2 partner semi legit", -- [1]
+			"Jundosa-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Jundosa-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1311, -- [11]
-			"Player-73-083743C5", -- [12]
+			327, -- [11]
+			"Player-73-0E9D57F7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250985,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffc59a6cJundosa|r",
+			[51] = 1658858046,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:391:16:9:8:124:130|h[Keystone: Tazavesh: Streets of Wonder (16)]|h|r (Kyrian)", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"||Selling *|cffa335ee|Hitem:156798::::::::60:103::23::1:28:872:::::|h[The Hivemind]|h|r MOUNT ,RUN 100% guaranteed!!||Gold only! Run 20min", -- [1]
+			"Leblanclb-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Leblanclb-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1316, -- [11]
-			"Player-73-083743C5", -- [12]
+			449, -- [11]
+			"Player-73-0C6F6CBA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657250943,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Leblanclb|r",
+			[51] = 1658858243,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [80]
 		{
-			"ty", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"WTS 48 |cffffffff|Hitem:6522::::::::49:264:::::::::|h[Deviate Fish]|h|r 3k. Almost half off AH price.", -- [1]
+			"Whambamsham-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Whambamsham-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1328, -- [11]
-			"Player-73-083743C5", -- [12]
+			635, -- [11]
+			"Player-73-0EC39DBE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657251087,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcWhambamsham|r",
+			[51] = 1658858457,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"np", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"Please buy my |cffffffff|Hitem:6522::::::::49:264:::::::::|h[Deviate Fish]|h|r so I can get max flying", -- [1]
+			"Whambamsham-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Whambamsham-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1330, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			651, -- [11]
+			"Player-73-0EC39DBE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251098,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff006fdcWhambamsham|r",
+			[51] = 1658858506,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [82]
 		{
-			"you want this |cffa335ee|Hitem:178826::::::::60:65::16:5:7781:7359:6652:1576:6646:1:28:1279:::::|h[Sunblood Amethyst]|h|r?", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-405511-73-109629560|h[Guild: Dark Exiles]|h|r is looking for raiders of all classes and roles for our normal raid group. We are welcoming and willing to teach new players! We raid Tues/Thurs 7-9pm EST (server)", -- [1]
+			"Krahkhurz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Krahkhurz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1331, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			652, -- [11]
+			"Player-73-0AB6ED27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251104,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfff38bb9Krahkhurz|r",
+			[51] = 1658858527,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"Nolie", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"WTB TOP 20, wsp me thx", -- [1]
+			"Locnuts-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Locnuts-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1332, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			654, -- [11]
+			"Player-73-0E22DC13", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251107,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff8687edLocnuts|r",
+			[51] = 1658858657,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [84]
 		{
-			"didnt realize you were dc'ing 3rd boss", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"who tryna get boop bopped?", -- [1]
+			"Guufy-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Guufy-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1334, -- [11]
-			"Player-73-083743C5", -- [12]
+			655, -- [11]
+			"Player-73-0EB63211", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657251064,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cff00fe97Guufy|r",
+			[51] = 1658858769,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"if you dont need", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"[Guild: BlackFlag] New Twink/Farming guild looking for members/officers. Open to anyone interested in twinking and farming or learning more about it. Free gbank/repairs", -- [1]
+			"Twentyàteboe-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Twentyàteboe-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1335, -- [11]
-			"Player-73-06EE3479", -- [12]
+			656, -- [11]
+			"Player-73-0EB8E9A0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657251067,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cffc59a6cTwentyàteboe|r",
+			[51] = 1658858883,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"i just loh you cus i was like he has 1 hp left", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"LF 2's partner", -- [1]
+			"Jundosa-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Jundosa-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1336, -- [11]
-			"Player-73-083743C5", -- [12]
+			657, -- [11]
+			"Player-73-0E9D57F7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657251074,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cffc59a6cJundosa|r",
+			[51] = 1658858997,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [87]
 		{
-			"not sure if it's good, I really haven't played int classes this xpac", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-402715-73-109596564|h[Guild: Fair To Middling]|h|r Laid back guild looking for others to enjoy the game with. Mythic plus is our primary focus for now. All roles are welcome!", -- [1]
+			"Papmonk-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Papmonk-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1337, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			658, -- [11]
+			"Player-73-0EC0202D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251142,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff00fe97Papmonk|r",
+			[51] = 1658859044,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [88]
 		{
-			"yeah I don't need it", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-367882-73-64168447|h[Guild: Trusted Assassins]|h|r recruiting mainly a M+ guild. All levels/roles welcomed. We are a new guild very chilled and mellow crew. Come join us and lets have fun!", -- [1]
+			"Kamìya-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Kamìya-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1338, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			659, -- [11]
+			"Player-73-0ACBD458", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251145,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfff38bb9Kamìya|r",
+			[51] = 1658859053,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"oh you're good, my game like stopped responding for a little bit during 3rd  there", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-140294-73-77894545|h[Guild: Cow Udders Need Tugging]|h|r Chill, Competetive, Active, & Long-Standing BH guild. Two Squads: Mythic (T/W) & Heroic (Th/Su) 745-8 EST, with Key Night on Mon. PST to get the ball rolling", -- [1]
+			"Cameltõtems-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Cameltõtems-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1339, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			660, -- [11]
+			"Player-73-0C736746", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251162,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff006fdcCameltõtems|r",
+			[51] = 1658859100,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			"so good job keeping us all alive lol", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-405511-73-109629560|h[Guild: Dark Exiles]|h|r is looking for raiders of all classes and roles for our normal raid group. We are welcoming and willing to teach new players! We raid Tues/Thurs 7-9pm EST (server)", -- [1]
+			"Krahkhurz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Krahkhurz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1342, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			661, -- [11]
+			"Player-73-0AB6ED27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251163,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfff38bb9Krahkhurz|r",
+			[51] = 1658859074,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [91]
 		{
-			"ty!", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-402715-73-109596564|h[Guild: Fair To Middling]|h|r Laid back guild looking for others to enjoy the game with. Mythic plus is our primary focus for now. All roles are welcome!", -- [1]
+			"Papmonk-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Papmonk-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1353, -- [11]
-			"Player-73-06EE3479", -- [12]
+			689, -- [11]
+			"Player-73-0EC0202D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657251284,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff00fe97Papmonk|r",
+			[51] = 1658859281,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [92]
 		{
-			"np!", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-367882-73-64168447|h[Guild: Trusted Assassins]|h|r recruiting mainly a M+ guild. All levels/roles welcomed. We are a new guild very chilled and mellow crew. Come join us and lets have fun!", -- [1]
+			"Kamìya-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Kamìya-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1354, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			690, -- [11]
+			"Player-73-0ACBD458", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251287,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfff38bb9Kamìya|r",
+			[51] = 1658859527,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [93]
 		{
-			"gonna do some tw so done with keys for now", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Juggalo ....:(", -- [1]
+			"Guccifur-Shu'halo", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Guccifur-Shu'halo", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1359, -- [11]
-			"Player-73-083743C5", -- [12]
+			691, -- [11]
+			"Player-47-085F7C92", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657251347,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Guccifur-Shu'halo|r",
+			[51] = 1658859608,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [94]
 		{
-			"ty for coming and helping", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"Whoop whoop?!", -- [1]
+			"Crematiia-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Crematiia-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1360, -- [11]
-			"Player-73-083743C5", -- [12]
+			700, -- [11]
+			"Player-73-0E41CA56", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657251358,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffefefeCrematiia|r",
+			[51] = 1658859701,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [95]
 		{
-			"kk, thanks for the keys", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"who done invoked ninjas?", -- [1]
+			"Crematiia-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Crematiia-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1361, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			706, -- [11]
+			"Player-73-0E41CA56", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251301,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfffefefeCrematiia|r",
+			[51] = 1658859714,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"y'all have a good night", -- [1]
-			"Sorgeth-BleedingHollow", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-405511-73-109629560|h[Guild: Dark Exiles]|h|r is looking for raiders of all classes and roles for our normal raid group. We are welcoming and willing to teach new players! We raid Tues/Thurs 7-9pm EST (server)", -- [1]
+			"Krahkhurz-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Sorgeth-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Krahkhurz-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1362, -- [11]
-			"Player-73-0B33C45A", -- [12]
+			727, -- [11]
+			"Player-73-0AB6ED27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sorgeth|r",
-			[51] = 1657251317,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfff38bb9Krahkhurz|r",
+			[51] = 1658859759,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"you too", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
+			"juggalos have been classified as a criminal street gang by gov. and law enforcement.    true story ", -- [1]
+			"Discpicable-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
+			"1. General - Oribos", -- [4]
+			"Discpicable-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Oribos", -- [9]
 			0, -- [10]
-			1363, -- [11]
-			"Player-73-083743C5", -- [12]
+			735, -- [11]
+			"Player-73-0E85A8D5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1657251321,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffefefeDiscpicable|r",
+			[51] = 1658859732,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"thx for the carry", -- [1]
-			"Holynoly-BleedingHollow", -- [2]
+			"juggalos are too stupid to spell enforcement", -- [1]
+			"Quangduck-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Holynoly-BleedingHollow", -- [5]
+			"2. Trade - City", -- [4]
+			"Quangduck-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1364, -- [11]
-			"Player-73-06EE3479", -- [12]
+			740, -- [11]
+			"Player-73-0EBECFB5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHolynoly|r",
-			[51] = 1657251384,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff00fe97Quangduck|r",
+			[51] = 1658859832,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
-	["ConvertKeybindings"] = true,
 	["BodyGuard"] = {
-		["Active"] = false,
-		["Health"] = 0,
-		["MaxHealth"] = 0,
 		["IsInValidZone"] = true,
+		["MaxHealth"] = 0,
+		["Health"] = 0,
+		["Active"] = false,
 	},
-	["ChatEditHistory"] = {
-		"/p yeah he came back briefly i think", -- [1]
-		"/p and was back out", -- [2]
-		"/p just gonna try my 15 hoa i guess", -- [3]
-		"what happened to no retail", -- [4]
-		"wow", -- [5]
-		"i see how it is", -- [6]
-		"/p ey", -- [7]
-		"/p gonna go left start", -- [8]
-		"/readycheck", -- [9]
-		"/pull 10", -- [10]
-		"/g that was a sick binding shot", -- [11]
-		"/p wo", -- [12]
-		"/p need more % after boss", -- [13]
-		"/p take bat to front", -- [14]
-		"/p ty", -- [15]
-		"/p didnt realize you were dc'ing 3rd boss", -- [16]
-		"/p i just loh you cus i was like he has 1 hp left", -- [17]
-		"/p gonna do some tw so done with keys for now", -- [18]
-		"/p ty for coming and helping", -- [19]
-		"/p you too", -- [20]
-	},
+	["ConvertKeybindings"] = true,
 }

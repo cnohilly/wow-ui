@@ -2,2205 +2,2205 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"hey all!", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"Interrupted Ingra Maloch's |cff71d5ff|Hspell:323057:0|h[Spirit Bolt]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1979, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1596, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650909764,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155182,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"ey", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"did i do damage dorkk", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1980, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1599, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650909823,
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155254,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"at stone", -- [1]
-			"Soapbiscuit-Destromath", -- [2]
+			"MoTS Maze Automatic Navigator Loaded, Version: 1.0.8", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soapbiscuit-Destromath", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1981, -- [11]
-			"Player-77-0EB1ADF8", -- [12]
+			1600, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Soapbiscuit-Destromath|r",
-			[51] = 1650909840,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155257,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"yes, i am stoned", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"ill have to see jones", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1982, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1602, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650909848,
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155261,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"wait", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"woooow", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1983, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1603, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650909850,
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155265,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"nevermind", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"id do more but i have to lust for some reason", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1984, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1604, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650909852,
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155273,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [6]
 		{
-			"read that wrong", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"Interrupted Mistveil Tender's |cff71d5ff|Hspell:324914:0|h[Nourish the Forest]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1985, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1615, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650909856,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155374,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"im stoned too ", -- [1]
-			"Hexaroo-Kil'jaeden", -- [2]
+			"Exit: ↑ FRONT ↑", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hexaroo-Kil'jaeden", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1986, -- [11]
-			"Player-9-0B23E9FC", -- [12]
+			1618, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
-			[51] = 1650909873,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155399,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"LF cata engineer to socket |cff0070dd|Hitem:77530::::::::36:63:::::::::|h[Ghost Iron Dragonling]|h|r", -- [1]
-			"Teebz-BleedingHollow", -- [2]
+			"Exit：↑ (front)", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Teebz-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1987, -- [11]
-			"Player-73-0884C190", -- [12]
+			1619, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaTeebz|r",
-			[51] = 1650909903,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155399,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"i need 1 min srry ", -- [1]
-			"Hexaroo-Kil'jaeden", -- [2]
+			"Exit：↑ (front)", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hexaroo-Kil'jaeden", -- [5]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1993, -- [11]
-			"Player-9-0B23E9FC", -- [12]
+			1620, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
-			[51] = 1650909935,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659155399,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [10]
 		{
-			"bio", -- [1]
-			"Hexaroo-Kil'jaeden", -- [2]
+			"No more Pride   End: 68.08%", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hexaroo-Kil'jaeden", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1997, -- [11]
-			"Player-9-0B23E9FC", -- [12]
+			1621, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
-			[51] = 1650909939,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155344,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"5 bucks per min", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"Interrupted Mistveil Tender's |cff71d5ff|Hspell:324914:0|h[Nourish the Forest]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1999, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1622, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650909945,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155350,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"r", -- [1]
-			"Hexaroo-Kil'jaeden", -- [2]
+			"Exit: ↗ RIGHT FRONT ↗", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hexaroo-Kil'jaeden", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2003, -- [11]
-			"Player-9-0B23E9FC", -- [12]
+			1625, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
-			[51] = 1650910009,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155451,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"No food (4): Hexaroo-Kil'jaeden, Dorkk-BleedingHollow, Stryfë-BleedingHollow, Papipriest", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"Exit：↗ (front right)", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2006, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1626, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650910017,
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155451,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"No flask (3): Hexaroo-Kil'jaeden, Dorkk-BleedingHollow, Stryfë-BleedingHollow", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"Exit：↗ (front right)", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2007, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1627, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650910017,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659155451,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [15]
 		{
-			"Party Buffs All", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"No more Pride   End: 68.08%", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2008, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1629, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650910017,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155457,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [16]
 		{
-			"awk", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"3", -- [1]
+			"Randymarshxo-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Randymarshxo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2010, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1631, -- [11]
+			"Player-3676-0DDBFEAF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910053,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Randymarshxo-Area52|r",
+			[51] = 1659155459,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [17]
 		{
-			"lol", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"2", -- [1]
+			"Randymarshxo-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Randymarshxo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2011, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1632, -- [11]
+			"Player-3676-0DDBFEAF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650910053,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Randymarshxo-Area52|r",
+			[51] = 1659155400,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [18]
 		{
-			"my metaa", -- [1]
-			"Papipriest-Thunderlord", -- [2]
+			"Interrupted |cff71d5ff|Hspell:324776:0|h[Bramblethorn Coat]|h|r on Mistveil Shaper", -- [1]
+			"Randymarshxo-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papipriest-Thunderlord", -- [5]
+			"Randymarshxo-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2012, -- [11]
-			"Player-77-0DF87590", -- [12]
+			1634, -- [11]
+			"Player-3676-0DDBFEAF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePapipriest-Thunderlord|r",
-			[51] = 1650910059,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Randymarshxo-Area52|r",
+			[51] = 1659155403,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"lmao sorry i was in another world ", -- [1]
-			"Soapbiscuit-Destromath", -- [2]
+			"Interrupted Mistveil Tender's |cff71d5ff|Hspell:324914:0|h[Nourish the Forest]|h|r!", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soapbiscuit-Destromath", -- [5]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2013, -- [11]
-			"Player-77-0EB1ADF8", -- [12]
+			1635, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Soapbiscuit-Destromath|r",
-			[51] = 1650910063,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155407,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"Interrupted Decaying Flesh Giant's |cff71d5ff|Hspell:329239:0|h[Creepy Crawlers]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit: ↑ FRONT ↑", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2021, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1637, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910079,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155488,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"Interrupted Fungalmancer's |cff71d5ff|Hspell:328016:0|h[Wonder Grow]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit：↑ (front)", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2026, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1638, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910189,
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155488,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"Binding Shot Down", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit：↑ (front)", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2032, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1639, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910289,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659155488,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [23]
 		{
-			"Binding Shot Down", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"No more Pride   End: 68.08%", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2043, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1640, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910401,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155493,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [24]
 		{
-			"Binding Shot Down", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"skip as hunter with trap + feign", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2056, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1642, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910575,
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155564,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"Interrupted Plaguebinder's |cff71d5ff|Hspell:328094:0|h[Pestilence Bolt]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:8:Player-73-0EC49210:1:7:29:22:4294967295:4294967295:4294967295:4294967295|h[Level 30]|h|r!", -- [1]
+			"Swayzexp-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Swayzexp-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2061, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1643, -- [11]
+			"Player-73-0EC49210", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910644,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8687edSwayzexp|r",
+			[51] = 1659155523,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [26]
 		{
-			"Interrupted Doctor Ickus's |cff71d5ff|Hspell:322358:0|h[Burning Strain]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit: ↘ Near Entrance ↘", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2074, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1646, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910831,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155610,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"Binding Shot Down", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit：↘ (back left)", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2079, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1647, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910877,
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155610,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [28]
 		{
-			"Interrupted Doctor Ickus's |cff71d5ff|Hspell:322358:0|h[Burning Strain]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit：↘ (back left)", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2081, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1648, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650910904,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659155610,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [29]
 		{
-			"Interrupted Slime Tentacle's |cff71d5ff|Hspell:319898:0|h[Vile Spit]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"No more Pride   End: 68.08%", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2090, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1651, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911013,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155615,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [30]
 		{
-			"Interrupted Venomous Sniper's |cff71d5ff|Hspell:328651:0|h[Call Venomfang]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Interrupted Mistveil Tender's |cff71d5ff|Hspell:324914:0|h[Nourish the Forest]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2097, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1652, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911117,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155631,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"Binding Shot Down", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"3", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2106, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1653, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911266,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155631,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [32]
 		{
-			"have enough", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit: ← 1st LEFT ←", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2109, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1655, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911321,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155601,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"just needed 81.5", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit：← (left)", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2112, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1656, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911381,
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155601,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"put him", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Exit：← (left)", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2116, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1658, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911427,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659155601,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [35]
 		{
-			"in spirite", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"No more Pride   End: 68.08%", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2117, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1660, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911429,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155666,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"Interrupted Ickor Bileflesh's |cff71d5ff|Hspell:328094:0|h[Pestilence Bolt]|h|r!", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2134, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1671, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911600,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155700,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:180653:391:6:10:6:0:0|h[Keystone: Tazavesh: Streets of Wonder (6)]|h|r (Kyrian)", -- [1]
-			"Soapbiscuit-Destromath", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Soapbiscuit-Destromath", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2151, -- [11]
-			"Player-77-0EB1ADF8", -- [12]
+			1676, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Soapbiscuit-Destromath|r",
-			[51] = 1650911752,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155722,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"anyone not need anything?", -- [1]
-			"Hexaroo-Kil'jaeden", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hexaroo-Kil'jaeden", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2158, -- [11]
-			"Player-9-0B23E9FC", -- [12]
+			1684, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcHexaroo-Kil'jaeden|r",
-			[51] = 1650911785,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155804,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [39]
 		{
-			"ty for the inv", -- [1]
-			"Dorkk-BleedingHollow", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dorkk-BleedingHollow", -- [5]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2164, -- [11]
-			"Player-73-0A3F8EDD", -- [12]
+			1691, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1650911875,
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155769,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"WTS |cffa335ee|Hitem:161134::::::::60:104::13::1:28:872::::Player-73-0E425134:|h[Mecha-Mogul Mk2]|h|r cheaper than AH pst", -- [1]
-			"Maplecrisp-BleedingHollow", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Maplecrisp-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2171, -- [11]
-			"Player-73-0CCB2305", -- [12]
+			1700, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Maplecrisp|r",
-			[51] = 1650911927,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155851,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"WTB |cff1eff00|Hitem:22451::::::::60:264:::::::::|h[Primal Air]|h|r", -- [1]
-			"Wakened-BleedingHollow", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wakened-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2172, -- [11]
-			"Player-73-0EAAC0D6", -- [12]
+			1708, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWakened|r",
-			[51] = 1650911933,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155875,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"Selling m15 Tazacesh:Streets, cheap af 99k ! 278ilvl weekly chest guaranteed.", -- [1]
-			"Monpipal-BleedingHollow", -- [2]
+			"???", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Monpipal-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2173, -- [11]
-			"Player-73-0C0C241D", -- [12]
+			1710, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Monpipal|r",
-			[51] = 1650912037,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155827,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"<The Early Shift 5/11M> Selling Normal & Heroic Full Clears/ individual bosses, with or without tier & MYTHIC VG & Skolex.  DM me now to guarantee your spot!  Need to fill up your vault with keys?  Let me help you with your 15's. Gold Only!", -- [1]
-			"Rowindru-BleedingHollow", -- [2]
+			":D", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Rowindru-BleedingHollow", -- [5]
+			"", -- [4]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2182, -- [11]
-			"Player-73-0EA55288", -- [12]
+			1716, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Rowindru|r",
-			[51] = 1650912216,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659155838,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [44]
 		{
-			"Selling m15 Tazacesh:Streets, cheap af 99k ! 278ilvl weekly chest guaranteed.", -- [1]
-			"Monpipal-BleedingHollow", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Monpipal-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2183, -- [11]
-			"Player-73-0C0C241D", -- [12]
+			1722, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Monpipal|r",
-			[51] = 1650912218,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155906,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"|cffffd100|HclubFinder:ClubFinder-1-249099-73-100574548|h[Guild: Its Just A Phase]|h|r is recruiting a healer and ranged dps.  9/11 Heroic. Wed/Thur raid nights 8-11 EST. If interested, please inquire for more information.", -- [1]
-			"Hyperbole-BleedingHollow", -- [2]
+			"Freeze Tag Fixation on Spritzz", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hyperbole-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2186, -- [11]
-			"Player-73-0EAEE41B", -- [12]
+			1723, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaHyperbole|r",
-			[51] = 1650912558,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155906,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"|cffa335ee|Hitem:143643::::::::53:65::6::1:28:872:::::|h[Abyss Worm]|h|r Woot!", -- [1]
-			"Gothgoddess-BleedingHollow", -- [2]
+			"Interrupted Mistcaller's |cff71d5ff|Hspell:321828:0|h[Patty Cake]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gothgoddess-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2187, -- [11]
-			"Player-73-0CCDF7DD", -- [12]
+			1729, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Gothgoddess|r",
-			[51] = 1650912621,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155927,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"ugly ass mount", -- [1]
-			"Chillinkilln-BleedingHollow", -- [2]
+			"i tried to grief you shooting monks out there", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Chillinkilln-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2188, -- [11]
-			"Player-73-0E86EC22", -- [12]
+			1733, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Chillinkilln|r",
-			[51] = 1650912645,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659155884,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"omg i need to find a gnome for this stupid achievment and i have not seen on all week ", -- [1]
-			"Micap-BleedingHollow", -- [2]
+			"dont lie that was the best grip of your life", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Micap-BleedingHollow", -- [5]
+			"", -- [4]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2189, -- [11]
-			"Player-73-06DC8DC2", -- [12]
+			1734, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMicap|r",
-			[51] = 1650912647,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659155884,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [49]
 		{
-			"are they like extinct", -- [1]
-			"Dafftmonk-BleedingHollow", -- [2]
+			"SEED", -- [1]
+			"Randymarshxo-Area52", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dafftmonk-BleedingHollow", -- [5]
+			"", -- [4]
+			"Randymarshxo-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2190, -- [11]
-			"Player-73-0EB182E1", -- [12]
+			1739, -- [11]
+			"Player-3676-0DDBFEAF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Dafftmonk|r",
-			[51] = 1650912667,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Randymarshxo-Area52|r",
+			[51] = 1659155901,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"queue for 40 man bg", -- [1]
-			"Amethyst-BleedingHollow", -- [2]
+			"i mean i wouldve dodged without grip", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Amethyst-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2191, -- [11]
-			"Player-73-0A9EF7E6", -- [12]
+			1740, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Amethyst|r",
-			[51] = 1650912672,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155902,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"i guess they are ", -- [1]
-			"Micap-BleedingHollow", -- [2]
+			"no ", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Micap-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2192, -- [11]
-			"Player-73-06DC8DC2", -- [12]
+			1741, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMicap|r",
-			[51] = 1650912677,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155965,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"i did 3 bgs lol, didnt see a single one ", -- [1]
-			"Micap-BleedingHollow", -- [2]
+			"you dont deserve seed", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Micap-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2193, -- [11]
-			"Player-73-06DC8DC2", -- [12]
+			1743, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMicap|r",
-			[51] = 1650912688,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155969,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"wow", -- [1]
-			"Beddbug-BleedingHollow", -- [2]
+			"he tried to kill me", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Beddbug-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2194, -- [11]
-			"Player-73-066532F3", -- [12]
+			1744, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaBeddbug|r",
-			[51] = 1650912695,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155972,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"Keep queuing for bgs but do it in Dal", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:326046:0|h[Stimulate Resistance]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2196, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			1745, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1650912720,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155973,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"so you can look for gnomes there", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"you can thank spritzz", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2197, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			1746, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1650912731,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155991,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [56]
 		{
-			"|cff71d5ff|Hspell:72808:0|h[Bloodbathed Frostbrood Vanquisher]|h|r woot!!!", -- [1]
-			"Keepersdemon-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:326046:0|h[Stimulate Resistance]|h|r!", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Keepersdemon-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2198, -- [11]
-			"Player-73-0A9AAEC6", -- [12]
+			1747, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Keepersdemon|r",
-			[51] = 1650912752,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659155999,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [57]
 		{
-			"yea for sure ill try that", -- [1]
-			"Micap-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:340544:0|h[Stimulate Regeneration]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Micap-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2199, -- [11]
-			"Player-73-06DC8DC2", -- [12]
+			1748, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMicap|r",
-			[51] = 1650912760,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659155945,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [58]
 		{
-			"i figured oribos would be the place to do it", -- [1]
-			"Micap-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:326046:0|h[Stimulate Resistance]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Micap-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2200, -- [11]
-			"Player-73-06DC8DC2", -- [12]
+			1754, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMicap|r",
-			[51] = 1650912781,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156026,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [59]
 		{
-			"so uh, whats up with the spectral trees and such in org?", -- [1]
-			"Danyedk-BleedingHollow", -- [2]
+			"Volatile Acid on Randymarshxo", -- [1]
+			"Randymarshxo-Area52", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Danyedk-BleedingHollow", -- [5]
+			"", -- [4]
+			"Randymarshxo-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2201, -- [11]
-			"Player-73-0E65668D", -- [12]
+			1755, -- [11]
+			"Player-3676-0DDBFEAF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Danyedk|r",
-			[51] = 1650912803,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Randymarshxo-Area52|r",
+			[51] = 1659156036,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"hippie easter", -- [1]
-			"Chillinkilln-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:326046:0|h[Stimulate Resistance]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Chillinkilln-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2202, -- [11]
-			"Player-73-0E86EC22", -- [12]
+			1757, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Chillinkilln|r",
-			[51] = 1650912822,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156048,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"it's the ghost of all the trees that were murdered to build this city ", -- [1]
-			"Silphee-BleedingHollow", -- [2]
+			"Volatile Acid on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Silphee-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2203, -- [11]
-			"Player-73-0C07BFF6", -- [12]
+			1763, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaSilphee|r",
-			[51] = 1650912823,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156004,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"mystery trees", -- [1]
-			"Ragex-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:340544:0|h[Stimulate Regeneration]|h|r!", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ragex-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2204, -- [11]
-			"Player-73-0A84A5D2", -- [12]
+			1764, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cRagex|r",
-			[51] = 1650912823,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156015,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"its for tree day ", -- [1]
-			"Micap-BleedingHollow", -- [2]
+			"Volatile Acid on Spritzz", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Micap-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2205, -- [11]
-			"Player-73-06DC8DC2", -- [12]
+			1765, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMicap|r",
-			[51] = 1650912834,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659156016,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"our characters are being haunted by the guilt of genocide", -- [1]
-			"Garraxx-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:326046:0|h[Stimulate Resistance]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Garraxx-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2206, -- [11]
-			"Player-73-0EADCFA5", -- [12]
+			1766, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Garraxx|r",
-			[51] = 1650912839,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156094,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [65]
 		{
-			"yeah we paved paradise and put up a parking lot ", -- [1]
-			"Silphee-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:326046:0|h[Stimulate Resistance]|h|r!", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Silphee-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2207, -- [11]
-			"Player-73-0C07BFF6", -- [12]
+			1769, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaSilphee|r",
-			[51] = 1650912850,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156113,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [66]
 		{
-			"its the souls of the extinct gnomes", -- [1]
-			"Dafftmonk-BleedingHollow", -- [2]
+			"Volatile Acid on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dafftmonk-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2208, -- [11]
-			"Player-73-0EB182E1", -- [12]
+			1771, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Dafftmonk|r",
-			[51] = 1650912856,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156119,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"shouldnt have killed all those night elves", -- [1]
-			"Garraxx-BleedingHollow", -- [2]
+			"Volatile Acid on Randymarshxo", -- [1]
+			"Randymarshxo-Area52", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Garraxx-BleedingHollow", -- [5]
+			"", -- [4]
+			"Randymarshxo-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2209, -- [11]
-			"Player-73-0EADCFA5", -- [12]
+			1772, -- [11]
+			"Player-3676-0DDBFEAF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Garraxx|r",
-			[51] = 1650912863,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Randymarshxo-Area52|r",
+			[51] = 1659156060,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"lol", -- [1]
-			"Micap-BleedingHollow", -- [2]
+			"Interrupted Spinemaw Staghorn's |cff71d5ff|Hspell:340544:0|h[Stimulate Regeneration]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Micap-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2210, -- [11]
-			"Player-73-06DC8DC2", -- [12]
+			1775, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMicap|r",
-			[51] = 1650912866,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156152,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [69]
 		{
-			"it is funny that they dont really match, theres like, palm trees by the auction house but maple trees everywhere else lol", -- [1]
-			"Ragex-BleedingHollow", -- [2]
+			"Volatile Acid on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ragex-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2211, -- [11]
-			"Player-73-0A84A5D2", -- [12]
+			1781, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cRagex|r",
-			[51] = 1650912885,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156165,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"|cffa335ee|Hitem:65891::::::::60:250:::::::::|h[Vial of the Sands]|h|r 70k", -- [1]
-			"Besttank-BleedingHollow", -- [2]
+			"Volatile Acid on Youmightdie", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Besttank-BleedingHollow", -- [5]
+			"", -- [4]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2212, -- [11]
-			"Player-73-0EB28BAF", -- [12]
+			1784, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Besttank|r",
-			[51] = 1650912947,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659156168,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"what's up with the ghost trees and stuff?", -- [1]
-			"Selas-BleedingHollow", -- [2]
+			"Volatile Acid on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Selas-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2214, -- [11]
-			"Player-73-0E9D170A", -- [12]
+			1797, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edSelas|r",
-			[51] = 1650913125,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156216,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"its tree huggers day", -- [1]
-			"Dreadnoz-BleedingHollow", -- [2]
+			"Volatile Acid on Randymarshxo", -- [1]
+			"Randymarshxo-Area52", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dreadnoz-BleedingHollow", -- [5]
+			"", -- [4]
+			"Randymarshxo-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2215, -- [11]
-			"Player-73-0E3F8F3F", -- [12]
+			1798, -- [11]
+			"Player-3676-0DDBFEAF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Dreadnoz|r",
-			[51] = 1650916742,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Randymarshxo-Area52|r",
+			[51] = 1659156222,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"its fart day", -- [1]
-			"Chillinkilln-BleedingHollow", -- [2]
+			"Volatile Acid on Spritzz", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Chillinkilln-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2216, -- [11]
-			"Player-73-0E86EC22", -- [12]
+			1799, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Chillinkilln|r",
-			[51] = 1650916756,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659156224,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"i like turtles", -- [1]
-			"Natalie-BleedingHollow", -- [2]
+			"Volatile Acid on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Natalie-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2217, -- [11]
-			"Player-73-0E000ACF", -- [12]
+			1800, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeNatalie|r",
-			[51] = 1650916763,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156230,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"|cffa335ee|Hitem:65891::::::::60:250:::::::::|h[Vial of the Sands]|h|r 65k", -- [1]
-			"Besttank-BleedingHollow", -- [2]
+			"Interrupted Tred'ova's |cff71d5ff|Hspell:337235:0|h[Parasitic Pacification]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Besttank-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2218, -- [11]
-			"Player-73-0EB28BAF", -- [12]
+			1806, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Besttank|r",
-			[51] = 1650916794,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156278,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [76]
 		{
-			"WTS |cffa335ee|Hitem:65891::::::::60:577:::::::::|h[Vial of the Sands]|h|r 35k", -- [1]
-			"Keepersdemon-BleedingHollow", -- [2]
+			"Mind Link on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Keepersdemon-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2219, -- [11]
-			"Player-73-0A9AAEC6", -- [12]
+			1808, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Keepersdemon|r",
-			[51] = 1650913294,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156286,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"Dun dun dun!", -- [1]
-			"Thaluston-BleedingHollow", -- [2]
+			"Mind Link on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Thaluston-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2220, -- [11]
-			"Player-73-0BBEA9EE", -- [12]
+			1813, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Thaluston|r",
-			[51] = 1650913321,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156242,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"idk how you make proft off that without getting the mats your self ", -- [1]
-			"Besttank-BleedingHollow", -- [2]
+			"Infester", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Besttank-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2221, -- [11]
-			"Player-73-0EB28BAF", -- [12]
+			1814, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Besttank|r",
-			[51] = 1650913343,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156243,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"sounds like he gets the mats himself", -- [1]
-			"Tashta-BleedingHollow", -- [2]
+			"Interrupted Tred'ova's |cff71d5ff|Hspell:337235:0|h[Parasitic Pacification]|h|r!", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tashta-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2222, -- [11]
-			"Player-73-0EB0362B", -- [12]
+			1815, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Tashta|r",
-			[51] = 1650913356,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156244,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"are the island boys on this server?", -- [1]
-			"Flyingtoilet-BleedingHollow", -- [2]
+			"Infester", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Flyingtoilet-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2223, -- [11]
-			"Player-73-0E5746B5", -- [12]
+			1825, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Flyingtoilet|r",
-			[51] = 1650913511,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156343,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"yes", -- [1]
-			"Meltabear-BleedingHollow", -- [2]
+			"Interrupted Tred'ova's |cff71d5ff|Hspell:337249:0|h[Parasitic Incapacitation]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Meltabear-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2224, -- [11]
-			"Player-73-0EAC0754", -- [12]
+			1826, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Meltabear|r",
-			[51] = 1650913541,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156344,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"WTS |cffa335ee|Hitem:41508::::::::60:581::::1:28:872::::Player-73-0B02C4B1:|h[Mechano-Hog]|h|r", -- [1]
-			"Metafit-BleedingHollow", -- [2]
+			"Interrupted Tred'ova's |cff71d5ff|Hspell:337255:0|h[Parasitic Domination]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Metafit-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2225, -- [11]
-			"Player-73-0B02CD9C", -- [12]
+			1833, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Metafit|r",
-			[51] = 1650913561,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156314,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"WTS |cffa335ee|Hitem:190630::::::::1:1453::6:6:7187:6652:8132:8117:1524:6646:1:28:2167:::::|h[Devouring Pellicle Shoulderpads]|h|r AND |cffa335ee|Hitem:190631::::::::1:1453::6:6:7187:8132:8117:6652:1524:6646:1:28:2167:::::|h[Vandalized Ephemera Mitts]|h|r 278 ILVL PST", -- [1]
-			"Gabbyck-BleedingHollow", -- [2]
+			"Mind Link on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gabbyck-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2226, -- [11]
-			"Player-73-0E6C4C41", -- [12]
+			1836, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Gabbyck|r",
-			[51] = 1650913685,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156385,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"WTS|cff1eff00|Hitem:72104::::::::32:267:::::::::|h[Living Steel]|h|rx70", -- [1]
-			"Mygoodbank-BleedingHollow", -- [2]
+			"Interrupted Tred'ova's |cff71d5ff|Hspell:337255:0|h[Parasitic Domination]|h|r!", -- [1]
+			"Tsukiiwings-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mygoodbank-BleedingHollow", -- [5]
+			"", -- [4]
+			"Tsukiiwings-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2227, -- [11]
-			"Player-73-0C1BAA18", -- [12]
+			1845, -- [11]
+			"Player-73-0EB714F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edMygoodbank|r",
-			[51] = 1650913776,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Tsukiiwings|r",
+			[51] = 1659156402,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"<The Early Shift> is selling 11/11H, 2/11M Sepulcher of the First ones. Armor and Tier funnels available.  Also selling M+.. PM for pricing, GOLD ONLY, guild run!", -- [1]
-			"Sámmý-BleedingHollow", -- [2]
+			"Mind Link on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sámmý-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2228, -- [11]
-			"Player-73-0CD88BC7", -- [12]
+			1847, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edSámmý|r",
-			[51] = 1650914254,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156405,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"<Resonate 7/11M> WTS +15 Keys Gold Only Timer Guaranteed PST Come Get Your Last Minute Vaults Filled Out", -- [1]
-			"Dûmp-BleedingHollow", -- [2]
+			"Mind Link on Stryfë", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dûmp-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2229, -- [11]
-			"Player-73-0E95908F", -- [12]
+			1850, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Dûmp|r",
-			[51] = 1650914382,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156363,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"LF NIGHT FALL GUILD THIS IS BIGFURRY HUNTER ALT", -- [1]
-			"Velendri-BleedingHollow", -- [2]
+			"Infester", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Velendri-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2243, -- [11]
-			"Player-73-0CA84481", -- [12]
+			1853, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Velendri|r",
-			[51] = 1650914592,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156367,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"WTB |cffffffff|Hitem:29547::::::::60:264:::::::::|h[Wind Scales]|h|r PST", -- [1]
-			"Wakened-BleedingHollow", -- [2]
+			"Interrupted Tred'ova's |cff71d5ff|Hspell:337255:0|h[Parasitic Domination]|h|r!", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wakened-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2244, -- [11]
-			"Player-73-0EAAC0D6", -- [12]
+			1854, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWakened|r",
-			[51] = 1650914624,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156368,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"WTS |cffa335ee|Hitem:190624::::::::1:1453::6:6:7187:8132:8117:6652:1524:6646:1:28:2167:::::|h[Gauntlets of the End]|h|r AND |cffa335ee|Hitem:190334::::::::1:1453::6:7:7187:6652:8186:8132:8138:1498:6646:1:28:2167:::::|h[Origin of the Harmonious]|h|r 278 ", -- [1]
-			"Gabbyck-BleedingHollow", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:15499:Player-73-09B0681E:1:7:29:22:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Master: Season Three]|h|r!", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gabbyck-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2245, -- [11]
-			"Player-73-0E6C4C41", -- [12]
+			1860, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Gabbyck|r",
-			[51] = 1650914675,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156382,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [90]
 		{
-			"Any guild willing to take a returning player? I played most of 9.1 and 9.1.5 but came back and rolled fresh / am looking for a new guild ^^", -- [1]
-			"Blibels-BleedingHollow", -- [2]
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:381:20:10:123:4:130|h[Keystone: Spires of Ascension (20)]|h|r (Night Fae)", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Blibels-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2246, -- [11]
-			"Player-73-0EB1182A", -- [12]
+			1864, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edBlibels|r",
-			[51] = 1650914699,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156446,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"thats life i guess", -- [1]
-			"Transphat-BleedingHollow", -- [2]
+			"there it is", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Transphat-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			4, -- [11]
-			"Player-73-0EAF8810", -- [12]
+			1865, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Transphat|r",
-			[51] = 1656182378,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659156447,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"thats my life :(", -- [1]
-			"Nukunuku-BleedingHollow", -- [2]
+			"woo", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nukunuku-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5, -- [11]
-			"Player-73-0EB92B29", -- [12]
+			1871, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Nukunuku|r",
-			[51] = 1656182355,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156454,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"WTS mythic+ lvl 15 keys timed (gold only) pst me", -- [1]
-			"Seeznoevil-BleedingHollow", -- [2]
+			"grats", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Seeznoevil-BleedingHollow", -- [5]
+			"", -- [4]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			14, -- [11]
-			"Player-73-0EB6AF67", -- [12]
+			1874, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Seeznoevil|r",
-			[51] = 1657153330,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659156463,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [94]
 		{
-			"|cffffd100|HclubFinder:ClubFinder-1-115039-73-90881548|h[Guild: Evicted]|h|r is recruiting for SFO Mythic prog! 11/11H 1/11 M. We raid Tuesday/Thursday 8:30-11:00 server. We actively push and sell M+ keys! ", -- [1]
-			"Simpdemon-BleedingHollow", -- [2]
+			"your gf really better suk ur cock", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Simpdemon-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			20, -- [11]
-			"Player-73-0AF2480A", -- [12]
+			1876, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Simpdemon|r",
-			[51] = 1657153452,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659156420,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"WTS 15's timed, 51-60 leveling, Taz hardmode, gold only, pst. ", -- [1]
-			"Tonkachonka-BleedingHollow", -- [2]
+			"lol", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tonkachonka-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			21, -- [11]
-			"Player-73-0E3693B4", -- [12]
+			1877, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Tonkachonka|r",
-			[51] = 1657153546,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156536,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"WTS Mythic+15-20 key for 262-278ilvl / KSM for Ach|cffffff00|Hachievement:15499:Player-73-0EC05083:0:0:0:-1:0:0:0:0|h[Shadowlands Keystone Master: Season Three]|h|rMythic SOTFO 1-6th/Heroic SOTFO 11/11/ FULL 265ilvl (AOTC)/All 29 Glory ach|cffffff00|Hachievement:15491:Player-73-0EC05083:0:0:0:-1:0:0:0:0|h[Glory of the Sepulcher Raider]|h|rPst!", -- [1]
-			"Taztrort-BleedingHollow", -- [2]
+			"ty for keys ", -- [1]
+			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Taztrort-BleedingHollow", -- [5]
+			"", -- [4]
+			"Stryfë-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			38, -- [11]
-			"Player-73-0EC05083", -- [12]
+			1878, -- [11]
+			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Taztrort|r",
-			[51] = 1657153604,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Stryfë|r",
+			[51] = 1659156492,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"wts |cff0070dd|Hbattlepet:277:1:3:158:10:12:0000000000000000:36211|h[Clockwork Gnome]|h|r |cff0070dd|Hbattlepet:1328:25:3:1481:276:276:0000000000000000:51271|h[Ruby Droplet]|h|r pst offer cheaper than ah", -- [1]
-			"Ewwtred-BleedingHollow", -- [2]
+			"ggs!", -- [1]
+			"Youmightdie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ewwtred-BleedingHollow", -- [5]
+			"", -- [4]
+			"Youmightdie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			41, -- [11]
-			"Player-73-0EBF7394", -- [12]
+			1879, -- [11]
+			"Player-73-0EC2B93A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cEwwtred|r",
-			[51] = 1657153677,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeYoumightdie|r",
+			[51] = 1659156498,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [98]
 		{
-			"WTS Heroic SOTFO 11/11/FULL 265ilvl(AOTC)/Mythic SOTFO 1-6th/Mythic+15-20 key for 262-278ilvl/Keystone Hero/KSM|cffa335ee|Hitem:187682::::::::1:1448:::::::::|h[Wastewarped Deathwalker]|h|rMythis SOD transmog set|cffa335ee|Hitem:186642::::::::1:1448:::::::::|h[Vengeance's Reins]|h|rPst!", -- [1]
-			"Taztrort-BleedingHollow", -- [2]
+			"ggs", -- [1]
+			"Spritzz-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Taztrort-BleedingHollow", -- [5]
+			"", -- [4]
+			"Spritzz-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			46, -- [11]
-			"Player-73-0EC05083", -- [12]
+			1882, -- [11]
+			"Player-73-0EBF56D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Taztrort|r",
-			[51] = 1657153745,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Spritzz|r",
+			[51] = 1659156540,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/focus dorkk", -- [1]
-		"/m", -- [2]
-		"they can gdef do higher", -- [3]
-		"o we didnt reset", -- [4]
-		"i was gonna tell ou to send me after lol", -- [5]
-		"lol", -- [6]
-		"lmao how come", -- [7]
-		"i need to inv hunter anyway to make a dif leggo rq", -- [8]
-		"yeah just not sure its worth trying to make a group vs just joining lol", -- [9]
-		"yo do you have a weakaura for the trading ?", -- [10]
-		"i think im doing a little more than i expected", -- [11]
-		"should i just bring my hunter and this toon just afks", -- [12]
-		"/p ty", -- [13]
-		"/who g-\"Starworld\"", -- [14]
-		"could", -- [15]
-		"/p if you dont need trink id take :D", -- [16]
-		"f", -- [17]
-		"lmfao", -- [18]
-		"/kb", -- [19]
-		"/p i gotta go to bed, sorry. ty for the key", -- [20]
+		"/p MYB", -- [1]
+		"/p idt i was close enough but also ive never started this dg +10 without that pack", -- [2]
+		"/p lol 18 then?", -- [3]
+		"/p or my own 19", -- [4]
+		"/p and i dont pul lthat", -- [5]
+		"/p omw", -- [6]
+		"/p yeah prety much anytime ive done this dg we've just done wo skip so i prolly ran closer to that pack than i thought", -- [7]
+		"/p ill have to see jones", -- [8]
+		"/p id do more but i have to lust for some reason", -- [9]
+		"/p skip as hunter with trap + feign", -- [10]
+		"/roll 9", -- [11]
+		"/p ???", -- [12]
+		"/p i mean i wouldve dodged without grip", -- [13]
+		"/p no", -- [14]
+		"/p you dont deserve seed", -- [15]
+		"/p he tried to kill me", -- [16]
+		"/p you can thank spritzz", -- [17]
+		"/p woo", -- [18]
+		"/p lol", -- [19]
+		"/p ty for keys", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

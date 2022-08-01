@@ -1,24 +1,28 @@
 
 BigWigs3DB = {
-	["profileKeys"] = {
-		["Quirkk - Bleeding Hollow"] = "Healer",
-		["Freakk - Bleeding Hollow"] = "Default",
-		["Moodroo - Bleeding Hollow"] = "Default",
-		["Awkk - Bleeding Hollow"] = "Default",
-		["Dorkkrip - Mal'Ganis"] = "Default",
-		["Wardorkk - Bleeding Hollow"] = "Default",
-		["Lickk - Bleeding Hollow"] = "Default",
-		["Voodroosaur - Bleeding Hollow"] = "Default",
-		["Dorkk - Bleeding Hollow"] = "Default",
-		["Geekk - Bleeding Hollow"] = "Default",
-		["Eisfyre - Bleeding Hollow"] = "Default",
-		["Illidorkk - Bleeding Hollow"] = "Default",
-		["Dorkk - Kil'jaeden"] = "Default",
-		["Dwarfdorkk - Dalaran"] = "Default",
-		["Unorthodorkk - Bleeding Hollow"] = "Default",
-		["Voodroo - Bleeding Hollow"] = "Default",
-		["Jerkk - Bleeding Hollow"] = "Default",
-		["Trickk - Bleeding Hollow"] = "Default",
+	["global"] = {
+		["watchedMovies"] = {
+			[-2004] = true,
+			[958] = true,
+			[294] = true,
+			[682] = true,
+			[295] = true,
+			[-575] = true,
+			[-607] = true,
+			[686] = true,
+			[-593] = {
+				true, -- [1]
+				true, -- [2]
+			},
+			[-609] = true,
+			[688] = true,
+			[952] = true,
+			[-2000] = true,
+			[956] = true,
+			[-2002] = true,
+			[-437] = true,
+			[-573] = true,
+		},
 	},
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
@@ -80,7 +84,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Halkias, the Sin-Stained Goliath"] = {
+		["BigWigs_Bosses_Mists of Tirna Scithe Trash"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 			["profiles"] = {
@@ -96,9 +100,126 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Lord Chamberlain"] = {
+		["BigWigs_Bosses_Tred'ova"] = {
 		},
-		["BigWigs_Bosses_High Adjudicator Aleez"] = {
+		["LibDualSpec-1.0"] = {
+			["char"] = {
+				["Quirkk - Bleeding Hollow"] = {
+					"Default", -- [1]
+					"Healer", -- [2]
+					"Default", -- [3]
+					["enabled"] = true,
+				},
+			},
+		},
+		["BigWigs_Plugins_Countdown"] = {
+		},
+		["BigWigs_Plugins_AltPower"] = {
+		},
+		["BigWigs_Bosses_Ingra Maloch"] = {
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 192.0001754717705,
+					["posy"] = 417.4221785467453,
+				},
+				["Healer"] = {
+					["posx"] = 237.511073459518,
+					["posy"] = 565.333260216976,
+				},
+			},
+		},
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BigWigsAnchor_width"] = 200.0000457763672,
+					["BigWigsEmphasizeAnchor_height"] = 19.00002288818359,
+					["growup"] = true,
+					["BigWigsAnchor_height"] = 20.00014877319336,
+					["visibleBarLimitEmph"] = 8,
+					["fontSize"] = 12,
+					["BigWigsAnchor_y"] = 153,
+					["emphasizeGrowup"] = true,
+					["spacing"] = 3,
+					["emphasizeTime"] = 10,
+					["barStyle"] = "ElvUI",
+					["BigWigsAnchor_x"] = 1085.577888972577,
+					["BigWigsEmphasizeAnchor_width"] = 247.9999084472656,
+					["fontSizeEmph"] = 14,
+					["BigWigsEmphasizeAnchor_x"] = 815.6448738920735,
+					["BigWigsEmphasizeAnchor_y"] = 324.9997096999105,
+					["texture"] = "ElvUI Norm",
+				},
+				["Voodroo - Bleeding Hollow"] = {
+					["BigWigsEmphasizeAnchor_y"] = 304.355441348021,
+					["emphasizeGrowup"] = true,
+					["BigWigsAnchor_x"] = 1072.35620497047,
+					["font"] = "Friz Quadrata TT",
+					["BigWigsAnchor_width"] = 214.999755859375,
+					["BigWigsAnchor_y"] = 181.333245276817,
+					["BigWigsEmphasizeAnchor_x"] = 782.222544425715,
+					["BigWigsEmphasizeAnchor_width"] = 269.999725341797,
+				},
+				["Jerkk - Bleeding Hollow"] = {
+					["BigWigsEmphasizeAnchor_y"] = 307.199907064426,
+					["emphasizeGrowup"] = true,
+					["BigWigsAnchor_x"] = 1072.35620497047,
+					["font"] = "Friz Quadrata TT",
+					["BigWigsAnchor_width"] = 214.999755859375,
+					["BigWigsEmphasizeAnchor_width"] = 269.999755859375,
+					["BigWigsEmphasizeAnchor_x"] = 789.333658918658,
+					["BigWigsAnchor_y"] = 181.333245276817,
+				},
+				["Healer"] = {
+					["BigWigsEmphasizeAnchor_y"] = 357.711141474256,
+					["fontSize"] = 12,
+					["tempMonoUIReset"] = true,
+					["BigWigsAnchor_width"] = 214.999755859375,
+					["BigWigsAnchor_y"] = 181,
+					["emphasizeGrowup"] = true,
+					["BigWigsAnchor_x"] = 1087,
+					["spacing"] = 3,
+					["texture"] = "ElvUI Norm",
+					["barStyle"] = "ElvUI",
+					["tempSpacingReset"] = true,
+					["BigWigsEmphasizeAnchor_height"] = 19.9999179840088,
+					["monochrome"] = false,
+					["BigWigsEmphasizeAnchor_x"] = 816.35574893422,
+					["BigWigsAnchor_height"] = 20.0000019073486,
+					["font"] = "Friz Quadrata TT",
+					["BigWigsEmphasizeAnchor_width"] = 247,
+					["emphasizeTime"] = 10,
+					["fontSizeEmph"] = 14,
+				},
+			},
+		},
+		["BigWigs_Bosses_Mistcaller"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+			["profiles"] = {
+				["Voodroo - Bleeding Hollow"] = {
+					["font"] = "Friz Quadrata TT",
+				},
+				["Jerkk - Bleeding Hollow"] = {
+					["font"] = "Friz Quadrata TT",
+				},
+				["Healer"] = {
+					["font"] = "Friz Quadrata TT",
+				},
+			},
+		},
+		["BigWigs_Plugins_Pull"] = {
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Plugins_Respawn"] = {
+		},
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -134,123 +255,6 @@ BigWigs3DB = {
 					["chat"] = true,
 				},
 			},
-		},
-		["BigWigs_Plugins_Countdown"] = {
-		},
-		["BigWigs_Plugins_AltPower"] = {
-		},
-		["BigWigs_Bosses_Halls of Atonement Trash"] = {
-		},
-		["BigWigs_Plugins_Colors"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 192.0001754717705,
-					["posy"] = 417.4221785467453,
-				},
-				["Healer"] = {
-					["posx"] = 237.511073459518,
-					["posy"] = 565.333260216976,
-				},
-			},
-		},
-		["BigWigs_Plugins_Bars"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BigWigsAnchor_width"] = 200.0000457763672,
-					["BigWigsEmphasizeAnchor_height"] = 19.00002288818359,
-					["growup"] = true,
-					["BigWigsAnchor_height"] = 20.00014877319336,
-					["visibleBarLimitEmph"] = 8,
-					["fontSize"] = 12,
-					["BigWigsAnchor_y"] = 153,
-					["emphasizeGrowup"] = true,
-					["spacing"] = 3,
-					["texture"] = "ElvUI Norm",
-					["barStyle"] = "ElvUI",
-					["BigWigsAnchor_x"] = 1085.577888972577,
-					["emphasizeTime"] = 10,
-					["fontSizeEmph"] = 14,
-					["BigWigsEmphasizeAnchor_x"] = 815.6448738920735,
-					["BigWigsEmphasizeAnchor_y"] = 324.9997096999105,
-					["BigWigsEmphasizeAnchor_width"] = 247.9999084472656,
-				},
-				["Voodroo - Bleeding Hollow"] = {
-					["BigWigsEmphasizeAnchor_y"] = 304.355441348021,
-					["emphasizeGrowup"] = true,
-					["BigWigsAnchor_x"] = 1072.35620497047,
-					["font"] = "Friz Quadrata TT",
-					["BigWigsAnchor_width"] = 214.999755859375,
-					["BigWigsEmphasizeAnchor_width"] = 269.999725341797,
-					["BigWigsEmphasizeAnchor_x"] = 782.222544425715,
-					["BigWigsAnchor_y"] = 181.333245276817,
-				},
-				["Jerkk - Bleeding Hollow"] = {
-					["BigWigsEmphasizeAnchor_y"] = 307.199907064426,
-					["emphasizeGrowup"] = true,
-					["BigWigsAnchor_x"] = 1072.35620497047,
-					["font"] = "Friz Quadrata TT",
-					["BigWigsAnchor_width"] = 214.999755859375,
-					["BigWigsAnchor_y"] = 181.333245276817,
-					["BigWigsEmphasizeAnchor_x"] = 789.333658918658,
-					["BigWigsEmphasizeAnchor_width"] = 269.999755859375,
-				},
-				["Healer"] = {
-					["BigWigsEmphasizeAnchor_y"] = 357.711141474256,
-					["fontSize"] = 12,
-					["tempMonoUIReset"] = true,
-					["BigWigsAnchor_width"] = 214.999755859375,
-					["BigWigsAnchor_y"] = 181,
-					["emphasizeGrowup"] = true,
-					["BigWigsAnchor_x"] = 1087,
-					["spacing"] = 3,
-					["texture"] = "ElvUI Norm",
-					["barStyle"] = "ElvUI",
-					["tempSpacingReset"] = true,
-					["BigWigsEmphasizeAnchor_height"] = 19.9999179840088,
-					["monochrome"] = false,
-					["BigWigsEmphasizeAnchor_x"] = 816.35574893422,
-					["BigWigsAnchor_height"] = 20.0000019073486,
-					["font"] = "Friz Quadrata TT",
-					["BigWigsEmphasizeAnchor_width"] = 247,
-					["emphasizeTime"] = 10,
-					["fontSizeEmph"] = 14,
-				},
-			},
-		},
-		["LibDualSpec-1.0"] = {
-			["char"] = {
-				["Quirkk - Bleeding Hollow"] = {
-					"Default", -- [1]
-					"Healer", -- [2]
-					"Default", -- [3]
-					["enabled"] = true,
-				},
-			},
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-			["profiles"] = {
-				["Voodroo - Bleeding Hollow"] = {
-					["font"] = "Friz Quadrata TT",
-				},
-				["Jerkk - Bleeding Hollow"] = {
-					["font"] = "Friz Quadrata TT",
-				},
-				["Healer"] = {
-					["font"] = "Friz Quadrata TT",
-				},
-			},
-		},
-		["BigWigs_Plugins_Pull"] = {
-		},
-		["BigWigs_Bosses_Echelon"] = {
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -288,37 +292,40 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Respawn"] = {
-		},
 		["BigWigs_Plugins_Common Auras"] = {
+			["profiles"] = {
+				["Default"] = {
+					["repair"] = 3,
+					["feast"] = 3,
+					[29893] = 3,
+					[226241] = 3,
+					[698] = 3,
+				},
+			},
 			["reset"] = true,
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 	},
-	["global"] = {
-		["watchedMovies"] = {
-			[-2004] = true,
-			[958] = true,
-			[294] = true,
-			[682] = true,
-			[295] = true,
-			[-575] = true,
-			[-607] = true,
-			[686] = true,
-			[-593] = {
-				true, -- [1]
-				true, -- [2]
-			},
-			[-609] = true,
-			[688] = true,
-			[952] = true,
-			[-2000] = true,
-			[-2002] = true,
-			[956] = true,
-			[-437] = true,
-			[-573] = true,
-		},
+	["profileKeys"] = {
+		["Quirkk - Bleeding Hollow"] = "Healer",
+		["Freakk - Bleeding Hollow"] = "Default",
+		["Moodroo - Bleeding Hollow"] = "Default",
+		["Awkk - Bleeding Hollow"] = "Default",
+		["Dorkkrip - Mal'Ganis"] = "Default",
+		["Wardorkk - Bleeding Hollow"] = "Default",
+		["Lickk - Bleeding Hollow"] = "Default",
+		["Voodroosaur - Bleeding Hollow"] = "Default",
+		["Dorkk - Bleeding Hollow"] = "Default",
+		["Geekk - Bleeding Hollow"] = "Default",
+		["Eisfyre - Bleeding Hollow"] = "Default",
+		["Illidorkk - Bleeding Hollow"] = "Default",
+		["Dorkk - Kil'jaeden"] = "Default",
+		["Dwarfdorkk - Dalaran"] = "Default",
+		["Unorthodorkk - Bleeding Hollow"] = "Default",
+		["Voodroo - Bleeding Hollow"] = "Default",
+		["Jerkk - Bleeding Hollow"] = "Default",
+		["Trickk - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -983,8 +990,8 @@ BigWigsStatsDB = {
 				["best"] = 281.5470000000205,
 			},
 			["LFR"] = {
-				["best"] = 559.2860000000801,
-				["kills"] = 2,
+				["best"] = 555.3450000000012,
+				["kills"] = 4,
 			},
 		},
 		[2470] = {
@@ -1035,7 +1042,9 @@ BigWigsStatsDB = {
 				["best"] = 458.6999999999534,
 			},
 			["mythic"] = {
-				["wipes"] = 39,
+				["kills"] = 1,
+				["wipes"] = 159,
+				["best"] = 519.6199999999953,
 			},
 		},
 		[2457] = {
@@ -1055,7 +1064,7 @@ BigWigsStatsDB = {
 			},
 			["LFR"] = {
 				["best"] = 256.1629999999423,
-				["kills"] = 2,
+				["kills"] = 4,
 			},
 		},
 		[2465] = {
@@ -1130,8 +1139,8 @@ BigWigsStatsDB = {
 				["best"] = 256.9969999999739,
 			},
 			["LFR"] = {
-				["best"] = 326.8560000000289,
-				["kills"] = 1,
+				["best"] = 325.6300000000047,
+				["kills"] = 3,
 			},
 		},
 		[2460] = {

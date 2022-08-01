@@ -1,8 +1,5 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"/elvui", -- [1]
-	},
 	["ChatHistoryLog"] = {
 		{
 			"pushed himself up as he continued to listen, stretching himself out.", -- [1]
@@ -27,4 +24,8 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_EMOTE",
 		}, -- [1]
 	},
+	["ChatEditHistory"] = {
+		"/elvui", -- [1]
+	},
+	["ConvertKeybindings"] = true,
 }

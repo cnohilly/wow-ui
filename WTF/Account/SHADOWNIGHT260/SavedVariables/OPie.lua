@@ -80,8 +80,8 @@ OneRing_Config = {
 			},
 			["Fishing"] = {
 				{
-					["id"] = 271990,
 					["sliceToken"] = "ABuez5CbYBwP",
+					["id"] = 271990,
 				}, -- [1]
 				{
 					"toy", -- [1]
@@ -94,8 +94,8 @@ OneRing_Config = {
 			["Travel"] = {
 				{
 					"toy", -- [1]
-					172179, -- [2]
-					["sliceToken"] = "ABuez5CbYBj",
+					193588, -- [2]
+					["sliceToken"] = "ABuecmGYqEr",
 				}, -- [1]
 				{
 					"toy", -- [1]
@@ -133,8 +133,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuez5CbYBwZ",
 				}, -- [8]
 				{
-					["sliceToken"] = "ABue5p6yJVe",
 					["id"] = 556,
+					["sliceToken"] = "ABue5p6yJVe",
 				}, -- [9]
 				{
 					"ring", -- [1]
@@ -241,16 +241,16 @@ OneRing_Config = {
 					["sliceToken"] = "OPCCTt",
 				}, -- [1]
 				{
-					["id"] = "/cast {{spell:2108/51302}}",
 					["sliceToken"] = "OPCCTl",
+					["id"] = "/cast {{spell:2108/51302}}",
 				}, -- [2]
 				{
 					["id"] = "/cast {{spell:2018/51300}}",
 					["sliceToken"] = "OPCCTb",
 				}, -- [3]
 				{
-					["sliceToken"] = "OPCCTe",
 					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+					["sliceToken"] = "OPCCTe",
 				}, -- [4]
 				{
 					["id"] = "/cast {{spell:2259/51304}}",
@@ -273,8 +273,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCCTi",
 				}, -- [9]
 				{
-					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
 					["sliceToken"] = "OPCCTr",
+					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
 				}, -- [10]
 				{
 					["id"] = 53428,
@@ -296,36 +296,36 @@ OneRing_Config = {
 			},
 			["hadowlands"] = {
 				{
-					["id"] = 354469,
 					["sliceToken"] = "ABuex3AJa0e",
+					["id"] = 354469,
 				}, -- [1]
 				{
-					["id"] = 354466,
 					["sliceToken"] = "ABuexm9a/p1",
+					["id"] = 354466,
 				}, -- [2]
 				{
-					["id"] = 354462,
 					["sliceToken"] = "ABuexm9a/pr",
+					["id"] = 354462,
 				}, -- [3]
 				{
-					["id"] = 354468,
 					["sliceToken"] = "ABuexLWYFre",
+					["id"] = 354468,
 				}, -- [4]
 				{
-					["id"] = 354465,
 					["sliceToken"] = "ABuecu=6jie",
+					["id"] = 354465,
 				}, -- [5]
 				{
-					["id"] = 354464,
 					["sliceToken"] = "ABuecovLlu1",
+					["id"] = 354464,
 				}, -- [6]
 				{
-					["id"] = 354463,
 					["sliceToken"] = "ABuecovLlur",
+					["id"] = 354463,
 				}, -- [7]
 				{
-					["id"] = 367416,
 					["sliceToken"] = "ABuechShGne",
+					["id"] = 367416,
 				}, -- [8]
 				["name"] = "Hero's Path: Shadowlands",
 				["save"] = true,

@@ -1,16 +1,5 @@
 
 EncounterDetailsDB = {
-	["emotes"] = {
-		{
-			["boss"] = "Tred'ova",
-		}, -- [1]
-		{
-			["boss"] = "Mistcaller",
-		}, -- [2]
-		{
-			["boss"] = "Ingra Maloch",
-		}, -- [3]
-	},
 	["encounter_spells"] = {
 		[322450] = {
 			["school"] = 8,
@@ -47,21 +36,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Captured Mercenary Soldier",
 		},
-		[323138] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Ingra Maloch",
-		},
-		[322550] = {
+		[109132] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Tred'ova",
+			["source"] = "Irtweaver-Area52",
+		},
+		[367726] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Sillestra-Dalaran",
 		},
 		[204255] = {
 			["school"] = 1,
@@ -70,48 +57,45 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[62942] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Ancient Rune Giant",
-		},
-		[62415] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Jormungar Behemoth",
-		},
-		[14914] = {
-			["school"] = 2,
+		[64847] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Runeforged Sentry",
+		},
+		[323057] = {
+			["school"] = 32,
+			["token"] = {
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ingra Maloch",
+		},
+		[322614] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Tred'ova",
+		},
+		[257045] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Huntbumper-Dalaran",
+		},
+		[527] = {
+			["school"] = 2,
+			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Kyá-Area52",
-		},
-		[62385] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Elder Brightleaf",
-		},
-		[352865] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Huntbumper-Dalaran",
 		},
 		[326263] = {
 			["school"] = 1,
@@ -134,14 +118,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tred'ova",
 		},
-		[323057] = {
+		[325216] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ingra Maloch",
+			["source"] = "Irtweaver-Area52",
 		},
 		[324867] = {
 			["school"] = 32,
@@ -166,13 +149,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Huntbumper-Dalaran",
 		},
-		[331440] = {
+		[322550] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ingra Maloch",
+			["source"] = "Tred'ova",
 		},
 		[322709] = {
 			["school"] = 1,
@@ -198,23 +181,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thorim",
 		},
-		[321005] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[62400] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ingra Maloch",
+			["source"] = "Flame Leviathan",
 		},
-		[321669] = {
-			["school"] = 8,
+		[64535] = {
+			["school"] = 68,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Illusionary Clone",
+			["source"] = "Aerial Command Unit",
 		},
 		[323250] = {
 			["school"] = 8,
@@ -241,24 +220,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thorim",
 		},
-		[62417] = {
-			["school"] = 1,
+		[326018] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Jormungar Behemoth",
+			["source"] = "Spinemaw Larva",
 		},
-		[323146] = {
-			["school"] = 32,
+		[1490] = {
+			["school"] = 125,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Ingra Maloch",
+			["source"] = "Sillestra-Dalaran",
 		},
 		[322648] = {
 			["school"] = 32,
@@ -267,12 +243,14 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[257045] = {
-			["school"] = 1,
+		[321669] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Huntbumper-Dalaran",
+			["source"] = "Illusionary Clone",
 		},
 		[62443] = {
 			["school"] = 2,
@@ -291,19 +269,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dark Rune Warbringer",
 		},
-		[331718] = {
+		[228478] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Mistveil Defender",
-		},
-		[210042] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Sillestra-Dalaran",
+		},
+		[328210] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Irtweaver-Area52",
 		},
 		[100784] = {
 			["school"] = 1,
@@ -330,14 +309,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tred'ova",
 		},
-		[257044] = {
+		[322654] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Huntbumper-Dalaran",
+			["source"] = "Tred'ova",
 		},
 		[61967] = {
 			["school"] = 2,
@@ -356,21 +333,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Steelforged Defender",
 		},
-		[56641] = {
-			["school"] = 1,
+		[64769] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Huntbumper-Dalaran",
+			["source"] = "Mechanostriker 54-A",
 		},
-		[234946] = {
-			["school"] = 2,
+		[257044] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Kyá-Area52",
+			["source"] = "Huntbumper-Dalaran",
 		},
 		[203720] = {
 			["school"] = 1,
@@ -379,11 +356,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[336752] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[336499] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Mistcaller",
 		},
@@ -402,13 +381,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Irtweaver-Area52",
 		},
-		[326018] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[62507] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Spinemaw Larva",
+			["source"] = "Sif",
 		},
 		[62892] = {
 			["school"] = 1,
@@ -454,17 +434,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Irtweaver-Area52",
 		},
-		[322654] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Tred'ova",
-		},
-		[322655] = {
+		[322527] = {
 			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Tred'ova",
 		},
@@ -475,6 +449,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Mistcaller",
+		},
+		[258922] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sillestra-Dalaran",
 		},
 		[342181] = {
 			["school"] = 32,
@@ -518,30 +499,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mirror Image",
 		},
-		[336499] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[321005] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Ingra Maloch",
+		},
+		[64766] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Mistcaller",
+			["source"] = "Mechanostriker 54-A",
 		},
-		[367726] = {
+		[203819] = {
 			["school"] = 1,
-			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Sillestra-Dalaran",
-		},
-		[328210] = {
-			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Irtweaver-Area52",
+			["source"] = "Sillestra-Dalaran",
 		},
 		[258920] = {
 			["school"] = 4,
@@ -583,13 +565,11 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[204598] = {
+		[343013] = {
 			["school"] = 4,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
@@ -602,11 +582,10 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tred'ova",
 		},
-		[322527] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[337235] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Tred'ova",
 		},
@@ -617,11 +596,10 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[203819] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[210042] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
@@ -643,12 +621,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mistcaller",
 		},
-		[326281] = {
+		[336759] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Tred'ova",
+			["source"] = "Mistcaller",
 		},
 		[328756] = {
 			["school"] = 32,
@@ -660,12 +639,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ingra Maloch",
 		},
-		[65648] = {
-			["school"] = 68,
+		[352095] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Aerial Command Unit",
+			["source"] = "Irtweaver-Area52",
 		},
 		[123996] = {
 			["school"] = 8,
@@ -674,12 +653,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Xuen",
 		},
-		[258922] = {
-			["school"] = 4,
+		[62385] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sillestra-Dalaran",
+			["source"] = "Elder Brightleaf",
 		},
 		[321772] = {
 			["school"] = 1,
@@ -690,30 +670,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Droman Oulfarran",
 		},
-		[343013] = {
+		[204598] = {
 			["school"] = 4,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[62016] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Thorim",
-		},
-		[143924] = {
+		[326281] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sillestra-Dalaran",
+			["source"] = "Tred'ova",
+		},
+		[323138] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Ingra Maloch",
 		},
 		[269576] = {
 			["school"] = 1,
@@ -739,12 +719,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Irtweaver-Area52",
 		},
-		[352095] = {
-			["school"] = 32,
+		[62417] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Irtweaver-Area52",
+			["source"] = "Jormungar Behemoth",
 		},
 		[225919] = {
 			["school"] = 1,
@@ -754,20 +737,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[322465] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Tred'ova",
-		},
-		[337253] = {
+		[336813] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Tred'ova",
+			["source"] = "Mistcaller",
+		},
+		[77489] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Kyá-Area52",
 		},
 		[63703] = {
 			["school"] = 32,
@@ -785,13 +767,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Huntbumper-Dalaran",
 		},
-		[100780] = {
+		[263642] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Irtweaver-Area52",
+			["source"] = "Sillestra-Dalaran",
 		},
 		[62318] = {
 			["school"] = 1,
@@ -824,12 +805,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kyá-Area52",
 		},
-		[263642] = {
+		[100780] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sillestra-Dalaran",
+			["source"] = "Irtweaver-Area52",
 		},
 		[203981] = {
 			["school"] = 1,
@@ -839,19 +821,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[77489] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Kyá-Area52",
-		},
-		[336813] = {
+		[337253] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Mistcaller",
+			["source"] = "Tred'ova",
+		},
+		[322465] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Tred'ova",
 		},
 		[61965] = {
 			["school"] = 2,
@@ -861,20 +844,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dark Rune Acolyte",
 		},
-		[336759] = {
+		[143924] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Mistcaller",
+			["source"] = "Sillestra-Dalaran",
 		},
-		[337235] = {
-			["school"] = 1,
+		[62016] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Tred'ova",
+			["source"] = "Thorim",
 		},
 		[225921] = {
 			["school"] = 1,
@@ -892,13 +877,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[325216] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[65648] = {
+			["school"] = 68,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Irtweaver-Area52",
+			["source"] = "Aerial Command Unit",
 		},
 		[326319] = {
 			["school"] = 32,
@@ -914,20 +898,18 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sillestra-Dalaran",
 		},
-		[64766] = {
-			["school"] = 64,
+		[336752] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Mechanostriker 54-A",
+			["source"] = "Mistcaller",
 		},
-		[322614] = {
-			["school"] = 32,
+		[322655] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Tred'ova",
 		},
@@ -948,12 +930,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Droman Oulfarran",
 		},
-		[228478] = {
+		[331718] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sillestra-Dalaran",
+			["source"] = "Mistveil Defender",
 		},
 		[345466] = {
 			["school"] = 8,
@@ -962,13 +944,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Irtweaver-Area52",
 		},
-		[1490] = {
-			["school"] = 125,
+		[323146] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sillestra-Dalaran",
+			["source"] = "Ingra Maloch",
 		},
 		[64692] = {
 			["school"] = 1,
@@ -978,35 +961,39 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mechagnome Battletank",
 		},
-		[62400] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Flame Leviathan",
-		},
-		[62507] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sif",
-		},
-		[527] = {
+		[234946] = {
 			["school"] = 2,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Kyá-Area52",
 		},
-		[64535] = {
-			["school"] = 68,
+		[56641] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aerial Command Unit",
+			["source"] = "Huntbumper-Dalaran",
+		},
+		[352865] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Huntbumper-Dalaran",
+		},
+		[62415] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Jormungar Behemoth",
 		},
 		[322576] = {
 			["school"] = 32,
@@ -1015,21 +1002,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Drust Soulcleaver",
 		},
-		[64769] = {
-			["school"] = 64,
+		[331440] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Mechanostriker 54-A",
-		},
-		[64847] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Runeforged Sentry",
+			["source"] = "Ingra Maloch",
+		},
+		[62942] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Ancient Rune Giant",
 		},
 		[62692] = {
 			["school"] = 32,
@@ -1039,12 +1025,26 @@ EncounterDetailsDB = {
 			},
 			["source"] = "General Vezax",
 		},
-		[109132] = {
-			["school"] = 1,
+		[14914] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Irtweaver-Area52",
+			["source"] = "Kyá-Area52",
 		},
+	},
+	["emotes"] = {
+		{
+			["boss"] = "Tred'ova",
+		}, -- [1]
+		{
+			["boss"] = "Mistcaller",
+		}, -- [2]
+		{
+			["boss"] = "Ingra Maloch",
+		}, -- [3]
 	},
 }

@@ -18,42 +18,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["end_time"] = 1647883758,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005512,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["spells"] = {
+										[589] = 26681,
+									},
+									["total"] = 26681,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 0.005512,
+							["damage_taken"] = 1.005512,
+							["last_event"] = 1647883757,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005512,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.005512,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 26681,
-									["spells"] = {
-										[589] = 26681,
-									},
-								},
-							},
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["friendlyfire_total"] = 26681,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1647883757,
-							["damage_taken"] = 1.005512,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1647883757,
-							["serial"] = "Player-73-0838D224",
-							["end_time"] = 1647883758,
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -65,39 +65,39 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["friendlyfire_total"] = 1,
+							["dps_started"] = false,
 							["aID"] = "60174",
-							["total"] = 0.005035,
-							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005035,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4217-870-1032-60174-000038B5ED",
 							["fight_component"] = true,
+							["total"] = 0.005035,
 							["end_time"] = 1647883758,
-							["dps_started"] = false,
-							["damage_taken"] = 26681.005035,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										1, -- [1]
+									},
+									["total"] = 1,
+								},
+							},
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["on_hold"] = false,
-							["custom"] = 0,
 							["last_event"] = 1647883756,
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
+							["on_hold"] = false,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 26681.005035,
 							["start_time"] = 1647883756,
-							["serial"] = "Creature-0-4217-870-1032-60174-000038B5ED",
-							["friendlyfire_total"] = 1,
+							["delay"] = 0,
+							["classe"] = "PET",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -107,17 +107,17 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Quirkk"] = 660,
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = true,
-							["heal_enemy_amt"] = 0,
-							["totalover"] = 660.001214,
+							["classe"] = "PRIEST",
+							["totalover"] = 1320.001214,
 							["total_without_pet"] = 0.001214,
 							["total"] = 0.001214,
-							["spec"] = 258,
+							["targets_absorbs"] = {
+							},
 							["heal_enemy"] = {
 							},
 							["on_hold"] = true,
@@ -128,11 +128,11 @@ _detalhes_database = {
 							},
 							["totalover_without_pet"] = 0.001214,
 							["healing_taken"] = 0.001214,
-							["tipo"] = 2,
-							["healing_from"] = {
+							["last_event"] = 1657572617,
+							["targets_overheal"] = {
+								["Quirkk"] = 1320,
 							},
-							["targets_absorbs"] = {
-							},
+							["timeMachine"] = 1,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -140,15 +140,15 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Quirkk"] = 660,
+											["Quirkk"] = 1320,
 										},
 										["n_max"] = 0,
 										["targets"] = {
 											["Quirkk"] = 0,
 										},
 										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 660,
+										["counter"] = 2,
+										["overheal"] = 1320,
 										["total"] = 0,
 										["c_max"] = 0,
 										["id"] = 17,
@@ -157,9 +157,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
+										["n_amt"] = 2,
 										["n_curado"] = 0,
+										["totaldenied"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -167,14 +167,14 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["totaldenied"] = 0.001214,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
-							["last_event"] = 1647883786,
-							["aID"] = "73-0838D224",
 							["start_time"] = 1647883786,
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "73-0838D224",
+							["totaldenied"] = 0.001214,
 							["delay"] = 1647883786,
-							["timeMachine"] = 1,
+							["spec"] = 258,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -193,7 +193,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.002089,
 							["total"] = 0.002089,
-							["totalover"] = 0.002089,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -202,13 +202,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002089,
 							["tipo"] = 3,
 							["last_event"] = 1647883757,
-							["alternatepower"] = 0.002089,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.002089,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -218,60 +218,60 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["pets"] = {
-							},
 							["spell_cast"] = {
 								[589] = 1,
 							},
 							["buff_uptime"] = 6,
-							["last_event"] = 1647883758,
-							["aID"] = "73-0838D224",
+							["pets"] = {
+							},
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1647883758,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -287,37 +287,100 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Quirkk", -- [1]
 				},
-				["tempo_start"] = 1647883756,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 313,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.01136300000005371, -- [1]
+					-0.06018299999394167, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
+						[3] = -0.005897,
 						[6] = 0,
-						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					26681, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "13:29:18",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Unknown",
+				["TotalElapsedCombatTime"] = 294191.39,
+				["CombatEndedAt"] = 294191.39,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "13:29:17",
+				["end_time"] = 294191.39,
+				["combat_id"] = 169,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Quirkk"] = 0.005512,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1647883756,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
 				},
 				["player_last_events"] = {
 					["Quirkk"] = {
@@ -332,6 +395,14 @@ _detalhes_database = {
 							0, -- [8]
 						}, -- [1]
 						{
+							false, -- [1]
+							17, -- [2]
+							0, -- [3]
+							1657572618.43, -- [4]
+							6954, -- [5]
+							"Quirkk", -- [6]
+							true, -- [7]
+							0, -- [8]
 						}, -- [2]
 						{
 						}, -- [3]
@@ -393,76 +464,13 @@ _detalhes_database = {
 						}, -- [31]
 						{
 						}, -- [32]
-						["n"] = 2,
+						["n"] = 3,
 					},
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:29:18",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 294191.39,
-				["CombatEndedAt"] = 294191.39,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "13:29:17",
-				["end_time"] = 294191.39,
-				["combat_id"] = 169,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["overall_added"] = true,
-				["combat_counter"] = 313,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					26681, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
 				},
 				["start_time"] = 294189.874,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.005512,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
+				["frags"] = {
 				},
 			}, -- [1]
 			{
@@ -478,20 +486,27 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Player-73-0838D224",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 5.004815,
+							["friendlyfire_total"] = 158627,
 							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.004815,
-							["total"] = 0.004815,
-							["dps_started"] = false,
 							["end_time"] = 1647277219,
-							["damage_taken"] = 5.004815,
-							["last_event"] = 1647277219,
+							["dps_started"] = false,
+							["total"] = 0.004815,
+							["friendlyfire"] = {
+								["Swooping Plainshawk"] = {
+									["total"] = 158627,
+									["spells"] = {
+										[228360] = 158627,
+									},
+								},
+							},
+							["tipo"] = 1,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -499,21 +514,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["spec"] = 258,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["spells"] = {
-										[228360] = 158627,
-									},
-									["total"] = 158627,
-								},
-							},
+							["last_event"] = 1647277219,
+							["on_hold"] = false,
 							["start_time"] = 1647277219,
-							["delay"] = 0,
-							["friendlyfire_total"] = 158627,
+							["serial"] = "Player-73-0838D224",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -525,24 +533,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "PET",
+							["end_time"] = 1647277219,
 							["friendlyfire_total"] = 5,
-							["dps_started"] = false,
-							["aID"] = "60072",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.001238,
-							["serial"] = "Creature-0-4229-870-7-60072-00002F749D",
-							["fight_component"] = true,
+							["delay"] = 0,
+							["dps_started"] = false,
 							["total"] = 0.001238,
-							["end_time"] = 1647277219,
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["spells"] = {
-										5, -- [1]
-									},
-									["total"] = 5,
-								},
-							},
+							["fight_component"] = true,
+							["damage_taken"] = 158627.001238,
 							["nome"] = "Swooping Plainshawk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -563,30 +564,37 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["MISS"] = 2,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_amt"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 2,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["last_event"] = 1647277218,
-							["on_hold"] = false,
-							["last_dps"] = 0,
-							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 158627.001238,
+							["last_dps"] = 0,
+							["on_hold"] = false,
+							["custom"] = 0,
+							["last_event"] = 1647277218,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["total"] = 5,
+									["spells"] = {
+										5, -- [1]
+									},
+								},
+							},
 							["start_time"] = 1647277214,
-							["delay"] = 0,
-							["classe"] = "PET",
+							["serial"] = "Creature-0-4229-870-7-60072-00002F749D",
+							["aID"] = "60072",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -596,12 +604,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Quirkk"] = 1320,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
 							["totalover"] = 1320.003378,
 							["total_without_pet"] = 0.003378,
 							["total"] = 0.003378,
@@ -618,9 +627,8 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.003378,
 							["healing_taken"] = 0.003378,
 							["end_time"] = 1647883756,
-							["last_event"] = 1647883751,
-							["targets_overheal"] = {
-								["Quirkk"] = 1320,
+							["spec"] = 258,
+							["healing_from"] = {
 							},
 							["nome"] = "Quirkk",
 							["spells"] = {
@@ -646,23 +654,23 @@ _detalhes_database = {
 										},
 										["c_min"] = -660,
 										["c_curado"] = -660,
+										["n_curado"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
-										["n_curado"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
-							["totaldenied"] = 0.003378,
-							["custom"] = 0,
-							["tipo"] = 2,
 							["heal_enemy_amt"] = 0,
 							["start_time"] = 1647883751,
+							["custom"] = 0,
+							["last_event"] = 1647883751,
+							["aID"] = "73-0838D224",
+							["totaldenied"] = 0.003378,
 							["delay"] = 1647883737,
-							["spec"] = 258,
+							["tipo"] = 2,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -678,71 +686,71 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[228260] = 1,
-							},
 							["buff_uptime"] = 15,
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "PRIEST",
+							["spell_cast"] = {
+								[228260] = 1,
+							},
+							["aID"] = "73-0838D224",
 							["last_event"] = 1647277219,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[225787] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 225787,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[232698] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 232698,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[194249] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 194249,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 194249,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[45242] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 4,
+										["id"] = 45242,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 45242,
-										["refreshamt"] = 4,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -775,21 +783,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 					["Quirkk"] = {
@@ -893,25 +901,7 @@ _detalhes_database = {
 				["data_inicio"] = "13:00:15",
 				["end_time"] = 470136.676,
 				["combat_id"] = 168,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Quirkk"] = 0.004815,
-						}, -- [1]
-					},
-				},
+				["overall_added"] = true,
 				["spells_cast_timeline"] = {
 				},
 				["frags"] = {
@@ -926,24 +916,42 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 470131.409,
 				["TimeData"] = {
 				},
-				["overall_added"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Quirkk"] = 0.004815,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 			}, -- [2]
 			{
 				{
@@ -957,42 +965,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Player-73-0838D224",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["spec"] = 258,
-							["friendlyfire_total"] = 12918,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.00475,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[589] = 12918,
-									},
-									["total"] = 12918,
-								},
-							},
-							["dps_started"] = false,
-							["total"] = 0.00475,
-							["damage_taken"] = 0.00475,
-							["last_event"] = 1647277134,
-							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["end_time"] = 1647277134,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["start_time"] = 1647277134,
-							["delay"] = 0,
 							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 12918,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00475,
+							["damage_taken"] = 0.00475,
+							["dps_started"] = false,
+							["total"] = 0.00475,
+							["on_hold"] = false,
+							["tipo"] = 1,
+							["nome"] = "Quirkk",
+							["spec"] = 258,
+							["grupo"] = true,
+							["last_dps"] = 0,
+							["end_time"] = 1647277134,
+							["custom"] = 0,
+							["last_event"] = 1647277134,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["total"] = 12918,
+									["spells"] = {
+										[589] = 12918,
+									},
+								},
+							},
+							["start_time"] = 1647277134,
+							["serial"] = "Player-73-0838D224",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -1014,46 +1022,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["classe"] = "PRIEST",
-							["buff_uptime"] = 0,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 258,
+							["grupo"] = true,
+							["aID"] = "73-0838D224",
 							["pets"] = {
 							},
-							["last_event"] = 1647277134,
+							["nome"] = "Quirkk",
+							["buff_uptime"] = 0,
 							["tipo"] = 4,
+							["last_event"] = 1647277134,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[232698] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 232698,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[225787] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 225787,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1086,21 +1094,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["totals_grupo"] = {
 					12918, -- [1]
@@ -1109,18 +1117,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -1142,7 +1150,10 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.00475,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -1150,15 +1161,12 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Quirkk"] = 0.00475,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 470051.142,
 				["combat_id"] = 167,
-				["data_inicio"] = "12:58:54",
+				["overall_added"] = true,
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -1171,7 +1179,7 @@ _detalhes_database = {
 				["start_time"] = 470051.009,
 				["TimeData"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "12:58:54",
 			}, -- [3]
 			{
 				{
@@ -1188,24 +1196,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "60174",
+							["on_hold"] = false,
 							["classe"] = "PET",
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["spells"] = {
-										2, -- [1]
-									},
-									["total"] = 2,
-								},
-							},
-							["friendlyfire_total"] = 2,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.004199,
-							["serial"] = "Creature-0-4229-870-7-60174-00002F7443",
+							["delay"] = 0,
 							["dps_started"] = false,
 							["total"] = 0.004199,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 26258.004199,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1224,33 +1225,40 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 0,
 										["c_max"] = 0,
-										["MISS"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["DODGE"] = 1,
+										["b_dmg"] = 0,
 										["spellschool"] = 1,
-										["extra"] = {
-										},
+										["a_amt"] = 0,
 										["a_dmg"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_amt"] = 0,
+										["extra"] = {
+										},
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["DODGE"] = 1,
+										["MISS"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["last_event"] = 1647277133,
-							["end_time"] = 1647277127,
-							["last_dps"] = 0,
-							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 26258.004199,
+							["last_dps"] = 0,
+							["end_time"] = 1647277127,
+							["custom"] = 0,
+							["last_event"] = 1647277133,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["total"] = 2,
+									["spells"] = {
+										2, -- [1]
+									},
+								},
+							},
 							["start_time"] = 1647277122,
-							["delay"] = 0,
-							["aID"] = "60174",
+							["serial"] = "Creature-0-4229-870-7-60174-00002F7443",
+							["friendlyfire_total"] = 2,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -1260,42 +1268,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Player-73-0838D224",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["spec"] = 258,
-							["friendlyfire_total"] = 26258,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.003891,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[589] = 26258,
-									},
-									["total"] = 26258,
-								},
-							},
-							["dps_started"] = false,
-							["total"] = 0.003891,
-							["damage_taken"] = 2.003891,
-							["last_event"] = 1647277127,
-							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["end_time"] = 1647277127,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["start_time"] = 1647277126,
-							["delay"] = 0,
 							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 26258,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003891,
+							["damage_taken"] = 2.003891,
+							["dps_started"] = false,
+							["total"] = 0.003891,
+							["on_hold"] = false,
+							["tipo"] = 1,
+							["nome"] = "Quirkk",
+							["spec"] = 258,
+							["grupo"] = true,
+							["last_dps"] = 0,
+							["end_time"] = 1647277127,
+							["custom"] = 0,
+							["last_event"] = 1647277127,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["total"] = 26258,
+									["spells"] = {
+										[589] = 26258,
+									},
+								},
+							},
+							["start_time"] = 1647277126,
+							["serial"] = "Player-73-0838D224",
+							["classe"] = "PRIEST",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -1320,7 +1328,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.001827,
 							["total"] = 0.001827,
-							["resource_type"] = 13,
+							["totalover"] = 0.001827,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1329,13 +1337,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.001827,
-							["tipo"] = 3,
-							["last_event"] = 1647277134,
 							["aID"] = "73-0838D224",
+							["last_event"] = 1647277134,
+							["tipo"] = 3,
+							["alternatepower"] = 0.001827,
+							["flag_original"] = 1297,
 							["serial"] = "Player-73-0838D224",
-							["totalover"] = 0.001827,
+							["resource_type"] = 13,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -1345,60 +1353,60 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 2,
-							},
 							["buff_uptime"] = 15,
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "PRIEST",
+							["spell_cast"] = {
+								[589] = 2,
+							},
+							["aID"] = "73-0838D224",
 							["last_event"] = 1647277127,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[225787] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 225787,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[232698] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 232698,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[45242] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 45242,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 45242,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1431,21 +1439,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["totals_grupo"] = {
 					26258, -- [1]
@@ -1454,18 +1462,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -1487,7 +1495,10 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.003891,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -1495,15 +1506,12 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Quirkk"] = 0.003891,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 470044.709,
 				["combat_id"] = 166,
-				["data_inicio"] = "12:58:43",
+				["overall_added"] = true,
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -1516,7 +1524,7 @@ _detalhes_database = {
 				["start_time"] = 470039.809,
 				["TimeData"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "12:58:43",
 			}, -- [4]
 			{
 				{
@@ -1530,42 +1538,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
-							["damage_taken"] = 0.006479,
-							["friendlyfire_total"] = 13377,
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006479,
-							["end_time"] = 1647192071,
-							["dps_started"] = false,
-							["total"] = 0.006479,
 							["friendlyfire"] = {
 								["Voracious Virmen"] = {
-									["total"] = 13377,
 									["spells"] = {
 										[589] = 13377,
 									},
+									["total"] = 13377,
 								},
 							},
-							["tipo"] = 1,
+							["classe"] = "PRIEST",
+							["friendlyfire_total"] = 13377,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006479,
+							["total"] = 0.006479,
+							["dps_started"] = false,
+							["end_time"] = 1647192071,
+							["on_hold"] = false,
+							["last_event"] = 1647192071,
 							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
+							["last_dps"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1647192071,
-							["on_hold"] = false,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006479,
 							["start_time"] = 1647192071,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -1587,46 +1595,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1647192071,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 225787,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1659,21 +1667,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -1694,7 +1702,25 @@ _detalhes_database = {
 				["data_inicio"] = "13:21:11",
 				["end_time"] = 384987.585,
 				["combat_id"] = 165,
-				["overall_added"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Quirkk"] = 0.006479,
+						}, -- [1]
+					},
+				},
 				["spells_cast_timeline"] = {
 				},
 				["frags"] = {
@@ -1709,42 +1735,24 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 384987.302,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.006479,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
+				["overall_added"] = true,
 			}, -- [5]
 			{
 				{
@@ -1758,42 +1766,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006664,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.006664,
+							["friendlyfire"] = {
+								["Swooping Plainshawk"] = {
+									["spells"] = {
+										[589] = 12771,
+									},
+									["total"] = 12771,
+								},
+							},
+							["last_event"] = 1647192057,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["aID"] = "73-0838D224",
-							["friendlyfire_total"] = 12771,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006664,
-							["damage_taken"] = 0.006664,
-							["dps_started"] = false,
-							["total"] = 0.006664,
-							["on_hold"] = false,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1647192058,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1647192057,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["total"] = 12771,
-									["spells"] = {
-										[589] = 12771,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 0.006664,
 							["start_time"] = 1647192057,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["friendlyfire_total"] = 12771,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -1818,7 +1826,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.007824,
 							["total"] = 0.007824,
-							["totalover"] = 0.007824,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1827,13 +1835,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.007824,
 							["last_event"] = 1647192071,
 							["tipo"] = 3,
-							["alternatepower"] = 0.007824,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.007824,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -1843,46 +1851,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 2,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 2,
-							["tipo"] = 4,
 							["last_event"] = 1647192058,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 225787,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1915,21 +1923,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					12771, -- [1]
@@ -1938,18 +1946,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -1971,10 +1979,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.006664,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -1982,12 +1987,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.006664,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 384974.185,
 				["combat_id"] = 164,
-				["overall_added"] = true,
+				["data_inicio"] = "13:20:57",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -2000,7 +2008,7 @@ _detalhes_database = {
 				["start_time"] = 384973.269,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:20:57",
+				["overall_added"] = true,
 			}, -- [6]
 			{
 				{
@@ -2014,42 +2022,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00659,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.00659,
+							["friendlyfire"] = {
+								["Swooping Plainshawk"] = {
+									["spells"] = {
+										[589] = 12972,
+									},
+									["total"] = 12972,
+								},
+							},
+							["last_event"] = 1647192055,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["aID"] = "73-0838D224",
-							["friendlyfire_total"] = 12972,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.00659,
-							["damage_taken"] = 0.00659,
-							["dps_started"] = false,
-							["total"] = 0.00659,
-							["on_hold"] = false,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1647192055,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1647192055,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["total"] = 12972,
-									["spells"] = {
-										[589] = 12972,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 0.00659,
 							["start_time"] = 1647192055,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["friendlyfire_total"] = 12972,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -2074,7 +2082,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.002856,
 							["total"] = 0.002856,
-							["totalover"] = 0.002856,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2083,13 +2091,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002856,
 							["last_event"] = 1647192057,
 							["tipo"] = 3,
-							["alternatepower"] = 0.002856,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.002856,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -2099,57 +2107,57 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1647192055,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 225787,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2182,21 +2190,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					12972, -- [1]
@@ -2205,18 +2213,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -2238,10 +2246,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.00659,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -2249,12 +2254,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.00659,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 384971.752,
 				["combat_id"] = 163,
-				["overall_added"] = true,
+				["data_inicio"] = "13:20:55",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -2267,7 +2275,7 @@ _detalhes_database = {
 				["start_time"] = 384971.485,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:20:55",
+				["overall_added"] = true,
 			}, -- [7]
 			{
 				{
@@ -2284,39 +2292,39 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["friendlyfire_total"] = 1,
+							["damage_taken"] = 12906.004166,
 							["aID"] = "60039",
-							["on_hold"] = false,
-							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.004166,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4229-870-7-60039-00002E27F0",
 							["dps_started"] = false,
 							["total"] = 0.004166,
 							["fight_component"] = true,
-							["damage_taken"] = 12906.004166,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										1, -- [1]
+									},
+									["total"] = 1,
+								},
+							},
 							["nome"] = "Voracious Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1647192051,
-							["custom"] = 0,
 							["last_event"] = 1647192048,
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
+							["end_time"] = 1647192051,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1647192048,
-							["serial"] = "Creature-0-4229-870-7-60039-00002E27F0",
-							["friendlyfire_total"] = 1,
+							["delay"] = 0,
+							["classe"] = "PET",
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -2326,48 +2334,48 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003393,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.003393,
+							["friendlyfire"] = {
+								["Voracious Virmen"] = {
+									["spells"] = {
+										[589] = 12906,
+									},
+									["total"] = 12906,
+								},
+								["Swooping Plainshawk"] = {
+									["spells"] = {
+										[589] = 12776,
+									},
+									["total"] = 12776,
+								},
+							},
+							["last_event"] = 1647192051,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["aID"] = "73-0838D224",
-							["friendlyfire_total"] = 25682,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.003393,
-							["damage_taken"] = 1.003393,
-							["dps_started"] = false,
-							["total"] = 0.003393,
-							["on_hold"] = false,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1647192051,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1647192051,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 12906,
-									["spells"] = {
-										[589] = 12906,
-									},
-								},
-								["Swooping Plainshawk"] = {
-									["total"] = 12776,
-									["spells"] = {
-										[589] = 12776,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 1.003393,
 							["start_time"] = 1647192050,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["friendlyfire_total"] = 25682,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -2392,7 +2400,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.005691,
 							["total"] = 0.005691,
-							["totalover"] = 0.005691,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2401,13 +2409,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.005691,
 							["last_event"] = 1647192055,
 							["tipo"] = 3,
-							["alternatepower"] = 0.005691,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.005691,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -2417,60 +2425,60 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["buff_uptime"] = 9,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[589] = 2,
 							},
-							["aID"] = "73-0838D224",
-							["last_event"] = 1647192051,
+							["buff_uptime"] = 9,
+							["classe"] = "PRIEST",
 							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 3,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 225787,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 3,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 2,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 3,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["appliedamt"] = 2,
+										["activedamt"] = 2,
+										["uptime"] = 3,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["last_event"] = 1647192051,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2503,21 +2511,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					25682, -- [1]
@@ -2526,18 +2534,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -2559,10 +2567,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.003393,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -2570,12 +2575,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.003393,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 384968.085,
 				["combat_id"] = 162,
-				["overall_added"] = true,
+				["data_inicio"] = "13:20:48",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -2588,7 +2596,7 @@ _detalhes_database = {
 				["start_time"] = 384964.752,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:20:48",
+				["overall_added"] = true,
 			}, -- [8]
 			{
 				{
@@ -2602,42 +2610,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008366,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.008366,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["spells"] = {
+										[589] = 13247,
+									},
+									["total"] = 13247,
+								},
+							},
+							["last_event"] = 1647192004,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["aID"] = "73-0838D224",
-							["friendlyfire_total"] = 13247,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008366,
-							["damage_taken"] = 0.008366,
-							["dps_started"] = false,
-							["total"] = 0.008366,
-							["on_hold"] = false,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1647192004,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1647192004,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 13247,
-									["spells"] = {
-										[589] = 13247,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 0.008366,
 							["start_time"] = 1647192004,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["friendlyfire_total"] = 13247,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -2647,12 +2655,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Quirkk"] = 1319,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "73-0838D224",
 							["totalover"] = 1319.004148,
 							["total_without_pet"] = 0.004148,
 							["total"] = 0.004148,
@@ -2669,9 +2678,8 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.004148,
 							["healing_taken"] = 0.004148,
 							["end_time"] = 1647192048,
-							["tipo"] = 2,
-							["targets_overheal"] = {
-								["Quirkk"] = 1319,
+							["spec"] = 258,
+							["healing_from"] = {
 							},
 							["nome"] = "Quirkk",
 							["spells"] = {
@@ -2697,9 +2705,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
+										["n_curado"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -2707,14 +2715,14 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
-							["totaldenied"] = 0.004148,
-							["custom"] = 0,
-							["last_event"] = 1647192039,
 							["classe"] = "PRIEST",
 							["start_time"] = 1647192039,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["heal_enemy_amt"] = 0,
+							["totaldenied"] = 0.004148,
 							["delay"] = 0,
-							["spec"] = 258,
+							["last_event"] = 1647192039,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -2730,46 +2738,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1647192004,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 225787,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2802,21 +2810,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					13247, -- [1]
@@ -2825,18 +2833,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -2858,10 +2866,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.008366,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -2869,12 +2874,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.008366,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 384920.635,
 				["combat_id"] = 161,
-				["overall_added"] = true,
+				["data_inicio"] = "13:20:04",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -2962,7 +2970,7 @@ _detalhes_database = {
 				["start_time"] = 384920.352,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:20:04",
+				["overall_added"] = true,
 			}, -- [9]
 			{
 				{
@@ -2976,42 +2984,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Player-73-0838D224",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[589] = 26629,
-									},
-									["total"] = 26629,
-								},
-							},
+							["on_hold"] = false,
+							["aID"] = "73-0838D224",
 							["classe"] = "PRIEST",
-							["friendlyfire_total"] = 26629,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006141,
-							["total"] = 0.006141,
-							["dps_started"] = false,
 							["end_time"] = 1646765102,
-							["on_hold"] = false,
-							["last_event"] = 1646765101,
+							["dps_started"] = false,
+							["total"] = 0.006141,
+							["damage_taken"] = 0.006141,
+							["tipo"] = 1,
 							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.006141,
+							["last_event"] = 1646765101,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["total"] = 26629,
+									["spells"] = {
+										[589] = 26629,
+									},
+								},
+							},
 							["start_time"] = 1646765101,
-							["delay"] = 0,
-							["aID"] = "73-0838D224",
+							["serial"] = "Player-73-0838D224",
+							["friendlyfire_total"] = 26629,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -3021,12 +3029,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Quirkk"] = 1320,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 							["totalover"] = 1320.008741,
 							["total_without_pet"] = 0.008741,
 							["total"] = 0.008741,
@@ -3041,11 +3050,11 @@ _detalhes_database = {
 							},
 							["totalover_without_pet"] = 0.008741,
 							["healing_taken"] = 0.008741,
-							["last_event"] = 1646765173,
+							["tipo"] = 2,
 							["end_time"] = 1647192004,
-							["timeMachine"] = 1,
-							["targets_overheal"] = {
-								["Quirkk"] = 1320,
+							["targets_absorbs"] = {
+							},
+							["healing_from"] = {
 							},
 							["nome"] = "Quirkk",
 							["spells"] = {
@@ -3071,24 +3080,23 @@ _detalhes_database = {
 										},
 										["c_min"] = -660,
 										["c_curado"] = -660,
+										["n_curado"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
-										["n_curado"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1647192003,
-							["aID"] = "73-0838D224",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.008741,
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1646765173,
+							["classe"] = "PRIEST",
+							["start_time"] = 1647192003,
 							["delay"] = 1646765173,
-							["targets_absorbs"] = {
-							},
+							["timeMachine"] = 1,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -3107,7 +3115,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.00857,
 							["total"] = 0.00857,
-							["totalover"] = 0.00857,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3116,13 +3124,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.00857,
 							["last_event"] = 1647192004,
 							["tipo"] = 3,
-							["alternatepower"] = 0.00857,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.00857,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -3132,46 +3140,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["classe"] = "PRIEST",
-							["buff_uptime"] = 2,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 258,
+							["grupo"] = true,
+							["aID"] = "73-0838D224",
 							["pets"] = {
 							},
-							["last_event"] = 1646765102,
+							["nome"] = "Quirkk",
+							["buff_uptime"] = 2,
 							["tipo"] = 4,
+							["last_event"] = 1646765102,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[232698] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 232698,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[225787] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 225787,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -3204,21 +3212,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 					["Quirkk"] = {
@@ -3322,25 +3330,7 @@ _detalhes_database = {
 				["data_inicio"] = "13:45:01",
 				["end_time"] = 1475115.25,
 				["combat_id"] = 160,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Quirkk"] = 0.006141,
-						}, -- [1]
-					},
-				},
+				["overall_added"] = true,
 				["spells_cast_timeline"] = {
 				},
 				["frags"] = {
@@ -3355,24 +3345,42 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 1475114.5,
 				["TimeData"] = {
 				},
-				["overall_added"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Quirkk"] = 0.006141,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 			}, -- [10]
 			{
 				{
@@ -3386,42 +3394,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 0.006999,
+							["friendlyfire_total"] = 13197,
 							["aID"] = "73-0838D224",
-							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006999,
-							["end_time"] = 1646676252,
-							["dps_started"] = false,
 							["total"] = 0.006999,
-							["damage_taken"] = 0.006999,
-							["tipo"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1646676252,
+							["friendlyfire"] = {
+								["Swooping Plainshawk"] = {
+									["spells"] = {
+										[589] = 13197,
+									},
+									["total"] = 13197,
+								},
+							},
+							["last_event"] = 1646676252,
 							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
+							["last_dps"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1646676252,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["total"] = 13197,
-									["spells"] = {
-										[589] = 13197,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1646676252,
-							["serial"] = "Player-73-0838D224",
-							["friendlyfire_total"] = 13197,
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -3446,7 +3454,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.00487,
 							["total"] = 0.00487,
-							["resource_type"] = 13,
+							["totalover"] = 0.00487,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3455,13 +3463,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.00487,
-							["last_event"] = 1646765101,
-							["tipo"] = 3,
 							["aID"] = "73-0838D224",
+							["tipo"] = 3,
+							["last_event"] = 1646765101,
+							["alternatepower"] = 0.00487,
+							["flag_original"] = 1297,
 							["serial"] = "Player-73-0838D224",
-							["totalover"] = 0.00487,
+							["resource_type"] = 13,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -3471,46 +3479,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1646676252,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[335151] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 335151,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 335151,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -3543,21 +3551,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -3578,7 +3586,25 @@ _detalhes_database = {
 				["data_inicio"] = "13:04:12",
 				["end_time"] = 1386266.278,
 				["combat_id"] = 159,
-				["overall_added"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Quirkk"] = 0.006999,
+						}, -- [1]
+					},
+				},
 				["spells_cast_timeline"] = {
 				},
 				["frags"] = {
@@ -3593,42 +3619,24 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 1386265.911,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.006999,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
+				["overall_added"] = true,
 			}, -- [11]
 			{
 				{
@@ -3645,39 +3653,39 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "60174",
+							["on_hold"] = false,
 							["classe"] = "PET",
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 2,
-									["spells"] = {
-										2, -- [1]
-									},
-								},
-							},
-							["friendlyfire_total"] = 2,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003494,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4219-870-17-60174-0000264866",
 							["dps_started"] = false,
 							["total"] = 0.003494,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 26120.003494,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1646676072,
-							["custom"] = 0,
 							["last_event"] = 1646676070,
-							["damage_taken"] = 26120.003494,
+							["end_time"] = 1646676072,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										2, -- [1]
+									},
+									["total"] = 2,
+								},
+							},
 							["start_time"] = 1646676070,
-							["serial"] = "Creature-0-4219-870-17-60174-0000264866",
-							["aID"] = "60174",
+							["delay"] = 0,
+							["friendlyfire_total"] = 2,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -3687,42 +3695,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 26120,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008044,
+							["damage_taken"] = 2.008044,
+							["dps_started"] = false,
+							["total"] = 0.008044,
+							["on_hold"] = false,
+							["last_event"] = 1646676071,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 26120,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008044,
+							["grupo"] = true,
+							["end_time"] = 1646676072,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 26120,
 									["spells"] = {
 										[589] = 26120,
 									},
+									["total"] = 26120,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.008044,
-							["damage_taken"] = 2.008044,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646676072,
-							["custom"] = 0,
-							["last_event"] = 1646676071,
-							["on_hold"] = false,
 							["start_time"] = 1646676071,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -3747,7 +3755,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.002325,
 							["total"] = 0.002325,
-							["totalover"] = 0.002325,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3756,13 +3764,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002325,
 							["tipo"] = 3,
 							["last_event"] = 1646676252,
-							["alternatepower"] = 0.002325,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.002325,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -3772,60 +3780,60 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 1,
-							},
 							["buff_uptime"] = 6,
 							["pets"] = {
 							},
-							["last_event"] = 1646676072,
-							["aID"] = "73-0838D224",
+							["spell_cast"] = {
+								[589] = 1,
+							},
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1646676072,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 45242,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 45242,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[335151] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 335151,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 335151,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -3858,21 +3866,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					26120, -- [1]
@@ -3881,18 +3889,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -3914,10 +3922,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.008044,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -3925,12 +3930,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.008044,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 1386086.511,
 				["combat_id"] = 158,
-				["overall_added"] = true,
+				["data_inicio"] = "13:01:11",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -3943,7 +3951,7 @@ _detalhes_database = {
 				["start_time"] = 1386083.962,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:01:11",
+				["overall_added"] = true,
 			}, -- [12]
 			{
 				{
@@ -3960,39 +3968,39 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "60174",
+							["on_hold"] = false,
 							["classe"] = "PET",
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
-							["friendlyfire_total"] = 1,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007606,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4219-870-17-60174-0000264861",
 							["dps_started"] = false,
 							["total"] = 0.007606,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 13058.007606,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1646676066,
-							["custom"] = 0,
 							["last_event"] = 1646676065,
-							["damage_taken"] = 13058.007606,
+							["end_time"] = 1646676066,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										1, -- [1]
+									},
+									["total"] = 1,
+								},
+							},
 							["start_time"] = 1646676065,
-							["serial"] = "Creature-0-4219-870-17-60174-0000264861",
-							["aID"] = "60174",
+							["delay"] = 0,
+							["friendlyfire_total"] = 1,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -4002,42 +4010,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 13058,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003444,
+							["damage_taken"] = 1.003444,
+							["dps_started"] = false,
+							["total"] = 0.003444,
+							["on_hold"] = false,
+							["last_event"] = 1646676066,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 13058,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.003444,
+							["grupo"] = true,
+							["end_time"] = 1646676066,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 13058,
 									["spells"] = {
 										[589] = 13058,
 									},
+									["total"] = 13058,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.003444,
-							["damage_taken"] = 1.003444,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646676066,
-							["custom"] = 0,
-							["last_event"] = 1646676066,
-							["on_hold"] = false,
 							["start_time"] = 1646676066,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -4062,7 +4070,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.007024,
 							["total"] = 0.007024,
-							["totalover"] = 0.007024,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4071,13 +4079,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.007024,
 							["tipo"] = 3,
 							["last_event"] = 1646676066,
-							["alternatepower"] = 0.007024,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.007024,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -4087,60 +4095,60 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 1,
-							},
 							["buff_uptime"] = 3,
 							["pets"] = {
 							},
-							["last_event"] = 1646676066,
-							["aID"] = "73-0838D224",
+							["spell_cast"] = {
+								[589] = 1,
+							},
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1646676066,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 2,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["appliedamt"] = 2,
+										["activedamt"] = 2,
+										["uptime"] = 1,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 232698,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[335151] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 335151,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 335151,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -4173,21 +4181,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					13058, -- [1]
@@ -4196,18 +4204,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -4229,10 +4237,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.003444,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -4240,12 +4245,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.003444,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 1386080.028,
 				["combat_id"] = 157,
-				["overall_added"] = true,
+				["data_inicio"] = "13:01:05",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -4258,7 +4266,7 @@ _detalhes_database = {
 				["start_time"] = 1386078.895,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:01:05",
+				["overall_added"] = true,
 			}, -- [13]
 			{
 				{
@@ -4273,42 +4281,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
-							["damage_taken"] = 1.003442,
-							["last_dps"] = 0,
+							["on_hold"] = false,
+							["classe"] = "PRIEST",
 							["aID"] = "73-0838D224",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003442,
-							["total"] = 0.003442,
-							["dps_started"] = false,
 							["end_time"] = 1646159491,
-							["on_hold"] = false,
-							["tipo"] = 1,
+							["dps_started"] = false,
+							["total"] = 0.003442,
+							["friendlyfire"] = {
+								["Voracious Virmen"] = {
+									["spells"] = {
+										[589] = 11875,
+									},
+									["total"] = 11875,
+								},
+							},
+							["last_event"] = 1646159490,
 							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["friendlyfire_total"] = 11875,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 11875,
 							["custom"] = 0,
-							["last_event"] = 1646159490,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 11875,
-									["spells"] = {
-										[589] = 11875,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 1.003442,
 							["start_time"] = 1646159490,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["last_dps"] = 0,
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -4320,39 +4328,39 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "60039",
+							["dps_started"] = false,
 							["classe"] = "PET",
-							["total"] = 0.007042,
-							["friendlyfire_total"] = 1,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007042,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4216-870-121-60039-00001E6682",
 							["fight_component"] = true,
+							["total"] = 0.007042,
 							["end_time"] = 1646159491,
-							["dps_started"] = false,
-							["damage_taken"] = 11875.007042,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										1, -- [1]
+									},
+									["total"] = 1,
+								},
+							},
 							["nome"] = "Voracious Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["on_hold"] = false,
-							["custom"] = 0,
 							["last_event"] = 1646159489,
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
+							["on_hold"] = false,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 11875.007042,
 							["start_time"] = 1646159489,
-							["serial"] = "Creature-0-4216-870-121-60039-00001E6682",
-							["aID"] = "60039",
+							["delay"] = 0,
+							["friendlyfire_total"] = 1,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -4362,12 +4370,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Quirkk"] = 660,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "PRIEST",
 							["totalover"] = 660.008484,
 							["total_without_pet"] = 0.008484,
 							["total"] = 0.008484,
@@ -4383,11 +4392,10 @@ _detalhes_database = {
 							},
 							["totalover_without_pet"] = 0.008484,
 							["healing_taken"] = 0.008484,
-							["last_event"] = 1646334009,
+							["tipo"] = 2,
 							["end_time"] = 1646676065,
-							["timeMachine"] = 1,
-							["targets_overheal"] = {
-								["Quirkk"] = 660,
+							["spec"] = 258,
+							["healing_from"] = {
 							},
 							["nome"] = "Quirkk",
 							["spells"] = {
@@ -4413,9 +4421,9 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
+										["n_curado"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -4423,14 +4431,14 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1646676064,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "73-0838D224",
 							["totaldenied"] = 0.008484,
+							["aID"] = "73-0838D224",
+							["custom"] = 0,
+							["last_event"] = 1646334009,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1646676064,
 							["delay"] = 1646334009,
-							["spec"] = 258,
+							["timeMachine"] = 1,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -4449,7 +4457,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.002662,
 							["total"] = 0.002662,
-							["totalover"] = 0.002662,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4458,13 +4466,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002662,
 							["tipo"] = 3,
 							["last_event"] = 1646159490,
-							["alternatepower"] = 0.002662,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.002662,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -4474,49 +4482,49 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["buff_uptime"] = 4,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[589] = 1,
 							},
-							["last_event"] = 1646159491,
-							["aID"] = "73-0838D224",
+							["buff_uptime"] = 4,
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1646159491,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[335151] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 335151,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 335151,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -4547,21 +4555,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11875, -- [1]
@@ -4570,18 +4578,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -4603,10 +4611,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.003442,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -4614,14 +4619,16 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.003442,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 869505.544,
 				["combat_id"] = 156,
+				["data_inicio"] = "13:31:30",
 				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
 				},
 				["tempo_start"] = 1646159489,
 				["cleu_events"] = {
@@ -4709,7 +4716,8 @@ _detalhes_database = {
 				["start_time"] = 869503.511,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:31:30",
+				["spells_cast_timeline"] = {
+				},
 			}, -- [14]
 			{
 				{
@@ -4723,42 +4731,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 11738,
-									["spells"] = {
-										[589] = 11738,
-									},
-								},
-							},
-							["last_dps"] = 0,
+							["damage_taken"] = 0.006272,
+							["classe"] = "PRIEST",
 							["aID"] = "73-0838D224",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006272,
-							["end_time"] = 1646073057,
-							["dps_started"] = false,
 							["total"] = 0.006272,
-							["damage_taken"] = 0.006272,
-							["tipo"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1646073057,
+							["on_hold"] = false,
+							["last_event"] = 1646073056,
 							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["friendlyfire_total"] = 11738,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 11738,
 							["custom"] = 0,
-							["last_event"] = 1646073056,
-							["on_hold"] = false,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+								["Voracious Virmen"] = {
+									["spells"] = {
+										[589] = 11738,
+									},
+									["total"] = 11738,
+								},
+							},
 							["start_time"] = 1646073056,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["last_dps"] = 0,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -4780,35 +4788,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 1,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 1,
-							["tipo"] = 4,
 							["last_event"] = 1646073057,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -4839,21 +4847,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11738, -- [1]
@@ -4862,18 +4870,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -4893,9 +4901,26 @@ _detalhes_database = {
 				["data_inicio"] = "13:30:57",
 				["end_time"] = 783069.085,
 				["combat_id"] = 155,
-				["frags"] = {
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Quirkk"] = 0.006272,
+						}, -- [1]
+					},
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
 				},
 				["tempo_start"] = 1646073056,
 				["cleu_events"] = {
@@ -4908,24 +4933,7 @@ _detalhes_database = {
 				["start_time"] = 783068.902,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.006272,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
+				["spells_cast_timeline"] = {
 				},
 			}, -- [15]
 			{
@@ -4940,42 +4948,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 11930,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008272,
+							["damage_taken"] = 0.008272,
+							["dps_started"] = false,
+							["total"] = 0.008272,
+							["on_hold"] = false,
+							["last_event"] = 1646073051,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 11930,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008272,
+							["grupo"] = true,
+							["end_time"] = 1646073052,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Swooping Plainshawk"] = {
-									["total"] = 11930,
 									["spells"] = {
 										[589] = 11930,
 									},
+									["total"] = 11930,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.008272,
-							["damage_taken"] = 0.008272,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646073052,
-							["custom"] = 0,
-							["last_event"] = 1646073051,
-							["on_hold"] = false,
 							["start_time"] = 1646073051,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -5000,7 +5008,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.002931,
 							["total"] = 0.002931,
-							["totalover"] = 0.002931,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5009,13 +5017,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002931,
 							["last_event"] = 1646073056,
 							["tipo"] = 3,
-							["alternatepower"] = 0.002931,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.002931,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -5025,35 +5033,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 1,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 1,
-							["tipo"] = 4,
 							["last_event"] = 1646073052,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -5086,21 +5094,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11930, -- [1]
@@ -5109,18 +5117,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -5142,10 +5150,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.008272,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -5153,12 +5158,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.008272,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 783064.234,
 				["combat_id"] = 154,
-				["overall_added"] = true,
+				["data_inicio"] = "13:30:52",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -5171,7 +5179,7 @@ _detalhes_database = {
 				["start_time"] = 783064,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:30:52",
+				["overall_added"] = true,
 			}, -- [16]
 			{
 				{
@@ -5185,42 +5193,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007373,
+							["total"] = 0.007373,
+							["dps_started"] = false,
+							["end_time"] = 1646073034,
+							["friendlyfire"] = {
+								["Voracious Virmen"] = {
+									["spells"] = {
+										[589] = 23290,
+									},
+									["total"] = 23290,
+								},
+							},
+							["last_event"] = 1646073032,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["friendlyfire_total"] = 23290,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.007373,
-							["end_time"] = 1646073034,
-							["dps_started"] = false,
-							["total"] = 0.007373,
-							["damage_taken"] = 0.007373,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["on_hold"] = false,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1646073032,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 23290,
-									["spells"] = {
-										[589] = 23290,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 0.007373,
 							["start_time"] = 1646073032,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["friendlyfire_total"] = 23290,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -5245,7 +5253,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.00347,
 							["total"] = 0.00347,
-							["totalover"] = 0.00347,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5254,13 +5262,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.00347,
 							["last_event"] = 1646073051,
 							["tipo"] = 3,
-							["alternatepower"] = 0.00347,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.00347,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -5270,35 +5278,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 2,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 2,
-							["tipo"] = 4,
 							["last_event"] = 1646073034,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -5331,21 +5339,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					23290, -- [1]
@@ -5354,18 +5362,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -5387,10 +5395,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.007373,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -5398,12 +5403,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.007373,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 783046.2980000001,
 				["combat_id"] = 153,
-				["overall_added"] = true,
+				["data_inicio"] = "13:30:33",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -5416,7 +5424,7 @@ _detalhes_database = {
 				["start_time"] = 783044.765,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:30:33",
+				["overall_added"] = true,
 			}, -- [17]
 			{
 				{
@@ -5430,42 +5438,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 12053,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007157,
+							["damage_taken"] = 0.007157,
+							["dps_started"] = false,
+							["total"] = 0.007157,
+							["on_hold"] = false,
+							["last_event"] = 1646072972,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 12053,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.007157,
+							["grupo"] = true,
+							["end_time"] = 1646072973,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 12053,
 									["spells"] = {
 										[589] = 12053,
 									},
+									["total"] = 12053,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.007157,
-							["damage_taken"] = 0.007157,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646072973,
-							["custom"] = 0,
-							["last_event"] = 1646072972,
-							["on_hold"] = false,
 							["start_time"] = 1646072972,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -5490,7 +5498,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.002426,
 							["total"] = 0.002426,
-							["totalover"] = 0.002426,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5499,13 +5507,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002426,
 							["last_event"] = 1646073032,
 							["tipo"] = 3,
-							["alternatepower"] = 0.002426,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.002426,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -5515,35 +5523,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 1,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 1,
-							["tipo"] = 4,
 							["last_event"] = 1646072973,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -5576,21 +5584,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					12053, -- [1]
@@ -5599,18 +5607,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -5632,10 +5640,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.007157,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -5643,12 +5648,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.007157,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 782985.145,
 				["combat_id"] = 152,
-				["overall_added"] = true,
+				["data_inicio"] = "13:29:33",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -5661,7 +5669,7 @@ _detalhes_database = {
 				["start_time"] = 782984.862,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:29:33",
+				["overall_added"] = true,
 			}, -- [18]
 			{
 				{
@@ -5678,39 +5686,39 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "60174",
+							["on_hold"] = false,
 							["classe"] = "PET",
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
-							["friendlyfire_total"] = 1,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003727,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4231-870-24341-60174-00001D147F",
 							["dps_started"] = false,
 							["total"] = 0.003727,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 23684.003727,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1646072961,
-							["custom"] = 0,
 							["last_event"] = 1646072960,
-							["damage_taken"] = 23684.003727,
+							["end_time"] = 1646072961,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										1, -- [1]
+									},
+									["total"] = 1,
+								},
+							},
 							["start_time"] = 1646072960,
-							["serial"] = "Creature-0-4231-870-24341-60174-00001D147F",
-							["aID"] = "60174",
+							["delay"] = 0,
+							["friendlyfire_total"] = 1,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -5720,42 +5728,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 23684,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008589,
+							["damage_taken"] = 1.008589,
+							["dps_started"] = false,
+							["total"] = 0.008589,
+							["on_hold"] = false,
+							["last_event"] = 1646072960,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 23684,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008589,
+							["grupo"] = true,
+							["end_time"] = 1646072961,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 23684,
 									["spells"] = {
 										[589] = 23684,
 									},
+									["total"] = 23684,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.008589,
-							["damage_taken"] = 1.008589,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646072961,
-							["custom"] = 0,
-							["last_event"] = 1646072960,
-							["on_hold"] = false,
 							["start_time"] = 1646072960,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -5780,7 +5788,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.002068,
 							["total"] = 0.002068,
-							["totalover"] = 0.002068,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5789,13 +5797,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002068,
 							["last_event"] = 1646072972,
 							["tipo"] = 3,
-							["alternatepower"] = 0.002068,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.002068,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -5805,49 +5813,49 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 1,
-							},
 							["buff_uptime"] = 2,
 							["pets"] = {
 							},
-							["aID"] = "73-0838D224",
-							["last_event"] = 1646072961,
+							["spell_cast"] = {
+								[589] = 1,
+							},
+							["classe"] = "PRIEST",
 							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["last_event"] = 1646072961,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -5880,21 +5888,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					23684, -- [1]
@@ -5903,18 +5911,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -5936,10 +5944,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.008589,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -5947,12 +5952,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.008589,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 782973.4280000001,
 				["combat_id"] = 151,
-				["overall_added"] = true,
+				["data_inicio"] = "13:29:20",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -5965,7 +5973,7 @@ _detalhes_database = {
 				["start_time"] = 782972.162,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:29:20",
+				["overall_added"] = true,
 			}, -- [19]
 			{
 				{
@@ -5982,39 +5990,39 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "60174",
+							["on_hold"] = false,
 							["classe"] = "PET",
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
-							["friendlyfire_total"] = 1,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.00282,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4231-870-24341-60174-00001D1478",
 							["dps_started"] = false,
 							["total"] = 0.00282,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 11812.00282,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1646072955,
-							["custom"] = 0,
 							["last_event"] = 1646072953,
-							["damage_taken"] = 11812.00282,
+							["end_time"] = 1646072955,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										1, -- [1]
+									},
+									["total"] = 1,
+								},
+							},
 							["start_time"] = 1646072953,
-							["serial"] = "Creature-0-4231-870-24341-60174-00001D1478",
-							["aID"] = "60174",
+							["delay"] = 0,
+							["friendlyfire_total"] = 1,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -6024,42 +6032,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 11812,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002512,
+							["damage_taken"] = 1.002512,
+							["dps_started"] = false,
+							["total"] = 0.002512,
+							["on_hold"] = false,
+							["last_event"] = 1646072954,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 11812,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002512,
+							["grupo"] = true,
+							["end_time"] = 1646072955,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 11812,
 									["spells"] = {
 										[589] = 11812,
 									},
+									["total"] = 11812,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.002512,
-							["damage_taken"] = 1.002512,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646072955,
-							["custom"] = 0,
-							["last_event"] = 1646072954,
-							["on_hold"] = false,
 							["start_time"] = 1646072954,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -6084,7 +6092,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.003275,
 							["total"] = 0.003275,
-							["totalover"] = 0.003275,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6093,13 +6101,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003275,
 							["last_event"] = 1646072954,
 							["tipo"] = 3,
-							["alternatepower"] = 0.003275,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.003275,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -6109,49 +6117,49 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 1,
-							},
 							["buff_uptime"] = 4,
 							["pets"] = {
 							},
-							["aID"] = "73-0838D224",
-							["last_event"] = 1646072955,
+							["spell_cast"] = {
+								[589] = 1,
+							},
+							["classe"] = "PRIEST",
 							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["last_event"] = 1646072955,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -6184,21 +6192,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11812, -- [1]
@@ -6207,18 +6215,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -6240,10 +6248,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.002512,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -6251,12 +6256,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.002512,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 782967.712,
 				["combat_id"] = 150,
-				["overall_added"] = true,
+				["data_inicio"] = "13:29:14",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -6269,7 +6277,7 @@ _detalhes_database = {
 				["start_time"] = 782965.578,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:29:14",
+				["overall_added"] = true,
 			}, -- [20]
 			{
 				{
@@ -6283,42 +6291,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 11595,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003051,
+							["damage_taken"] = 0.003051,
+							["dps_started"] = false,
+							["total"] = 0.003051,
+							["on_hold"] = false,
+							["last_event"] = 1646072952,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 11595,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.003051,
+							["grupo"] = true,
+							["end_time"] = 1646072952,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 11595,
 									["spells"] = {
 										[589] = 11595,
 									},
+									["total"] = 11595,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.003051,
-							["damage_taken"] = 0.003051,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646072952,
-							["custom"] = 0,
-							["last_event"] = 1646072952,
-							["on_hold"] = false,
 							["start_time"] = 1646072952,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -6340,35 +6348,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1646072952,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -6401,21 +6409,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11595, -- [1]
@@ -6424,18 +6432,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -6457,10 +6465,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.003051,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -6468,12 +6473,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.003051,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 782964.895,
 				["combat_id"] = 149,
-				["overall_added"] = true,
+				["data_inicio"] = "13:29:12",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -6486,7 +6494,7 @@ _detalhes_database = {
 				["start_time"] = 782964.4450000001,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:29:12",
+				["overall_added"] = true,
 			}, -- [21]
 			{
 				{
@@ -6503,24 +6511,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "60174",
+							["on_hold"] = false,
 							["classe"] = "PET",
-							["friendlyfire"] = {
-								["Quirkk"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
-							["friendlyfire_total"] = 1,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007503,
-							["delay"] = 0,
+							["serial"] = "Creature-0-4231-870-24341-60174-00001D146E",
 							["dps_started"] = false,
 							["total"] = 0.007503,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 12156.007503,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6541,30 +6542,37 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
-										["a_amt"] = 0,
+										["a_dmg"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["spellschool"] = 1,
-										["MISS"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1646072944,
-							["custom"] = 0,
 							["last_event"] = 1646072951,
-							["damage_taken"] = 12156.007503,
+							["end_time"] = 1646072944,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+								["Quirkk"] = {
+									["spells"] = {
+										1, -- [1]
+									},
+									["total"] = 1,
+								},
+							},
 							["start_time"] = 1646072943,
-							["serial"] = "Creature-0-4231-870-24341-60174-00001D146E",
-							["aID"] = "60174",
+							["delay"] = 0,
+							["friendlyfire_total"] = 1,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -6574,42 +6582,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 12156,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007659,
+							["damage_taken"] = 1.007659,
+							["dps_started"] = false,
+							["total"] = 0.007659,
+							["on_hold"] = false,
+							["last_event"] = 1646072944,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 12156,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.007659,
+							["grupo"] = true,
+							["end_time"] = 1646072944,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 12156,
 									["spells"] = {
 										[589] = 12156,
 									},
+									["total"] = 12156,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.007659,
-							["damage_taken"] = 1.007659,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646072944,
-							["custom"] = 0,
-							["last_event"] = 1646072944,
-							["on_hold"] = false,
 							["start_time"] = 1646072944,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -6634,7 +6642,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.007814,
 							["total"] = 0.007814,
-							["totalover"] = 0.007814,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6643,13 +6651,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.007814,
 							["last_event"] = 1646072952,
 							["tipo"] = 3,
-							["alternatepower"] = 0.007814,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.007814,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -6659,49 +6667,49 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 1,
-							},
 							["buff_uptime"] = 2,
 							["pets"] = {
 							},
-							["aID"] = "73-0838D224",
-							["last_event"] = 1646072944,
+							["spell_cast"] = {
+								[589] = 1,
+							},
+							["classe"] = "PRIEST",
 							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["last_event"] = 1646072944,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -6734,21 +6742,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					12156, -- [1]
@@ -6757,18 +6765,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -6790,10 +6798,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.007659,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -6801,12 +6806,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.007659,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 782956.778,
 				["combat_id"] = 148,
-				["overall_added"] = true,
+				["data_inicio"] = "13:29:04",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -6819,7 +6827,7 @@ _detalhes_database = {
 				["start_time"] = 782955.712,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:29:04",
+				["overall_added"] = true,
 			}, -- [22]
 			{
 				{
@@ -6833,42 +6841,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["aID"] = "73-0838D224",
+							["friendlyfire_total"] = 11989,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002193,
+							["damage_taken"] = 0.002193,
+							["dps_started"] = false,
+							["total"] = 0.002193,
+							["on_hold"] = false,
+							["last_event"] = 1646072942,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 11989,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002193,
+							["grupo"] = true,
+							["end_time"] = 1646072943,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 								["Squatting Virmen"] = {
-									["total"] = 11989,
 									["spells"] = {
 										[589] = 11989,
 									},
+									["total"] = 11989,
 								},
 							},
-							["dps_started"] = false,
-							["total"] = 0.002193,
-							["damage_taken"] = 0.002193,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["end_time"] = 1646072943,
-							["custom"] = 0,
-							["last_event"] = 1646072942,
-							["on_hold"] = false,
 							["start_time"] = 1646072942,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -6890,35 +6898,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 1,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 1,
-							["tipo"] = 4,
 							["last_event"] = 1646072943,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -6951,21 +6959,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11989, -- [1]
@@ -6974,18 +6982,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -7007,10 +7015,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.002193,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -7018,12 +7023,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.002193,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 782955.578,
 				["combat_id"] = 147,
-				["overall_added"] = true,
+				["data_inicio"] = "13:29:03",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -7036,7 +7044,7 @@ _detalhes_database = {
 				["start_time"] = 782954.962,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:29:03",
+				["overall_added"] = true,
 			}, -- [23]
 			{
 				{
@@ -7050,42 +7058,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
-							["on_hold"] = false,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+								["Voracious Virmen"] = {
+									["spells"] = {
+										[589] = 11661,
+									},
+									["total"] = 11661,
+								},
+							},
+							["aID"] = "73-0838D224",
 							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007437,
-							["end_time"] = 1645641389,
-							["dps_started"] = false,
 							["total"] = 0.007437,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 11661,
-									["spells"] = {
-										[589] = 11661,
-									},
-								},
-							},
-							["tipo"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1645641389,
+							["damage_taken"] = 0.007437,
+							["last_event"] = 1645641388,
 							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["friendlyfire_total"] = 11661,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 11661,
 							["custom"] = 0,
-							["last_event"] = 1645641388,
-							["damage_taken"] = 0.007437,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1645641388,
-							["serial"] = "Player-73-0838D224",
-							["aID"] = "73-0838D224",
+							["delay"] = 0,
+							["last_dps"] = 0,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -7110,7 +7118,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.003914,
 							["total"] = 0.003914,
-							["totalover"] = 0.003914,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7119,13 +7127,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003914,
 							["last_event"] = 1646072942,
 							["tipo"] = 3,
-							["alternatepower"] = 0.003914,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.003914,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -7135,35 +7143,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 1,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 1,
-							["tipo"] = 4,
 							["last_event"] = 1645641389,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -7194,21 +7202,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11661, -- [1]
@@ -7217,18 +7225,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -7248,9 +7256,26 @@ _detalhes_database = {
 				["data_inicio"] = "13:36:29",
 				["end_time"] = 351400.649,
 				["combat_id"] = 146,
-				["spells_cast_timeline"] = {
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Quirkk"] = 0.007437,
+						}, -- [1]
+					},
 				},
-				["frags"] = {
+				["spells_cast_timeline"] = {
 				},
 				["tempo_start"] = 1645641388,
 				["cleu_events"] = {
@@ -7263,24 +7288,7 @@ _detalhes_database = {
 				["start_time"] = 351400.016,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.007437,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
+				["frags"] = {
 				},
 			}, -- [24]
 			{
@@ -7298,24 +7306,24 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire_total"] = 1,
-							["damage_taken"] = 11586.001366,
-							["aID"] = "60039",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.001366,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 0.001366,
-							["fight_component"] = true,
+							["classe"] = "PET",
 							["friendlyfire"] = {
 								["Quirkk"] = {
-									["total"] = 1,
 									["spells"] = {
 										1, -- [1]
 									},
+									["total"] = 1,
 								},
 							},
+							["friendlyfire_total"] = 1,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001366,
+							["serial"] = "Creature-0-4217-870-14-60039-0000167E9E",
+							["dps_started"] = false,
+							["total"] = 0.001366,
+							["fight_component"] = true,
+							["on_hold"] = false,
 							["nome"] = "Voracious Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7336,30 +7344,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
+										["DODGE"] = 1,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
-										["a_amt"] = 0,
+										["a_dmg"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["spellschool"] = 1,
-										["DODGE"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1645641375,
-							["custom"] = 0,
 							["last_event"] = 1645641387,
-							["on_hold"] = false,
+							["end_time"] = 1645641375,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 11586.001366,
 							["start_time"] = 1645641374,
-							["serial"] = "Creature-0-4217-870-14-60039-0000167E9E",
-							["classe"] = "PET",
+							["delay"] = 0,
+							["aID"] = "60039",
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -7369,42 +7377,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["friendlyfire_total"] = 11586,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005082,
+							["friendlyfire"] = {
+								["Voracious Virmen"] = {
+									["spells"] = {
+										[589] = 11586,
+									},
+									["total"] = 11586,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 0.005082,
+							["damage_taken"] = 1.005082,
+							["last_event"] = 1645641374,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005082,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.005082,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 11586,
-									["spells"] = {
-										[589] = 11586,
-									},
-								},
-							},
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1645641375,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1645641374,
-							["damage_taken"] = 1.005082,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1645641374,
-							["serial"] = "Player-73-0838D224",
-							["friendlyfire_total"] = 11586,
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -7429,7 +7437,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.005314,
 							["total"] = 0.005314,
-							["totalover"] = 0.005314,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7438,13 +7446,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.005314,
 							["tipo"] = 3,
 							["last_event"] = 1645641388,
-							["alternatepower"] = 0.005314,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.005314,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -7454,49 +7462,49 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["pets"] = {
-							},
 							["spell_cast"] = {
 								[589] = 1,
 							},
 							["buff_uptime"] = 2,
-							["last_event"] = 1645641375,
-							["aID"] = "73-0838D224",
+							["pets"] = {
+							},
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1645641375,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -7529,21 +7537,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11586, -- [1]
@@ -7552,18 +7560,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -7585,10 +7593,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.005082,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -7596,12 +7601,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.005082,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 351386.849,
 				["combat_id"] = 145,
-				["overall_added"] = true,
+				["data_inicio"] = "13:36:15",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -7614,7 +7622,7 @@ _detalhes_database = {
 				["start_time"] = 351385.833,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:36:15",
+				["overall_added"] = true,
 			}, -- [25]
 			{
 				{
@@ -7628,48 +7636,48 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["friendlyfire_total"] = 24126,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008872,
+							["friendlyfire"] = {
+								["Voracious Virmen"] = {
+									["spells"] = {
+										[589] = 12123,
+									},
+									["total"] = 12123,
+								},
+								["Swooping Plainshawk"] = {
+									["spells"] = {
+										[589] = 12003,
+									},
+									["total"] = 12003,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 0.008872,
+							["damage_taken"] = 0.008872,
+							["last_event"] = 1645641357,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008872,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.008872,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 12123,
-									["spells"] = {
-										[589] = 12123,
-									},
-								},
-								["Swooping Plainshawk"] = {
-									["total"] = 12003,
-									["spells"] = {
-										[589] = 12003,
-									},
-								},
-							},
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1645641357,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1645641357,
-							["damage_taken"] = 0.008872,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1645641356,
-							["serial"] = "Player-73-0838D224",
-							["friendlyfire_total"] = 24126,
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -7694,7 +7702,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.001206,
 							["total"] = 0.001206,
-							["totalover"] = 0.001206,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7703,13 +7711,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001206,
 							["tipo"] = 3,
 							["last_event"] = 1645641357,
-							["alternatepower"] = 0.001206,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.001206,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -7719,38 +7727,38 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["pets"] = {
-							},
 							["spell_cast"] = {
 								[589] = 1,
 							},
 							["buff_uptime"] = 1,
-							["last_event"] = 1645641357,
-							["aID"] = "73-0838D224",
+							["pets"] = {
+							},
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1645641357,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -7783,21 +7791,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					24126, -- [1]
@@ -7806,18 +7814,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -7839,10 +7847,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.008872,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -7850,12 +7855,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.008872,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 351369.383,
 				["combat_id"] = 144,
-				["overall_added"] = true,
+				["data_inicio"] = "13:35:57",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -7868,7 +7876,7 @@ _detalhes_database = {
 				["start_time"] = 351367.866,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:35:57",
+				["overall_added"] = true,
 			}, -- [26]
 			{
 				{
@@ -7882,42 +7890,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["friendlyfire_total"] = 11670,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004413,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["spells"] = {
+										[589] = 11670,
+									},
+									["total"] = 11670,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 0.004413,
+							["damage_taken"] = 0.004413,
+							["last_event"] = 1645641298,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004413,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.004413,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 11670,
-									["spells"] = {
-										[589] = 11670,
-									},
-								},
-							},
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1645641299,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1645641298,
-							["damage_taken"] = 0.004413,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1645641298,
-							["serial"] = "Player-73-0838D224",
-							["friendlyfire_total"] = 11670,
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -7942,7 +7950,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.004947,
 							["total"] = 0.004947,
-							["totalover"] = 0.004947,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7951,13 +7959,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.004947,
 							["tipo"] = 3,
 							["last_event"] = 1645641356,
-							["alternatepower"] = 0.004947,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.004947,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -7967,46 +7975,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 2,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 2,
-							["tipo"] = 4,
 							["last_event"] = 1645641299,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -8039,21 +8047,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11670, -- [1]
@@ -8062,18 +8070,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -8095,10 +8103,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.004413,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -8106,12 +8111,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.004413,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 351310.65,
 				["combat_id"] = 143,
-				["overall_added"] = true,
+				["data_inicio"] = "13:34:59",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -8124,7 +8132,7 @@ _detalhes_database = {
 				["start_time"] = 351310.216,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:34:59",
+				["overall_added"] = true,
 			}, -- [27]
 			{
 				{
@@ -8141,24 +8149,24 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire_total"] = 1,
-							["damage_taken"] = 11760.001775,
-							["aID"] = "60174",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.001775,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 0.001775,
-							["fight_component"] = true,
+							["classe"] = "PET",
 							["friendlyfire"] = {
 								["Quirkk"] = {
-									["total"] = 1,
 									["spells"] = {
 										1, -- [1]
 									},
+									["total"] = 1,
 								},
 							},
+							["friendlyfire_total"] = 1,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001775,
+							["serial"] = "Creature-0-4217-870-14-60174-0000167E4E",
+							["dps_started"] = false,
+							["total"] = 0.001775,
+							["fight_component"] = true,
+							["on_hold"] = false,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8179,30 +8187,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
-										["a_amt"] = 0,
+										["a_dmg"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["spellschool"] = 1,
-										["MISS"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1645641295,
-							["custom"] = 0,
 							["last_event"] = 1645641298,
-							["on_hold"] = false,
+							["end_time"] = 1645641295,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 11760.001775,
 							["start_time"] = 1645641294,
-							["serial"] = "Creature-0-4217-870-14-60174-0000167E4E",
-							["classe"] = "PET",
+							["delay"] = 0,
+							["aID"] = "60174",
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -8212,42 +8220,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["friendlyfire_total"] = 11760,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005945,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["spells"] = {
+										[589] = 11760,
+									},
+									["total"] = 11760,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 0.005945,
+							["damage_taken"] = 1.005945,
+							["last_event"] = 1645641294,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005945,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.005945,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 11760,
-									["spells"] = {
-										[589] = 11760,
-									},
-								},
-							},
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1645641295,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1645641294,
-							["damage_taken"] = 1.005945,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1645641294,
-							["serial"] = "Player-73-0838D224",
-							["friendlyfire_total"] = 11760,
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -8272,7 +8280,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.003821,
 							["total"] = 0.003821,
-							["totalover"] = 0.003821,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8281,13 +8289,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003821,
 							["tipo"] = 3,
 							["last_event"] = 1645641298,
-							["alternatepower"] = 0.003821,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.003821,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -8297,49 +8305,49 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["pets"] = {
-							},
 							["spell_cast"] = {
 								[589] = 1,
 							},
 							["buff_uptime"] = 2,
-							["last_event"] = 1645641295,
-							["aID"] = "73-0838D224",
+							["pets"] = {
+							},
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1645641295,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -8372,21 +8380,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11760, -- [1]
@@ -8395,18 +8403,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -8428,10 +8436,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.005945,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -8439,12 +8444,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.005945,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 351306.55,
 				["combat_id"] = 142,
-				["overall_added"] = true,
+				["data_inicio"] = "13:34:54",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -8457,7 +8465,7 @@ _detalhes_database = {
 				["start_time"] = 351305.6,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:34:54",
+				["overall_added"] = true,
 			}, -- [28]
 			{
 				{
@@ -8471,42 +8479,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["friendlyfire_total"] = 11922,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002519,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["spells"] = {
+										[589] = 11922,
+									},
+									["total"] = 11922,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 0.002519,
+							["damage_taken"] = 0.002519,
+							["last_event"] = 1645641255,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002519,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.002519,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 11922,
-									["spells"] = {
-										[589] = 11922,
-									},
-								},
-							},
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1645641256,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1645641255,
-							["damage_taken"] = 0.002519,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1645641255,
-							["serial"] = "Player-73-0838D224",
-							["friendlyfire_total"] = 11922,
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -8528,46 +8536,46 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 2,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 2,
-							["tipo"] = 4,
 							["last_event"] = 1645641256,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -8600,21 +8608,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					11922, -- [1]
@@ -8623,18 +8631,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -8656,10 +8664,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.002519,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -8667,12 +8672,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.002519,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 351267.533,
 				["combat_id"] = 141,
-				["overall_added"] = true,
+				["data_inicio"] = "13:34:16",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -8685,7 +8693,7 @@ _detalhes_database = {
 				["start_time"] = 351267.266,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:34:16",
+				["overall_added"] = true,
 			}, -- [29]
 			{
 				{
@@ -8702,24 +8710,24 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire_total"] = 1,
-							["damage_taken"] = 12022.008227,
-							["aID"] = "60174",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008227,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 0.008227,
-							["fight_component"] = true,
+							["classe"] = "PET",
 							["friendlyfire"] = {
 								["Quirkk"] = {
-									["total"] = 1,
 									["spells"] = {
 										1, -- [1]
 									},
+									["total"] = 1,
 								},
 							},
+							["friendlyfire_total"] = 1,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008227,
+							["serial"] = "Creature-0-4217-870-14-60174-0000167E24",
+							["dps_started"] = false,
+							["total"] = 0.008227,
+							["fight_component"] = true,
+							["on_hold"] = false,
 							["nome"] = "Squatting Virmen",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8740,30 +8748,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
-										["a_amt"] = 0,
+										["a_dmg"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["spellschool"] = 1,
-										["MISS"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1645641254,
-							["custom"] = 0,
 							["last_event"] = 1645641255,
-							["on_hold"] = false,
+							["end_time"] = 1645641254,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 12022.008227,
 							["start_time"] = 1645641251,
-							["serial"] = "Creature-0-4217-870-14-60174-0000167E24",
-							["classe"] = "PET",
+							["delay"] = 0,
+							["aID"] = "60174",
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -8773,42 +8781,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["friendlyfire_total"] = 12022,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005236,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["spells"] = {
+										[589] = 12022,
+									},
+									["total"] = 12022,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 0.005236,
+							["damage_taken"] = 1.005236,
+							["last_event"] = 1645641253,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "PRIEST",
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005236,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.005236,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 12022,
-									["spells"] = {
-										[589] = 12022,
-									},
-								},
-							},
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["end_time"] = 1645641254,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1645641253,
-							["damage_taken"] = 1.005236,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1645641253,
-							["serial"] = "Player-73-0838D224",
-							["friendlyfire_total"] = 12022,
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -8833,7 +8841,7 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["passiveover"] = 0.007465,
 							["total"] = 0.007465,
-							["totalover"] = 0.007465,
+							["resource_type"] = 13,
 							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8842,13 +8850,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["aID"] = "73-0838D224",
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.007465,
 							["tipo"] = 3,
 							["last_event"] = 1645641255,
-							["alternatepower"] = 0.007465,
-							["flag_original"] = 1297,
+							["aID"] = "73-0838D224",
 							["serial"] = "Player-73-0838D224",
-							["resource_type"] = 13,
+							["totalover"] = 0.007465,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -8858,49 +8866,49 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
+							["nome"] = "Quirkk",
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["pets"] = {
-							},
 							["spell_cast"] = {
 								[589] = 1,
 							},
 							["buff_uptime"] = 6,
-							["last_event"] = 1645641254,
-							["aID"] = "73-0838D224",
+							["pets"] = {
+							},
+							["tipo"] = 4,
 							["classe"] = "PRIEST",
+							["last_event"] = 1645641254,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 3,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 3,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 45242,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["tipo"] = 4,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -8933,21 +8941,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					12022, -- [1]
@@ -8956,18 +8964,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -8989,10 +8997,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.005236,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -9000,12 +9005,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.005236,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 351265.933,
 				["combat_id"] = 140,
-				["overall_added"] = true,
+				["data_inicio"] = "13:34:12",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -9018,7 +9026,7 @@ _detalhes_database = {
 				["start_time"] = 351263.466,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:34:12",
+				["overall_added"] = true,
 			}, -- [30]
 			{
 				{
@@ -9032,42 +9040,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Player-73-0838D224",
 							["pets"] = {
 							},
+							["spec"] = 258,
+							["classe"] = "PRIEST",
+							["friendlyfire_total"] = 12044,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001414,
+							["total"] = 0.001414,
+							["dps_started"] = false,
+							["end_time"] = 1645641248,
+							["friendlyfire"] = {
+								["Squatting Virmen"] = {
+									["spells"] = {
+										[589] = 12044,
+									},
+									["total"] = 12044,
+								},
+							},
+							["last_event"] = 1645641248,
+							["nome"] = "Quirkk",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 12044,
-							["aID"] = "73-0838D224",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.001414,
-							["end_time"] = 1645641248,
-							["dps_started"] = false,
-							["total"] = 0.001414,
-							["damage_taken"] = 0.001414,
-							["tipo"] = 1,
-							["nome"] = "Quirkk",
-							["spec"] = 258,
 							["grupo"] = true,
-							["last_dps"] = 0,
 							["on_hold"] = false,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1645641248,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 12044,
-									["spells"] = {
-										[589] = 12044,
-									},
-								},
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 0.001414,
 							["start_time"] = 1645641248,
-							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["delay"] = 0,
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [1]
@@ -9089,35 +9097,35 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Quirkk",
 							["spec"] = 258,
 							["grupo"] = true,
-							["aID"] = "73-0838D224",
+							["classe"] = "PRIEST",
+							["buff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["nome"] = "Quirkk",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1645641248,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-0838D224",
-							["classe"] = "PRIEST",
+							["aID"] = "73-0838D224",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -9150,21 +9158,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
 					12044, -- [1]
@@ -9173,18 +9181,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = false,
@@ -9206,10 +9214,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Quirkk"] = 0.001414,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -9217,12 +9222,15 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Quirkk"] = 0.001414,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 351260.183,
 				["combat_id"] = 139,
-				["overall_added"] = true,
+				["data_inicio"] = "13:34:09",
 				["frags"] = {
 				},
 				["spells_cast_timeline"] = {
@@ -9235,7 +9243,7 @@ _detalhes_database = {
 				["start_time"] = 351259.866,
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:34:09",
+				["overall_added"] = true,
 			}, -- [31]
 		},
 	},
@@ -9247,9 +9255,9 @@ _detalhes_database = {
 		["show_options"] = false,
 		["pos"] = {
 		},
-		["height"] = 18,
 		["cooldowns"] = {
 		},
+		["height"] = 18,
 		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
@@ -9441,13 +9449,13 @@ _detalhes_database = {
 			},
 			["playSound"] = false,
 			["updatespeed"] = 1,
-			["disable_gouge"] = false,
+			["author"] = "Details! Team",
 			["showamount"] = false,
 			["useplayercolor"] = false,
 			["absolute_mode"] = false,
 			["usefocus"] = false,
 			["playSoundFile"] = "Details Threat Warning Volume 3",
-			["author"] = "Details! Team",
+			["disable_gouge"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -9474,15 +9482,15 @@ _detalhes_database = {
 			["tank_block_size"] = 150,
 			["bar_height"] = 24,
 			["tank_block_texture"] = "Details Serenity",
-			["show_inc_bars"] = false,
-			["tank_block_height"] = 40,
-			["tank_block_powerbar_size_height"] = 10,
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
+			["tank_block_powerbar_size_height"] = 10,
+			["tank_block_height"] = 40,
+			["show_inc_bars"] = false,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -9492,11 +9500,11 @@ _detalhes_database = {
 			["last_section_selected"] = "main",
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
 			["encounter_timers_dbm"] = {
 			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -9522,36 +9530,11 @@ _detalhes_database = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["scale"] = 1,
+			["use_square_mode"] = false,
 			["arrow_anchor_x"] = 0,
-			["row_height"] = 20,
+			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
-			["point"] = "CENTER",
-			["author"] = "Details! Team",
-			["main_frame_strata"] = "LOW",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["font_size"] = 10,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 4.57763671875e-05,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
+			["arrow_anchor_y"] = 0,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -9559,23 +9542,50 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = 3.0517578125e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = false,
-			["use_square_mode"] = false,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["use_spark"] = true,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 4.57763671875e-05,
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["main_frame_strata"] = "LOW",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1658868545,
+		["last_version"] = 14,
+	},
 	["on_death_menu"] = true,
+	["cached_roles"] = {
+	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
-	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
 	},
 	["cd_tracker"] = {
 		["enabled"] = false,
@@ -9588,19 +9598,27 @@ _detalhes_database = {
 		["pos"] = {
 		},
 	},
-	["combat_counter"] = 318,
-	["announce_prepots"] = {
-		["enabled"] = false,
+	["announce_firsthit"] = {
+		["enabled"] = true,
 		["channel"] = "SELF",
-		["reverse"] = false,
 	},
-	["last_day"] = "29",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
 	["combat_id"] = 169,
 	["savedStyles"] = {
 	},
 	["force_font_outline"] = "",
 	["character_data"] = {
-		["logons"] = 97,
+		["logons"] = 98,
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -9622,55 +9640,55 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["delay"] = 0,
+					["serial"] = "Player-73-0838D224",
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-						["Voracious Virmen"] = {
-							["total"] = 108556,
-							["spells"] = {
-								[589] = 0,
-							},
-						},
-						["Squatting Virmen"] = {
-							["total"] = 287618,
-							["spells"] = {
-								[589] = 0,
-							},
-						},
-						["Swooping Plainshawk"] = {
-							["total"] = 234276,
-							["spells"] = {
-								[589] = 0,
-								[228360] = 0,
-							},
-						},
-					},
+					["last_dps"] = 0,
+					["on_hold"] = false,
 					["aID"] = "73-0838D224",
-					["friendlyfire_total"] = 630450,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.1759120000000001,
-					["total"] = 0.1759120000000001,
-					["dps_started"] = false,
 					["end_time"] = 1645641249,
-					["last_dps"] = 0,
-					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 0.1759120000000001,
+					["damage_taken"] = 19.175912,
+					["tipo"] = 1,
 					["nome"] = "Quirkk",
 					["spec"] = 258,
 					["grupo"] = true,
+					["classe"] = "PRIEST",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["classe"] = "PRIEST",
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 19.175912,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+						["Voracious Virmen"] = {
+							["spells"] = {
+								[589] = 0,
+							},
+							["total"] = 108556,
+						},
+						["Squatting Virmen"] = {
+							["spells"] = {
+								[589] = 0,
+							},
+							["total"] = 287618,
+						},
+						["Swooping Plainshawk"] = {
+							["spells"] = {
+								[589] = 0,
+								[228360] = 0,
+							},
+							["total"] = 234276,
+						},
+					},
 					["start_time"] = 1645641224,
-					["serial"] = "Player-73-0838D224",
-					["on_hold"] = false,
+					["delay"] = 0,
+					["friendlyfire_total"] = 630450,
 				}, -- [1]
 				{
 					["flag_original"] = 74001,
@@ -9682,24 +9700,17 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["friendlyfire"] = {
-						["Quirkk"] = {
-							["total"] = 11,
-							["spells"] = {
-								0, -- [1]
-							},
-						},
-					},
+					["total"] = 0.081488,
+					["damage_taken"] = 287618.081488,
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.081488,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4217-870-14-60174-0000167E20",
+					["dps_started"] = false,
 					["end_time"] = 1645641249,
 					["aID"] = "60174",
-					["damage_taken"] = 287618.081488,
+					["on_hold"] = false,
 					["nome"] = "Squatting Virmen",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -9720,29 +9731,36 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["DODGE"] = 1,
-								["extra"] = {
-								},
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
 								["a_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["DODGE"] = 1,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["tipo"] = 1,
-					["last_dps"] = 0,
-					["friendlyfire_total"] = 11,
-					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["friendlyfire_total"] = 11,
+					["last_dps"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["friendlyfire"] = {
+						["Quirkk"] = {
+							["spells"] = {
+								0, -- [1]
+							},
+							["total"] = 11,
+						},
+					},
 					["start_time"] = 1645641228,
-					["serial"] = "Creature-0-4217-870-14-60174-0000167E20",
-					["total"] = 0.081488,
+					["delay"] = 0,
+					["fight_component"] = true,
 				}, -- [2]
 				{
 					["flag_original"] = 74001,
@@ -9754,17 +9772,24 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 108556.037754,
+					["friendlyfire_total"] = 3,
+					["last_dps"] = 0,
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.037754,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4217-870-14-60039-0000167E8B",
+					["dps_started"] = false,
 					["total"] = 0.037754,
 					["aID"] = "60039",
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+						["Quirkk"] = {
+							["spells"] = {
+								0, -- [1]
+							},
+							["total"] = 3,
+						},
+					},
 					["nome"] = "Voracious Virmen",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -9785,35 +9810,28 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["tipo"] = 1,
-					["on_hold"] = false,
-					["end_time"] = 1645641358,
-					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-						["Quirkk"] = {
-							["total"] = 3,
-							["spells"] = {
-								0, -- [1]
-							},
-						},
-					},
+					["end_time"] = 1645641358,
+					["on_hold"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 108556.037754,
 					["start_time"] = 1645641349,
-					["serial"] = "Creature-0-4217-870-14-60039-0000167E8B",
-					["friendlyfire_total"] = 3,
+					["delay"] = 0,
+					["fight_component"] = true,
 				}, -- [3]
 				{
 					["flag_original"] = 8465,
@@ -9825,24 +9843,17 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["damage_taken"] = 158627.010079,
+					["last_dps"] = 0,
 					["classe"] = "PET",
-					["friendlyfire"] = {
-						["Quirkk"] = {
-							["spells"] = {
-								0, -- [1]
-							},
-							["total"] = 5,
-						},
-					},
-					["aID"] = "60072",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.010079,
-					["serial"] = "Creature-0-4229-870-7-60072-00002F749D",
+					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1647277220,
 					["friendlyfire_total"] = 5,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["nome"] = "Swooping Plainshawk",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -9863,29 +9874,36 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["MISS"] = 2,
-								["extra"] = {
-								},
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
 								["a_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["MISS"] = 2,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["last_event"] = 0,
-					["total"] = 0.010079,
-					["dps_started"] = false,
-					["custom"] = 0,
 					["tipo"] = 1,
-					["on_hold"] = false,
+					["dps_started"] = false,
+					["total"] = 0.010079,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+						["Quirkk"] = {
+							["total"] = 5,
+							["spells"] = {
+								0, -- [1]
+							},
+						},
+					},
 					["start_time"] = 1647277212,
-					["delay"] = 0,
-					["damage_taken"] = 158627.010079,
+					["serial"] = "Creature-0-4229-870-7-60072-00002F749D",
+					["aID"] = "60072",
 				}, -- [4]
 			},
 		}, -- [1]
@@ -9894,12 +9912,13 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["healing_from"] = {
+					["targets_overheal"] = {
+						["Quirkk"] = 0,
 					},
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
-					["aID"] = "73-0838D224",
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.00158,
 					["total_without_pet"] = 0.00158,
 					["total"] = 0.00158,
@@ -9916,9 +9935,8 @@ _detalhes_database = {
 					["totalover_without_pet"] = 0.00158,
 					["healing_taken"] = 0.00158,
 					["end_time"] = 1646675947,
-					["spec"] = 258,
-					["targets_overheal"] = {
-						["Quirkk"] = 0,
+					["tipo"] = 2,
+					["healing_from"] = {
 					},
 					["nome"] = "Quirkk",
 					["spells"] = {
@@ -9944,23 +9962,23 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 0,
 								["n_curado"] = 0,
 								["totaldenied"] = 0,
-								["n_amt"] = 0,
 								["absorbed"] = 0,
 							},
 						},
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["heal_enemy_amt"] = 0,
-					["totaldenied"] = 0.00158,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["classe"] = "PRIEST",
 					["start_time"] = 1646675944,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["aID"] = "73-0838D224",
+					["totaldenied"] = 0.00158,
 					["delay"] = 0,
-					["tipo"] = 2,
+					["spec"] = 258,
 				}, -- [1]
 			},
 		}, -- [2]
@@ -9969,7 +9987,7 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["received"] = 0.05920100000000002,
-					["resource"] = 1597.188173000001,
+					["resource"] = 1725.282562000001,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -9978,7 +9996,7 @@ _detalhes_database = {
 					["classe"] = "PRIEST",
 					["passiveover"] = 0.00662,
 					["resource_type"] = 13,
-					["totalover"] = 0.00662,
+					["total"] = 0.05920100000000002,
 					["nome"] = "Quirkk",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -9987,13 +10005,13 @@ _detalhes_database = {
 					},
 					["grupo"] = true,
 					["aID"] = "73-0838D224",
-					["alternatepower"] = 0.05920100000000002,
+					["spec"] = 258,
+					["flag_original"] = 1297,
 					["last_event"] = 0,
 					["tipo"] = 3,
-					["flag_original"] = 1297,
-					["spec"] = 258,
+					["alternatepower"] = 0.05920100000000002,
 					["serial"] = "Player-73-0838D224",
-					["total"] = 0.05920100000000002,
+					["totalover"] = 0.00662,
 				}, -- [1]
 			},
 		}, -- [3]
@@ -10002,98 +10020,98 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1047,
-					["nome"] = "Quirkk",
 					["buff_uptime_targets"] = {
 					},
+					["nome"] = "Quirkk",
 					["spec"] = 258,
 					["grupo"] = true,
+					["pets"] = {
+					},
+					["buff_uptime"] = 92,
 					["spell_cast"] = {
 						[589] = 15,
 						[228260] = 1,
 					},
-					["pets"] = {
-					},
-					["buff_uptime"] = 92,
-					["last_event"] = 0,
-					["aID"] = "73-0838D224",
+					["tipo"] = 4,
 					["classe"] = "PRIEST",
+					["last_event"] = 0,
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[225787] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 9,
 								["appliedamt"] = 9,
 								["id"] = 225787,
 								["uptime"] = 15,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[335151] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 4,
 								["appliedamt"] = 4,
 								["id"] = 335151,
 								["uptime"] = 5,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
 							},
 							[232698] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 13,
 								["appliedamt"] = 13,
 								["id"] = 232698,
 								["uptime"] = 20,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
 							},
 							[194249] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 194249,
 								["uptime"] = 0,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[186403] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 17,
 								["appliedamt"] = 17,
 								["id"] = 186403,
 								["uptime"] = 19,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
-							},
-							[45242] = {
 								["counter"] = 0,
-								["activedamt"] = 18,
-								["appliedamt"] = 18,
-								["id"] = 45242,
-								["uptime"] = 31,
-								["targets"] = {
-								},
-								["refreshamt"] = 6,
 							},
 							[186406] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 186406,
 								["uptime"] = 2,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
+							},
+							[45242] = {
+								["refreshamt"] = 6,
+								["activedamt"] = 18,
+								["appliedamt"] = 18,
+								["id"] = 45242,
+								["uptime"] = 31,
+								["targets"] = {
+								},
+								["counter"] = 0,
 							},
 						},
 						["tipo"] = 9,
 					},
 					["serial"] = "Player-73-0838D224",
-					["tipo"] = 4,
+					["aID"] = "73-0838D224",
 				}, -- [1]
 			},
 		}, -- [4]
@@ -10106,6 +10124,74 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
+		["spells_cast_timeline"] = {
+		},
+		["tempo_start"] = 1645641248,
+		["cleu_timeline"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 270,
+		["totals"] = {
+			0.291423, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0.05258100000000001,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "13:34:09",
+		["end_time"] = 294191.39,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["totals_grupo"] = {
+			0.172526, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0.05258100000000001,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
 		["segments_added"] = {
 			{
 				["elapsed"] = 1.51600000000326,
@@ -10294,123 +10380,43 @@ _detalhes_database = {
 				["clock"] = "13:34:09",
 			}, -- [31]
 		},
-		["tempo_start"] = 1645641248,
-		["cleu_timeline"] = {
+		["data_fim"] = "13:29:18",
+		["overall_enemy_name"] = "Unknown",
+		["CombatSkillCache"] = {
 		},
-		["alternate_power"] = {
-		},
-		["combat_counter"] = 270,
-		["totals"] = {
-			0.291423, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0.05258100000000001,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
-			["voidzone_damage"] = 0,
-			["frags_total"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["data_inicio"] = "13:34:09",
-		["end_time"] = 294191.39,
-		["last_events_tables"] = {
-		},
-		["totals_grupo"] = {
-			0.172526, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0.05258100000000001,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
-		},
-		["overall_refreshed"] = true,
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage"] = {
+			["damage_section"] = {
 			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage_section"] = {
+			["damage"] = {
 			},
-		},
-		["hasSaved"] = true,
-		["spells_cast_timeline"] = {
-		},
-		["data_fim"] = "13:29:18",
-		["overall_enemy_name"] = "Unknown",
-		["CombatSkillCache"] = {
-		},
-		["frags"] = {
 		},
 		["start_time"] = 294152.2939999998,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["cleu_events"] = {
-			["n"] = 1,
+		["last_events_tables"] = {
 		},
 	},
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1656609004,
-		["last_version"] = 14,
-	},
-	["announce_cooldowns"] = {
+	["last_day"] = "11",
+	["announce_prepots"] = {
 		["enabled"] = false,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["combat_counter"] = 319,
+	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -10418,7 +10424,9 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["cached_roles"] = {
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
 		["Player-73-0838D224"] = 258,

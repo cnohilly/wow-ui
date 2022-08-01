@@ -56,36 +56,36 @@ OneRing_Config = {
 			},
 			["hadowlands"] = {
 				{
-					["id"] = 354469,
 					["sliceToken"] = "ABuex3AJa0e",
+					["id"] = 354469,
 				}, -- [1]
 				{
-					["id"] = 354466,
 					["sliceToken"] = "ABuexm9a/p1",
+					["id"] = 354466,
 				}, -- [2]
 				{
-					["id"] = 354462,
 					["sliceToken"] = "ABuexm9a/pr",
+					["id"] = 354462,
 				}, -- [3]
 				{
-					["id"] = 354468,
 					["sliceToken"] = "ABuexLWYFre",
+					["id"] = 354468,
 				}, -- [4]
 				{
-					["id"] = 354465,
 					["sliceToken"] = "ABuecu=6jie",
+					["id"] = 354465,
 				}, -- [5]
 				{
-					["id"] = 354464,
 					["sliceToken"] = "ABuecovLlu1",
+					["id"] = 354464,
 				}, -- [6]
 				{
-					["id"] = 354463,
 					["sliceToken"] = "ABuecovLlur",
+					["id"] = 354463,
 				}, -- [7]
 				{
-					["id"] = 367416,
 					["sliceToken"] = "ABuechShGne",
+					["id"] = 367416,
 				}, -- [8]
 				["name"] = "Hero's Path: Shadowlands",
 				["save"] = true,
@@ -96,8 +96,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCCTt",
 				}, -- [1]
 				{
-					["id"] = "/cast {{spell:2108/51302}}",
 					["sliceToken"] = "OPCCTl",
+					["id"] = "/cast {{spell:2108/51302}}",
 				}, -- [2]
 				{
 					["id"] = "/cast {{spell:2018/51300}}",
@@ -108,20 +108,20 @@ OneRing_Config = {
 					["sliceToken"] = "OPCCTe",
 				}, -- [4]
 				{
-					["sliceToken"] = "OPCCTa",
 					["id"] = "/cast {{spell:2259/51304}}",
+					["sliceToken"] = "OPCCTa",
 				}, -- [5]
 				{
-					["id"] = "/cast {{spell:4036/51306}}",
 					["sliceToken"] = "OPCCTg",
+					["id"] = "/cast {{spell:4036/51306}}",
 				}, -- [6]
 				{
 					["id"] = 2656,
 					["sliceToken"] = "OPCCTm",
 				}, -- [7]
 				{
-					["sliceToken"] = "OPCCTj",
 					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}};",
+					["sliceToken"] = "OPCCTj",
 				}, -- [8]
 				{
 					["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
@@ -152,8 +152,8 @@ OneRing_Config = {
 			["Travel"] = {
 				{
 					"toy", -- [1]
-					172179, -- [2]
-					["sliceToken"] = "ABuez5CbYBj",
+					193588, -- [2]
+					["sliceToken"] = "ABuecmGYqEr",
 				}, -- [1]
 				{
 					"toy", -- [1]

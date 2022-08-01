@@ -136,10 +136,10 @@ HandyNotesDB = {
 }
 HandyNotes_HandyNotesDB = {
 	["global"] = {
-		[535] = {
-			[51266312] = {
+		[550] = {
+			[80264977] = {
 				["cont"] = false,
-				["title"] = "knight pepe",
+				["title"] = "ninja pepe",
 				["icon"] = 1,
 				["desc"] = "",
 			},
@@ -244,10 +244,10 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[550] = {
-			[80264977] = {
+		[535] = {
+			[51266312] = {
 				["cont"] = false,
-				["title"] = "ninja pepe",
+				["title"] = "knight pepe",
 				["icon"] = 1,
 				["desc"] = "",
 			},

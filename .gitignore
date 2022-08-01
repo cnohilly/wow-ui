@@ -1,9 +1,9 @@
 # Which folders and files to ignore
 /Cache
 /Errors
+/Interface
 /Logs
 /UTILS
-/Interface
 
 .curseclient
 .flavor.info

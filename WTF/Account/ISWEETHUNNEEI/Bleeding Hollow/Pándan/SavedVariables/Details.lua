@@ -7,13 +7,12 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 226,
 					["tipo"] = 2,
+					["combatId"] = 226,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 66834,
 							["totalabsorbed"] = 0.007362,
-							["total"] = 19198.007362,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -21,22 +20,20 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["spec"] = 264,
-							["colocacao"] = 1,
-							["classe"] = "SHAMAN",
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 27425.72480468159,
+							["aID"] = "73-098E6F07",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 19198.007362,
-							["friendlyfire"] = {
-							},
-							["on_hold"] = false,
+							["tipo"] = 1,
+							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1656534205,
-							["friendlyfire_total"] = 0,
-							["aID"] = "73-098E6F07",
+							["classe"] = "SHAMAN",
+							["damage_taken"] = 0.007362,
 							["nome"] = "Geekk",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[188443] = {
 										["c_amt"] = 1,
@@ -55,28 +52,31 @@ _detalhes_database = {
 										["c_max"] = 9599,
 										["id"] = 188443,
 										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["extra"] = {
-										},
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["c_min"] = 9599,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-73-098E6F07",
-							["last_dps"] = 114958.127825132,
+							["total"] = 19198.007362,
 							["custom"] = 0,
+							["spec"] = 264,
+							["colocacao"] = 1,
 							["last_event"] = 1656534205,
-							["damage_taken"] = 0.007362,
+							["on_hold"] = false,
 							["start_time"] = 1656534205,
-							["delay"] = 0,
-							["tipo"] = 1,
+							["serial"] = "Player-73-098E6F07",
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -86,70 +86,69 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007309,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1656534205,
 							["on_hold"] = false,
+							["fight_component"] = true,
+							["end_time"] = 1656534205,
+							["damage_taken"] = 19198.007309,
 							["friendlyfire_total"] = 0,
 							["nome"] = "Shambling Hungerer",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
 							["aID"] = "113321",
+							["dps_started"] = false,
 							["total"] = 0.007309,
-							["serial"] = "Creature-0-3778-1530-3147-113321-0004BCB4AD",
-							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 19198.007309,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1656534205,
-							["delay"] = 0,
-							["tipo"] = 1,
+							["serial"] = "Creature-0-3778-1530-3147-113321-0004BCB4AD",
+							["monster"] = true,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 226,
 					["tipo"] = 3,
+					["combatId"] = 226,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 226,
 					["tipo"] = 7,
+					["combatId"] = 226,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 226,
 					["tipo"] = 9,
+					["combatId"] = 226,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Geekk",
-							["spec"] = 264,
-							["grupo"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 0,
+							["spec"] = 264,
+							["grupo"] = true,
+							["aID"] = "73-098E6F07",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
-							["last_event"] = 1656534205,
+							["nome"] = "Geekk",
+							["buff_uptime"] = 0,
 							["tipo"] = 4,
+							["last_event"] = 1656534205,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[311476] = {
 										["activedamt"] = 1,
@@ -158,31 +157,31 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1656534205,
 										["uptime"] = 0,
-										["appliedamt"] = 1,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = true,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-098E6F07",
-							["aID"] = "73-098E6F07",
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Pándan",
-							["spec"] = 70,
-							["grupo"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 0,
+							["spec"] = 70,
+							["grupo"] = true,
+							["aID"] = "73-09C7DA56",
 							["pets"] = {
 							},
-							["classe"] = "PALADIN",
-							["last_event"] = 1656534205,
+							["nome"] = "Pándan",
+							["buff_uptime"] = 0,
 							["tipo"] = 4,
+							["last_event"] = 1656534205,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[186406] = {
 										["activedamt"] = 1,
@@ -191,10 +190,10 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1656534205,
 										["uptime"] = 0,
-										["appliedamt"] = 1,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = true,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[317920] = {
 										["activedamt"] = 1,
@@ -203,21 +202,22 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1656534205,
 										["uptime"] = 0,
-										["appliedamt"] = 1,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = true,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-09C7DA56",
-							["aID"] = "73-09C7DA56",
+							["classe"] = "PALADIN",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 226,
 					["tipo"] = 2,
+					["combatId"] = 226,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -225,19 +225,18 @@ _detalhes_database = {
 					["Geekk"] = true,
 					["Pándan"] = true,
 				},
+				["tempo_start"] = 1656534205,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
 				["raid_roster_indexed"] = {
 					"Pándan", -- [1]
 					"Geekk", -- [2]
 				},
-				["overall_added"] = true,
-				["cleu_timeline"] = {
-				},
-				["alternate_power"] = {
-				},
 				["enemy"] = "Shambling Hungerer",
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 317,
+				["overall_added"] = true,
 				["totals"] = {
 					19198, -- [1]
 					0, -- [2]
@@ -245,21 +244,39 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_timeline"] = {
+				},
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:23:25",
+				["end_time"] = 1395238.852,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["combat_id"] = 226,
+				["frags"] = {
+					["Shambling Hungerer"] = 2,
 				},
 				["totals_grupo"] = {
 					19198, -- [1]
@@ -268,31 +285,37 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["tempo_start"] = 1656534205,
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
+				["hasSaved"] = true,
+				["spells_cast_timeline"] = {
 				},
-				["__call"] = {
+				["data_fim"] = "16:23:25",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+							["Geekk"] = 19198.007362,
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -301,28 +324,6 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-							["Geekk"] = 19198.007362,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 1395238.852,
-				["last_events_tables"] = {
-				},
-				["combat_id"] = 226,
-				["combat_counter"] = 317,
-				["player_last_events"] = {
-				},
-				["instance_type"] = "none",
-				["spells_cast_timeline"] = {
-				},
-				["data_fim"] = "16:23:25",
-				["data_inicio"] = "16:23:25",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Shambling Hungerer"] = 2,
 				},
 				["start_time"] = 1395238.152,
 				["TimeData"] = {
@@ -331,8 +332,8 @@ _detalhes_database = {
 			}, -- [1]
 			{
 				{
-					["combatId"] = 225,
 					["tipo"] = 2,
+					["combatId"] = 225,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 66834,
@@ -341,27 +342,29 @@ _detalhes_database = {
 							},
 							["targets"] = {
 								["Duskwatch Executor"] = 7544,
-								["Withered Skulker"] = 6399,
 								["Shambling Hungerer"] = 19198,
+								["Withered Skulker"] = 6399,
 							},
 							["pets"] = {
 							},
-							["total"] = 33141.008809,
-							["on_hold"] = false,
-							["aID"] = "73-098E6F07",
+							["classe"] = "SHAMAN",
+							["last_dps"] = 16570.5044045,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 33141.008809,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_event"] = 1656534201,
+							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1656534205,
-							["classe"] = "SHAMAN",
-							["friendlyfire_total"] = 0,
+							["aID"] = "73-098E6F07",
+							["damage_taken"] = 0.008809,
 							["nome"] = "Geekk",
+							["spec"] = 264,
+							["grupo"] = true,
+							["total"] = 33141.008809,
+							["custom"] = 0,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[188389] = {
 										["c_amt"] = 1,
@@ -380,16 +383,16 @@ _detalhes_database = {
 										["c_max"] = 7544,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["extra"] = {
-										},
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["c_min"] = 7544,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188443] = {
 										["c_amt"] = 1,
@@ -398,8 +401,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 9599,
 										["targets"] = {
-											["Withered Skulker"] = 6399,
 											["Shambling Hungerer"] = 19198,
+											["Withered Skulker"] = 6399,
 										},
 										["n_dmg"] = 19198,
 										["n_min"] = 9599,
@@ -409,29 +412,27 @@ _detalhes_database = {
 										["c_max"] = 6399,
 										["id"] = 188443,
 										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["extra"] = {
-										},
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["c_min"] = 6399,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 264,
-							["serial"] = "Player-73-098E6F07",
-							["last_dps"] = 16570.5044045,
-							["custom"] = 0,
+							["colocacao"] = 1,
 							["tipo"] = 1,
-							["damage_taken"] = 0.008809,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1656534172,
-							["delay"] = 0,
-							["last_event"] = 1656534201,
+							["serial"] = "Player-73-098E6F07",
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -441,52 +442,51 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.007279,
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007279,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
 							["end_time"] = 1656534174,
+							["fight_component"] = true,
+							["total"] = 0.007279,
+							["damage_taken"] = 7544.007279,
 							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
 							["nome"] = "Duskwatch Executor",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
 							["aID"] = "115595",
-							["serial"] = "Creature-0-3887-1220-14-115595-0000BCB407",
-							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 7544.007279,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1656534174,
-							["delay"] = 0,
-							["tipo"] = 1,
+							["serial"] = "Creature-0-3887-1220-14-115595-0000BCB407",
+							["monster"] = true,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 225,
 					["tipo"] = 3,
+					["combatId"] = 225,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 66834,
-							["targets_overheal"] = {
-								["Geekk"] = 715,
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "SHAMAN",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 715.006926,
 							["total_without_pet"] = 0.006926,
 							["total"] = 0.006926,
@@ -503,12 +503,12 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.006926,
 							["healing_taken"] = 0.006926,
 							["end_time"] = 1656534174,
-							["healing_from"] = {
+							["last_event"] = 1656534173,
+							["targets_overheal"] = {
+								["Geekk"] = 715,
 							},
-							["heal_enemy_amt"] = 0,
 							["nome"] = "Geekk",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[61295] = {
 										["c_amt"] = 1,
@@ -530,28 +530,29 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 0,
 										["n_curado"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 0,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1656534173,
-							["spec"] = 264,
-							["custom"] = 0,
-							["tipo"] = 2,
 							["aID"] = "73-098E6F07",
 							["totaldenied"] = 0.006926,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "SHAMAN",
+							["start_time"] = 1656534173,
 							["delay"] = 0,
-							["last_event"] = 1656534173,
+							["spec"] = 264,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 225,
 					["tipo"] = 7,
+					["combatId"] = 225,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.00842,
@@ -564,131 +565,131 @@ _detalhes_database = {
 							["classe"] = "PALADIN",
 							["passiveover"] = 0.00842,
 							["total"] = 0.00842,
-							["resource_type"] = 9,
+							["totalover"] = 0.00842,
 							["nome"] = "Pándan",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 70,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.00842,
-							["last_event"] = 1656534194,
-							["aID"] = "73-09C7DA56",
 							["tipo"] = 3,
+							["aID"] = "73-09C7DA56",
+							["last_event"] = 1656534194,
+							["alternatepower"] = 0.00842,
+							["flag_original"] = 1297,
 							["serial"] = "Player-73-09C7DA56",
-							["totalover"] = 0.00842,
+							["resource_type"] = 9,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 225,
 					["tipo"] = 9,
+					["combatId"] = 225,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Geekk",
-							["spec"] = 264,
-							["grupo"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 6,
+							["spec"] = 264,
+							["grupo"] = true,
+							["aID"] = "73-098E6F07",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
-							["last_event"] = 1656534174,
+							["nome"] = "Geekk",
+							["buff_uptime"] = 6,
 							["tipo"] = 4,
+							["last_event"] = 1656534174,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[61295] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 61295,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[311476] = {
-										["activedamt"] = 1,
-										["id"] = 311476,
-										["targets"] = {
-										},
-										["uptime"] = 2,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[53390] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 53390,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
+									},
+									[311476] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 311476,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-098E6F07",
-							["aID"] = "73-098E6F07",
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Pándan",
-							["spec"] = 70,
-							["grupo"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 4,
+							["spec"] = 70,
+							["grupo"] = true,
+							["aID"] = "73-09C7DA56",
 							["pets"] = {
 							},
-							["classe"] = "PALADIN",
-							["last_event"] = 1656534174,
+							["nome"] = "Pándan",
+							["buff_uptime"] = 4,
 							["tipo"] = 4,
+							["last_event"] = 1656534174,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[186406] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 186406,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[317920] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 317920,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-09C7DA56",
-							["aID"] = "73-09C7DA56",
+							["classe"] = "PALADIN",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 225,
 					["tipo"] = 2,
+					["combatId"] = 225,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -696,19 +697,18 @@ _detalhes_database = {
 					["Geekk"] = true,
 					["Pándan"] = true,
 				},
+				["tempo_start"] = 1656534172,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
 				["raid_roster_indexed"] = {
 					"Pándan", -- [1]
 					"Geekk", -- [2]
 				},
-				["overall_added"] = true,
-				["cleu_timeline"] = {
-				},
-				["alternate_power"] = {
-				},
 				["enemy"] = "Duskwatch Executor",
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 315,
+				["overall_added"] = true,
 				["totals"] = {
 					33140.97157, -- [1]
 					0, -- [2]
@@ -716,21 +716,40 @@ _detalhes_database = {
 						-0.003334999999999866, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_timeline"] = {
+				},
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:22:52",
+				["end_time"] = 1395207.928,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["combat_id"] = 225,
+				["frags"] = {
+					["Duskwatch Executor"] = 1,
+					["Duskwatch Adjudicator"] = 1,
 				},
 				["totals_grupo"] = {
 					33141, -- [1]
@@ -739,31 +758,37 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["tempo_start"] = 1656534172,
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
+				["hasSaved"] = true,
+				["spells_cast_timeline"] = {
 				},
-				["__call"] = {
+				["data_fim"] = "16:22:54",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+							["Geekk"] = 7544.008809,
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -773,29 +798,6 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-							["Geekk"] = 7544.008809,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 1395207.928,
-				["last_events_tables"] = {
-				},
-				["combat_id"] = 225,
-				["combat_counter"] = 315,
-				["player_last_events"] = {
-				},
-				["instance_type"] = "none",
-				["spells_cast_timeline"] = {
-				},
-				["data_fim"] = "16:22:54",
-				["data_inicio"] = "16:22:52",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Duskwatch Executor"] = 1,
-					["Duskwatch Adjudicator"] = 1,
 				},
 				["start_time"] = 1395205.928,
 				["TimeData"] = {
@@ -804,36 +806,34 @@ _detalhes_database = {
 			}, -- [2]
 			{
 				{
-					["combatId"] = 224,
 					["tipo"] = 2,
+					["combatId"] = 224,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.005761,
-							["total"] = 15.005761,
 							["damage_from"] = {
 								["Geekk"] = true,
 							},
 							["targets"] = {
 								["Geekk"] = 15,
 							},
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["monster"] = true,
-							["fight_component"] = true,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 15.005761,
-							["on_hold"] = false,
-							["dps_started"] = false,
 							["end_time"] = 1656534167,
+							["monster"] = true,
+							["total"] = 15.005761,
+							["damage_taken"] = 7502.005761,
 							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
 							["nome"] = "Duskwatch Adjudicator",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -852,29 +852,31 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["MISS"] = 1,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_amt"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
 							["aID"] = "115594",
-							["serial"] = "Creature-0-3887-1220-14-115594-00003CB407",
-							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1656534165,
-							["damage_taken"] = 7502.005761,
+							["on_hold"] = false,
 							["start_time"] = 1656534161,
-							["delay"] = 0,
-							["tipo"] = 1,
+							["serial"] = "Creature-0-3887-1220-14-115594-00003CB407",
+							["fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 66834,
@@ -887,22 +889,24 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 7502.007155,
-							["on_hold"] = false,
-							["aID"] = "73-098E6F07",
+							["classe"] = "SHAMAN",
+							["last_dps"] = 1596.171735122197,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7502.007155,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_event"] = 1656534166,
+							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1656534167,
-							["classe"] = "SHAMAN",
-							["friendlyfire_total"] = 0,
+							["aID"] = "73-098E6F07",
+							["damage_taken"] = 15.007155,
 							["nome"] = "Geekk",
+							["spec"] = 264,
+							["grupo"] = true,
+							["total"] = 7502.007155,
+							["custom"] = 0,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[188389] = {
 										["c_amt"] = 1,
@@ -921,35 +925,33 @@ _detalhes_database = {
 										["c_max"] = 7502,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["extra"] = {
-										},
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["c_min"] = 7502,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 264,
-							["serial"] = "Player-73-098E6F07",
-							["last_dps"] = 1596.171735122197,
-							["custom"] = 0,
+							["colocacao"] = 1,
 							["tipo"] = 1,
-							["damage_taken"] = 15.007155,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1656534166,
-							["delay"] = 0,
-							["last_event"] = 1656534166,
+							["serial"] = "Player-73-098E6F07",
+							["on_hold"] = false,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 224,
 					["tipo"] = 3,
+					["combatId"] = 224,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 66834,
@@ -979,13 +981,10 @@ _detalhes_database = {
 							["healing_taken"] = 9.00531,
 							["fight_component"] = true,
 							["end_time"] = 1656534167,
-							["healing_from"] = {
-								["Geekk"] = true,
-							},
 							["heal_enemy_amt"] = 0,
+							["last_event"] = 1656534165,
 							["nome"] = "Geekk",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[357945] = {
 										["c_amt"] = 0,
@@ -1007,9 +1006,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 1,
 										["n_curado"] = 9,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 									[61295] = {
@@ -1032,28 +1031,31 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 2,
 										["n_curado"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 2,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1656534161,
-							["spec"] = 264,
+							["totaldenied"] = 0.00531,
+							["aID"] = "73-098E6F07",
 							["custom"] = 0,
 							["tipo"] = 2,
-							["aID"] = "73-098E6F07",
-							["totaldenied"] = 0.00531,
+							["spec"] = 264,
+							["start_time"] = 1656534161,
 							["delay"] = 0,
-							["last_event"] = 1656534165,
+							["healing_from"] = {
+								["Geekk"] = true,
+							},
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 224,
 					["tipo"] = 7,
+					["combatId"] = 224,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.002498,
@@ -1070,7 +1072,6 @@ _detalhes_database = {
 							["total"] = 0.002498,
 							["nome"] = "Geekk",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[52128] = {
 										["total"] = 0,
@@ -1082,29 +1083,92 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["spec"] = 264,
+							["totalover"] = 1000.002498,
 							["flag_original"] = 66834,
-							["alternatepower"] = 0.002498,
+							["tipo"] = 3,
 							["last_event"] = 1656534161,
 							["aID"] = "73-098E6F07",
-							["tipo"] = 3,
+							["alternatepower"] = 0.002498,
 							["serial"] = "Player-73-098E6F07",
-							["totalover"] = 1000.002498,
+							["spec"] = 264,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 224,
 					["tipo"] = 9,
+					["combatId"] = 224,
 					["_ActorTable"] = {
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
+							["pets"] = {
+							},
+							["classe"] = "SHAMAN",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[53390] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 53390,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[61295] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 61295,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[52127] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 52127,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[311476] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 311476,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[311479] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 311479,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["nome"] = "Geekk",
 							["spec"] = 264,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -1112,122 +1176,60 @@ _detalhes_database = {
 								[188389] = 1,
 							},
 							["buff_uptime"] = 16,
-							["pets"] = {
-							},
-							["classe"] = "SHAMAN",
-							["aID"] = "73-098E6F07",
 							["last_event"] = 1656534167,
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[53390] = {
-										["activedamt"] = 1,
-										["id"] = 53390,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[61295] = {
-										["activedamt"] = 1,
-										["id"] = 61295,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[52127] = {
-										["activedamt"] = 1,
-										["id"] = 52127,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[311476] = {
-										["activedamt"] = 1,
-										["id"] = 311476,
-										["targets"] = {
-										},
-										["uptime"] = 2,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[311479] = {
-										["activedamt"] = 1,
-										["id"] = 311479,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["serial"] = "Player-73-098E6F07",
 							["tipo"] = 4,
+							["nome"] = "Geekk",
+							["serial"] = "Player-73-098E6F07",
+							["aID"] = "73-098E6F07",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Pándan",
-							["spec"] = 70,
-							["grupo"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 12,
+							["spec"] = 70,
+							["grupo"] = true,
+							["aID"] = "73-09C7DA56",
 							["pets"] = {
 							},
-							["classe"] = "PALADIN",
-							["last_event"] = 1656534167,
+							["nome"] = "Pándan",
+							["buff_uptime"] = 12,
 							["tipo"] = 4,
+							["last_event"] = 1656534167,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[186406] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 186406,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["uptime"] = 6,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[317920] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 317920,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["uptime"] = 6,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-09C7DA56",
-							["aID"] = "73-09C7DA56",
+							["classe"] = "PALADIN",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 224,
 					["tipo"] = 2,
+					["combatId"] = 224,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1235,19 +1237,18 @@ _detalhes_database = {
 					["Geekk"] = true,
 					["Pándan"] = true,
 				},
+				["tempo_start"] = 1656534161,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
 				["raid_roster_indexed"] = {
 					"Pándan", -- [1]
 					"Geekk", -- [2]
 				},
-				["overall_added"] = true,
-				["cleu_timeline"] = {
-				},
-				["alternate_power"] = {
-				},
 				["enemy"] = "Duskwatch Adjudicator",
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 314,
+				["overall_added"] = true,
 				["totals"] = {
 					7517, -- [1]
 					9, -- [2]
@@ -1255,21 +1256,39 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_timeline"] = {
+				},
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:22:41",
+				["end_time"] = 1395200.895,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["combat_id"] = 224,
+				["frags"] = {
+					["Duskwatch Adjudicator"] = 1,
 				},
 				["totals_grupo"] = {
 					7502, -- [1]
@@ -1278,31 +1297,37 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["tempo_start"] = 1656534161,
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
+				["hasSaved"] = true,
+				["spells_cast_timeline"] = {
 				},
-				["__call"] = {
+				["data_fim"] = "16:22:47",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+							["Geekk"] = 7502.007155,
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1312,28 +1337,6 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-							["Geekk"] = 7502.007155,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 1395200.895,
-				["last_events_tables"] = {
-				},
-				["combat_id"] = 224,
-				["combat_counter"] = 314,
-				["player_last_events"] = {
-				},
-				["instance_type"] = "none",
-				["spells_cast_timeline"] = {
-				},
-				["data_fim"] = "16:22:47",
-				["data_inicio"] = "16:22:41",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Duskwatch Adjudicator"] = 1,
 				},
 				["start_time"] = 1395194.895,
 				["TimeData"] = {
@@ -1342,8 +1345,8 @@ _detalhes_database = {
 			}, -- [3]
 			{
 				{
-					["combatId"] = 223,
 					["tipo"] = 2,
+					["combatId"] = 223,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 66834,
@@ -1356,22 +1359,24 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 7492.007243,
-							["on_hold"] = false,
-							["aID"] = "73-098E6F07",
+							["classe"] = "SHAMAN",
+							["last_dps"] = 3746.0036215,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7492.007243,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_event"] = 1656534160,
+							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1656534161,
-							["classe"] = "SHAMAN",
-							["friendlyfire_total"] = 0,
+							["aID"] = "73-098E6F07",
+							["damage_taken"] = 0.007243,
 							["nome"] = "Geekk",
+							["spec"] = 264,
+							["grupo"] = true,
+							["total"] = 7492.007243,
+							["custom"] = 0,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[188389] = {
 										["c_amt"] = 0,
@@ -1391,29 +1396,27 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["extra"] = {
-										},
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 264,
-							["serial"] = "Player-73-098E6F07",
-							["last_dps"] = 3746.0036215,
-							["custom"] = 0,
+							["colocacao"] = 1,
 							["tipo"] = 1,
-							["damage_taken"] = 0.007243,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1656534116,
-							["delay"] = 0,
-							["last_event"] = 1656534160,
+							["serial"] = "Player-73-098E6F07",
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -1425,24 +1428,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.003713,
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003713,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
 							["end_time"] = 1656534118,
+							["fight_component"] = true,
+							["total"] = 0.003713,
+							["damage_taken"] = 28332.003713,
 							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
 							["nome"] = "Duskwatch Adjudicator",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -1461,41 +1462,43 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["MISS"] = 1,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["a_amt"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
 							["aID"] = "113597",
-							["serial"] = "Creature-0-3887-1220-14-113597-00003CB3E1",
-							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1656534159,
-							["damage_taken"] = 28332.003713,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1656534118,
-							["delay"] = 0,
-							["tipo"] = 1,
+							["serial"] = "Creature-0-3887-1220-14-113597-00003CB3E1",
+							["monster"] = true,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 223,
 					["tipo"] = 3,
+					["combatId"] = 223,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 223,
 					["tipo"] = 7,
+					["combatId"] = 223,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.003205,
@@ -1508,120 +1511,120 @@ _detalhes_database = {
 							["classe"] = "PALADIN",
 							["passiveover"] = 0.003205,
 							["total"] = 0.003205,
-							["resource_type"] = 9,
+							["totalover"] = 0.003205,
 							["nome"] = "Pándan",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 70,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.003205,
-							["last_event"] = 1656534120,
-							["aID"] = "73-09C7DA56",
 							["tipo"] = 3,
+							["aID"] = "73-09C7DA56",
+							["last_event"] = 1656534120,
+							["alternatepower"] = 0.003205,
+							["flag_original"] = 1297,
 							["serial"] = "Player-73-09C7DA56",
-							["totalover"] = 0.003205,
+							["resource_type"] = 9,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 223,
 					["tipo"] = 9,
+					["combatId"] = 223,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Geekk",
-							["spec"] = 264,
-							["grupo"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 4,
+							["spec"] = 264,
+							["grupo"] = true,
+							["aID"] = "73-098E6F07",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
-							["last_event"] = 1656534118,
+							["nome"] = "Geekk",
+							["buff_uptime"] = 4,
 							["tipo"] = 4,
+							["last_event"] = 1656534118,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[52127] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 52127,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[311479] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 311479,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-098E6F07",
-							["aID"] = "73-098E6F07",
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Pándan",
-							["spec"] = 70,
-							["grupo"] = true,
 							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 4,
+							["spec"] = 70,
+							["grupo"] = true,
+							["aID"] = "73-09C7DA56",
 							["pets"] = {
 							},
-							["classe"] = "PALADIN",
-							["last_event"] = 1656534118,
+							["nome"] = "Pándan",
+							["buff_uptime"] = 4,
 							["tipo"] = 4,
+							["last_event"] = 1656534118,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[186406] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 186406,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[317920] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 317920,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-73-09C7DA56",
-							["aID"] = "73-09C7DA56",
+							["classe"] = "PALADIN",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 223,
 					["tipo"] = 2,
+					["combatId"] = 223,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1633,14 +1636,15 @@ _detalhes_database = {
 					"Pándan", -- [1]
 					"Geekk", -- [2]
 				},
-				["overall_added"] = true,
-				["cleu_timeline"] = {
+				["tempo_start"] = 1656534116,
+				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
 				["enemy"] = "Duskwatch Adjudicator",
-				["cleu_events"] = {
-					["n"] = 1,
+				["combat_counter"] = 313,
+				["frags"] = {
+					["Duskwatch Adjudicator"] = 1,
 				},
 				["totals"] = {
 					7491.980684999996, -- [1]
@@ -1649,21 +1653,37 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["overall_added"] = true,
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:21:56",
+				["end_time"] = 1395151.952,
+				["cleu_timeline"] = {
+				},
+				["instance_type"] = "none",
+				["cleu_events"] = {
+					["n"] = 1,
 				},
 				["totals_grupo"] = {
 					7492, -- [1]
@@ -1672,31 +1692,34 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["tempo_start"] = 1656534116,
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
+				["hasSaved"] = true,
+				["spells_cast_timeline"] = {
 				},
-				["__call"] = {
-				},
+				["data_fim"] = "16:21:58",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+							["Geekk"] = 3725.007243,
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1705,33 +1728,14 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-							["Geekk"] = 3725.007243,
-						}, -- [1]
-					},
 				},
-				["end_time"] = 1395151.952,
-				["last_events_tables"] = {
-				},
-				["combat_id"] = 223,
-				["combat_counter"] = 313,
-				["player_last_events"] = {
-				},
-				["instance_type"] = "none",
-				["spells_cast_timeline"] = {
-				},
-				["data_fim"] = "16:21:58",
-				["data_inicio"] = "16:21:56",
 				["CombatSkillCache"] = {
 				},
-				["frags"] = {
-					["Duskwatch Adjudicator"] = 1,
-				},
+				["contra"] = "Duskwatch Adjudicator",
 				["start_time"] = 1395149.952,
 				["TimeData"] = {
 				},
-				["contra"] = "Duskwatch Adjudicator",
+				["combat_id"] = 223,
 			}, -- [4]
 		},
 	},
@@ -1743,9 +1747,9 @@ _detalhes_database = {
 		["show_options"] = false,
 		["pos"] = {
 		},
+		["height"] = 18,
 		["cooldowns"] = {
 		},
-		["height"] = 18,
 		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
@@ -1762,7 +1766,7 @@ _detalhes_database = {
 	},
 	["last_version"] = "9.2.59824",
 	["character_data"] = {
-		["logons"] = 44,
+		["logons"] = 45,
 	},
 	["tabela_instancias"] = {
 	},
@@ -1843,24 +1847,6 @@ _detalhes_database = {
 		}, -- [2]
 	},
 	["cached_talents"] = {
-		["Player-73-09C7DA56"] = {
-			22590, -- [1]
-			23466, -- [2]
-			22179, -- [3]
-			22433, -- [4]
-			17601, -- [5]
-			23167, -- [6]
-			23456, -- [7]
-		},
-		["Player-73-098E6F07"] = {
-			19263, -- [1]
-			19259, -- [2]
-			19275, -- [3]
-			22322, -- [4]
-			19269, -- [5]
-			21968, -- [6]
-			22359, -- [7]
-		},
 	},
 	["last_instance_id"] = 1530,
 	["announce_interrupts"] = {
@@ -1887,13 +1873,13 @@ _detalhes_database = {
 			},
 			["playSound"] = false,
 			["updatespeed"] = 1,
-			["usefocus"] = false,
+			["disable_gouge"] = false,
 			["showamount"] = false,
 			["useplayercolor"] = false,
 			["absolute_mode"] = false,
 			["useclasscolors"] = false,
 			["playSoundFile"] = "Details Threat Warning Volume 3",
-			["disable_gouge"] = false,
+			["usefocus"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -1920,15 +1906,15 @@ _detalhes_database = {
 			["tank_block_size"] = 150,
 			["bar_height"] = 24,
 			["tank_block_texture"] = "Details Serenity",
-			["show_inc_bars"] = false,
-			["tank_block_height"] = 40,
-			["tank_block_powerbar_size_height"] = 10,
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
+			["tank_block_powerbar_size_height"] = 10,
+			["tank_block_height"] = 40,
+			["show_inc_bars"] = false,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -1938,11 +1924,11 @@ _detalhes_database = {
 			["last_section_selected"] = "main",
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
+			["hide_on_combat"] = false,
 			["show_icon"] = 5,
 			["opened"] = 0,
-			["hide_on_combat"] = false,
+			["encounter_timers_dbm"] = {
+			},
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -1968,22 +1954,17 @@ _detalhes_database = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["arrow_anchor_y"] = 0,
+			["point"] = "CENTER",
 			["arrow_anchor_x"] = 0,
-			["main_frame_locked"] = false,
+			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
-			["main_frame_strata"] = "LOW",
-			["font_size"] = 10,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["scale"] = 1,
+			["use_square_mode"] = false,
+			["author"] = "Details! Team",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
+			["use_spark"] = true,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -1991,9 +1972,8 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -2001,46 +1981,42 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = 3.0517578125e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
+			["font_size"] = 10,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["use_square_mode"] = false,
-			["scale"] = 1,
-			["row_height"] = 20,
-			["point"] = "CENTER",
+			["y"] = 4.57763671875e-05,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 		},
 	},
-	["last_day"] = "29",
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_day"] = "17",
+	["cached_roles"] = {
+	},
 	["nick_tag_cache"] = {
 		["last_version"] = 14,
-		["nextreset"] = 1657478531,
-	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+		["nextreset"] = 1659393742,
 	},
 	["on_death_menu"] = true,
-	["cd_tracker"] = {
+	["combat_counter"] = 318,
+	["announce_prepots"] = {
 		["enabled"] = false,
-		["cds_enabled"] = {
-		},
-		["show_conditions"] = {
-			["only_inside_instance"] = true,
-			["only_in_group"] = true,
-		},
-		["pos"] = {
-		},
-	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
 		["channel"] = "SELF",
-	},
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
+		["reverse"] = false,
 	},
 	["combat_id"] = 226,
 	["savedStyles"] = {
@@ -2073,26 +2049,27 @@ _detalhes_database = {
 					["damage_from"] = {
 					},
 					["targets"] = {
+						["Duskwatch Executor"] = 0,
+						["Duskwatch Adjudicator"] = 0,
+						["Withered Skulker"] = 0,
 						["Shambling Hungerer"] = 19198,
 					},
-					["friendlyfire_total"] = 0,
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["aID"] = "73-098E6F07",
+					["on_hold"] = false,
+					["damage_taken"] = 0.012899,
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 19198.012899,
-					["end_time"] = 1656534205,
-					["friendlyfire"] = {
-					},
-					["dps_started"] = false,
-					["total"] = 19198.012899,
 					["classe"] = "SHAMAN",
-					["on_hold"] = false,
+					["dps_started"] = false,
+					["end_time"] = 1656534205,
+					["last_dps"] = 0,
+					["tipo"] = 1,
 					["nome"] = "Geekk",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[188443] = {
 								["c_amt"] = 1,
@@ -2101,6 +2078,7 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 9599,
 								["targets"] = {
+									["Withered Skulker"] = 0,
 									["Shambling Hungerer"] = 19198,
 								},
 								["n_dmg"] = 9599,
@@ -2111,27 +2089,57 @@ _detalhes_database = {
 								["c_max"] = 9599,
 								["id"] = 188443,
 								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[188389] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Duskwatch Executor"] = 0,
+									["Duskwatch Adjudicator"] = 0,
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 188389,
+								["r_dmg"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
-								["n_amt"] = 1,
+								["n_amt"] = 0,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
 					["grupo"] = true,
+					["total"] = 19198.012899,
 					["spec"] = 264,
-					["serial"] = "Player-73-098E6F07",
 					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1656534202,
-					["delay"] = 0,
-					["damage_taken"] = 0.012899,
+					["serial"] = "Player-73-098E6F07",
+					["aID"] = "73-098E6F07",
 				}, -- [1]
 				{
 					["flag_original"] = 2632,
@@ -2141,47 +2149,313 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 19198.012092,
 					["aID"] = "113321",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.012092,
+					["total"] = 0.012092,
+					["monster"] = true,
+					["end_time"] = 1656534205,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Shambling Hungerer",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1656534202,
+					["serial"] = "Creature-0-3778-1530-3147-113321-0004BCB4AD",
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1656534205,
-					["dps_started"] = false,
-					["total"] = 0.012092,
+				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.003873,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "115595",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.003873,
+					["end_time"] = 1658097742,
 					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 0.003873,
 					["classe"] = "UNKNOW",
-					["nome"] = "Shambling Hungerer",
+					["last_event"] = 0,
+					["nome"] = "Duskwatch Executor",
 					["spells"] = {
 						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
 					},
-					["last_event"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3778-1530-3147-113321-0004BCB4AD",
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3887-1220-14-115595-0000BCB407",
 					["custom"] = 0,
 					["tipo"] = 1,
 					["last_dps"] = 0,
-					["start_time"] = 1656534202,
+					["start_time"] = 1658097739,
 					["delay"] = 0,
-					["damage_taken"] = 19198.012092,
-				}, -- [2]
+					["damage_taken"] = 0.003873,
+				}, -- [3]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.003982,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Geekk"] = 0,
+					},
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "115594",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.003982,
+					["end_time"] = 1658097742,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 0.003982,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["nome"] = "Duskwatch Adjudicator",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Geekk"] = 0,
+									["Fogozin-Stormrage"] = 0,
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3887-1220-14-115594-00003CB407",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1658097739,
+					["delay"] = 0,
+					["damage_taken"] = 0.003982,
+				}, -- [4]
 			},
 		}, -- [1]
 		{
 			["tipo"] = 3,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 66834,
+					["totalabsorb"] = 0.004297,
+					["last_hps"] = 0,
+					["targets_overheal"] = {
+						["Geekk"] = 0,
+					},
+					["healing_from"] = {
+					},
+					["targets"] = {
+						["Geekk"] = 0,
+					},
+					["targets_absorbs"] = {
+					},
+					["pets"] = {
+					},
+					["totalover_without_pet"] = 0.004297,
+					["iniciar_hps"] = false,
+					["classe"] = "SHAMAN",
+					["totalover"] = 0.004297,
+					["total_without_pet"] = 0.004297,
+					["spec"] = 264,
+					["healing_taken"] = 0.004297,
+					["aID"] = "73-098E6F07",
+					["total"] = 0.004297,
+					["end_time"] = 1658097742,
+					["heal_enemy_amt"] = 0,
+					["nome"] = "Geekk",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[61295] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Geekk"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Geekk"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 61295,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_curado"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 0,
+								["absorbed"] = 0,
+							},
+							[357945] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Geekk"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Geekk"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 357945,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_curado"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["start_time"] = 1658097739,
+					["heal_enemy"] = {
+					},
+					["serial"] = "Player-73-098E6F07",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["on_hold"] = false,
+					["totaldenied"] = 0.004297,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [1]
 			},
 		}, -- [2]
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
+				{
+					["received"] = 0.005328,
+					["resource"] = 6.016953,
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "PALADIN",
+					["passiveover"] = 0.005328,
+					["resource_type"] = 9,
+					["total"] = 0.005328,
+					["tipo"] = 3,
+					["totalover"] = 0.005328,
+					["nome"] = "Pándan",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 70,
+					["flag_original"] = 1297,
+					["alternatepower"] = 0.005328,
+					["last_event"] = 0,
+					["aID"] = "73-09C7DA56",
+					["serial"] = "Player-73-09C7DA56",
+				}, -- [1]
+				{
+					["received"] = 0.007039,
+					["resource"] = 0.009537,
+					["targets"] = {
+						["Geekk"] = 0,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "SHAMAN",
+					["passiveover"] = 0.007039,
+					["fight_component"] = true,
+					["total"] = 0.007039,
+					["tipo"] = 3,
+					["totalover"] = 0.007039,
+					["nome"] = "Geekk",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+							[52128] = {
+								["total"] = 0,
+								["id"] = 52128,
+								["totalover"] = 0,
+								["targets"] = {
+									["Geekk"] = 0,
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 264,
+					["flag_original"] = 66834,
+					["alternatepower"] = 0.007039,
+					["last_event"] = 0,
+					["aID"] = "73-098E6F07",
+					["serial"] = "Player-73-098E6F07",
+				}, -- [2]
 			},
 		}, -- [3]
 		{
@@ -2189,78 +2463,106 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1047,
+					["nome"] = "Geekk",
 					["buff_uptime_targets"] = {
 					},
-					["nome"] = "Geekk",
 					["spec"] = 264,
 					["grupo"] = true,
+					["spell_cast"] = {
+						[61295] = 0,
+						[188389] = 0,
+					},
+					["buff_uptime"] = 0,
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["buff_uptime"] = 0,
+					["aID"] = "73-098E6F07",
 					["classe"] = "SHAMAN",
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
+							[53390] = {
+								["id"] = 53390,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[61295] = {
+								["id"] = 61295,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[52127] = {
+								["id"] = 52127,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
 							[311476] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["appliedamt"] = 1,
 								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 311476,
 								["actived_at"] = 1656534205,
+								["id"] = 311476,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[311479] = {
+								["id"] = 311479,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["serial"] = "Player-73-098E6F07",
-					["aID"] = "73-098E6F07",
+					["tipo"] = 4,
 				}, -- [1]
 				{
 					["flag_original"] = 1047,
-					["buff_uptime_targets"] = {
-					},
 					["nome"] = "Pándan",
 					["spec"] = 70,
 					["grupo"] = true,
+					["aID"] = "73-09C7DA56",
+					["buff_uptime"] = 0,
+					["buff_uptime_targets"] = {
+					},
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["buff_uptime"] = 0,
-					["classe"] = "PALADIN",
 					["tipo"] = 4,
+					["classe"] = "PALADIN",
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[186406] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["appliedamt"] = 1,
 								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 186406,
 								["actived_at"] = 1656534205,
+								["id"] = 186406,
+								["uptime"] = 0,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[317920] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["appliedamt"] = 1,
 								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 317920,
 								["actived_at"] = 1656534205,
+								["id"] = 317920,
+								["uptime"] = 0,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["serial"] = "Player-73-09C7DA56",
-					["aID"] = "73-09C7DA56",
+					["last_event"] = 0,
 				}, -- [2]
 			},
 		}, -- [4]
@@ -2273,14 +2575,14 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
+		["cleu_timeline"] = {
+		},
 		["tempo_start"] = 1656534192,
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
 		},
 		["combat_counter"] = 316,
-		["spells_cast_timeline"] = {
-		},
 		["totals"] = {
 			19198.014671, -- [1]
 			0, -- [2]
@@ -2288,21 +2590,21 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
 				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -2313,8 +2615,41 @@ _detalhes_database = {
 		},
 		["data_inicio"] = "16:23:25",
 		["end_time"] = 1395238.852,
-		["cleu_events"] = {
-			["n"] = 1,
+		["totals_grupo"] = {
+			19198.007362, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
 		},
 		["segments_added"] = {
 			{
@@ -2324,69 +2659,46 @@ _detalhes_database = {
 				["clock"] = "16:23:25",
 			}, -- [1]
 		},
-		["totals_grupo"] = {
-			19198.007362, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["frags"] = {
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
 		},
 		["data_fim"] = "16:23:25",
 		["overall_enemy_name"] = "Shambling Hungerer",
 		["CombatSkillCache"] = {
 		},
-		["cleu_timeline"] = {
+		["frags"] = {
 		},
 		["start_time"] = 1395238.152,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
+		["cleu_events"] = {
+			["n"] = 1,
 		},
 	},
-	["announce_prepots"] = {
-		["enabled"] = false,
-		["channel"] = "SELF",
-		["reverse"] = false,
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
 	},
-	["combat_counter"] = 317,
-	["benchmark_db"] = {
-		["frame"] = {
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cd_tracker"] = {
+		["enabled"] = false,
+		["cds_enabled"] = {
+		},
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["pos"] = {
 		},
 	},
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -2394,12 +2706,11 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["cached_roles"] = {
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1072-08AC7814"] = 64,
 		["Player-73-09C7DA56"] = 70,
-		["Player-60-0EA6C690"] = 263,
-		["Player-73-098E6F07"] = 264,
 	},
 }

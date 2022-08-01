@@ -17,7 +17,7 @@ cardFlipTableOmens_Save = {
 	0, -- [15]
 }
 cardFlipTableMFC_Save = {
-	2, -- [1]
+	3, -- [1]
 	0, -- [2]
 	2, -- [3]
 	0, -- [4]

@@ -1,50 +1,7 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"idk if that applies to both difficulties or just heroic", -- [1]
-		"but it was definitely very little damage on heroic", -- [2]
-		"uhhhh", -- [3]
-		"for a small investment of 400k", -- [4]
-		"theyre great", -- [5]
-		"yeah, i think more dangerous is his little ring he does aroudn himself", -- [6]
-		"so melee just has to make sure they dont get clipped by that", -- [7]
-		"and theyre usually fine for tank swaps", -- [8]
-		"as long as tanks do it right", -- [9]
-		"which piece are you looking for again ?", -- [10]
-		"head ?", -- [11]
-		"seems semi-annoying for pantheon where sometimes you are running across the room for kill add or dispel bubble", -- [12]
-		"dasausage seemed fine, skolex just gotta not get killed by puddles", -- [13]
-		"lmao. no promises but ill at least look at the costs", -- [14]
-		"yeah hunter is a little out of sorts as well", -- [15]
-		"yeah ill see. cus odds are if you need it at least the 2 other druids do too", -- [16]
-		"i just dont have a ton of gold to be leveling everything", -- [17]
-		"so if im gonna level anything, at least it can be something several people need", -- [18]
-		"pog, trade me it", -- [19]
-		"/wa", -- [20]
-	},
+	["ConvertKeybindings"] = true,
 	["ChatHistoryLog"] = {
-		{
-			"WTS>Friends group  M+15-25 ||||PORTAL DEAL M+20 SPEC KEY TIMED ||||Torgast farm ||KSM DEAL ||||<ONLY GOLD> Group ready whit high Rio!!!", -- [1]
-			"Gozullin-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gozullin-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			7593, -- [11]
-			"Player-73-0E9DCB05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcGozullin|r",
-			[51] = 1644871294,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
 		{
 			"NONO don't touch me there! This is my NONO square!", -- [1]
 			"Jesinnadra-Area52", -- [2]
@@ -66,7 +23,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edJesinnadra-Area52|r",
 			[51] = 1645327102,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [2]
+		}, -- [1]
 		{
 			"Selling 2s, and 3s carries! Get your elite sets while you can, 4 days remaining until season ends! [GOLD ONLY]", -- [1]
 			"Shampoò-BleedingHollow", -- [2]
@@ -88,7 +45,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcShampoò|r",
 			[51] = 1645327146,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
+		}, -- [2]
 		{
 			"galleon timer plz", -- [1]
 			"Betsyfrost-Andorhal", -- [2]
@@ -110,7 +67,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaBetsyfrost-Andorhal|r",
 			[51] = 1645378870,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
+		}, -- [3]
 		{
 			"raiding on the priest? :D", -- [1]
 			"|Kq16|k", -- [2]
@@ -133,7 +90,7 @@ ElvCharacterDB = {
 			[51] = 1646186647,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [5]
+		}, -- [4]
 		{
 			"yeah im going disc this tier", -- [1]
 			"|Kq16|k", -- [2]
@@ -156,7 +113,7 @@ ElvCharacterDB = {
 			[51] = 1646186659,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [6]
+		}, -- [5]
 		{
 			"with shadow offspec", -- [1]
 			"|Kq16|k", -- [2]
@@ -179,7 +136,7 @@ ElvCharacterDB = {
 			[51] = 1646186669,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [7]
+		}, -- [6]
 		{
 			"to replace the priest we lost", -- [1]
 			"|Kq16|k", -- [2]
@@ -202,7 +159,7 @@ ElvCharacterDB = {
 			[51] = 1646186673,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [8]
+		}, -- [7]
 		{
 			"think you can hit max in time", -- [1]
 			"|Kq16|k", -- [2]
@@ -225,7 +182,7 @@ ElvCharacterDB = {
 			[51] = 1646186674,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [9]
+		}, -- [8]
 		{
 			"oh you actually are?", -- [1]
 			"|Kq16|k", -- [2]
@@ -248,7 +205,7 @@ ElvCharacterDB = {
 			[51] = 1646186684,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [10]
+		}, -- [9]
 		{
 			"im using nolies priest", -- [1]
 			"|Kq16|k", -- [2]
@@ -271,7 +228,7 @@ ElvCharacterDB = {
 			[51] = 1646186685,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [11]
+		}, -- [10]
 		{
 			"no but i wanted to keep the lie going", -- [1]
 			"|Kq16|k", -- [2]
@@ -294,7 +251,7 @@ ElvCharacterDB = {
 			[51] = 1646186696,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [12]
+		}, -- [11]
 		{
 			"did you really lose a priest?", -- [1]
 			"|Kq16|k", -- [2]
@@ -317,7 +274,7 @@ ElvCharacterDB = {
 			[51] = 1646186705,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [13]
+		}, -- [12]
 		{
 			"yeah ", -- [1]
 			"|Kq16|k", -- [2]
@@ -340,7 +297,7 @@ ElvCharacterDB = {
 			[51] = 1646186771,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [14]
+		}, -- [13]
 		{
 			"but we gained like ", -- [1]
 			"|Kq16|k", -- [2]
@@ -363,7 +320,7 @@ ElvCharacterDB = {
 			[51] = 1646186773,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [15]
+		}, -- [14]
 		{
 			"40 people", -- [1]
 			"|Kq16|k", -- [2]
@@ -386,7 +343,7 @@ ElvCharacterDB = {
 			[51] = 1646186776,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [16]
+		}, -- [15]
 		{
 			"thats a lot", -- [1]
 			"|Kq16|k", -- [2]
@@ -409,7 +366,7 @@ ElvCharacterDB = {
 			[51] = 1646186780,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [17]
+		}, -- [16]
 		{
 			"yeah we have 29 for raid tonight", -- [1]
 			"|Kq16|k", -- [2]
@@ -432,7 +389,7 @@ ElvCharacterDB = {
 			[51] = 1646186851,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [18]
+		}, -- [17]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-353065-73-107869557|h[Guild: SociallyAwkward]|h|r social guild looking for active players -  mythic, pvp, or anyone that wants to just chill n do ur own thing. No req", -- [1]
 			"Aelandra-BleedingHollow", -- [2]
@@ -454,7 +411,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aelandra|r",
 			[51] = 1646187159,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [18]
 		{
 			"[Guild: Eminent] the #1 RBG guild on Bleeding Hollow is recruiting for patch 9.2. We welcome pvpers of all skill levels, from zero to hero/glad/r1 etc. to participate in all pvp-  from rated to wargames or world pvp. We welcome all active players :)", -- [1]
 			"Sheilla-BleedingHollow", -- [2]
@@ -476,7 +433,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSheilla|r",
 			[51] = 1646333880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [19]
 		{
 			"the tazavesh spam is real", -- [1]
 			"|Kq17|k", -- [2]
@@ -499,7 +456,7 @@ ElvCharacterDB = {
 			[51] = 1646333887,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [21]
+		}, -- [20]
 		{
 			"what you mean", -- [1]
 			"|Kq17|k", -- [2]
@@ -522,7 +479,7 @@ ElvCharacterDB = {
 			[51] = 1646333900,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
-		}, -- [22]
+		}, -- [21]
 		{
 			"im spamming tazavesh keys for trinkets", -- [1]
 			"|Kq17|k", -- [2]
@@ -545,7 +502,7 @@ ElvCharacterDB = {
 			[51] = 1646333908,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [23]
+		}, -- [22]
 		{
 			"also wanna tank a +2 tazavesh", -- [1]
 			"|Kq17|k", -- [2]
@@ -568,7 +525,7 @@ ElvCharacterDB = {
 			[51] = 1646333914,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [24]
+		}, -- [23]
 		{
 			":^)", -- [1]
 			"|Kq17|k", -- [2]
@@ -591,7 +548,7 @@ ElvCharacterDB = {
 			[51] = 1646333914,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [25]
+		}, -- [24]
 		{
 			"idk that i even can. ive never done the dungeon ever ", -- [1]
 			"|Kq17|k", -- [2]
@@ -614,7 +571,7 @@ ElvCharacterDB = {
 			[51] = 1646333932,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
-		}, -- [26]
+		}, -- [25]
 		{
 			"nor have i unlocked it on either character", -- [1]
 			"|Kq17|k", -- [2]
@@ -637,7 +594,7 @@ ElvCharacterDB = {
 			[51] = 1646333938,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
-		}, -- [27]
+		}, -- [26]
 		{
 			"oh then ye you cant", -- [1]
 			"|Kq17|k", -- [2]
@@ -660,7 +617,7 @@ ElvCharacterDB = {
 			[51] = 1646333946,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [28]
+		}, -- [27]
 		{
 			"the questline takes like 10 mins tho", -- [1]
 			"|Kq17|k", -- [2]
@@ -683,7 +640,7 @@ ElvCharacterDB = {
 			[51] = 1646333951,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [29]
+		}, -- [28]
 		{
 			"so thats not too bad", -- [1]
 			"|Kq17|k", -- [2]
@@ -706,7 +663,7 @@ ElvCharacterDB = {
 			[51] = 1646333958,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [30]
+		}, -- [29]
 		{
 			"I used it in real life cause i have valuel", -- [1]
 			"Kenñypowers-BleedingHollow", -- [2]
@@ -728,7 +685,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaKenñypowers|r",
 			[51] = 1646675973,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [30]
 		{
 			"lol im going with fury warrior ", -- [1]
 			"|Kq7|k", -- [2]
@@ -751,7 +708,7 @@ ElvCharacterDB = {
 			[51] = 1646675973,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [32]
+		}, -- [31]
 		{
 			"wts |cffa335ee|Hitem:190630::::::::60:258::5:6:7188:6652:8118:8117:1511:6646:1:28:2166:::::|h[Devouring Pellicle Shoulderpads]|h|r", -- [1]
 			"Alie-BleedingHollow", -- [2]
@@ -773,7 +730,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAlie|r",
 			[51] = 1646675989,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [32]
 		{
 			"fun. how'd you make out on loot this week", -- [1]
 			"|Kq7|k", -- [2]
@@ -796,7 +753,7 @@ ElvCharacterDB = {
 			[51] = 1646672449,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [34]
+		}, -- [33]
 		{
 			"any tier yet", -- [1]
 			"|Kq7|k", -- [2]
@@ -819,7 +776,7 @@ ElvCharacterDB = {
 			[51] = 1646672455,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [35]
+		}, -- [34]
 		{
 			"we didnt kill any tier bosses sadly since we got hard stuck on xymox day 1 and didnt have dps for halondrus", -- [1]
 			"|Kq7|k", -- [2]
@@ -842,7 +799,7 @@ ElvCharacterDB = {
 			[51] = 1646676108,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [36]
+		}, -- [35]
 		{
 			"ah", -- [1]
 			"|Kq7|k", -- [2]
@@ -865,7 +822,7 @@ ElvCharacterDB = {
 			[51] = 1646676119,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [37]
+		}, -- [36]
 		{
 			"but i did get a nice trinket off prototype ", -- [1]
 			"|Kq7|k", -- [2]
@@ -888,7 +845,7 @@ ElvCharacterDB = {
 			[51] = 1646676124,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [38]
+		}, -- [37]
 		{
 			"yeah mb, i just read my message from justin i think saying didnt get halondrus and that you only had a little bit of time on lihuvum", -- [1]
 			"|Kq7|k", -- [2]
@@ -911,7 +868,7 @@ ElvCharacterDB = {
 			[51] = 1646676144,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [39]
+		}, -- [38]
 		{
 			"i guess i forgot those are the tier bosses lmao", -- [1]
 			"|Kq7|k", -- [2]
@@ -934,7 +891,7 @@ ElvCharacterDB = {
 			[51] = 1646676149,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [40]
+		}, -- [39]
 		{
 			"did you get the elegy ?", -- [1]
 			"|Kq7|k", -- [2]
@@ -957,7 +914,7 @@ ElvCharacterDB = {
 			[51] = 1646676173,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [41]
+		}, -- [40]
 		{
 			"yea but they should go down easy with reset gear", -- [1]
 			"|Kq7|k", -- [2]
@@ -980,7 +937,7 @@ ElvCharacterDB = {
 			[51] = 1646676173,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [42]
+		}, -- [41]
 		{
 			"or the 5min vers trinket?", -- [1]
 			"|Kq7|k", -- [2]
@@ -1003,7 +960,7 @@ ElvCharacterDB = {
 			[51] = 1646676176,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [43]
+		}, -- [42]
 		{
 			"vers 1", -- [1]
 			"|Kq7|k", -- [2]
@@ -1026,7 +983,7 @@ ElvCharacterDB = {
 			[51] = 1646676184,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [44]
+		}, -- [43]
 		{
 			"still nice tho ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1049,7 +1006,7 @@ ElvCharacterDB = {
 			[51] = 1646676194,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [45]
+		}, -- [44]
 		{
 			"ik thats supposed to be really good", -- [1]
 			"|Kq7|k", -- [2]
@@ -1072,7 +1029,7 @@ ElvCharacterDB = {
 			[51] = 1646676195,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [46]
+		}, -- [45]
 		{
 			"but im not sure i like it lol", -- [1]
 			"|Kq7|k", -- [2]
@@ -1095,7 +1052,7 @@ ElvCharacterDB = {
 			[51] = 1646676199,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [47]
+		}, -- [46]
 		{
 			"its def nice, its apparently simming insanely high", -- [1]
 			"|Kq7|k", -- [2]
@@ -1118,7 +1075,7 @@ ElvCharacterDB = {
 			[51] = 1646676209,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [48]
+		}, -- [47]
 		{
 			"i dont at all but raidbots says its good", -- [1]
 			"|Kq7|k", -- [2]
@@ -1141,7 +1098,7 @@ ElvCharacterDB = {
 			[51] = 1646676215,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [49]
+		}, -- [48]
 		{
 			"prob just pop it on lust only ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1164,7 +1121,7 @@ ElvCharacterDB = {
 			[51] = 1646676227,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [50]
+		}, -- [49]
 		{
 			"that trinket would have been sick for sylvanas lmao", -- [1]
 			"|Kq7|k", -- [2]
@@ -1187,7 +1144,7 @@ ElvCharacterDB = {
 			[51] = 1646676236,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [51]
+		}, -- [50]
 		{
 			"it has a long cd because the jailer will be 20 minutes long ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1210,7 +1167,7 @@ ElvCharacterDB = {
 			[51] = 1646676270,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [52]
+		}, -- [51]
 		{
 			"lmao", -- [1]
 			"|Kq7|k", -- [2]
@@ -1233,7 +1190,7 @@ ElvCharacterDB = {
 			[51] = 1646676279,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [53]
+		}, -- [52]
 		{
 			"definitely possible", -- [1]
 			"|Kq7|k", -- [2]
@@ -1256,7 +1213,7 @@ ElvCharacterDB = {
 			[51] = 1646676288,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [54]
+		}, -- [53]
 		{
 			"i think they full cleared normal but i wasnt here the nights they did it ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1279,7 +1236,7 @@ ElvCharacterDB = {
 			[51] = 1646676324,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [55]
+		}, -- [54]
 		{
 			"so we only did 1 heroic tier boss", -- [1]
 			"|Kq7|k", -- [2]
@@ -1302,7 +1259,7 @@ ElvCharacterDB = {
 			[51] = 1646676329,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [56]
+		}, -- [55]
 		{
 			"got 3 pieces for 24 people tho so i guess thats kinda lucky", -- [1]
 			"|Kq7|k", -- [2]
@@ -1325,7 +1282,7 @@ ElvCharacterDB = {
 			[51] = 1646676338,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [57]
+		}, -- [56]
 		{
 			"yea thats super nice", -- [1]
 			"|Kq7|k", -- [2]
@@ -1348,7 +1305,7 @@ ElvCharacterDB = {
 			[51] = 1646676353,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [58]
+		}, -- [57]
 		{
 			"which tier boss?", -- [1]
 			"|Kq7|k", -- [2]
@@ -1371,7 +1328,7 @@ ElvCharacterDB = {
 			[51] = 1646676358,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [59]
+		}, -- [58]
 		{
 			"lihuvim ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1394,7 +1351,7 @@ ElvCharacterDB = {
 			[51] = 1646676383,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [60]
+		}, -- [59]
 		{
 			"which after pantheon was a joke ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1417,7 +1374,7 @@ ElvCharacterDB = {
 			[51] = 1646676389,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [61]
+		}, -- [60]
 		{
 			"it took like 30 pulls total for pantheon, think a little more than an entire raid night", -- [1]
 			"|Kq7|k", -- [2]
@@ -1440,7 +1397,7 @@ ElvCharacterDB = {
 			[51] = 1646676404,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [62]
+		}, -- [61]
 		{
 			"and lihuvim took like 30-40 minutes, 6 pulls", -- [1]
 			"|Kq7|k", -- [2]
@@ -1463,7 +1420,7 @@ ElvCharacterDB = {
 			[51] = 1646676412,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [63]
+		}, -- [62]
 		{
 			"lihuvim seems really under tuned right now", -- [1]
 			"|Kq7|k", -- [2]
@@ -1486,7 +1443,7 @@ ElvCharacterDB = {
 			[51] = 1646676430,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [64]
+		}, -- [63]
 		{
 			"once our ranged stop fucking up the motes we will get it easy", -- [1]
 			"|Kq7|k", -- [2]
@@ -1509,7 +1466,7 @@ ElvCharacterDB = {
 			[51] = 1646676446,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [65]
+		}, -- [64]
 		{
 			"yeah it was i guess, since they put the blue post saying its gonna do more damage next week", -- [1]
 			"|Kq7|k", -- [2]
@@ -1532,7 +1489,7 @@ ElvCharacterDB = {
 			[51] = 1646676449,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [66]
+		}, -- [65]
 		{
 			"idk if that applies to both difficulties or just heroic", -- [1]
 			"|Kq7|k", -- [2]
@@ -1555,7 +1512,7 @@ ElvCharacterDB = {
 			[51] = 1646676472,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [67]
+		}, -- [66]
 		{
 			"but it was definitely very little damage on heroic", -- [1]
 			"|Kq7|k", -- [2]
@@ -1578,7 +1535,7 @@ ElvCharacterDB = {
 			[51] = 1646676478,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [68]
+		}, -- [67]
 		{
 			"i think it applies to normal too", -- [1]
 			"|Kq7|k", -- [2]
@@ -1601,7 +1558,7 @@ ElvCharacterDB = {
 			[51] = 1646676488,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [69]
+		}, -- [68]
 		{
 			"melee has to deal with nothing on normal ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1624,7 +1581,7 @@ ElvCharacterDB = {
 			[51] = 1646676496,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [70]
+		}, -- [69]
 		{
 			"how're the leather leggos coming along?", -- [1]
 			"|Kq12|k", -- [2]
@@ -1647,7 +1604,7 @@ ElvCharacterDB = {
 			[51] = 1646676499,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [71]
+		}, -- [70]
 		{
 			"uhhhh", -- [1]
 			"|Kq12|k", -- [2]
@@ -1670,7 +1627,7 @@ ElvCharacterDB = {
 			[51] = 1646676507,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [72]
+		}, -- [71]
 		{
 			"at least in heroic you have to worry about gettin cleaved with tank swap", -- [1]
 			"|Kq7|k", -- [2]
@@ -1693,7 +1650,7 @@ ElvCharacterDB = {
 			[51] = 1646676513,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [73]
+		}, -- [72]
 		{
 			":^)", -- [1]
 			"|Kq12|k", -- [2]
@@ -1716,7 +1673,7 @@ ElvCharacterDB = {
 			[51] = 1646676516,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [74]
+		}, -- [73]
 		{
 			"for a small investment of 400k", -- [1]
 			"|Kq12|k", -- [2]
@@ -1739,7 +1696,7 @@ ElvCharacterDB = {
 			[51] = 1646676521,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [75]
+		}, -- [74]
 		{
 			"theyre great", -- [1]
 			"|Kq12|k", -- [2]
@@ -1762,7 +1719,7 @@ ElvCharacterDB = {
 			[51] = 1646676528,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [76]
+		}, -- [75]
 		{
 			"sheesh", -- [1]
 			"|Kq12|k", -- [2]
@@ -1785,7 +1742,7 @@ ElvCharacterDB = {
 			[51] = 1646676531,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [77]
+		}, -- [76]
 		{
 			"yeah, i think more dangerous is his little ring he does aroudn himself", -- [1]
 			"|Kq7|k", -- [2]
@@ -1808,7 +1765,7 @@ ElvCharacterDB = {
 			[51] = 1646676551,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [78]
+		}, -- [77]
 		{
 			"so melee just has to make sure they dont get clipped by that", -- [1]
 			"|Kq7|k", -- [2]
@@ -1831,7 +1788,7 @@ ElvCharacterDB = {
 			[51] = 1646676566,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [79]
+		}, -- [78]
 		{
 			"and theyre usually fine for tank swaps ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1854,7 +1811,7 @@ ElvCharacterDB = {
 			[51] = 1646676574,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [80]
+		}, -- [79]
 		{
 			"as long as tanks do it right", -- [1]
 			"|Kq7|k", -- [2]
@@ -1877,7 +1834,7 @@ ElvCharacterDB = {
 			[51] = 1646676579,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [81]
+		}, -- [80]
 		{
 			"which piece are you looking for again ?", -- [1]
 			"|Kq12|k", -- [2]
@@ -1900,7 +1857,7 @@ ElvCharacterDB = {
 			[51] = 1646676600,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [82]
+		}, -- [81]
 		{
 			"head ?", -- [1]
 			"|Kq12|k", -- [2]
@@ -1923,7 +1880,7 @@ ElvCharacterDB = {
 			[51] = 1646676602,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [83]
+		}, -- [82]
 		{
 			"yea both seem easy to dodge so its just a patchwork boss for the most part ", -- [1]
 			"|Kq7|k", -- [2]
@@ -1946,7 +1903,7 @@ ElvCharacterDB = {
 			[51] = 1646676614,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [84]
+		}, -- [83]
 		{
 			"raid seems really easy for melee so far", -- [1]
 			"|Kq7|k", -- [2]
@@ -1969,7 +1926,7 @@ ElvCharacterDB = {
 			[51] = 1646676623,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [85]
+		}, -- [84]
 		{
 			"seems semi-annoying for pantheon where sometimes you are running across the room for kill add or dispel bubble", -- [1]
 			"|Kq7|k", -- [2]
@@ -1992,7 +1949,7 @@ ElvCharacterDB = {
 			[51] = 1646676670,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [86]
+		}, -- [85]
 		{
 			"well if you're offering how can I say no", -- [1]
 			"|Kq12|k", -- [2]
@@ -2015,7 +1972,7 @@ ElvCharacterDB = {
 			[51] = 1646676678,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [87]
+		}, -- [86]
 		{
 			"dasausage seemed fine, skolex just gotta not get killed by puddles", -- [1]
 			"|Kq7|k", -- [2]
@@ -2038,7 +1995,7 @@ ElvCharacterDB = {
 			[51] = 1646676697,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "JackeyYug",
-		}, -- [88]
+		}, -- [87]
 		{
 			"b/c I got tier legs my whole setup has becomed whack", -- [1]
 			"|Kq12|k", -- [2]
@@ -2061,7 +2018,7 @@ ElvCharacterDB = {
 			[51] = 1646676714,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [89]
+		}, -- [88]
 		{
 			"lmao. no promises but ill at least look at the costs", -- [1]
 			"|Kq12|k", -- [2]
@@ -2084,7 +2041,7 @@ ElvCharacterDB = {
 			[51] = 1646676723,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [90]
+		}, -- [89]
 		{
 			"our desausage kill was funky so i struggled on it dps wise but doesnt seem too bad", -- [1]
 			"|Kq7|k", -- [2]
@@ -2107,7 +2064,7 @@ ElvCharacterDB = {
 			[51] = 1646676741,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [91]
+		}, -- [90]
 		{
 			"yeah hunter is a little out of sorts as well", -- [1]
 			"|Kq12|k", -- [2]
@@ -2130,7 +2087,7 @@ ElvCharacterDB = {
 			[51] = 1646676742,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [92]
+		}, -- [91]
 		{
 			"but yea prototype is the hardest but only when necro boy is up", -- [1]
 			"|Kq7|k", -- [2]
@@ -2153,7 +2110,7 @@ ElvCharacterDB = {
 			[51] = 1646676757,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "JackeyYug",
-		}, -- [93]
+		}, -- [92]
 		{
 			"you dont actually have to I'll be fine buying from ah", -- [1]
 			"|Kq12|k", -- [2]
@@ -2176,7 +2133,7 @@ ElvCharacterDB = {
 			[51] = 1646676789,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kultamch",
-		}, -- [94]
+		}, -- [93]
 		{
 			"yeah ill see. cus odds are if you need it at least the 2 other druids do too", -- [1]
 			"|Kq12|k", -- [2]
@@ -2199,7 +2156,7 @@ ElvCharacterDB = {
 			[51] = 1646676810,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [95]
+		}, -- [94]
 		{
 			"i just dont have a ton of gold to be leveling everything", -- [1]
 			"|Kq12|k", -- [2]
@@ -2222,7 +2179,7 @@ ElvCharacterDB = {
 			[51] = 1646676822,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [96]
+		}, -- [95]
 		{
 			"so if im gonna level anything, at least it can be something several people need", -- [1]
 			"|Kq12|k", -- [2]
@@ -2245,7 +2202,7 @@ ElvCharacterDB = {
 			[51] = 1646676831,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Kultamch",
-		}, -- [97]
+		}, -- [96]
 		{
 			"|Hitem:190958::::::::60:255::16:5:7781:7359:6652:1579:6646:1:28:1279:::::|h[So'leah's Secret Technique]|h im huge ", -- [1]
 			"|Kq1|k", -- [2]
@@ -2268,7 +2225,7 @@ ElvCharacterDB = {
 			[51] = 1647883690,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Party",
-		}, -- [98]
+		}, -- [97]
 		{
 			"pog, trade me it", -- [1]
 			"|Kq1|k", -- [2]
@@ -2291,13 +2248,56 @@ ElvCharacterDB = {
 			[51] = 1647883724,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Party",
+		}, -- [98]
+		{
+			"Wts M+15 runs for gold! Selling Tazavesh HM Mount quick run! Group ready to go! Pst for more info.", -- [1]
+			"Ðropdead-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ðropdead-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-73-0D1A73C6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeÐropdead|r",
+			[51] = 1657572597,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
-	["BodyGuard"] = {
-		["IsInValidZone"] = true,
-		["MaxHealth"] = 0,
-		["Health"] = 0,
-		["Active"] = false,
+	["ChatEditHistory"] = {
+		"idk if that applies to both difficulties or just heroic", -- [1]
+		"but it was definitely very little damage on heroic", -- [2]
+		"uhhhh", -- [3]
+		"for a small investment of 400k", -- [4]
+		"theyre great", -- [5]
+		"yeah, i think more dangerous is his little ring he does aroudn himself", -- [6]
+		"so melee just has to make sure they dont get clipped by that", -- [7]
+		"and theyre usually fine for tank swaps", -- [8]
+		"as long as tanks do it right", -- [9]
+		"which piece are you looking for again ?", -- [10]
+		"head ?", -- [11]
+		"seems semi-annoying for pantheon where sometimes you are running across the room for kill add or dispel bubble", -- [12]
+		"dasausage seemed fine, skolex just gotta not get killed by puddles", -- [13]
+		"lmao. no promises but ill at least look at the costs", -- [14]
+		"yeah hunter is a little out of sorts as well", -- [15]
+		"yeah ill see. cus odds are if you need it at least the 2 other druids do too", -- [16]
+		"i just dont have a ton of gold to be leveling everything", -- [17]
+		"so if im gonna level anything, at least it can be something several people need", -- [18]
+		"pog, trade me it", -- [19]
+		"/wa", -- [20]
 	},
-	["ConvertKeybindings"] = true,
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 0,
+		["MaxHealth"] = 0,
+		["IsInValidZone"] = true,
+	},
 }

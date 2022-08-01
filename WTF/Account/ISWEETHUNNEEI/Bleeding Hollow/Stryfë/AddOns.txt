@@ -3,7 +3,7 @@ GladiatorlosSA: disabled
 GarrisonMissionManager: disabled
 AutoTurnIn: disabled
 Battle Pet Daily Tamer: disabled
-BigWigs: enabled
+BigWigs: disabled
 Canvas: disabled
 Clique: disabled
 GottaGoFast: disabled
@@ -29,7 +29,7 @@ AngryAssignments: disabled
 infPaladin: disabled
 infResolve: disabled
 RareScanner: enabled
-HandyNotes: disabled
+HandyNotes: enabled
 Altoholic: enabled
 Rarity: disabled
 SavedInstances: enabled
@@ -145,10 +145,10 @@ ElvUI_ExtraActionBars: disabled
 infCombatRess: disabled
 ElvUI_Config: enabled
 ElvUI: enabled
-DBM-Core: disabled
+DBM-Core: enabled
 DBM-DefaultSkin: disabled
-DBM-GUI: disabled
-DBM-StatusBarTimers: disabled
+DBM-GUI: enabled
+DBM-StatusBarTimers: enabled
 DBM-AntorusBurningThrone: disabled
 DBM-Argus: disabled
 DBM-Azeroth-BfA: disabled

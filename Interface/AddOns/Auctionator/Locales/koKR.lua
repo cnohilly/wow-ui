@@ -550,6 +550,8 @@ L["TRANSLATORS_RUSSIAN"] = "러시아어"
 L["TRANSLATORS_SIMPLIFIED_CHINESE"] = "중국어 간체"
 L["TRANSLATORS_SPANISH"] = "스페인어"
 L["TRANSLATORS_TRADITIONAL_CHINESE"] = "중국어 번체"
+--[[Translation missing --]]
+L["UNDERCUT_BID"] = "Bid"
 L["UNDERCUT_NO"] = "X"
 L["UNDERCUT_PREFERENCE"] = "최저가 선호"
 L["UNDERCUT_SCAN"] = "최저가 검색"

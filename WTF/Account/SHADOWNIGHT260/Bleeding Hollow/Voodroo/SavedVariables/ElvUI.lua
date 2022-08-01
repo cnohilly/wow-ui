@@ -1,11 +1,6 @@
 
 ElvCharacterDB = {
-	["BodyGuard"] = {
-		["Active"] = false,
-		["Health"] = 97854,
-		["MaxHealth"] = 97854,
-		["IsInValidZone"] = true,
-	},
+	["ConvertKeybindings"] = true,
 	["ChatHistoryLog"] = {
 		{
 			"Yer a milk dud.", -- [1]
@@ -2204,6 +2199,12 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
+	["BodyGuard"] = {
+		["IsInValidZone"] = true,
+		["MaxHealth"] = 97854,
+		["Health"] = 97854,
+		["Active"] = false,
+	},
 	["ChatEditHistory"] = {
 		"/cw Ultiem can you invite this toon to guild when you get a chance", -- [1]
 		"/g ty sir", -- [2]
@@ -2226,5 +2227,4 @@ ElvCharacterDB = {
 		"honestly pants might make more sense though just because the 285 from jailer would be so far away, but i can at least get a 278 helm from Vigilant Guardian", -- [19]
 		"/elvui", -- [20]
 	},
-	["ConvertKeybindings"] = true,
 }

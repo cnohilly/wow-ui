@@ -1,3 +1,7 @@
+VER 3 0100000000000034 "dispel magic" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help] Dispel Magic; Dispel Magic
+END
 VER 3 010000000000000C "leap of faith" "PRIEST_SPELL_LEAPOFFAITH_A"
 #showtooltip
 /cast [@mouseover] Leap of Faith
@@ -9,6 +13,10 @@ END
 VER 3 0100000000000031 "Penance" "237545"
 #showtooltip
 /cast [@mouseover, help] Penance; [@mouseover, harm] Penance; Penance
+END
+VER 3 0100000000000035 "Purify Disease" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help] Purify Disease; Purify Disease
 END
 VER 3 0100000000000007 "PW: Shield" "SPELL_HOLY_POWERWORDSHIELD"
 #showtooltip

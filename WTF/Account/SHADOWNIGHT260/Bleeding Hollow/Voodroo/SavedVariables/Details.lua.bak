@@ -7,20 +7,32 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 630,
+					["combatId"] = 695,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.002002,
+							["totalabsorbed"] = 0.00281,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 22896.00281,
+							["dps_started"] = false,
+							["total"] = 22896.00281,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
 							["damage_from"] = {
 							},
 							["targets"] = {
+								["Obsidian Slaglord"] = 22896,
 							},
-							["total"] = 0.002002,
-							["pets"] = {
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
 							},
-							["on_hold"] = false,
+							["end_time"] = 1657146519,
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -39,573 +51,109 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-							["aID"] = "73-0861EFDD",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002002,
-							["isTank"] = true,
 							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["spells"] = {
-										[164812] = 11537,
-									},
-									["total"] = 11537,
-								},
 							},
-							["dps_started"] = false,
-							["end_time"] = 1647885032,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 11537,
 							["nome"] = "Voodroo",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["spec"] = 104,
-							["serial"] = "Player-73-0861EFDD",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.002002,
-							["start_time"] = 1647885031,
-							["delay"] = 0,
-							["last_event"] = 1647885031,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 630,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Voodroo"] = 1690,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = true,
-							["classe"] = "DRUID",
-							["totalover"] = 1690.002839,
-							["total_without_pet"] = 0.002839,
-							["total"] = 0.002839,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = true,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["totalabsorb"] = 0.002839,
-							["last_hps"] = 0,
-							["targets"] = {
-							},
-							["totalover_without_pet"] = 0.002839,
-							["healing_taken"] = 0.002839,
-							["timeMachine"] = 2,
-							["healing_from"] = {
-							},
-							["heal_enemy_amt"] = 0,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[774] = {
-										["c_amt"] = 2,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Voodroo"] = 1527,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Voodroo"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 6,
-										["overheal"] = 1527,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 774,
-										["targets_absorbs"] = {
-										},
-										["c_min"] = 0,
-										["c_curado"] = 0,
-										["n_curado"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 4,
-										["absorbed"] = 0,
-									},
-									[227034] = {
+									{
 										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Voodroo"] = 163,
-										},
-										["n_max"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22896,
 										["targets"] = {
-											["Voodroo"] = 0,
+											["Obsidian Slaglord"] = 22896,
 										},
-										["n_min"] = 0,
-										["counter"] = 6,
-										["overheal"] = 163,
-										["total"] = 0,
+										["n_dmg"] = 22896,
+										["n_min"] = 22896,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22896,
 										["c_max"] = 0,
-										["id"] = 227034,
-										["targets_absorbs"] = {
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
 										},
+										["a_dmg"] = 0,
 										["c_min"] = 0,
-										["c_curado"] = 0,
-										["n_curado"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 6,
-										["absorbed"] = 0,
-									},
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
 								},
 							},
 							["grupo"] = true,
-							["start_time"] = 1647885033,
-							["spec"] = 104,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "73-0861EFDD",
-							["totaldenied"] = 0.002839,
-							["delay"] = 1647885045,
-							["last_event"] = 1647885045,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 630,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["combatId"] = 630,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[186406] = {
-										["activedamt"] = 1,
-										["id"] = 186406,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[203975] = {
-										["activedamt"] = 1,
-										["id"] = 203975,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[774] = {
-										["activedamt"] = 1,
-										["id"] = 774,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["buff_uptime_targets"] = {
-							},
-							["buff_uptime"] = 3,
-							["pets"] = {
-							},
 							["classe"] = "DRUID",
-							["tipo"] = 4,
-							["aID"] = "73-0861EFDD",
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["last_event"] = 1647885032,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 630,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["tempo_start"] = 1647885031,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["combat_counter"] = 819,
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.08096300001902863, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["totals_grupo"] = {
-					11537, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["data_fim"] = "13:50:32",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 295464.821,
-				["CombatEndedAt"] = 295464.821,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Voodroo"] = 0.002002,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 295464.821,
-				["combat_id"] = 630,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["spells_cast_timeline"] = {
-				},
-				["overall_added"] = true,
-				["player_last_events"] = {
-					["Voodroo"] = {
-						{
-							false, -- [1]
-							774, -- [2]
-							208, -- [3]
-							1647885032.51, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
+							["last_dps"] = 91584.01124,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00281,
+							["start_time"] = 1657146519,
+							["delay"] = 0,
+							["last_event"] = 1657146519,
 						}, -- [1]
 						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1647885032.51, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [2]
-						{
-							false, -- [1]
-							774, -- [2]
-							209, -- [3]
-							1647885035.326, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [3]
-						{
-							false, -- [1]
-							227034, -- [2]
-							23, -- [3]
-							1647885035.326, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [4]
-						{
-							false, -- [1]
-							774, -- [2]
-							417, -- [3]
-							1647885038.06, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [5]
-						{
-							false, -- [1]
-							227034, -- [2]
-							45, -- [3]
-							1647885038.06, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [6]
-						{
-							false, -- [1]
-							774, -- [2]
-							416, -- [3]
-							1647885040.876, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [7]
-						{
-							false, -- [1]
-							227034, -- [2]
-							44, -- [3]
-							1647885040.876, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [8]
-						{
-							false, -- [1]
-							774, -- [2]
-							209, -- [3]
-							1647885043.776, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [9]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1647885043.776, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [10]
-						{
-							false, -- [1]
-							774, -- [2]
-							68, -- [3]
-							1647885044.693, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [11]
-						{
-							false, -- [1]
-							227034, -- [2]
-							7, -- [3]
-							1647885044.693, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 13,
-					},
-				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "13:50:31",
-				["start_time"] = 295464.388,
-				["TimeData"] = {
-				},
-				["frags"] = {
-				},
-			}, -- [1]
-			{
-				{
-					["combatId"] = 629,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.008711,
-							["spec"] = 104,
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006194,
 							["damage_from"] = {
+								["Voodroo"] = true,
 							},
 							["targets"] = {
 							},
-							["on_hold"] = false,
 							["pets"] = {
 							},
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
+							["friendlyfire"] = {
 							},
-							["isTank"] = true,
-							["aID"] = "73-0861EFDD",
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.008711,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["spells"] = {
-										[164812] = 11897,
-									},
-									["total"] = 11897,
-								},
-							},
-							["classe"] = "DRUID",
+							["total_without_pet"] = 0.006194,
+							["fight_component"] = true,
+							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 0.008711,
-							["friendlyfire_total"] = 11897,
-							["end_time"] = 1647885014,
-							["nome"] = "Voodroo",
+							["end_time"] = 1657146519,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Obsidian Slaglord",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
 							},
-							["grupo"] = true,
-							["serial"] = "Player-73-0861EFDD",
+							["aID"] = "53381",
+							["total"] = 0.006194,
+							["serial"] = "Creature-0-3133-861-10-53381-00004607EA",
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.008711,
-							["start_time"] = 1647885013,
+							["last_event"] = 0,
+							["damage_taken"] = 22896.006194,
+							["start_time"] = 1657146519,
 							["delay"] = 0,
-							["last_event"] = 1647885013,
-						}, -- [1]
+							["tipo"] = 1,
+						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 629,
+					["combatId"] = 695,
 					["tipo"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["targets_overheal"] = {
-								["Voodroo"] = 461,
+								["Voodroo"] = 102,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
 							["classe"] = "DRUID",
-							["totalover"] = 461.003374,
-							["total_without_pet"] = 0.003374,
-							["total"] = 0.003374,
+							["totalover"] = 102.008053,
+							["total_without_pet"] = 0.008053,
+							["total"] = 0.008053,
 							["targets_absorbs"] = {
 							},
 							["heal_enemy"] = {
@@ -613,13 +161,13 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
-							["totalabsorb"] = 0.003374,
+							["totalabsorb"] = 0.008053,
 							["last_hps"] = 0,
 							["targets"] = {
 							},
-							["totalover_without_pet"] = 0.003374,
-							["healing_taken"] = 0.003374,
-							["end_time"] = 1647885031,
+							["totalover_without_pet"] = 0.008053,
+							["healing_taken"] = 0.008053,
+							["end_time"] = 1657146519,
 							["healing_from"] = {
 							},
 							["heal_enemy_amt"] = 0,
@@ -627,36 +175,11 @@ _detalhes_database = {
 							["spells"] = {
 								["tipo"] = 3,
 								["_ActorTable"] = {
-									[774] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Voodroo"] = 417,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Voodroo"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 417,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 774,
-										["targets_absorbs"] = {
-										},
-										["c_min"] = 0,
-										["c_curado"] = 0,
-										["n_curado"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 0,
-										["absorbed"] = 0,
-									},
 									[227034] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Voodroo"] = 44,
+											["Voodroo"] = 102,
 										},
 										["n_max"] = 0,
 										["targets"] = {
@@ -664,7 +187,7 @@ _detalhes_database = {
 										},
 										["n_min"] = 0,
 										["counter"] = 1,
-										["overheal"] = 44,
+										["overheal"] = 102,
 										["total"] = 0,
 										["c_max"] = 0,
 										["id"] = 227034,
@@ -680,60 +203,60 @@ _detalhes_database = {
 								},
 							},
 							["grupo"] = true,
-							["start_time"] = 1647885030,
+							["start_time"] = 1657146519,
 							["spec"] = 104,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["aID"] = "73-0861EFDD",
-							["totaldenied"] = 0.003374,
+							["totaldenied"] = 0.008053,
 							["delay"] = 0,
-							["last_event"] = 1647885030,
+							["last_event"] = 1657146519,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 629,
+					["combatId"] = 695,
 					["tipo"] = 7,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 629,
+					["combatId"] = 695,
 					["tipo"] = 9,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["buff_uptime_targets"] = {
-							},
-							["buff_uptime"] = 2,
-							["pets"] = {
-							},
-							["classe"] = "DRUID",
-							["last_event"] = 1647885014,
-							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["tipo"] = 9,
 								["_ActorTable"] = {
-									[203975] = {
+									[5487] = {
 										["activedamt"] = 1,
-										["id"] = 203975,
+										["id"] = 5487,
 										["targets"] = {
 										},
-										["uptime"] = 1,
+										["uptime"] = 0,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[186406] = {
+									[203975] = {
 										["activedamt"] = 1,
-										["id"] = 186406,
+										["id"] = 203975,
 										["targets"] = {
 										},
-										["uptime"] = 1,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 0,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
@@ -741,13 +264,25 @@ _detalhes_database = {
 									},
 								},
 							},
-							["serial"] = "Player-73-0861EFDD",
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 0,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
 							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146519,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 629,
+					["combatId"] = 695,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 					},
@@ -758,17 +293,17 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 295462.238,
+				["CombatStartedAt"] = 2007550.684,
 				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["combat_counter"] = 818,
+				["combat_counter"] = 885,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.006157, -- [1]
-					0, -- [2]
+					22895.959795, -- [1]
+					-0.002721, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
@@ -790,114 +325,32 @@ _detalhes_database = {
 					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
-					["Voodroo"] = {
-						{
-							false, -- [1]
-							774, -- [2]
-							417, -- [3]
-							1647885029.693, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [1]
-						{
-							false, -- [1]
-							227034, -- [2]
-							44, -- [3]
-							1647885029.693, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [2]
-						{
-						}, -- [3]
-						{
-						}, -- [4]
-						{
-						}, -- [5]
-						{
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						{
-						}, -- [11]
-						{
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 3,
-					},
 				},
-				["frags_need_refresh"] = false,
+				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
-				["data_fim"] = "13:50:14",
-				["pvp"] = true,
+				["data_fim"] = "18:28:40",
 				["cleu_timeline"] = {
 				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 295446.938,
-				["CombatEndedAt"] = 295446.938,
+				["enemy"] = "Obsidian Slaglord",
+				["TotalElapsedCombatTime"] = 0.25,
+				["CombatEndedAt"] = 2007550.934,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "13:50:13",
-				["end_time"] = 295446.938,
-				["combat_id"] = 629,
-				["tempo_start"] = 1647885013,
-				["frags"] = {
-				},
+				["data_inicio"] = "18:28:39",
+				["end_time"] = 2007550.934,
+				["combat_id"] = 695,
+				["tempo_start"] = 1657146519,
 				["cleu_events"] = {
 					["n"] = 1,
 				},
+				["frags"] = {
+					["Obsidian Slaglord"] = 1,
+					["Obsidian Monstrosity"] = 8,
+				},
 				["totals_grupo"] = {
-					11897, -- [1]
+					22896, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -917,7 +370,350 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Voodroo"] = 0.008053,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 22896.00281,
+						}, -- [1]
+					},
+				},
 				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007550.684,
+				["contra"] = "Obsidian Slaglord",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 694,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005662,
+							["spec"] = 104,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["on_hold"] = false,
+							["pets"] = {
+							},
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["isTank"] = true,
+							["aID"] = "73-0861EFDD",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005662,
+							["friendlyfire"] = {
+								["Leyara"] = {
+									["spells"] = {
+										22868, -- [1]
+										[164812] = 91154,
+										[213771] = 64438,
+										[192090] = 1876,
+										[77758] = 56135,
+									},
+									["total"] = 236471,
+								},
+							},
+							["classe"] = "DRUID",
+							["dps_started"] = false,
+							["total"] = 0.005662,
+							["friendlyfire_total"] = 236471,
+							["end_time"] = 1657146442,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005662,
+							["start_time"] = 1657146428,
+							["delay"] = 0,
+							["last_event"] = 1657146436,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 694,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 694,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 30.003145,
+							["resource"] = 0.003145,
+							["targets"] = {
+								["Voodroo"] = 30,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.003145,
+							["total"] = 30.003145,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[77758] = {
+										["total"] = 5,
+										["id"] = 77758,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 5,
+										},
+										["counter"] = 1,
+									},
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003145,
+							["last_event"] = 1657146518,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.003145,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 694,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[164812] = {
+										["activedamt"] = 1,
+										["id"] = 164812,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[192090] = {
+										["activedamt"] = 1,
+										["id"] = 192090,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 52,
+							["aID"] = "73-0861EFDD",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 23,
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[77758] = 1,
+								[8921] = 2,
+								[213771] = 2,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1657146442,
+							["classe"] = "DRUID",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 694,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657146428,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 884,
+				["playing_solo"] = true,
+				["totals"] = {
+					-0.0754969999987054, -- [1]
+					0, -- [2]
+					{
+						30, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					236471, -- [1]
+					0, -- [2]
+					{
+						30, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["data_fim"] = "18:27:22",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Unknown",
+				["TotalElapsedCombatTime"] = 2007473.717,
+				["CombatEndedAt"] = 2007473.717,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
 				},
 				["PhaseData"] = {
 					{
@@ -934,151 +730,112 @@ _detalhes_database = {
 					},
 					["damage"] = {
 						{
-							["Voodroo"] = 0.008711,
+							["Voodroo"] = 0.005662,
 						}, -- [1]
 					},
 				},
-				["start_time"] = 295446.271,
-				["TimeData"] = {
+				["end_time"] = 2007473.717,
+				["combat_id"] = 694,
+				["cleu_events"] = {
+					["n"] = 1,
 				},
 				["spells_cast_timeline"] = {
+				},
+				["overall_added"] = true,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "18:27:09",
+				["start_time"] = 2007460.284,
+				["TimeData"] = {
+				},
+				["frags"] = {
 				},
 			}, -- [2]
 			{
 				{
+					["combatId"] = 693,
 					["tipo"] = 2,
-					["combatId"] = 628,
 					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003728,
-							["aID"] = "73-0861EFDD",
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["damage_taken"] = 0.003728,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["total"] = 23590,
-									["spells"] = {
-										[164812] = 23590,
-									},
-								},
-							},
-							["last_event"] = 1647278041,
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.003728,
-							["delay"] = 0,
-							["friendlyfire_total"] = 23590,
-							["dps_started"] = false,
-							["end_time"] = 1647278042,
-							["start_time"] = 1647278041,
-							["total"] = 0.003728,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["spec"] = 104,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-						}, -- [1]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 693,
 					["tipo"] = 3,
-					["combatId"] = 628,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
+					["combatId"] = 693,
 					["tipo"] = 7,
-					["combatId"] = 628,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
+					["combatId"] = 693,
 					["tipo"] = 9,
-					["combatId"] = 628,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
 							},
 							["nome"] = "Voodroo",
 							["spec"] = 104,
 							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 15,
 							["pets"] = {
 							},
-							["buff_uptime"] = 2,
-							["last_event"] = 1647278042,
-							["isTank"] = true,
-							["aID"] = "73-0861EFDD",
 							["classe"] = "DRUID",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 203975,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
 							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146389,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 693,
 					["tipo"] = 2,
-					["combatId"] = 628,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1088,100 +845,89 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 295445.638,
-				["tempo_start"] = 1647278041,
+				["CombatStartedAt"] = 2007460.284,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 883,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.007488, -- [1]
+					-0.013365, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
 						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = false,
 				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:14:03",
+				["data_fim"] = "18:26:30",
 				["pvp"] = true,
 				["cleu_timeline"] = {
 				},
 				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 470959.507,
-				["CombatEndedAt"] = 470959.507,
+				["TotalElapsedCombatTime"] = 2007421.168,
+				["CombatEndedAt"] = 2007421.168,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "13:14:02",
-				["end_time"] = 470959.507,
-				["combat_id"] = 628,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
+				["data_inicio"] = "18:26:25",
+				["end_time"] = 2007421.168,
+				["combat_id"] = 693,
+				["tempo_start"] = 1657146384,
 				["frags"] = {
 				},
-				["combat_counter"] = 816,
-				["CombatSkillCache"] = {
+				["cleu_events"] = {
+					["n"] = 1,
 				},
 				["totals_grupo"] = {
-					23590, -- [1]
+					0, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
 						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["start_time"] = 470958.274,
-				["TimeData"] = {
+				["CombatSkillCache"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.003728,
-						}, -- [1]
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1190,131 +936,45 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
+					["damage"] = {
+						{
+						}, -- [1]
+					},
+				},
+				["start_time"] = 2007416.068,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
 				},
 			}, -- [3]
 			{
 				{
+					["combatId"] = 692,
 					["tipo"] = 2,
-					["combatId"] = 627,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.008243,
-							["damage_from"] = {
-								["Voodroo"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["tipo"] = 1,
-							["friendlyfire"] = {
-								["Voodroo"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
-							["aID"] = "60072",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008243,
-							["delay"] = 0,
-							["fight_component"] = true,
-							["end_time"] = 1647278018,
-							["total"] = 0.008243,
-							["damage_taken"] = 11635.008243,
-							["nome"] = "Swooping Plainshawk",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Voodroo"] = 0,
-										},
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["a_dmg"] = 0,
-										["n_amt"] = 0,
-										["spellschool"] = 1,
-										["MISS"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 1,
-							["last_dps"] = 0,
-							["dps_started"] = false,
-							["custom"] = 0,
-							["last_event"] = 1647278040,
-							["on_hold"] = false,
-							["start_time"] = 1647278017,
-							["serial"] = "Creature-0-4229-870-7-60072-00002F77C0",
-							["classe"] = "PET",
-						}, -- [1]
-						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005077,
-							["damage_from"] = {
-								["Swooping Plainshawk"] = true,
-							},
-							["targets"] = {
-							},
-							["last_dps"] = 0,
+							["totalabsorbed"] = 0.007411,
 							["pets"] = {
 							},
-							["damage_taken"] = 1.005077,
-							["total"] = 0.005077,
 							["aID"] = "73-0861EFDD",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005077,
-							["tipo"] = 1,
-							["classe"] = "DRUID",
+							["total_without_pet"] = 89662.007411,
 							["dps_started"] = false,
-							["end_time"] = 1647278018,
-							["delay"] = 0,
-							["start_time"] = 1647278018,
-							["nome"] = "Voodroo",
+							["total"] = 89662.007411,
 							["spec"] = 104,
-							["grupo"] = true,
-							["friendlyfire_total"] = 11635,
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
+							["colocacao"] = 1,
 							["on_hold"] = false,
-							["custom"] = 0,
-							["last_event"] = 1647278018,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["total"] = 11635,
-									["spells"] = {
-										[164812] = 11635,
-									},
-								},
-							},
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Galenges"] = 89662,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146264,
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -1322,104 +982,1660 @@ _detalhes_database = {
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
+									["ALL"] = 0,
 									["PARTIAL_ABSORBED"] = 0,
 									["PARRY"] = 0,
 									["PARTIAL_ABSORB_AMT"] = 0,
 									["ABSORB"] = 0,
 									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
 								},
-								["Swooping Plainshawk"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 46909,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Galenges"] = 46909,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 46909,
+										["c_max"] = 46909,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 46909,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 42753,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Galenges"] = 42753,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 42753,
+										["c_max"] = 42753,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42753,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 153794.1807813567,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007411,
+							["start_time"] = 1657146263,
+							["delay"] = 0,
+							["last_event"] = 1657146263,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005591,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.005591,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005591,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146264,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Galenges",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52399",
+							["serial"] = "Creature-0-4229-1-71-52399-0000460B94",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 89662.005591,
+							["start_time"] = 1657146264,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 692,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 692,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 25.002373,
+							["resource"] = 0.002373,
+							["targets"] = {
+								["Voodroo"] = 25,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.002373,
+							["total"] = 25.002373,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002373,
+							["last_event"] = 1657146348,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.002373,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 692,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146264,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 692,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007414.268,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 882,
+				["playing_solo"] = true,
+				["totals"] = {
+					89661.976466, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:24:24",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Galenges",
+				["TotalElapsedCombatTime"] = 2007295.634,
+				["CombatEndedAt"] = 2007295.634,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:24:24",
+				["end_time"] = 2007295.634,
+				["combat_id"] = 692,
+				["tempo_start"] = 1657146263,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Galenges"] = 1,
+				},
+				["totals_grupo"] = {
+					89662, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 89662.007411,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007295.051,
+				["contra"] = "Galenges",
+				["TimeData"] = {
+				},
+			}, -- [4]
+			{
+				{
+					["combatId"] = 691,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001392,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 12480.001392,
+							["dps_started"] = false,
+							["total"] = 12480.001392,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Brimstone Destroyer"] = 12480,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146210,
+							["avoidance"] = {
+								["overall"] = {
 									["DODGE"] = 0,
 									["FULL_ABSORB_AMT"] = 0,
 									["BLOCKED_AMT"] = 0,
 									["BLOCKED_HITS"] = 0,
 									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
+									["ALL"] = 0,
 									["PARTIAL_ABSORBED"] = 0,
 									["PARRY"] = 0,
 									["PARTIAL_ABSORB_AMT"] = 0,
 									["ABSORB"] = 0,
 									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
 								},
 							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12480,
+										["targets"] = {
+											["Brimstone Destroyer"] = 12480,
+										},
+										["n_dmg"] = 12480,
+										["n_min"] = 12480,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12480,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 74730.54719830568,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.001392,
+							["start_time"] = 1657146208,
+							["delay"] = 0,
+							["last_event"] = 1657146208,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002601,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.002601,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002601,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146210,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Brimstone Destroyer",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52794",
+							["serial"] = "Creature-0-4229-1-71-52794-0000460141",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 12480.002601,
+							["start_time"] = 1657146210,
+							["delay"] = 0,
+							["tipo"] = 1,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 691,
 					["tipo"] = 3,
-					["combatId"] = 627,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
+					["combatId"] = 691,
 					["tipo"] = 7,
-					["combatId"] = 627,
 					["_ActorTable"] = {
+						{
+							["received"] = 25.007767,
+							["resource"] = 0.007767,
+							["targets"] = {
+								["Voodroo"] = 25,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.007767,
+							["total"] = 25.007767,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.007767,
+							["last_event"] = 1657146259,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.007767,
+						}, -- [1]
 					},
 				}, -- [3]
 				{
+					["combatId"] = 691,
 					["tipo"] = 9,
-					["combatId"] = 627,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["pets"] = {
-							},
-							["classe"] = "DRUID",
 							["buff_uptime_spells"] = {
+								["tipo"] = 9,
 								["_ActorTable"] = {
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
+									[5487] = {
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 203975,
-										["uptime"] = 1,
+										["id"] = 5487,
 										["targets"] = {
 										},
+										["uptime"] = 2,
 										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
+									[93622] = {
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 1,
+										["id"] = 93622,
 										["targets"] = {
 										},
+										["uptime"] = 2,
 										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
-								["tipo"] = 9,
 							},
 							["nome"] = "Voodroo",
 							["spec"] = 104,
 							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 8,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146210,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 691,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007294.334,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 881,
+				["playing_solo"] = true,
+				["totals"] = {
+					12480, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:23:30",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Brimstone Destroyer",
+				["TotalElapsedCombatTime"] = 0,
+				["CombatEndedAt"] = 2007281.018,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:23:29",
+				["end_time"] = 2007241.751,
+				["combat_id"] = 691,
+				["tempo_start"] = 1657146208,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Brimstone Destroyer"] = 1,
+				},
+				["totals_grupo"] = {
+					12480, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 12480.001392,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007240.251,
+				["contra"] = "Brimstone Destroyer",
+				["TimeData"] = {
+				},
+			}, -- [5]
+			{
+				{
+					["combatId"] = 690,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006447,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 25076.006447,
+							["dps_started"] = false,
+							["total"] = 25076.006447,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Brimstone Destroyer"] = 25076,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146208,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 25076,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Brimstone Destroyer"] = 25076,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 25076,
+										["c_max"] = 25076,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 25076,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 167173.376157641,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006447,
+							["start_time"] = 1657146207,
+							["delay"] = 0,
+							["last_event"] = 1657146207,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005924,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.005924,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005924,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146208,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Brimstone Destroyer",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52794",
+							["serial"] = "Creature-0-4229-1-71-52794-00004601B7",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 25076.005924,
+							["start_time"] = 1657146208,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 690,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 690,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 690,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146208,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 690,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007238.868,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 880,
+				["playing_solo"] = true,
+				["totals"] = {
+					25076, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:23:28",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Brimstone Destroyer",
+				["TotalElapsedCombatTime"] = 0.8160000001080334,
+				["CombatEndedAt"] = 2007239.684,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:23:28",
+				["end_time"] = 2007239.684,
+				["combat_id"] = 690,
+				["tempo_start"] = 1657146207,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Brimstone Destroyer"] = 1,
+				},
+				["totals_grupo"] = {
+					25076, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 25076.006447,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007238.868,
+				["contra"] = "Brimstone Destroyer",
+				["TimeData"] = {
+				},
+			}, -- [6]
+			{
+				{
+					["combatId"] = 689,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007363,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 12341.007363,
+							["dps_started"] = false,
+							["total"] = 12341.007363,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Flamewaker"] = 12341,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146206,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12341,
+										["targets"] = {
+											["Charred Flamewaker"] = 12341,
+										},
+										["n_dmg"] = 12341,
+										["n_min"] = 12341,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12341,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 74343.41786357881,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007363,
+							["start_time"] = 1657146205,
+							["delay"] = 0,
+							["last_event"] = 1657146205,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002844,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.002844,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002844,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146206,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Flamewaker",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52791",
+							["serial"] = "Creature-0-4229-1-71-52791-00004607C5",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 12341.002844,
+							["start_time"] = 1657146206,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 689,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 689,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 689,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146206,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 689,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007237.435,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 879,
+				["playing_solo"] = true,
+				["totals"] = {
+					12341, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:23:27",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Flamewaker",
+				["TotalElapsedCombatTime"] = 1.016000000061467,
+				["CombatEndedAt"] = 2007238.451,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:23:26",
+				["end_time"] = 2007238.451,
+				["combat_id"] = 689,
+				["tempo_start"] = 1657146205,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Flamewaker"] = 1,
+				},
+				["totals_grupo"] = {
+					12341, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 12341.007363,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007237.435,
+				["contra"] = "Charred Flamewaker",
+				["TimeData"] = {
+				},
+			}, -- [7]
+			{
+				{
+					["combatId"] = 688,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008769,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 37540.008769,
+							["dps_started"] = false,
+							["total"] = 37540.008769,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Brimstone Destroyer"] = 24848,
+								["Charred Flamewaker"] = 12692,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146204,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 24848,
+										["g_amt"] = 0,
+										["n_max"] = 12692,
+										["targets"] = {
+											["Brimstone Destroyer"] = 24848,
+											["Charred Flamewaker"] = 12692,
+										},
+										["n_dmg"] = 12692,
+										["n_min"] = 12692,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 37540,
+										["c_max"] = 24848,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 24848,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 25313.55952043925,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.008769,
+							["start_time"] = 1657146202,
+							["delay"] = 0,
+							["last_event"] = 1657146204,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.004685,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.004685,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004685,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146204,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Brimstone Destroyer",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52794",
+							["serial"] = "Creature-0-4229-1-71-52794-0000460870",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 24848.004685,
+							["start_time"] = 1657146204,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001625,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.001625,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001625,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146204,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Flamewaker",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52791",
+							["serial"] = "Creature-0-4229-1-71-52791-00004607CD",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 12692.001625,
+							["start_time"] = 1657146204,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 688,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 688,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 688,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
 							["spell_cast"] = {
 								[8921] = 1,
 							},
 							["buff_uptime_targets"] = {
 							},
-							["tipo"] = 4,
-							["last_event"] = 1647278018,
-							["buff_uptime"] = 2,
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 6,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657146204,
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
-							["aID"] = "73-0861EFDD",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 688,
 					["tipo"] = 2,
-					["combatId"] = 627,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1429,84 +2645,88 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 470953.757,
-				["tempo_start"] = 1647278017,
+				["CombatStartedAt"] = 2007234.551,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 878,
 				["playing_solo"] = true,
 				["totals"] = {
-					0, -- [1]
+					37540, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
 						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					11635, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
-				["frags_need_refresh"] = false,
+				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:13:39",
-				["pvp"] = true,
+				["data_fim"] = "18:23:25",
 				["cleu_timeline"] = {
 				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 470935.59,
-				["CombatEndedAt"] = 470935.59,
+				["enemy"] = "Brimstone Destroyer",
+				["TotalElapsedCombatTime"] = 1.483000000007451,
+				["CombatEndedAt"] = 2007236.034,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
+				},
+				["data_inicio"] = "18:23:23",
+				["end_time"] = 2007236.034,
+				["combat_id"] = 688,
+				["tempo_start"] = 1657146202,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Brimstone Destroyer"] = 1,
+					["Charred Flamewaker"] = 1,
+				},
+				["totals_grupo"] = {
+					37540, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.005077,
-						}, -- [1]
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1515,73 +2735,50 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
+					["damage"] = {
+						{
+							["Voodroo"] = 37540.008769,
+						}, -- [1]
+					},
 				},
-				["end_time"] = 470935.59,
-				["combat_id"] = 627,
-				["overall_added"] = true,
-				["frags"] = {
+				["CombatSkillCache"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["combat_counter"] = 815,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 470934.374,
+				["start_time"] = 2007234.551,
+				["contra"] = "Charred Flamewaker",
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:13:38",
-			}, -- [4]
+			}, -- [8]
 			{
 				{
+					["combatId"] = 687,
 					["tipo"] = 2,
-					["combatId"] = 626,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.004803,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.004803,
+							["totalabsorbed"] = 0.00195,
 							["pets"] = {
 							},
-							["damage_taken"] = 0.004803,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 11563,
-									["spells"] = {
-										[164812] = 11563,
-									},
-								},
-							},
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004803,
-							["last_event"] = 1647277920,
-							["friendlyfire_total"] = 11563,
-							["dps_started"] = false,
-							["end_time"] = 1647277920,
-							["delay"] = 0,
-							["start_time"] = 1647277920,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
 							["aID"] = "73-0861EFDD",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
+							["total_without_pet"] = 50664.00195000001,
+							["dps_started"] = false,
+							["total"] = 50664.00195000001,
+							["spec"] = 104,
+							["colocacao"] = 1,
 							["on_hold"] = false,
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Brimstone Destroyer"] = 25453,
+								["Charred Flamewaker"] = 25211,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146201,
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -1600,1071 +2797,212 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 626,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 626,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 626,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
+							["friendlyfire"] = {
 							},
 							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["pets"] = {
-							},
-							["buff_uptime"] = 0,
-							["last_event"] = 1647277920,
-							["isTank"] = true,
-							["aID"] = "73-0861EFDD",
-							["classe"] = "DRUID",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 203975,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 626,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 470932.14,
-				["tempo_start"] = 1647277920,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.005294, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					11563, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:12:01",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 470837.191,
-				["CombatEndedAt"] = 470837.191,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.004803,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 470837.191,
-				["combat_id"] = 626,
-				["overall_added"] = true,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 814,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 470837.074,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "13:12:01",
-			}, -- [5]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 625,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.006345,
-							["damage_from"] = {
-								["Voodroo"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["tipo"] = 1,
-							["aID"] = "60174",
-							["classe"] = "PET",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006345,
-							["delay"] = 0,
-							["fight_component"] = true,
-							["total"] = 0.006345,
-							["on_hold"] = false,
-							["damage_taken"] = 7163.006345,
-							["nome"] = "Squatting Virmen",
 							["spells"] = {
+								["tipo"] = 2,
 								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
+									[164812] = {
+										["c_amt"] = 2,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 50664,
 										["g_amt"] = 0,
 										["n_max"] = 0,
 										["targets"] = {
-											["Voodroo"] = 0,
+											["Brimstone Destroyer"] = 25453,
+											["Charred Flamewaker"] = 25211,
 										},
 										["n_dmg"] = 0,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 1,
+										["counter"] = 2,
+										["total"] = 50664,
+										["c_max"] = 25453,
+										["id"] = 164812,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
+										["spellschool"] = 64,
 										["extra"] = {
 										},
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["a_dmg"] = 0,
+										["c_min"] = 25211,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["spellschool"] = 1,
-										["MISS"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 1,
-							["last_dps"] = 0,
-							["end_time"] = 1647277818,
-							["custom"] = 0,
-							["last_event"] = 1647277919,
-							["friendlyfire"] = {
-								["Voodroo"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 							},
-							["start_time"] = 1647277817,
-							["serial"] = "Creature-0-4229-870-7-60174-00002F76F9",
-							["dps_started"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.00521,
-							["damage_from"] = {
-								["Squatting Virmen"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.00521,
-							["pets"] = {
-							},
-							["damage_taken"] = 1.00521,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 7163,
-									["spells"] = {
-										[106830] = 7163,
-									},
-								},
-							},
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.00521,
-							["last_event"] = 1647277817,
-							["friendlyfire_total"] = 7163,
-							["dps_started"] = false,
-							["end_time"] = 1647277818,
-							["delay"] = 0,
-							["start_time"] = 1647277817,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
 							["grupo"] = true,
-							["aID"] = "73-0861EFDD",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["last_dps"] = 0,
+							["classe"] = "DRUID",
+							["last_dps"] = 34940.69100112211,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-								["Squatting Virmen"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-							},
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 625,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 625,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 625,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["pets"] = {
-							},
-							["classe"] = "DRUID",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 203975,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[768] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 768,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[106830] = 1,
-							},
-							["buff_uptime_targets"] = {
-							},
-							["tipo"] = 4,
-							["last_event"] = 1647277818,
-							["buff_uptime"] = 3,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["aID"] = "73-0861EFDD",
+							["damage_taken"] = 0.00195,
+							["start_time"] = 1657146200,
+							["delay"] = 0,
+							["last_event"] = 1657146201,
 						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 625,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 470833.207,
-				["tempo_start"] = 1647277817,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					0, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					7163, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:10:18",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 470735.024,
-				["CombatEndedAt"] = 470735.024,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
 						{
-							["Voodroo"] = 0.00521,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 470735.024,
-				["combat_id"] = 625,
-				["overall_added"] = true,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 813,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 470733.791,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "13:10:17",
-			}, -- [6]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 624,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.007036,
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00724,
 							["damage_from"] = {
 								["Voodroo"] = true,
 							},
 							["targets"] = {
 							},
+							["total"] = 0.00724,
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["aID"] = "60174",
-							["classe"] = "PET",
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.007036,
-							["delay"] = 0,
+							["total_without_pet"] = 0.00724,
 							["fight_component"] = true,
-							["total"] = 0.007036,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146201,
 							["on_hold"] = false,
-							["damage_taken"] = 3501.007036,
-							["nome"] = "Squatting Virmen",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Brimstone Destroyer",
 							["spells"] = {
+								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
-								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 1,
+							["aID"] = "52794",
+							["serial"] = "Creature-0-4229-1-71-52794-000046010D",
 							["last_dps"] = 0,
-							["end_time"] = 1647277809,
 							["custom"] = 0,
-							["last_event"] = 1647277808,
-							["friendlyfire"] = {
-								["Voodroo"] = {
-									["total"] = 1,
-									["spells"] = {
-										1, -- [1]
-									},
-								},
-							},
-							["start_time"] = 1647277808,
-							["serial"] = "Creature-0-4229-870-7-60174-00002F76F1",
-							["dps_started"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003505,
-							["damage_from"] = {
-								["Squatting Virmen"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.003505,
-							["pets"] = {
-							},
-							["damage_taken"] = 1.003505,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 3501,
-									["spells"] = {
-										[106830] = 3501,
-									},
-								},
-							},
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.003505,
-							["last_event"] = 1647277809,
-							["friendlyfire_total"] = 3501,
-							["dps_started"] = false,
-							["end_time"] = 1647277809,
+							["last_event"] = 0,
+							["damage_taken"] = 25453.00724,
+							["start_time"] = 1657146201,
 							["delay"] = 0,
-							["start_time"] = 1647277809,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["aID"] = "73-0861EFDD",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["last_dps"] = 0,
-							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-								["Squatting Virmen"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-							},
 						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 624,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 624,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 624,
-					["_ActorTable"] = {
 						{
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["buff_uptime"] = 3,
-							["pets"] = {
-							},
-							["spell_cast"] = {
-								[106830] = 1,
-							},
-							["last_event"] = 1647277809,
-							["aID"] = "73-0861EFDD",
-							["classe"] = "DRUID",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 203975,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[768] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 768,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 624,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 470733.791,
-				["tempo_start"] = 1647277808,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					0, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					3501, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:10:10",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 470726.541,
-				["CombatEndedAt"] = 470726.541,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.003505,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 470726.541,
-				["combat_id"] = 624,
-				["overall_added"] = true,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 812,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 470725.358,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "13:10:09",
-			}, -- [7]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 623,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006684,
-							["damage_from"] = {
-								["Swooping Plainshawk"] = true,
-							},
-							["targets"] = {
-							},
-							["end_time"] = 1647192281,
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["spec"] = 104,
-							["friendlyfire_total"] = 6965,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006684,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-								["Swooping Plainshawk"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-							},
-							["classe"] = "DRUID",
-							["dps_started"] = false,
-							["total"] = 0.006684,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["aID"] = "73-0861EFDD",
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1647192280,
-							["damage_taken"] = 1.006684,
-							["start_time"] = 1647192280,
-							["delay"] = 0,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["spells"] = {
-										[106830] = 6965,
-									},
-									["total"] = 6965,
-								},
-							},
-						}, -- [1]
-						{
-							["flag_original"] = 74001,
-							["totalabsorbed"] = 0.007719,
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005476,
 							["damage_from"] = {
 								["Voodroo"] = true,
 							},
 							["targets"] = {
 							},
+							["total"] = 0.005476,
 							["pets"] = {
 							},
-							["dps_started"] = false,
-							["aID"] = "60072",
-							["classe"] = "PET",
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.007719,
-							["serial"] = "Creature-0-4229-870-7-60072-00002E28D5",
+							["total_without_pet"] = 0.005476,
 							["fight_component"] = true,
-							["total"] = 0.007719,
-							["friendlyfire_total"] = 1,
-							["friendlyfire"] = {
-								["Voodroo"] = {
-									["spells"] = {
-										1, -- [1]
-									},
-									["total"] = 1,
-								},
-							},
-							["nome"] = "Swooping Plainshawk",
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146201,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Flamewaker",
 							["spells"] = {
+								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
-								["tipo"] = 2,
 							},
-							["last_event"] = 1647192280,
-							["on_hold"] = false,
+							["aID"] = "52791",
+							["serial"] = "Creature-0-4229-1-71-52791-0000460909",
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 6965.007719,
-							["start_time"] = 1647192280,
+							["last_event"] = 0,
+							["damage_taken"] = 25211.005476,
+							["start_time"] = 1657146201,
 							["delay"] = 0,
-							["end_time"] = 1647192281,
-						}, -- [2]
+							["tipo"] = 1,
+						}, -- [3]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 687,
 					["tipo"] = 3,
-					["combatId"] = 623,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
+					["combatId"] = 687,
 					["tipo"] = 7,
-					["combatId"] = 623,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
+					["combatId"] = 687,
 					["tipo"] = 9,
-					["combatId"] = 623,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime"] = 3,
-							["classe"] = "DRUID",
 							["buff_uptime_spells"] = {
+								["tipo"] = 9,
 								["_ActorTable"] = {
-									[225787] = {
-										["appliedamt"] = 1,
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[203975] = {
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["id"] = 203975,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 203975,
-										["refreshamt"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[768] = {
-										["appliedamt"] = 1,
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 768,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
-								["tipo"] = 9,
 							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
 							["spell_cast"] = {
-								[106830] = 1,
+								[8921] = 1,
 							},
-							["pets"] = {
-							},
-							["aID"] = "73-0861EFDD",
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657146201,
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
-							["last_event"] = 1647192281,
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 687,
 					["tipo"] = 2,
-					["combatId"] = 623,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -2674,19 +3012,17 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 470725.358,
-				["tempo_start"] = 1647192280,
+				["CombatStartedAt"] = 2007231.768,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 877,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.0405539999807516, -- [1]
-					-0.013804, -- [2]
+					50664, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
@@ -2697,10 +3033,10 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
@@ -2709,329 +3045,31 @@ _detalhes_database = {
 				},
 				["player_last_events"] = {
 				},
-				["frags_need_refresh"] = false,
+				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:24:42",
-				["pvp"] = true,
+				["data_fim"] = "18:23:22",
 				["cleu_timeline"] = {
 				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 385198.268,
-				["CombatEndedAt"] = 385198.268,
+				["enemy"] = "Brimstone Destroyer",
+				["TotalElapsedCombatTime"] = 1.449999999953434,
+				["CombatEndedAt"] = 2007233.218,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "13:24:40",
-				["end_time"] = 385198.268,
-				["combat_id"] = 623,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Voodroo"] = 0.006684,
-						}, -- [1]
-					},
-				},
-				["spells_cast_timeline"] = {
-				},
-				["frags"] = {
-				},
-				["combat_counter"] = 810,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					6965, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 385197.035,
-				["TimeData"] = {
-				},
-				["overall_added"] = true,
-			}, -- [8]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 622,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.002215,
-							["damage_from"] = {
-								["Voodroo"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["dps_started"] = false,
-							["friendlyfire_total"] = 1,
-							["aID"] = "60174",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002215,
-							["serial"] = "Creature-0-4229-870-7-60174-00002E2898",
-							["fight_component"] = true,
-							["total"] = 0.002215,
-							["damage_taken"] = 3608.002215,
-							["friendlyfire"] = {
-								["Voodroo"] = {
-									["spells"] = {
-										1, -- [1]
-									},
-									["total"] = 1,
-								},
-							},
-							["nome"] = "Squatting Virmen",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["last_event"] = 1647192215,
-							["end_time"] = 1647192216,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["start_time"] = 1647192215,
-							["delay"] = 0,
-							["classe"] = "PET",
-						}, -- [1]
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.004427,
-							["damage_from"] = {
-								["Squatting Virmen"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.004427,
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 3608,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004427,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-								["Squatting Virmen"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-							},
-							["aID"] = "73-0861EFDD",
-							["dps_started"] = false,
-							["end_time"] = 1647192216,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1647192215,
-							["damage_taken"] = 1.004427,
-							["start_time"] = 1647192215,
-							["delay"] = 0,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[106830] = 3608,
-									},
-									["total"] = 3608,
-								},
-							},
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 622,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 622,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 622,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime"] = 3,
-							["classe"] = "DRUID",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[225787] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 225787,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[203975] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 203975,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[768] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 768,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[106830] = 1,
-							},
-							["pets"] = {
-							},
-							["aID"] = "73-0861EFDD",
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["last_event"] = 1647192216,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 622,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 385193.585,
-				["tempo_start"] = 1647192215,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
+				["data_inicio"] = "18:23:20",
+				["end_time"] = 2007233.218,
+				["combat_id"] = 687,
+				["tempo_start"] = 1657146200,
 				["cleu_events"] = {
 					["n"] = 1,
 				},
-				["playing_solo"] = true,
-				["totals"] = {
-					0, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
+				["frags"] = {
+					["Brimstone Destroyer"] = 1,
+					["Charred Flamewaker"] = 1,
 				},
 				["totals_grupo"] = {
-					3608, -- [1]
+					50664, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -3043,89 +3081,70 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:23:37",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 385133.368,
-				["CombatEndedAt"] = 385133.368,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
 					},
+					["damage_section"] = {
+					},
 					["damage"] = {
 						{
-							["Voodroo"] = 0.004427,
+							["Voodroo"] = 50664.00195000001,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 385133.368,
-				["combat_id"] = 622,
-				["data_inicio"] = "13:23:36",
-				["frags"] = {
+				["CombatSkillCache"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["combat_counter"] = 809,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 385132.318,
+				["start_time"] = 2007231.768,
+				["contra"] = "Charred Flamewaker",
 				["TimeData"] = {
 				},
-				["overall_added"] = true,
 			}, -- [9]
 			{
 				{
+					["combatId"] = 686,
 					["tipo"] = 2,
-					["combatId"] = 621,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006438,
+							["totalabsorbed"] = 0.007466,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 12539.007466,
+							["dps_started"] = false,
+							["total"] = 12539.007466,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
 							["damage_from"] = {
 							},
 							["targets"] = {
+								["Brimstone Destroyer"] = 12539,
 							},
-							["total"] = 0.006438,
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 7136,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.006438,
+							["end_time"] = 1657146199,
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -3144,108 +3163,169 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-							["aID"] = "73-0861EFDD",
-							["dps_started"] = false,
-							["end_time"] = 1647192211,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1647192210,
-							["damage_taken"] = 0.006438,
-							["start_time"] = 1647192210,
-							["delay"] = 0,
 							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[106830] = 7136,
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12539,
+										["targets"] = {
+											["Brimstone Destroyer"] = 12539,
+										},
+										["n_dmg"] = 12539,
+										["n_min"] = 12539,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12539,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									},
-									["total"] = 7136,
 								},
 							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 125390.07466,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007466,
+							["start_time"] = 1657146198,
+							["delay"] = 0,
+							["last_event"] = 1657146198,
 						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003374,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.003374,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003374,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146199,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Brimstone Destroyer",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52794",
+							["serial"] = "Creature-0-4229-1-71-52794-00004609AB",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 12539.003374,
+							["start_time"] = 1657146199,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 686,
 					["tipo"] = 3,
-					["combatId"] = 621,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
+					["combatId"] = 686,
 					["tipo"] = 7,
-					["combatId"] = 621,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
+					["combatId"] = 686,
 					["tipo"] = 9,
-					["combatId"] = 621,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 3,
-							["buff_uptime_targets"] = {
-							},
-							["pets"] = {
-							},
-							["last_event"] = 1647192211,
-							["tipo"] = 4,
 							["buff_uptime_spells"] = {
+								["tipo"] = 9,
 								["_ActorTable"] = {
-									[225787] = {
-										["appliedamt"] = 1,
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[203975] = {
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["id"] = 203975,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 203975,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[768] = {
-										["appliedamt"] = 1,
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 768,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
-								["tipo"] = 9,
 							},
-							["serial"] = "Player-73-0861EFDD",
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
 							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146199,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 686,
 					["tipo"] = 2,
-					["combatId"] = 621,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -3255,18 +3335,15 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 385132.318,
-				["tempo_start"] = 1647192210,
+				["tempo_start"] = 1657146198,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 876,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.005145, -- [1]
+					12539, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -3278,10 +3355,10 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
@@ -3289,7 +3366,7 @@ _detalhes_database = {
 					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
-					7136, -- [1]
+					12539, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -3301,24 +3378,22 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["frags_need_refresh"] = false,
+				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:23:32",
-				["pvp"] = true,
+				["data_fim"] = "18:23:20",
 				["cleu_timeline"] = {
 				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 385128.068,
-				["CombatEndedAt"] = 385128.068,
+				["enemy"] = "Brimstone Destroyer",
+				["TotalElapsedCombatTime"] = 2007231.234,
+				["CombatEndedAt"] = 2007231.234,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
@@ -3328,48 +3403,56 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
 					},
+					["damage_section"] = {
+					},
 					["damage"] = {
 						{
-							["Voodroo"] = 0.006438,
+							["Voodroo"] = 12539.007466,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 385128.068,
-				["combat_id"] = 621,
-				["data_inicio"] = "13:23:31",
-				["frags"] = {
+				["end_time"] = 2007231.234,
+				["combat_id"] = 686,
+				["cleu_events"] = {
+					["n"] = 1,
 				},
+				["overall_added"] = true,
 				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 808,
-				["CombatSkillCache"] = {
 				},
 				["player_last_events"] = {
 				},
-				["start_time"] = 385127.652,
+				["data_inicio"] = "18:23:19",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Brimstone Destroyer"] = 1,
+				},
+				["start_time"] = 2007230.368,
 				["TimeData"] = {
 				},
-				["overall_added"] = true,
+				["contra"] = "Brimstone Destroyer",
 			}, -- [10]
 			{
 				{
+					["combatId"] = 685,
 					["tipo"] = 2,
-					["combatId"] = 620,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003913,
+							["totalabsorbed"] = 0.005268,
+							["spec"] = 104,
 							["damage_from"] = {
 							},
 							["targets"] = {
+							},
+							["on_hold"] = false,
+							["pets"] = {
 							},
 							["avoidance"] = {
 								["overall"] = {
@@ -3389,122 +3472,175 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-							["pets"] = {
-							},
-							["damage_taken"] = 0.003913,
-							["end_time"] = 1646765384,
-							["classe"] = "DRUID",
+							["isTank"] = true,
+							["aID"] = "73-0861EFDD",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.003913,
-							["last_dps"] = 0,
-							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 0.005268,
+							["friendlyfire"] = {
+								["Lord Rhyolith"] = {
+									["spells"] = {
+										[164812] = 34665,
+									},
+									["total"] = 34665,
+								},
+							},
+							["classe"] = "DRUID",
 							["dps_started"] = false,
-							["total"] = 0.003913,
-							["delay"] = 0,
-							["start_time"] = 1646765383,
+							["total"] = 0.005268,
+							["friendlyfire_total"] = 34665,
+							["end_time"] = 1657146152,
 							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["friendlyfire_total"] = 3603,
-							["last_event"] = 1646765383,
 							["spells"] = {
+								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
-								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 3603,
-									["spells"] = {
-										[106830] = 3603,
-									},
-								},
-							},
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["on_hold"] = false,
+							["damage_taken"] = 0.005268,
+							["start_time"] = 1657146145,
+							["delay"] = 0,
+							["last_event"] = 1657146147,
 						}, -- [1]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 685,
 					["tipo"] = 3,
-					["combatId"] = 620,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
+					["combatId"] = 685,
 					["tipo"] = 7,
-					["combatId"] = 620,
 					["_ActorTable"] = {
+						{
+							["received"] = 25.003676,
+							["resource"] = 0.003676,
+							["targets"] = {
+								["Voodroo"] = 25,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.003676,
+							["total"] = 25.003676,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003676,
+							["last_event"] = 1657146197,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.003676,
+						}, -- [1]
 					},
 				}, -- [3]
 				{
+					["combatId"] = 685,
 					["tipo"] = 9,
-					["combatId"] = 620,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[164812] = {
+										["activedamt"] = 0,
+										["id"] = 164812,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
 							},
+							["buff_uptime"] = 15,
+							["aID"] = "73-0861EFDD",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 2,
 							["nome"] = "Voodroo",
 							["spec"] = 104,
 							["grupo"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["buff_uptime"] = 3,
-							["aID"] = "73-0861EFDD",
-							["isTank"] = true,
-							["last_event"] = 1646765384,
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[768] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 768,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 203975,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146152,
 							["classe"] = "DRUID",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 685,
 					["tipo"] = 2,
-					["combatId"] = 620,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -3514,100 +3650,90 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 385127.102,
-				["tempo_start"] = 1646765383,
+				["CombatStartedAt"] = 2007230.368,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 875,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.1810779999850445, -- [1]
-					-0.00291, -- [2]
+					-0.0911799999940115, -- [1]
+					0, -- [2]
 					{
-						0, -- [1]
+						25, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
 						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["frags_need_refresh"] = false,
+				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:49:45",
+				["data_fim"] = "18:22:33",
 				["pvp"] = true,
 				["cleu_timeline"] = {
 				},
 				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 1475398.149,
-				["CombatEndedAt"] = 1475398.149,
+				["TotalElapsedCombatTime"] = 7.532999999821186,
+				["CombatEndedAt"] = 2007184.301,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "13:49:44",
-				["end_time"] = 1475398.149,
-				["combat_id"] = 620,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
+				["data_inicio"] = "18:22:25",
+				["end_time"] = 2007184.301,
+				["combat_id"] = 685,
+				["tempo_start"] = 1657146145,
 				["frags"] = {
+					["Raging Invader"] = 6,
 				},
-				["combat_counter"] = 806,
-				["CombatSkillCache"] = {
+				["cleu_events"] = {
+					["n"] = 1,
 				},
 				["totals_grupo"] = {
-					3603, -- [1]
+					34665, -- [1]
 					0, -- [2]
 					{
-						0, -- [1]
+						25, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
 						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["start_time"] = 1475397.182,
-				["TimeData"] = {
+				["CombatSkillCache"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.003913,
-						}, -- [1]
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -3616,57 +3742,46 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
+					["damage"] = {
+						{
+							["Voodroo"] = 0.005268,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 2007176.768,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
 				},
 			}, -- [11]
 			{
 				{
+					["combatId"] = 684,
 					["tipo"] = 2,
-					["combatId"] = 619,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006159,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.006159,
+							["totalabsorbed"] = 0.007232,
 							["pets"] = {
 							},
-							["damage_taken"] = 0.006159,
 							["aID"] = "73-0861EFDD",
-							["friendlyfire_total"] = 6980,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006159,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 6980,
-									["spells"] = {
-										[106830] = 6980,
-									},
-								},
-							},
-							["classe"] = "DRUID",
+							["total_without_pet"] = 21117.007232,
 							["dps_started"] = false,
-							["end_time"] = 1646765375,
-							["delay"] = 0,
-							["start_time"] = 1646765375,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["last_event"] = 1646765375,
+							["total"] = 21117.007232,
 							["spec"] = 104,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
 							["on_hold"] = false,
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 21117,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146133,
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -3685,1136 +3800,236 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 619,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 619,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 619,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["pets"] = {
-							},
-							["buff_uptime"] = 0,
-							["aID"] = "73-0861EFDD",
-							["isTank"] = true,
-							["last_event"] = 1646765375,
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[768] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 768,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 203975,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["classe"] = "DRUID",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 619,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 1475396.632,
-				["tempo_start"] = 1646765375,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.006755, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					6980, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:49:36",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 1475389.649,
-				["CombatEndedAt"] = 1475389.649,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.006159,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 1475389.649,
-				["combat_id"] = 619,
-				["overall_added"] = true,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 805,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 1475389.232,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "13:49:36",
-			}, -- [12]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 618,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006318,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.006318,
-							["pets"] = {
-							},
-							["damage_taken"] = 0.006318,
-							["aID"] = "73-0861EFDD",
-							["friendlyfire_total"] = 3475,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006318,
 							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 3475,
-									["spells"] = {
-										[106830] = 3475,
-									},
-								},
 							},
-							["classe"] = "DRUID",
-							["dps_started"] = false,
-							["end_time"] = 1646765372,
-							["delay"] = 0,
-							["start_time"] = 1646765372,
 							["nome"] = "Voodroo",
 							["spells"] = {
-								["_ActorTable"] = {
-								},
 								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21117,
+										["targets"] = {
+											["Raging Invader"] = 21117,
+										},
+										["n_dmg"] = 21117,
+										["n_min"] = 21117,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21117,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
 							},
 							["grupo"] = true,
-							["last_event"] = 1646765372,
-							["spec"] = 104,
-							["last_dps"] = 0,
+							["classe"] = "DRUID",
+							["last_dps"] = 45218.43090887056,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 618,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 618,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 618,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["pets"] = {
-							},
-							["buff_uptime"] = 0,
-							["aID"] = "73-0861EFDD",
-							["isTank"] = true,
-							["last_event"] = 1646765372,
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[768] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 768,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[203975] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 203975,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["classe"] = "DRUID",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 618,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 1475388.899,
-				["tempo_start"] = 1646765372,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.006247, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					3475, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:49:33",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 1475386.799,
-				["CombatEndedAt"] = 1475386.799,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.006318,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 1475386.799,
-				["combat_id"] = 618,
-				["overall_added"] = true,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 804,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 1475386.549,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "13:49:33",
-			}, -- [13]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 617,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006701,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.006701,
-							["pets"] = {
-							},
-							["damage_taken"] = 0.006701,
-							["aID"] = "73-0861EFDD",
-							["friendlyfire_total"] = 11859,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006701,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 11859,
-									["spells"] = {
-										[164812] = 11859,
-									},
-								},
-							},
-							["classe"] = "DRUID",
-							["dps_started"] = false,
-							["end_time"] = 1646765347,
+							["damage_taken"] = 0.007232,
+							["start_time"] = 1657146132,
 							["delay"] = 0,
-							["start_time"] = 1646765346,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["last_event"] = 1646765346,
-							["spec"] = 104,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
+							["last_event"] = 1657146132,
 						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 617,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 617,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 617,
-					["_ActorTable"] = {
 						{
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 104,
-							["grupo"] = true,
-							["aID"] = "73-0861EFDD",
-							["pets"] = {
-							},
-							["nome"] = "Voodroo",
-							["buff_uptime"] = 1,
-							["tipo"] = 4,
-							["last_event"] = 1646765347,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[225787] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 225787,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["classe"] = "DRUID",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 617,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 1475385.699,
-				["tempo_start"] = 1646765346,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.003003, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					11859, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:49:08",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 1475361.249,
-				["CombatEndedAt"] = 1475361.249,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.006701,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 1475361.249,
-				["combat_id"] = 617,
-				["overall_added"] = true,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 803,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 1475360.699,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "13:49:07",
-			}, -- [14]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 616,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005659,
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008485,
+							["total"] = 6233.008485,
 							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["end_time"] = 1646677054,
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["aID"] = "73-0861EFDD",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005659,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 1,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-								["Swooping Plainshawk"] = {
-									["DODGE"] = 1,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-							["friendlyfire_total"] = 35005,
-							["dps_started"] = false,
-							["total"] = 0.005659,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["tipo"] = 1,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["spells"] = {
-										[164812] = 35005,
-									},
-									["total"] = 35005,
-								},
-							},
-							["custom"] = 0,
-							["last_event"] = 1646677054,
-							["damage_taken"] = 0.005659,
-							["start_time"] = 1646677048,
-							["delay"] = 0,
-							["last_dps"] = 0,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 616,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 616,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 616,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["pets"] = {
-							},
-							["aID"] = "73-0861EFDD",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[335151] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 6,
-										["id"] = 335151,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 104,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[8921] = 2,
-							},
-							["buff_uptime"] = 6,
-							["classe"] = "DRUID",
-							["last_event"] = 1646677054,
-							["nome"] = "Voodroo",
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 616,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 1475359.732,
-				["tempo_start"] = 1646677048,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.05115300001763139, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:17:34",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 1387067.627,
-				["CombatEndedAt"] = 1387067.627,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "13:17:29",
-				["end_time"] = 1387067.627,
-				["combat_id"] = 616,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Voodroo"] = 0.005659,
-						}, -- [1]
-					},
-				},
-				["spells_cast_timeline"] = {
-				},
-				["frags"] = {
-				},
-				["combat_counter"] = 801,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					35005, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 1387062.243,
-				["TimeData"] = {
-				},
-				["overall_added"] = true,
-			}, -- [15]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 615,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.007135,
-							["damage_from"] = {
+								["Captain Saynna Stormrunner"] = true,
+								["Tholo Whitehoof"] = true,
+								["Defender of Malorne"] = true,
 								["Voodroo"] = true,
+								["Anren Shadowseeker"] = true,
+								["Thisalee Crow"] = true,
+								["Keeper Taldros"] = true,
+								["Archdruid Hamuul Runetotem"] = true,
+								["Elderlimb"] = true,
+								["Avrilla"] = true,
+								["Skylord Omnuron"] = true,
+								["Choluna"] = true,
+								["Morthis Whisperwing"] = true,
+								["Rayne Feathersong"] = true,
 							},
 							["targets"] = {
+								["Captain Saynna Stormrunner"] = 417,
+								["Defender of Malorne"] = 901,
+								["Anren Shadowseeker"] = 185,
+								["Tholo Whitehoof"] = 100,
+								["Keeper Taldros"] = 403,
+								["Archdruid Hamuul Runetotem"] = 436,
+								["Skylord Omnuron"] = 898,
+								["Avrilla"] = 323,
+								["Rayne Feathersong"] = 443,
+								["Choluna"] = 97,
+								["Morthis Whisperwing"] = 337,
+								["Elderlimb"] = 1693,
 							},
 							["pets"] = {
 							},
-							["friendlyfire_total"] = 1,
-							["friendlyfire"] = {
-								["Voodroo"] = {
-									["spells"] = {
-										1, -- [1]
-									},
-									["total"] = 1,
-								},
-							},
-							["classe"] = "PET",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.007135,
-							["serial"] = "Creature-0-4219-870-17-60174-0000264BF0",
+							["monster"] = true,
 							["fight_component"] = true,
-							["total"] = 0.007135,
-							["aID"] = "60174",
-							["damage_taken"] = 23635.007135,
-							["nome"] = "Squatting Virmen",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["last_event"] = 1646676976,
-							["dps_started"] = false,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["start_time"] = 1646676976,
-							["delay"] = 0,
-							["end_time"] = 1646676978,
-						}, -- [1]
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.001083,
-							["damage_from"] = {
-								["Squatting Virmen"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.001083,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[164812] = 23635,
-									},
-									["total"] = 23635,
-								},
-							},
-							["spec"] = 104,
-							["aID"] = "73-0861EFDD",
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.001083,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-								["Squatting Virmen"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-							},
-							["classe"] = "DRUID",
-							["dps_started"] = false,
-							["end_time"] = 1646676978,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["friendlyfire_total"] = 23635,
-							["last_event"] = 1646676977,
-							["damage_taken"] = 1.001083,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["start_time"] = 1646676977,
-							["delay"] = 0,
+							["total_without_pet"] = 6233.008485,
 							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657146145,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 1090,
+										["g_amt"] = 0,
+										["n_max"] = 127,
+										["targets"] = {
+											["Captain Saynna Stormrunner"] = 417,
+											["Defender of Malorne"] = 901,
+											["Anren Shadowseeker"] = 185,
+											["Tholo Whitehoof"] = 100,
+											["Keeper Taldros"] = 403,
+											["Archdruid Hamuul Runetotem"] = 436,
+											["Skylord Omnuron"] = 898,
+											["Avrilla"] = 323,
+											["Rayne Feathersong"] = 443,
+											["Choluna"] = 97,
+											["Morthis Whisperwing"] = 337,
+											["Elderlimb"] = 1693,
+										},
+										["n_dmg"] = 5143,
+										["n_min"] = 83,
+										["g_dmg"] = 0,
+										["counter"] = 58,
+										["MISS"] = 1,
+										["total"] = 6233,
+										["c_max"] = 246,
+										["a_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 3,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 185,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 48,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460B12",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146144,
+							["damage_taken"] = 59152.008485,
+							["start_time"] = 1657146132,
+							["delay"] = 0,
+							["tipo"] = 1,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 684,
 					["tipo"] = 3,
-					["combatId"] = 615,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
+					["combatId"] = 684,
 					["tipo"] = 7,
-					["combatId"] = 615,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
+					["combatId"] = 684,
 					["tipo"] = 9,
-					["combatId"] = 615,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Voodroo",
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 104,
-							["grupo"] = true,
-							["buff_uptime"] = 2,
-							["pets"] = {
-							},
-							["spell_cast"] = {
-								[8921] = 1,
-							},
-							["classe"] = "DRUID",
-							["tipo"] = 4,
-							["aID"] = "73-0861EFDD",
 							["buff_uptime_spells"] = {
+								["tipo"] = 9,
 								["_ActorTable"] = {
-									[335151] = {
-										["appliedamt"] = 1,
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
 										["targets"] = {
 										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
 										["activedamt"] = 1,
-										["uptime"] = 2,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
 										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
-								["tipo"] = 9,
 							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
-							["last_event"] = 1646676978,
+							["last_event"] = 1657146133,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 684,
 					["tipo"] = 2,
-					["combatId"] = 615,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -4824,18 +4039,15 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 1387059.91,
-				["tempo_start"] = 1646676976,
+				["tempo_start"] = 1657146132,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 874,
 				["playing_solo"] = true,
 				["totals"] = {
-					0, -- [1]
+					27349.94678800001, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -4847,10 +4059,10 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
@@ -4858,7 +4070,7 @@ _detalhes_database = {
 					["voidzone_damage"] = 0,
 				},
 				["totals_grupo"] = {
-					23635, -- [1]
+					21117, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -4870,24 +4082,22 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["frags_need_refresh"] = false,
+				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:16:19",
-				["pvp"] = true,
+				["data_fim"] = "18:22:14",
 				["cleu_timeline"] = {
 				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 1386992.227,
-				["CombatEndedAt"] = 1386992.227,
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007164.818,
+				["CombatEndedAt"] = 2007164.818,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
@@ -4897,86 +4107,1666 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
 					},
+					["damage_section"] = {
+					},
 					["damage"] = {
 						{
-							["Voodroo"] = 0.001083,
+							["Voodroo"] = 21117.007232,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 1386992.227,
-				["combat_id"] = 615,
-				["data_inicio"] = "13:16:17",
-				["frags"] = {
+				["end_time"] = 2007164.818,
+				["combat_id"] = 684,
+				["cleu_events"] = {
+					["n"] = 1,
 				},
+				["overall_added"] = true,
 				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 800,
-				["CombatSkillCache"] = {
 				},
 				["player_last_events"] = {
 				},
-				["start_time"] = 1386990.043,
+				["data_inicio"] = "18:22:13",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["start_time"] = 2007164.351,
 				["TimeData"] = {
 				},
+				["contra"] = "Raging Invader",
+			}, -- [12]
+			{
+				{
+					["combatId"] = 683,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002722,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 12571.002722,
+							["dps_started"] = false,
+							["total"] = 12571.002722,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 12571,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146130,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12571,
+										["targets"] = {
+											["Raging Invader"] = 12571,
+										},
+										["n_dmg"] = 12571,
+										["n_min"] = 12571,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12571,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 10195.46043951666,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.002722,
+							["start_time"] = 1657146129,
+							["delay"] = 0,
+							["last_event"] = 1657146129,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.007891,
+							["total"] = 1094.007891,
+							["damage_from"] = {
+								["Defender of Malorne"] = true,
+								["Voodroo"] = true,
+								["Archdruid Hamuul Runetotem"] = true,
+								["Mylune"] = true,
+								["Avrilla"] = true,
+								["Tholo Whitehoof"] = true,
+								["Choluna"] = true,
+								["Elderlimb"] = true,
+								["Rayne Feathersong"] = true,
+							},
+							["targets"] = {
+								["Elderlimb"] = 277,
+								["Archdruid Hamuul Runetotem"] = 101,
+								["Avrilla"] = 200,
+								["Defender of Malorne"] = 102,
+								["Choluna"] = 95,
+								["Mylune"] = 95,
+								["Rayne Feathersong"] = 224,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1094.007891,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657146132,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 122,
+										["targets"] = {
+											["Archdruid Hamuul Runetotem"] = 101,
+											["Elderlimb"] = 277,
+											["Avrilla"] = 200,
+											["Defender of Malorne"] = 102,
+											["Choluna"] = 95,
+											["Mylune"] = 95,
+											["Rayne Feathersong"] = 224,
+										},
+										["n_dmg"] = 1094,
+										["n_min"] = 88,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 1094,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 11,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460AFB",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146132,
+							["damage_taken"] = 18945.007891,
+							["start_time"] = 1657146129,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 683,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 683,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 683,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146130,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 683,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007164.351,
 				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 873,
+				["playing_solo"] = true,
+				["totals"] = {
+					13664.960057, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:22:11",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007162.051,
+				["CombatEndedAt"] = 2007162.051,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:22:10",
+				["end_time"] = 2007162.051,
+				["combat_id"] = 683,
+				["tempo_start"] = 1657146129,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["totals_grupo"] = {
+					12571, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 12571.002722,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007160.818,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [13]
+			{
+				{
+					["combatId"] = 682,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005183,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 21102.005183,
+							["dps_started"] = false,
+							["total"] = 21102.005183,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 21102,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146124,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21102,
+										["targets"] = {
+											["Raging Invader"] = 21102,
+										},
+										["n_dmg"] = 21102,
+										["n_min"] = 21102,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21102,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 114684.8108445098,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005183,
+							["start_time"] = 1657146124,
+							["delay"] = 0,
+							["last_event"] = 1657146124,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.002235,
+							["total"] = 2241.002235,
+							["damage_from"] = {
+								["Captain Saynna Stormrunner"] = true,
+								["Keeper Taldros"] = true,
+								["Voodroo"] = true,
+								["Rayne Feathersong"] = true,
+								["Anren Shadowseeker"] = true,
+								["Avrilla"] = true,
+								["Mylune"] = true,
+								["Choluna"] = true,
+								["Defender of Malorne"] = true,
+								["Elderlimb"] = true,
+							},
+							["targets"] = {
+								["Captain Saynna Stormrunner"] = 202,
+								["Defender of Malorne"] = 286,
+								["Tholo Whitehoof"] = 99,
+								["Mylune"] = 197,
+								["Avrilla"] = 236,
+								["Rayne Feathersong"] = 204,
+								["Choluna"] = 202,
+								["Keeper Taldros"] = 210,
+								["Elderlimb"] = 605,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2241.002235,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657146129,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 187,
+										["g_amt"] = 0,
+										["n_max"] = 126,
+										["targets"] = {
+											["Captain Saynna Stormrunner"] = 202,
+											["Defender of Malorne"] = 286,
+											["Tholo Whitehoof"] = 99,
+											["Mylune"] = 197,
+											["Avrilla"] = 236,
+											["Rayne Feathersong"] = 204,
+											["Choluna"] = 202,
+											["Keeper Taldros"] = 210,
+											["Elderlimb"] = 605,
+										},
+										["n_dmg"] = 2054,
+										["n_min"] = 86,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["total"] = 2241,
+										["c_max"] = 187,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 187,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 20,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460B0A",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146129,
+							["damage_taken"] = 33454.002235,
+							["start_time"] = 1657146124,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 682,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 682,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 682,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 0,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146124,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 682,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007160.818,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 872,
+				["playing_solo"] = true,
+				["totals"] = {
+					23342.958108, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:22:05",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007156.335,
+				["CombatEndedAt"] = 2007156.335,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:22:05",
+				["end_time"] = 2007156.335,
+				["combat_id"] = 682,
+				["tempo_start"] = 1657146124,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["totals_grupo"] = {
+					21102, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 21102.005183,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007156.151,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [14]
+			{
+				{
+					["combatId"] = 681,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00487,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 110393.00487,
+							["dps_started"] = false,
+							["total"] = 110393.00487,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 110393,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146106,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 47590,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raging Invader"] = 47590,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 47590,
+										["c_max"] = 47590,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 47590,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 41934,
+										["g_amt"] = 0,
+										["n_max"] = 20869,
+										["targets"] = {
+											["Raging Invader"] = 62803,
+										},
+										["n_dmg"] = 20869,
+										["n_min"] = 20869,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 62803,
+										["c_max"] = 41934,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["EVADE"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41934,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 189353.3530891154,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00487,
+							["start_time"] = 1657146105,
+							["delay"] = 0,
+							["last_event"] = 1657146107,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001045,
+							["aID"] = "52557",
+							["damage_from"] = {
+								["Mylune"] = true,
+								["Captain Saynna Stormrunner"] = true,
+								["Archdruid Hamuul Runetotem"] = true,
+								["Skylord Omnuron"] = true,
+								["Voodroo"] = true,
+								["Anren Shadowseeker"] = true,
+								["Thisalee Crow"] = true,
+								["Tholo Whitehoof"] = true,
+								["Defender of Malorne"] = true,
+								["Keeper Taldros"] = true,
+								["Avrilla"] = true,
+								["Rayne Feathersong"] = true,
+								["Choluna"] = true,
+								["Morthis Whisperwing"] = true,
+								["Elderlimb"] = true,
+							},
+							["targets"] = {
+								["Captain Saynna Stormrunner"] = 281,
+								["Skylord Omnuron"] = 85,
+								["Mylune"] = 87,
+								["Archdruid Hamuul Runetotem"] = 105,
+								["Rayne Feathersong"] = 431,
+								["Tholo Whitehoof"] = 189,
+								["Keeper Taldros"] = 88,
+								["Avrilla"] = 614,
+								["Defender of Malorne"] = 1362,
+								["Choluna"] = 546,
+								["Morthis Whisperwing"] = 766,
+								["Elderlimb"] = 2216,
+							},
+							["fight_component"] = true,
+							["pets"] = {
+							},
+							["end_time"] = 1657146124,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 6770.001045,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 6770.001045,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 633,
+										["g_amt"] = 0,
+										["n_max"] = 127,
+										["targets"] = {
+											["Captain Saynna Stormrunner"] = 281,
+											["Skylord Omnuron"] = 85,
+											["Mylune"] = 87,
+											["Archdruid Hamuul Runetotem"] = 105,
+											["Rayne Feathersong"] = 431,
+											["Tholo Whitehoof"] = 189,
+											["Keeper Taldros"] = 88,
+											["Avrilla"] = 614,
+											["Defender of Malorne"] = 1362,
+											["Choluna"] = 546,
+											["Morthis Whisperwing"] = 766,
+											["Elderlimb"] = 2216,
+										},
+										["n_dmg"] = 6137,
+										["n_min"] = 85,
+										["g_dmg"] = 0,
+										["counter"] = 69,
+										["total"] = 6770,
+										["c_max"] = 241,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 6,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 172,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 59,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-4229-1-71-52557-0000460AF4",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146124,
+							["damage_taken"] = 148654.001045,
+							["start_time"] = 1657146106,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 681,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 681,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 681,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657146106,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 681,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007156.151,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 871,
+				["playing_solo"] = true,
+				["totals"] = {
+					117162.92754, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:21:47",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 6.315999999875203,
+				["CombatEndedAt"] = 2007145.851,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:21:46",
+				["end_time"] = 2007138.168,
+				["combat_id"] = 681,
+				["tempo_start"] = 1657146105,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 3,
+				},
+				["totals_grupo"] = {
+					110393, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 110393.00487,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007137.585,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [15]
+			{
+				{
+					["combatId"] = 680,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004706,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 12389.004706,
+							["dps_started"] = false,
+							["total"] = 12389.004706,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 12389,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146076,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12389,
+										["targets"] = {
+											["Raging Invader"] = 12389,
+										},
+										["n_dmg"] = 12389,
+										["n_min"] = 12389,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12389,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 13041.05758270622,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004706,
+							["start_time"] = 1657146075,
+							["delay"] = 0,
+							["last_event"] = 1657146075,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.004348,
+							["total"] = 5020.004348,
+							["damage_from"] = {
+								["Captain Saynna Stormrunner"] = true,
+								["Keeper Taldros"] = true,
+								["Voodroo"] = true,
+								["Skylord Omnuron"] = true,
+								["Rayne Feathersong"] = true,
+								["Anren Shadowseeker"] = true,
+								["Tholo Whitehoof"] = true,
+								["Avrilla"] = true,
+								["Archdruid Hamuul Runetotem"] = true,
+								["Choluna"] = true,
+								["Defender of Malorne"] = true,
+								["Elderlimb"] = true,
+							},
+							["targets"] = {
+								["Avrilla"] = 868,
+								["Skylord Omnuron"] = 399,
+								["Captain Saynna Stormrunner"] = 96,
+								["Tholo Whitehoof"] = 125,
+								["Defender of Malorne"] = 395,
+								["Choluna"] = 420,
+								["Archdruid Hamuul Runetotem"] = 998,
+								["Elderlimb"] = 1719,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 5020.004348,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657146105,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 126,
+										["targets"] = {
+											["Avrilla"] = 868,
+											["Skylord Omnuron"] = 399,
+											["Captain Saynna Stormrunner"] = 96,
+											["Tholo Whitehoof"] = 125,
+											["Defender of Malorne"] = 395,
+											["Choluna"] = 420,
+											["Archdruid Hamuul Runetotem"] = 998,
+											["Elderlimb"] = 1719,
+										},
+										["n_dmg"] = 5020,
+										["n_min"] = 83,
+										["g_dmg"] = 0,
+										["counter"] = 53,
+										["a_dmg"] = 0,
+										["total"] = 5020,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 3,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 48,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460AD8",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146105,
+							["damage_taken"] = 35698.004348,
+							["start_time"] = 1657146076,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 680,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 680,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 25.005314,
+							["resource"] = 0.005314,
+							["targets"] = {
+								["Voodroo"] = 25,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.005314,
+							["total"] = 25.005314,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.005314,
+							["last_event"] = 1657146104,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.005314,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 680,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146076,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 680,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007107.668,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 870,
+				["playing_solo"] = true,
+				["totals"] = {
+					17408.93926, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:21:17",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 0.8500000000931323,
+				["CombatEndedAt"] = 2007108.518,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:21:16",
+				["end_time"] = 2007108.518,
+				["combat_id"] = 680,
+				["tempo_start"] = 1657146075,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["totals_grupo"] = {
+					12389, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 12389.004706,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007107.568,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
 			}, -- [16]
 			{
 				{
+					["combatId"] = 679,
 					["tipo"] = 2,
-					["combatId"] = 614,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006253,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["end_time"] = 1646159685,
+							["totalabsorbed"] = 0.003352,
 							["pets"] = {
 							},
-							["damage_taken"] = 0.006253,
-							["friendlyfire_total"] = 11639,
 							["aID"] = "73-0861EFDD",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006253,
-							["last_dps"] = 0,
-							["classe"] = "DRUID",
+							["total_without_pet"] = 24690.003352,
 							["dps_started"] = false,
-							["total"] = 0.006253,
-							["delay"] = 0,
-							["start_time"] = 1646159685,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["last_event"] = 1646159685,
+							["total"] = 24690.003352,
 							["spec"] = 104,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["total"] = 11639,
-									["spells"] = {
-										[164812] = 11639,
-									},
-								},
-							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
 							["on_hold"] = false,
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 24690,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146075,
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -4995,527 +5785,3293 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 614,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 614,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 614,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["pets"] = {
-							},
-							["buff_uptime"] = 0,
-							["last_event"] = 1646159685,
-							["isTank"] = true,
-							["aID"] = "73-0861EFDD",
-							["classe"] = "DRUID",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[335151] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 335151,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 614,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 1386990.043,
-				["tempo_start"] = 1646159685,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.005564, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:34:46",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 869699.427,
-				["CombatEndedAt"] = 869699.427,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "13:34:45",
-				["end_time"] = 869699.427,
-				["combat_id"] = 614,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["frags"] = {
-				},
-				["combat_counter"] = 798,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					11639, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 869698.86,
-				["TimeData"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.006253,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-			}, -- [17]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 613,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.001154,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.001154,
-							["pets"] = {
-							},
-							["damage_taken"] = 0.001154,
-							["friendlyfire_total"] = 12003,
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.001154,
-							["last_dps"] = 0,
-							["aID"] = "73-0861EFDD",
-							["dps_started"] = false,
-							["end_time"] = 1646159663,
-							["delay"] = 0,
-							["start_time"] = 1646159663,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["last_event"] = 1646159663,
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
 							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 12003,
-									["spells"] = {
-										[164812] = 12003,
-									},
-								},
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 613,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 613,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 613,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 104,
-							["grupo"] = true,
-							["aID"] = "73-0861EFDD",
-							["pets"] = {
-							},
-							["nome"] = "Voodroo",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
-							["last_event"] = 1646159663,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[335151] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 335151,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["classe"] = "DRUID",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 613,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 869698.277,
-				["tempo_start"] = 1646159663,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.012352, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					12003, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:34:23",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 869676.743,
-				["CombatEndedAt"] = 869676.743,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.001154,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 869676.743,
-				["combat_id"] = 613,
-				["overall_added"] = true,
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 797,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 869676.643,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "13:34:23",
-			}, -- [18]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 612,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.00301,
-							["damage_from"] = {
-								["Voracious Virmen"] = true,
-							},
-							["targets"] = {
-							},
-							["end_time"] = 1646073284,
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["spec"] = 104,
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.00301,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-								["Voracious Virmen"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1,
-								},
-							},
-							["aID"] = "73-0861EFDD",
-							["dps_started"] = false,
-							["total"] = 0.00301,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
 							["nome"] = "Voodroo",
 							["spells"] = {
-								["_ActorTable"] = {
-								},
 								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 24690,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raging Invader"] = 24690,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 24690,
+										["c_max"] = 24690,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 24690,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
 							},
 							["grupo"] = true,
-							["friendlyfire_total"] = 11946,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["classe"] = "DRUID",
+							["last_dps"] = 185639.1230669615,
 							["custom"] = 0,
-							["last_event"] = 1646073284,
-							["damage_taken"] = 1.00301,
-							["start_time"] = 1646073284,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003352,
+							["start_time"] = 1657146074,
 							["delay"] = 0,
-							["friendlyfire"] = {
-								["Voracious Virmen"] = {
-									["spells"] = {
-										[164812] = 11946,
-									},
-									["total"] = 11946,
-								},
-							},
+							["last_event"] = 1657146074,
 						}, -- [1]
 						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.006553,
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006348,
 							["damage_from"] = {
 								["Voodroo"] = true,
 							},
 							["targets"] = {
 							},
+							["total"] = 0.006348,
 							["pets"] = {
 							},
-							["friendlyfire_total"] = 1,
-							["dps_started"] = false,
-							["aID"] = "60039",
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.006553,
-							["serial"] = "Creature-0-4231-870-24341-60039-00001D15C1",
+							["total_without_pet"] = 0.006348,
 							["fight_component"] = true,
-							["total"] = 0.006553,
-							["end_time"] = 1646073284,
-							["friendlyfire"] = {
-								["Voodroo"] = {
-									["spells"] = {
-										1, -- [1]
-									},
-									["total"] = 1,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146075,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
 								},
 							},
-							["nome"] = "Voracious Virmen",
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460AD9",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 24690.006348,
+							["start_time"] = 1657146075,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 679,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 679,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 679,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146075,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 679,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657146074,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 869,
+				["playing_solo"] = true,
+				["totals"] = {
+					24690, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					24690, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:21:16",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007107.268,
+				["CombatEndedAt"] = 2007107.268,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 24690.003352,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 2007107.268,
+				["combat_id"] = 679,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "18:21:15",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["start_time"] = 2007106.235,
+				["TimeData"] = {
+				},
+				["contra"] = "Raging Invader",
+			}, -- [17]
+			{
+				{
+					["combatId"] = 678,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005949,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 25246.005949,
+							["dps_started"] = false,
+							["total"] = 25246.005949,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 25246,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146072,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
 							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12724,
+										["targets"] = {
+											["Raging Invader"] = 25246,
+										},
+										["n_dmg"] = 25246,
+										["n_min"] = 12522,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 25246,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 16653.03822681644,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005949,
+							["start_time"] = 1657146070,
+							["delay"] = 0,
+							["last_event"] = 1657146071,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001654,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.001654,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001654,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146072,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460AD4",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 25246.001654,
+							["start_time"] = 1657146072,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 678,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 678,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 678,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[8921] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 6,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657146072,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 678,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007106.235,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 868,
+				["playing_solo"] = true,
+				["totals"] = {
+					25246, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:21:12",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007103.635,
+				["CombatEndedAt"] = 2007103.635,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:21:11",
+				["end_time"] = 2007103.635,
+				["combat_id"] = 678,
+				["tempo_start"] = 1657146070,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					25246, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 25246.005949,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007102.052,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [18]
+			{
+				{
+					["combatId"] = 677,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004201,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 12178.004201,
+							["dps_started"] = false,
+							["total"] = 12178.004201,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 12178,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146068,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12178,
+										["targets"] = {
+											["Raging Invader"] = 12178,
+										},
+										["n_dmg"] = 12178,
+										["n_min"] = 12178,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12178,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 81186.69472374067,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004201,
+							["start_time"] = 1657146066,
+							["delay"] = 0,
+							["last_event"] = 1657146066,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006516,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.006516,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006516,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146068,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460ACA",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 12178.006516,
+							["start_time"] = 1657146068,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 677,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 677,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 677,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 6,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146068,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 677,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007102.052,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 867,
+				["playing_solo"] = true,
+				["totals"] = {
+					12178, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:21:09",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 1.617000000085682,
+				["CombatEndedAt"] = 2007100.035,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:21:07",
+				["end_time"] = 2007100.035,
+				["combat_id"] = 677,
+				["tempo_start"] = 1657146066,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["totals_grupo"] = {
+					12178, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 12178.004201,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007098.418,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [19]
+			{
+				{
+					["combatId"] = 676,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003704,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 12251.003704,
+							["dps_started"] = false,
+							["total"] = 12251.003704,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 12251,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146066,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12251,
+										["targets"] = {
+											["Raging Invader"] = 12251,
+										},
+										["n_dmg"] = 12251,
+										["n_min"] = 12251,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12251,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 92112.80986385248,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003704,
+							["start_time"] = 1657146065,
+							["delay"] = 0,
+							["last_event"] = 1657146065,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002697,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.002697,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002697,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146066,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460ACD",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 12251.002697,
+							["start_time"] = 1657146066,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 676,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 676,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 676,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146066,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 676,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657146065,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 866,
+				["playing_solo"] = true,
+				["totals"] = {
+					12251, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					12251, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:21:07",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007098.418,
+				["CombatEndedAt"] = 2007098.418,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 12251.003704,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 2007098.418,
+				["combat_id"] = 676,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "18:21:06",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["start_time"] = 2007097.035,
+				["TimeData"] = {
+				},
+				["contra"] = "Raging Invader",
+			}, -- [20]
+			{
+				{
+					["combatId"] = 675,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006335,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 20754.006335,
+							["dps_started"] = false,
+							["total"] = 20754.006335,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 20754,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146060,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20754,
+										["targets"] = {
+											["Raging Invader"] = 20754,
+										},
+										["n_dmg"] = 20754,
+										["n_min"] = 20754,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 20754,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 207540.06335,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006335,
+							["start_time"] = 1657146060,
+							["delay"] = 0,
+							["last_event"] = 1657146060,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00707,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.00707,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00707,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146060,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-00004606C6",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 20754.00707,
+							["start_time"] = 1657146060,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 675,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 675,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 675,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 0,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146060,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 675,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007097.035,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 865,
+				["playing_solo"] = true,
+				["totals"] = {
+					20754, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:21:01",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 0.3999999999068677,
+				["CombatEndedAt"] = 2007092.335,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:21:01",
+				["end_time"] = 2007092.335,
+				["combat_id"] = 675,
+				["tempo_start"] = 1657146060,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 1,
+				},
+				["totals_grupo"] = {
+					20754, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 20754.006335,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007091.935,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [21]
+			{
+				{
+					["combatId"] = 674,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00323,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 175204.00323,
+							["dps_started"] = false,
+							["total"] = 175204.00323,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 175204,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146047,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 47090,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raging Invader"] = 47090,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 47090,
+										["c_max"] = 47090,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 47090,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 85995,
+										["g_amt"] = 0,
+										["n_max"] = 21327,
+										["targets"] = {
+											["Raging Invader"] = 128114,
+										},
+										["n_dmg"] = 42119,
+										["n_min"] = 20792,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 128114,
+										["c_max"] = 43399,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42596,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 210076.7424740383,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00323,
+							["start_time"] = 1657146046,
+							["delay"] = 0,
+							["last_event"] = 1657146046,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006695,
+							["total"] = 591.006695,
+							["damage_from"] = {
+								["Anren Shadowseeker"] = true,
+								["Voodroo"] = true,
+								["Tholo Whitehoof"] = true,
+								["Elderlimb"] = true,
+							},
+							["targets"] = {
+								["Tholo Whitehoof"] = 201,
+								["Elderlimb"] = 390,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 591.006695,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657146060,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 112,
+										["targets"] = {
+											["Anren Shadowseeker"] = 0,
+											["Tholo Whitehoof"] = 201,
+											["Elderlimb"] = 390,
+										},
+										["n_dmg"] = 591,
+										["n_min"] = 90,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 591,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0001460ABC",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146058,
+							["damage_taken"] = 175829.006695,
+							["start_time"] = 1657146047,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 674,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 674,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 25.005729,
+							["resource"] = 0.005729,
+							["targets"] = {
+								["Voodroo"] = 25,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.005729,
+							["total"] = 25.005729,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.005729,
+							["last_event"] = 1657146058,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.005729,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 674,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146047,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 674,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007078.551,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 864,
+				["playing_solo"] = true,
+				["totals"] = {
+					175794.986709, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:20:48",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 0.834000000031665,
+				["CombatEndedAt"] = 2007079.385,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:20:47",
+				["end_time"] = 2007079.385,
+				["combat_id"] = 674,
+				["tempo_start"] = 1657146046,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 4,
+				},
+				["totals_grupo"] = {
+					175204, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 175204.00323,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007078.551,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [22]
+			{
+				{
+					["combatId"] = 673,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005745,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 147666.005745,
+							["dps_started"] = false,
+							["total"] = 147666.005745,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 147666,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146042,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 126530,
+										["g_amt"] = 0,
+										["n_max"] = 21136,
+										["targets"] = {
+											["Raging Invader"] = 147666,
+										},
+										["n_dmg"] = 21136,
+										["n_min"] = 21136,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 147666,
+										["c_max"] = 43212,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41472,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 1476660.05745,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005745,
+							["start_time"] = 1657146042,
+							["delay"] = 0,
+							["last_event"] = 1657146042,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.008879,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.008879,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008879,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146042,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460519",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 147666.008879,
+							["start_time"] = 1657146042,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 673,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 673,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 673,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 0,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146042,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 673,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007074.235,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 863,
+				["playing_solo"] = true,
+				["totals"] = {
+					147666, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:20:43",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 0.2830000000540167,
+				["CombatEndedAt"] = 2007074.518,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:20:43",
+				["end_time"] = 2007074.518,
+				["combat_id"] = 673,
+				["tempo_start"] = 1657146042,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 4,
+				},
+				["totals_grupo"] = {
+					147666, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 147666.005745,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007074.235,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [23]
+			{
+				{
+					["combatId"] = 672,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00503,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 54571.00503,
+							["dps_started"] = false,
+							["total"] = 54571.00503,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 54571,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146024,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[77758] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 27331,
+										["targets"] = {
+											["Raging Invader"] = 54571,
+										},
+										["n_dmg"] = 54571,
+										["n_min"] = 27240,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 54571,
+										["c_max"] = 0,
+										["id"] = 77758,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 40938.48839866019,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00503,
+							["start_time"] = 1657146023,
+							["delay"] = 0,
+							["last_event"] = 1657146023,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.006785,
+							["total"] = 1345.006785,
+							["damage_from"] = {
+								["Elderlimb"] = true,
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+								["Elderlimb"] = 1345,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1345.006785,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657146042,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 200,
+										["g_amt"] = 0,
+										["n_max"] = 122,
+										["targets"] = {
+											["Elderlimb"] = 1345,
+										},
+										["n_dmg"] = 1145,
+										["n_min"] = 87,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 1345,
+										["c_max"] = 200,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 200,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 11,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000C60AA5",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146042,
+							["damage_taken"] = 55221.00678500001,
+							["start_time"] = 1657146024,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 672,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 672,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 25.002496,
+							["resource"] = 0.002496,
+							["targets"] = {
+								["Voodroo"] = 25,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.002496,
+							["total"] = 25.002496,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002496,
+							["last_event"] = 1657146041,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.002496,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 672,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[192090] = {
+										["activedamt"] = -1,
+										["id"] = 192090,
+										["targets"] = {
+										},
+										["actived_at"] = 1657146023,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 4,
+							["aID"] = "73-0861EFDD",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 0,
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1657146024,
+							["classe"] = "DRUID",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 672,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007054.985,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 862,
+				["playing_solo"] = true,
+				["totals"] = {
+					55915.997188, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:20:25",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 1.332999999867752,
+				["CombatEndedAt"] = 2007056.318,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:20:24",
+				["end_time"] = 2007056.318,
+				["combat_id"] = 672,
+				["tempo_start"] = 1657146023,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					54571, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 54571.00503,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007054.985,
+				["contra"] = "Raging Invader",
+				["TimeData"] = {
+				},
+			}, -- [24]
+			{
+				{
+					["combatId"] = 671,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006923,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 64249.006923,
+							["dps_started"] = false,
+							["total"] = 64249.006923,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 64249,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146021,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+								["Raging Invader"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 42684,
+										["g_amt"] = 0,
+										["n_max"] = 21565,
+										["targets"] = {
+											["Raging Invader"] = 64249,
+										},
+										["n_dmg"] = 21565,
+										["n_min"] = 21565,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 64249,
+										["c_max"] = 42684,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42684,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 642490.06923,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006923,
+							["start_time"] = 1657146020,
+							["delay"] = 0,
+							["last_event"] = 1657146020,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003538,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.003538,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003538,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146021,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-0000460AA2",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657146020,
+							["damage_taken"] = 64249.003538,
+							["start_time"] = 1657146021,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 671,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 671,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 5.006374,
+							["resource"] = 0.006374,
+							["targets"] = {
+								["Voodroo"] = 5,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.006374,
+							["total"] = 5.006374,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[77758] = {
+										["total"] = 5,
+										["id"] = 77758,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 5,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006374,
+							["last_event"] = 1657146023,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.006374,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 671,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657146021,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 671,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657146020,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 861,
+				["playing_solo"] = true,
+				["totals"] = {
+					64249, -- [1]
+					0, -- [2]
+					{
+						5, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					64249, -- [1]
+					0, -- [2]
+					{
+						5, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:20:21",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007052.685,
+				["CombatEndedAt"] = 2007052.685,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 64249.006923,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 2007052.685,
+				["combat_id"] = 671,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "18:20:21",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Raging Invader"] = 2,
+				},
+				["start_time"] = 2007052.051,
+				["TimeData"] = {
+				},
+				["contra"] = "Raging Invader",
+			}, -- [25]
+			{
+				{
+					["combatId"] = 670,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00699,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 62482.00699,
+							["dps_started"] = false,
+							["total"] = 62482.00699,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raging Invader"] = 62482,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657146017,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 41535,
+										["g_amt"] = 0,
+										["n_max"] = 20947,
+										["targets"] = {
+											["Raging Invader"] = 62482,
+										},
+										["n_dmg"] = 20947,
+										["n_min"] = 20947,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 62482,
+										["c_max"] = 41535,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41535,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 466283.6339815084,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00699,
+							["start_time"] = 1657146017,
+							["delay"] = 0,
+							["last_event"] = 1657146017,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008851,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.008851,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008851,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657146017,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Raging Invader",
+							["spells"] = {
+								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -5547,845 +9103,84 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									}, -- [1]
 								},
-								["tipo"] = 2,
 							},
-							["last_event"] = 1646073283,
-							["on_hold"] = false,
+							["aID"] = "52557",
+							["serial"] = "Creature-0-4229-1-71-52557-00004604F1",
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 11946.006553,
-							["start_time"] = 1646073281,
+							["last_event"] = 1657146020,
+							["damage_taken"] = 62482.008851,
+							["start_time"] = 1657146017,
 							["delay"] = 0,
-							["classe"] = "PET",
+							["tipo"] = 1,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
+					["combatId"] = 670,
 					["tipo"] = 3,
-					["combatId"] = 612,
 					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["totalover"] = 1458.005281,
-							["total_without_pet"] = 0.005281,
-							["total"] = 0.005281,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["totalabsorb"] = 0.005281,
-							["last_hps"] = 0,
-							["targets"] = {
-							},
-							["totalover_without_pet"] = 0.005281,
-							["healing_taken"] = 0.005281,
-							["start_time"] = 1646159647,
-							["end_time"] = 1646159663,
-							["targets_overheal"] = {
-								["Voodroo"] = 1458,
-							},
-							["timeMachine"] = 2,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-									[774] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Voodroo"] = 1319,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Voodroo"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 7,
-										["overheal"] = 1319,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 774,
-										["targets_absorbs"] = {
-										},
-										["c_min"] = 0,
-										["c_curado"] = 0,
-										["n_curado"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 7,
-										["absorbed"] = 0,
-									},
-									[227034] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Voodroo"] = 139,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Voodroo"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 7,
-										["overheal"] = 139,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 227034,
-										["targets_absorbs"] = {
-										},
-										["c_min"] = 0,
-										["c_curado"] = 0,
-										["n_curado"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 7,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["tipo"] = 2,
-							["custom"] = 0,
-							["last_event"] = 1646073298,
-							["aID"] = "73-0861EFDD",
-							["totaldenied"] = 0.005281,
-							["delay"] = 1646073298,
-							["spec"] = 104,
-						}, -- [1]
 					},
 				}, -- [2]
 				{
+					["combatId"] = 670,
 					["tipo"] = 7,
-					["combatId"] = 612,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
+					["combatId"] = 670,
 					["tipo"] = 9,
-					["combatId"] = 612,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime"] = 4,
-							["classe"] = "DRUID",
 							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[186403] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 3,
-										["id"] = 186403,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[774] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 774,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
 								["tipo"] = 9,
-							},
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[774] = 1,
-								[8921] = 1,
-							},
-							["pets"] = {
-							},
-							["aID"] = "73-0861EFDD",
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["last_event"] = 1646073284,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 612,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 869675.71,
-				["tempo_start"] = 1646073281,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.003156, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-					["Voodroo"] = {
-						{
-							false, -- [1]
-							774, -- [2]
-							208, -- [3]
-							1646073286.479, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [1]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1646073286.479, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [2]
-						{
-							false, -- [1]
-							774, -- [2]
-							208, -- [3]
-							1646073289.313, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [3]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1646073289.313, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [4]
-						{
-							false, -- [1]
-							774, -- [2]
-							209, -- [3]
-							1646073292.113, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [5]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1646073292.113, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [6]
-						{
-							false, -- [1]
-							774, -- [2]
-							208, -- [3]
-							1646073294.846, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [7]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1646073294.946, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [8]
-						{
-							false, -- [1]
-							774, -- [2]
-							209, -- [3]
-							1646073297.746, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [9]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1646073297.746, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [10]
-						{
-							false, -- [1]
-							774, -- [2]
-							68, -- [3]
-							1646073298.663, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [11]
-						{
-							false, -- [1]
-							227034, -- [2]
-							7, -- [3]
-							1646073298.663, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 13,
-					},
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:34:45",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 783296.9280000001,
-				["CombatEndedAt"] = 783296.9280000001,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "13:34:42",
-				["end_time"] = 783296.9280000001,
-				["combat_id"] = 612,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Voodroo"] = 0.005281,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Voodroo"] = 0.00301,
-						}, -- [1]
-					},
-				},
-				["spells_cast_timeline"] = {
-				},
-				["frags"] = {
-				},
-				["combat_counter"] = 795,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					11946, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 783294.128,
-				["TimeData"] = {
-				},
-				["overall_added"] = true,
-			}, -- [19]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 611,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005945,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.005945,
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["spells"] = {
 								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["aID"] = "73-0861EFDD",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005945,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-							["classe"] = "DRUID",
-							["dps_started"] = false,
-							["end_time"] = 1646073222,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["friendlyfire_total"] = 23277,
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1646073221,
-							["damage_taken"] = 0.005945,
-							["start_time"] = 1646073221,
-							["delay"] = 0,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[164812] = 23277,
-									},
-									["total"] = 23277,
-								},
-							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 611,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 611,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 611,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["nome"] = "Voodroo",
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 104,
-							["grupo"] = true,
-							["buff_uptime"] = 2,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[186403] = {
-										["appliedamt"] = 1,
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 186403,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[93622] = {
-										["appliedamt"] = 1,
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 93622,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
-								["tipo"] = 9,
 							},
-							["classe"] = "DRUID",
-							["last_event"] = 1646073222,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["aID"] = "73-0861EFDD",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 611,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 783294.128,
-				["tempo_start"] = 1646073221,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.004414, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["totals_grupo"] = {
-					23277, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:33:43",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 783234.944,
-				["CombatEndedAt"] = 783234.944,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Voodroo"] = 0.005945,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 783234.944,
-				["combat_id"] = 611,
-				["data_inicio"] = "13:33:42",
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 794,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 783234.044,
-				["TimeData"] = {
-				},
-				["overall_added"] = true,
-			}, -- [20]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 610,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.004824,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.004824,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[164812] = 12012,
-									},
-									["total"] = 12012,
-								},
-							},
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 12012,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004824,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-							["aID"] = "73-0861EFDD",
-							["dps_started"] = false,
-							["end_time"] = 1646073220,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
 							["nome"] = "Voodroo",
 							["spec"] = 104,
 							["grupo"] = true,
-							["classe"] = "DRUID",
-							["last_event"] = 1646073220,
-							["on_hold"] = false,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["start_time"] = 1646073220,
-							["delay"] = 0,
-							["damage_taken"] = 0.004824,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 610,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 610,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 610,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["nome"] = "Voodroo",
 							["buff_uptime_targets"] = {
 							},
-							["spec"] = 104,
-							["grupo"] = true,
 							["buff_uptime"] = 0,
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[186403] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 186403,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[93622] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 93622,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
 							["classe"] = "DRUID",
-							["last_event"] = 1646073220,
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
 							["isTank"] = true,
 							["serial"] = "Player-73-0861EFDD",
-							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657146017,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 670,
 					["tipo"] = 2,
-					["combatId"] = 610,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -6395,18 +9190,16 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 783233.4940000001,
-				["tempo_start"] = 1646073220,
+				["CombatStartedAt"] = 2007051.185,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 860,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.003302, -- [1]
+					62482, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -6418,18 +9211,42 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:20:18",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raging Invader",
+				["TotalElapsedCombatTime"] = 2007049.035,
+				["CombatEndedAt"] = 2007049.035,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:20:18",
+				["end_time"] = 2007049.035,
+				["combat_id"] = 670,
+				["tempo_start"] = 1657146017,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Raging Invader"] = 2,
+				},
 				["totals_grupo"] = {
-					12012, -- [1]
+					62482, -- [1]
 					0, -- [2]
 					{
 						0, -- [1]
@@ -6441,89 +9258,70 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:33:41",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 783232.9280000001,
-				["CombatEndedAt"] = 783232.9280000001,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
 				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
 					},
+					["damage_section"] = {
+					},
 					["damage"] = {
 						{
-							["Voodroo"] = 0.004824,
+							["Voodroo"] = 62482.00699,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 783232.9280000001,
-				["combat_id"] = 610,
-				["data_inicio"] = "13:33:41",
-				["frags"] = {
+				["CombatSkillCache"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["combat_counter"] = 793,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 783232.644,
+				["start_time"] = 2007048.901,
+				["contra"] = "Raging Invader",
 				["TimeData"] = {
 				},
-				["overall_added"] = true,
-			}, -- [21]
+			}, -- [26]
 			{
 				{
+					["combatId"] = 669,
 					["tipo"] = 2,
-					["combatId"] = 609,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005846,
+							["totalabsorbed"] = 0.006875,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 41539.006875,
+							["dps_started"] = false,
+							["total"] = 41539.006875,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
 							["damage_from"] = {
 							},
 							["targets"] = {
+								["Leyara"] = 41539,
 							},
-							["total"] = 0.005846,
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["aID"] = "73-0861EFDD",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 0.005846,
+							["end_time"] = 1657145977,
 							["avoidance"] = {
 								["overall"] = {
 									["DODGE"] = 0,
@@ -6542,668 +9340,211 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 0,
 								},
 							},
-							["classe"] = "DRUID",
-							["dps_started"] = false,
-							["end_time"] = 1646073186,
-							["serial"] = "Player-73-0861EFDD",
-							["isTank"] = true,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["friendlyfire_total"] = 23739,
-							["tipo"] = 1,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1646073186,
-							["damage_taken"] = 0.005846,
-							["start_time"] = 1646073186,
-							["delay"] = 0,
 							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["spells"] = {
-										[164812] = 23739,
-									},
-									["total"] = 23739,
-								},
 							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 609,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 609,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 609,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
 							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 0,
-							["buff_uptime_targets"] = {
-							},
-							["pets"] = {
-							},
-							["last_event"] = 1646073186,
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[186403] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 186403,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["serial"] = "Player-73-0861EFDD",
-							["aID"] = "73-0861EFDD",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 609,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 783231.7440000001,
-				["tempo_start"] = 1646073186,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.007847, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["totals_grupo"] = {
-					23739, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:33:06",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 783198.461,
-				["CombatEndedAt"] = 783198.461,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Voodroo"] = 0.005846,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 783198.461,
-				["combat_id"] = 609,
-				["data_inicio"] = "13:33:06",
-				["frags"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["combat_counter"] = 792,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 783198.228,
-				["TimeData"] = {
-				},
-				["overall_added"] = true,
-			}, -- [22]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 608,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.004226,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["end_time"] = 1645641622,
-							["pets"] = {
-							},
-							["damage_taken"] = 0.004226,
-							["aID"] = "73-0861EFDD",
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004226,
-							["friendlyfire"] = {
-								["Swooping Plainshawk"] = {
-									["total"] = 23690,
-									["spells"] = {
-										[164812] = 23690,
-									},
-								},
-							},
-							["friendlyfire_total"] = 23690,
-							["dps_started"] = false,
-							["total"] = 0.004226,
-							["delay"] = 0,
-							["start_time"] = 1645641620,
-							["nome"] = "Voodroo",
-							["spec"] = 104,
-							["grupo"] = true,
-							["last_event"] = 1645641622,
 							["spells"] = {
-								["_ActorTable"] = {
-								},
 								["tipo"] = 2,
-							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 608,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 608,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 608,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["buff_uptime"] = 2,
-							["aID"] = "73-0861EFDD",
-							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 104,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[8921] = 1,
-							},
-							["nome"] = "Voodroo",
-							["last_event"] = 1645641622,
-							["tipo"] = 4,
-							["pets"] = {
-							},
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["classe"] = "DRUID",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 608,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Voodroo"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Voodroo", -- [1]
-				},
-				["CombatStartedAt"] = 783197.261,
-				["tempo_start"] = 1645641620,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.09353700000676476, -- [1]
-					-0.01464, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:40:22",
-				["pvp"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 351632.982,
-				["CombatEndedAt"] = 351632.982,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "13:40:20",
-				["end_time"] = 351632.982,
-				["combat_id"] = 608,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["frags"] = {
-				},
-				["combat_counter"] = 790,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					23690, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 351631.466,
-				["TimeData"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.004226,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-			}, -- [23]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 607,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.001915,
-							["damage_from"] = {
-							},
-							["targets"] = {
-							},
-							["total"] = 0.001915,
-							["pets"] = {
-							},
-							["damage_taken"] = 0.001915,
-							["classe"] = "DRUID",
-							["aID"] = "73-0861EFDD",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.001915,
-							["friendlyfire"] = {
-								["Squatting Virmen"] = {
-									["total"] = 23736,
-									["spells"] = {
-										[164812] = 23736,
-									},
-								},
-							},
-							["friendlyfire_total"] = 23736,
-							["dps_started"] = false,
-							["end_time"] = 1645641550,
-							["delay"] = 0,
-							["start_time"] = 1645641550,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["last_event"] = 1645641550,
-							["spec"] = 104,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 607,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["totalover"] = 1457.008839,
-							["total_without_pet"] = 0.008839,
-							["total"] = 0.008839,
-							["spec"] = 104,
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-73-0861EFDD",
-							["totalabsorb"] = 0.008839,
-							["last_hps"] = 0,
-							["targets"] = {
-							},
-							["totalover_without_pet"] = 0.008839,
-							["healing_taken"] = 0.008839,
-							["end_time"] = 1645641620,
-							["targets_overheal"] = {
-								["Voodroo"] = 1457,
-							},
-							["tipo"] = 2,
-							["nome"] = "Voodroo",
-							["spells"] = {
-								["_ActorTable"] = {
-									[774] = {
+									[213771] = {
 										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Voodroo"] = 1318,
-										},
+										["b_amt"] = 0,
+										["c_dmg"] = 41539,
+										["g_amt"] = 0,
 										["n_max"] = 0,
 										["targets"] = {
-											["Voodroo"] = 0,
+											["Leyara"] = 41539,
 										},
+										["n_dmg"] = 0,
 										["n_min"] = 0,
-										["counter"] = 6,
-										["overheal"] = 1318,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 774,
-										["targets_absorbs"] = {
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 41539,
+										["c_max"] = 41539,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
 										},
-										["c_min"] = 0,
-										["c_curado"] = 0,
-										["n_amt"] = 5,
-										["n_curado"] = 0,
-										["totaldenied"] = 0,
-										["absorbed"] = 0,
-									},
-									[227034] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Voodroo"] = 139,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Voodroo"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 6,
-										["overheal"] = 139,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 227034,
-										["targets_absorbs"] = {
-										},
-										["c_min"] = 0,
-										["c_curado"] = 0,
-										["n_amt"] = 6,
-										["n_curado"] = 0,
-										["totaldenied"] = 0,
-										["absorbed"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 41539,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
-								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["classe"] = "DRUID",
-							["totaldenied"] = 0.008839,
+							["last_dps"] = 16954.69668399572,
 							["custom"] = 0,
-							["last_event"] = 1645641564,
-							["aID"] = "73-0861EFDD",
-							["start_time"] = 1645641606,
-							["delay"] = 1645641564,
-							["targets_absorbs"] = {
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 0.006875,
+							["start_time"] = 1657145975,
+							["delay"] = 0,
+							["last_event"] = 1657145975,
 						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.004478,
+							["damage_from"] = {
+								["Hyjal Assault Trooper"] = true,
+								["Captain Saynna Stormrunner"] = true,
+								["Archdruid Hamuul Runetotem"] = true,
+								["Voodroo"] = true,
+								["Malfurion Stormrage"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.004478,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004478,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145977,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Leyara",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52863",
+							["serial"] = "Creature-0-4229-1-71-52863-0000460518",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 50721.004478,
+							["start_time"] = 1657145977,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 669,
+					["tipo"] = 3,
+					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
+					["combatId"] = 669,
 					["tipo"] = 7,
-					["combatId"] = 607,
 					["_ActorTable"] = {
+						{
+							["received"] = 25.002968,
+							["resource"] = 0.002968,
+							["targets"] = {
+								["Voodroo"] = 25,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.002968,
+							["total"] = 25.002968,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[17057] = {
+										["total"] = 25,
+										["id"] = 17057,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 25,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002968,
+							["last_event"] = 1657146015,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.002968,
+						}, -- [1]
 					},
 				}, -- [3]
 				{
+					["combatId"] = 669,
 					["tipo"] = 9,
-					["combatId"] = 607,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 104,
-							["grupo"] = true,
-							["aID"] = "73-0861EFDD",
-							["pets"] = {
-							},
-							["nome"] = "Voodroo",
-							["buff_uptime"] = 0,
-							["tipo"] = 4,
-							["last_event"] = 1645641550,
 							["buff_uptime_spells"] = {
+								["tipo"] = 9,
 								["_ActorTable"] = {
-									[186403] = {
-										["counter"] = 0,
-										["actived"] = false,
+									[93622] = {
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186403,
-										["uptime"] = 0,
+										["id"] = 93622,
 										["targets"] = {
 										},
+										["uptime"] = 2,
 										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
-									[774] = {
-										["counter"] = 0,
-										["actived"] = false,
+									[5487] = {
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 774,
-										["uptime"] = 0,
+										["id"] = 5487,
 										["targets"] = {
 										},
+										["uptime"] = 2,
 										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
-								["tipo"] = 9,
 							},
-							["serial"] = "Player-73-0861EFDD",
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 6,
+							["pets"] = {
+							},
 							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657145977,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
+					["combatId"] = 669,
 					["tipo"] = 2,
-					["combatId"] = 607,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -7213,70 +9554,2039 @@ _detalhes_database = {
 				["raid_roster_indexed"] = {
 					"Voodroo", -- [1]
 				},
-				["CombatStartedAt"] = 351629.349,
-				["tempo_start"] = 1645641550,
+				["CombatStartedAt"] = 2007048.901,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 859,
 				["playing_solo"] = true,
 				["totals"] = {
-					-0.002361, -- [1]
+					41538.97534400001, -- [1]
 					0, -- [2]
 					{
-						0, -- [1]
+						25, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
 						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					23736, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = false,
 				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "13:39:10",
-				["pvp"] = true,
+				["data_fim"] = "18:19:38",
 				["cleu_timeline"] = {
 				},
-				["enemy"] = "Unknown",
-				["TotalElapsedCombatTime"] = 351561.682,
-				["CombatEndedAt"] = 351561.682,
+				["enemy"] = "Leyara",
+				["TotalElapsedCombatTime"] = 2007009.401,
+				["CombatEndedAt"] = 2007009.401,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:36",
+				["end_time"] = 2007009.401,
+				["combat_id"] = 669,
+				["tempo_start"] = 1657145975,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+				},
+				["totals_grupo"] = {
+					41539, -- [1]
+					0, -- [2]
+					{
+						25, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 41539.006875,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007006.951,
+				["contra"] = "Leyara",
+				["TimeData"] = {
+				},
+			}, -- [27]
+			{
+				{
+					["combatId"] = 668,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003793,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 41681.003793,
+							["dps_started"] = false,
+							["total"] = 41681.003793,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 41681,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145974,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 41681,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 41681,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 41681,
+										["c_max"] = 41681,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41681,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 58132.50178884951,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003793,
+							["start_time"] = 1657145973,
+							["delay"] = 0,
+							["last_event"] = 1657145973,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008094,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.008094,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008094,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145974,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A75",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 41681.008094,
+							["start_time"] = 1657145974,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 668,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 668,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001089,
+							["resource"] = 0.001089,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.001089,
+							["total"] = 0.001089,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 103.001089,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.001089,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 668,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657145974,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 668,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007006.951,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 103,
+						["last"] = 0,
+					},
+				},
+				["combat_counter"] = 858,
+				["playing_solo"] = true,
+				["totals"] = {
+					41680.972169, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:35",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 2007006.551,
+				["CombatEndedAt"] = 2007006.551,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:34",
+				["end_time"] = 2007006.551,
+				["combat_id"] = 668,
+				["tempo_start"] = 1657145973,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 1,
+				},
+				["totals_grupo"] = {
+					41681, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 41681.003793,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007005.551,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [28]
+			{
+				{
+					["combatId"] = 667,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001297,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 109730.001297,
+							["dps_started"] = false,
+							["total"] = 109730.001297,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 109730,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145972,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 45781,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 45781,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 45781,
+										["c_max"] = 45781,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 45781,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 42433,
+										["g_amt"] = 0,
+										["n_max"] = 21516,
+										["targets"] = {
+											["Charred Invader"] = 63949,
+										},
+										["n_dmg"] = 21516,
+										["n_min"] = 21516,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 63949,
+										["c_max"] = 42433,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42433,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 71578.60488788881,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.001297,
+							["start_time"] = 1657145971,
+							["delay"] = 0,
+							["last_event"] = 1657145972,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.006672,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.006672,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006672,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145972,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A72",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145972,
+							["damage_taken"] = 109730.006672,
+							["start_time"] = 1657145972,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 667,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 667,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.003601,
+							["resource"] = 0.003601,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.003601,
+							["total"] = 0.003601,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 203.003601,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.003601,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 667,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145972,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 667,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007005.318,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 203,
+						["last"] = 102,
+					},
+				},
+				["combat_counter"] = 857,
+				["playing_solo"] = true,
+				["totals"] = {
+					109730, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:33",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 1.800000000046566,
+				["CombatEndedAt"] = 2007004.535,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:31",
+				["end_time"] = 2007004.535,
+				["combat_id"] = 667,
+				["tempo_start"] = 1657145971,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 3,
+				},
+				["totals_grupo"] = {
+					109730, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 109730.001297,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007002.735,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [29]
+			{
+				{
+					["combatId"] = 666,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007601,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 88709.00760099999,
+							["dps_started"] = false,
+							["total"] = 88709.00760099999,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 88709,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145970,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 45960,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 45960,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 45960,
+										["c_max"] = 45960,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 45960,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 42749,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 42749,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 42749,
+										["c_max"] = 42749,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42749,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 166433.4101163411,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007601,
+							["start_time"] = 1657145969,
+							["delay"] = 0,
+							["last_event"] = 1657145969,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008821,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.008821,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008821,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145970,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A70",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145969,
+							["damage_taken"] = 88709.008821,
+							["start_time"] = 1657145970,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 666,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 666,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004864,
+							["resource"] = 0.004864,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.004864,
+							["total"] = 0.004864,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 198.004864,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.004864,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 666,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 2,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145970,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 666,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2007000.735,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 198,
+						["last"] = 100,
+					},
+				},
+				["combat_counter"] = 856,
+				["playing_solo"] = true,
+				["totals"] = {
+					88709, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:30",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 0.9329999999608845,
+				["CombatEndedAt"] = 2007001.668,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:29",
+				["end_time"] = 2007001.668,
+				["combat_id"] = 666,
+				["tempo_start"] = 1657145969,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					88709, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 88709.00760099999,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2007000.735,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [30]
+			{
+				{
+					["combatId"] = 665,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001914,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 24052.001914,
+							["dps_started"] = false,
+							["total"] = 24052.001914,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 24052,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145967,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+								["Charred Invader"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24052,
+										["targets"] = {
+											["Charred Invader"] = 24052,
+										},
+										["n_dmg"] = 24052,
+										["n_min"] = 24052,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 24052,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 180842.1194540547,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.001914,
+							["start_time"] = 1657145966,
+							["delay"] = 0,
+							["last_event"] = 1657145966,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005709,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.005709,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005709,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145967,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A6D",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145966,
+							["damage_taken"] = 24052.005709,
+							["start_time"] = 1657145967,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 665,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 665,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.008394,
+							["resource"] = 0.008394,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.008394,
+							["total"] = 0.008394,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 192.008394,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.008394,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 665,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 2,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145967,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 665,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2006998.335,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 192,
+						["last"] = 97,
+					},
+				},
+				["combat_counter"] = 855,
+				["playing_solo"] = true,
+				["totals"] = {
+					24052, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:28",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 0.9330000001937151,
+				["CombatEndedAt"] = 2006999.268,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:27",
+				["end_time"] = 2006999.268,
+				["combat_id"] = 665,
+				["tempo_start"] = 1657145966,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 1,
+				},
+				["totals_grupo"] = {
+					24052, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 24052.001914,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2006998.335,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [31]
+			{
+				{
+					["combatId"] = 664,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00555,
+							["total"] = 1.00555,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+								["Voodroo"] = 1,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1.00555,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657145965,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Voodroo"] = 1,
+										},
+										["n_dmg"] = 1,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A69",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145962,
+							["damage_taken"] = 86281.00555,
+							["start_time"] = 1657145962,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002141,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 86281.002141,
+							["dps_started"] = false,
+							["total"] = 86281.002141,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+								["Charred Invader"] = true,
+							},
+							["targets"] = {
+								["Charred Invader"] = 86281,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145965,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 1,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 1,
+									["HITS"] = 1,
+									["FULL_HIT_AMT"] = 1,
+								},
+								["Charred Invader"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 1,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 1,
+									["HITS"] = 1,
+									["FULL_HIT_AMT"] = 1,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 42914,
+										["g_amt"] = 0,
+										["n_max"] = 21687,
+										["targets"] = {
+											["Charred Invader"] = 86281,
+										},
+										["n_dmg"] = 43367,
+										["n_min"] = 21680,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 86281,
+										["c_max"] = 42914,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42914,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 58180.04190193293,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1.002141,
+							["start_time"] = 1657145962,
+							["delay"] = 0,
+							["last_event"] = 1657145963,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 664,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 664,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 3.008823,
+							["resource"] = 0.008823,
+							["targets"] = {
+								["Voodroo"] = 3,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.008823,
+							["total"] = 3.008823,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[195707] = {
+										["total"] = 3,
+										["id"] = 195707,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 3,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 186.008823,
+							["last_event"] = 1657145962,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.008823,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 664,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 9,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145965,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 664,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657145962,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 186,
+						["last"] = 94,
+					},
+				},
+				["combat_counter"] = 854,
+				["playing_solo"] = true,
+				["totals"] = {
+					86282, -- [1]
+					0, -- [2]
+					{
+						3, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					86281, -- [1]
+					0, -- [2]
+					{
+						3, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:26",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 2006996.818,
+				["CombatEndedAt"] = 2006996.818,
 				["aura_timeline"] = {
 				},
 				["__call"] = {
@@ -7286,11 +11596,6 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["Voodroo"] = 0.001915,
-						}, -- [1]
-					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -7299,204 +11604,3329 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
+					["damage"] = {
+						{
+							["Voodroo"] = 86281.002141,
+						}, -- [1]
+					},
 				},
-				["end_time"] = 351561.682,
-				["combat_id"] = 607,
+				["end_time"] = 2006996.818,
+				["combat_id"] = 664,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "18:19:23",
+				["CombatSkillCache"] = {
+				},
 				["frags"] = {
+					["Charred Invader"] = 3,
+				},
+				["start_time"] = 2006994.185,
+				["TimeData"] = {
+				},
+				["contra"] = "Charred Invader",
+			}, -- [32]
+			{
+				{
+					["combatId"] = 663,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002192,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 67613.002192,
+							["dps_started"] = false,
+							["total"] = 67613.002192,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 67613,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145961,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 46274,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 46274,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 46274,
+										["c_max"] = 46274,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 46274,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21339,
+										["targets"] = {
+											["Charred Invader"] = 21339,
+										},
+										["n_dmg"] = 21339,
+										["n_min"] = 21339,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21339,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 78075.06027495138,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.002192,
+							["start_time"] = 1657145960,
+							["delay"] = 0,
+							["last_event"] = 1657145961,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.004142,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.004142,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004142,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145961,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A67",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145961,
+							["damage_taken"] = 67613.00414199999,
+							["start_time"] = 1657145961,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 663,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 663,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006783,
+							["resource"] = 0.006783,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.006783,
+							["total"] = 0.006783,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 90.006783,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.006783,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 663,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145961,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 663,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2006993.968,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 90,
+						["last"] = 0,
+					},
+				},
+				["combat_counter"] = 853,
+				["playing_solo"] = true,
+				["totals"] = {
+					67613, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:22",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 1.199999999953434,
+				["CombatEndedAt"] = 2006993.202,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:21",
+				["end_time"] = 2006993.202,
+				["combat_id"] = 663,
+				["tempo_start"] = 1657145960,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					67613, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 67613.002192,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["combat_counter"] = 789,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-					["Voodroo"] = {
-						{
-							false, -- [1]
-							774, -- [2]
-							209, -- [3]
-							1645641551.128, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [1]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1645641551.128, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [2]
-						{
-							false, -- [1]
-							774, -- [2]
-							208, -- [3]
-							1645641553.961, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [3]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1645641553.961, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [4]
-						{
-							false, -- [1]
-							774, -- [2]
-							416, -- [3]
-							1645641556.695, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [5]
-						{
-							false, -- [1]
-							227034, -- [2]
-							44, -- [3]
-							1645641556.695, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [6]
-						{
-							false, -- [1]
-							774, -- [2]
-							208, -- [3]
-							1645641559.545, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [7]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1645641559.545, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [8]
-						{
-							false, -- [1]
-							774, -- [2]
-							209, -- [3]
-							1645641562.411, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [9]
-						{
-							false, -- [1]
-							227034, -- [2]
-							22, -- [3]
-							1645641562.411, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [10]
-						{
-							false, -- [1]
-							774, -- [2]
-							68, -- [3]
-							1645641563.311, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [11]
-						{
-							false, -- [1]
-							227034, -- [2]
-							7, -- [3]
-							1645641563.311, -- [4]
-							7232, -- [5]
-							"Voodroo", -- [6]
-							nil, -- [7]
-							0, -- [8]
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 13,
-					},
-				},
-				["start_time"] = 351561.682,
+				["start_time"] = 2006992.002,
+				["contra"] = "Charred Invader",
 				["TimeData"] = {
 				},
-				["data_inicio"] = "13:39:10",
-			}, -- [24]
+			}, -- [33]
+			{
+				{
+					["combatId"] = 662,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00615,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 67986.00615,
+							["dps_started"] = false,
+							["total"] = 67986.00615,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+								["Charred Invader"] = true,
+							},
+							["targets"] = {
+								["Charred Invader"] = 67986,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145959,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 1,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 1,
+									["HITS"] = 1,
+									["FULL_HIT_AMT"] = 1,
+								},
+								["Charred Invader"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 1,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 1,
+									["HITS"] = 1,
+									["FULL_HIT_AMT"] = 1,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 46710,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 46710,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 46710,
+										["c_max"] = 46710,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 46710,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21276,
+										["targets"] = {
+											["Charred Invader"] = 21276,
+										},
+										["n_dmg"] = 21276,
+										["n_min"] = 21276,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21276,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 194245.7319346738,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1.00615,
+							["start_time"] = 1657145958,
+							["delay"] = 0,
+							["last_event"] = 1657145958,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003921,
+							["total"] = 1.003921,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+								["Voodroo"] = 1,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1.003921,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657145959,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Voodroo"] = 1,
+										},
+										["n_dmg"] = 1,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A65",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145958,
+							["damage_taken"] = 67986.003921,
+							["start_time"] = 1657145958,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 662,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 662,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 3.007519,
+							["resource"] = 0.007519,
+							["targets"] = {
+								["Voodroo"] = 3,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.007519,
+							["total"] = 3.007519,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[195707] = {
+										["total"] = 3,
+										["id"] = 195707,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 3,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 175.007519,
+							["last_event"] = 1657145958,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.007519,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 662,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145959,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 662,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2006989.718,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 175,
+						["last"] = 88,
+					},
+				},
+				["combat_counter"] = 852,
+				["playing_solo"] = true,
+				["totals"] = {
+					67987, -- [1]
+					0, -- [2]
+					{
+						3, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:19",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 1.067000000039116,
+				["CombatEndedAt"] = 2006990.785,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:18",
+				["end_time"] = 2006990.785,
+				["combat_id"] = 662,
+				["tempo_start"] = 1657145958,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					67986, -- [1]
+					0, -- [2]
+					{
+						3, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 67986.00615,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2006989.718,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [34]
+			{
+				{
+					["combatId"] = 661,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003748,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 62538.003748,
+							["dps_started"] = false,
+							["total"] = 62538.003748,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 62538,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145956,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 41726,
+										["g_amt"] = 0,
+										["n_max"] = 20812,
+										["targets"] = {
+											["Charred Invader"] = 62538,
+										},
+										["n_dmg"] = 20812,
+										["n_min"] = 20812,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 62538,
+										["c_max"] = 41726,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41726,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 625380.0374799999,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003748,
+							["start_time"] = 1657145955,
+							["delay"] = 0,
+							["last_event"] = 1657145955,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003231,
+							["aID"] = "52853",
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1657145956,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003231,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 0.003231,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A62",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145955,
+							["damage_taken"] = 62538.003231,
+							["start_time"] = 1657145956,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 661,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 661,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001639,
+							["resource"] = 0.001639,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.001639,
+							["total"] = 0.001639,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 170.001639,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.001639,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 661,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657145956,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 661,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657145955,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 170,
+						["last"] = 86,
+					},
+				},
+				["combat_counter"] = 851,
+				["playing_solo"] = true,
+				["totals"] = {
+					62538, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					62538, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:17",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 2006988.335,
+				["CombatEndedAt"] = 2006988.335,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 62538.003748,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 2006988.335,
+				["combat_id"] = 661,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "18:19:16",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["start_time"] = 2006987.185,
+				["TimeData"] = {
+				},
+				["contra"] = "Charred Invader",
+			}, -- [35]
+			{
+				{
+					["combatId"] = 660,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003485,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 43257.003485,
+							["dps_started"] = false,
+							["total"] = 43257.003485,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 43257,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145953,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22535,
+										["targets"] = {
+											["Charred Invader"] = 22535,
+										},
+										["n_dmg"] = 22535,
+										["n_min"] = 22535,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22535,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20722,
+										["targets"] = {
+											["Charred Invader"] = 20722,
+										},
+										["n_dmg"] = 20722,
+										["n_min"] = 20722,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 20722,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 36565.51435877454,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003485,
+							["start_time"] = 1657145952,
+							["delay"] = 0,
+							["last_event"] = 1657145953,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00158,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.00158,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00158,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145953,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A5F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 43257.00158,
+							["start_time"] = 1657145953,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 660,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 660,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.007015,
+							["resource"] = 0.007015,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.007015,
+							["total"] = 0.007015,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 165.007015,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.007015,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 660,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["nome"] = "Voodroo",
+							["spec"] = 104,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 2,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["tipo"] = 4,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["last_event"] = 1657145953,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 660,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2006986.718,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 165,
+						["last"] = 83,
+					},
+				},
+				["combat_counter"] = 850,
+				["playing_solo"] = true,
+				["totals"] = {
+					43257, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:14",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 1.083000000100583,
+				["CombatEndedAt"] = 2006985.468,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:13",
+				["end_time"] = 2006985.468,
+				["combat_id"] = 660,
+				["tempo_start"] = 1657145952,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					43257, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 43257.003485,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2006984.285,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [36]
+			{
+				{
+					["combatId"] = 659,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00762,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 65384.00762,
+							["dps_started"] = false,
+							["total"] = 65384.00762,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 65384,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145951,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22831,
+										["targets"] = {
+											["Charred Invader"] = 22831,
+										},
+										["n_dmg"] = 22831,
+										["n_min"] = 22831,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22831,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21554,
+										["targets"] = {
+											["Charred Invader"] = 42553,
+										},
+										["n_dmg"] = 42553,
+										["n_min"] = 20999,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 42553,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 27822.9819648548,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00762,
+							["start_time"] = 1657145948,
+							["delay"] = 0,
+							["last_event"] = 1657145950,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00664,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.00664,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00664,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145951,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A5B",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145952,
+							["damage_taken"] = 65384.00664,
+							["start_time"] = 1657145951,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 659,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 659,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006937,
+							["resource"] = 0.006937,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.006937,
+							["total"] = 0.006937,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 80.006937,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.006937,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 659,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 2,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 7,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145951,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 659,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657145948,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 80,
+						["last"] = 0,
+					},
+				},
+				["combat_counter"] = 849,
+				["playing_solo"] = true,
+				["totals"] = {
+					65384, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					65384, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:12",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 2006983.085,
+				["CombatEndedAt"] = 2006983.085,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 65384.00762,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 2006983.085,
+				["combat_id"] = 659,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "18:19:09",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Charred Invader"] = 3,
+				},
+				["start_time"] = 2006980.118,
+				["TimeData"] = {
+				},
+				["contra"] = "Charred Invader",
+			}, -- [37]
+			{
+				{
+					["combatId"] = 658,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002624,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 66169.002624,
+							["dps_started"] = false,
+							["total"] = 66169.002624,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+								["Charred Invader"] = true,
+							},
+							["targets"] = {
+								["Charred Invader"] = 66169,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145947,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 1,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 1,
+									["HITS"] = 1,
+									["FULL_HIT_AMT"] = 1,
+								},
+								["Charred Invader"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 1,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 1,
+									["HITS"] = 1,
+									["FULL_HIT_AMT"] = 1,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23472,
+										["targets"] = {
+											["Charred Invader"] = 23472,
+										},
+										["n_dmg"] = 23472,
+										["n_min"] = 23472,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 23472,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 42697,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 42697,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 42697,
+										["c_max"] = 42697,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42697,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 84507.02761102836,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1.002624,
+							["start_time"] = 1657145946,
+							["delay"] = 0,
+							["last_event"] = 1657145947,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006266,
+							["total"] = 1.006266,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+								["Voodroo"] = 1,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1.006266,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1657145947,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Voodroo"] = 1,
+										},
+										["n_dmg"] = 1,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1,
+										["c_max"] = 0,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A59",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145948,
+							["damage_taken"] = 66169.006266,
+							["start_time"] = 1657145946,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 658,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 658,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 3.008982,
+							["resource"] = 0.008982,
+							["targets"] = {
+								["Voodroo"] = 3,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.008982,
+							["total"] = 3.008982,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[195707] = {
+										["total"] = 3,
+										["id"] = 195707,
+										["totalover"] = 0,
+										["targets"] = {
+											["Voodroo"] = 3,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1297,
+							["alternatepower"] = 76.008982,
+							["last_event"] = 1657145946,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.008982,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 658,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 3,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145947,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 658,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2006979.851,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 76,
+						["last"] = 0,
+					},
+				},
+				["combat_counter"] = 848,
+				["playing_solo"] = true,
+				["totals"] = {
+					66170, -- [1]
+					0, -- [2]
+					{
+						3, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:08",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 0.9500000001862645,
+				["CombatEndedAt"] = 2006979.035,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:07",
+				["end_time"] = 2006979.035,
+				["combat_id"] = 658,
+				["tempo_start"] = 1657145946,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					66169, -- [1]
+					0, -- [2]
+					{
+						3, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 66169.002624,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2006978.085,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [38]
+			{
+				{
+					["combatId"] = 657,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006212,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 64392.006212,
+							["dps_started"] = false,
+							["total"] = 64392.006212,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 64392,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145945,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[213771] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 42696,
+										["g_amt"] = 0,
+										["n_max"] = 21696,
+										["targets"] = {
+											["Charred Invader"] = 64392,
+										},
+										["n_dmg"] = 21696,
+										["n_min"] = 21696,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 64392,
+										["c_max"] = 42696,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 42696,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 351868.8864795822,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006212,
+							["start_time"] = 1657145944,
+							["delay"] = 0,
+							["last_event"] = 1657145944,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001234,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.001234,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001234,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145945,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A57",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 64392.001234,
+							["start_time"] = 1657145945,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 657,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 657,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.005671,
+							["resource"] = 0.005671,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.005671,
+							["total"] = 0.005671,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 74.005671,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.005671,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 657,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 4,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145945,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 657,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["tempo_start"] = 1657145944,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 74,
+						["last"] = 0,
+					},
+				},
+				["combat_counter"] = 847,
+				["playing_solo"] = true,
+				["totals"] = {
+					64392, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					64392, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:06",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 2006977.402,
+				["CombatEndedAt"] = 2006977.402,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 64392.006212,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 2006977.402,
+				["combat_id"] = 657,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "18:19:05",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["start_time"] = 2006975.885,
+				["TimeData"] = {
+				},
+				["contra"] = "Charred Invader",
+			}, -- [39]
+			{
+				{
+					["combatId"] = 656,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001285,
+							["pets"] = {
+							},
+							["aID"] = "73-0861EFDD",
+							["total_without_pet"] = 68822.001285,
+							["dps_started"] = false,
+							["total"] = 68822.001285,
+							["spec"] = 104,
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Charred Invader"] = 68822,
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1657145943,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 47426,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Charred Invader"] = 47426,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 47426,
+										["c_max"] = 47426,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 47426,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[213771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21396,
+										["targets"] = {
+											["Charred Invader"] = 21396,
+										},
+										["n_dmg"] = 21396,
+										["n_min"] = 21396,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21396,
+										["c_max"] = 0,
+										["id"] = 213771,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["classe"] = "DRUID",
+							["last_dps"] = 151924.9476558782,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.001285,
+							["start_time"] = 1657145942,
+							["delay"] = 0,
+							["last_event"] = 1657145942,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008637,
+							["damage_from"] = {
+								["Voodroo"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.008637,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008637,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1657145943,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Charred Invader",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodroo"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 2,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "52853",
+							["serial"] = "Creature-0-4229-1-71-52853-0000460A55",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1657145944,
+							["damage_taken"] = 68822.00863699999,
+							["start_time"] = 1657145943,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 656,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 656,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.007579,
+							["resource"] = 0.007579,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.007579,
+							["total"] = 0.007579,
+							["tipo"] = 3,
+							["nome"] = "Voodroo",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 104,
+							["flag_original"] = 1300,
+							["alternatepower"] = 144.007579,
+							["last_event"] = 0,
+							["aID"] = "73-0861EFDD",
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["totalover"] = 0.007579,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 656,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[203975] = {
+										["activedamt"] = 1,
+										["id"] = 203975,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93622] = {
+										["activedamt"] = 1,
+										["id"] = 93622,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5487] = {
+										["activedamt"] = 1,
+										["id"] = 5487,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["spell_cast"] = {
+								[213771] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 104,
+							["grupo"] = true,
+							["nome"] = "Voodroo",
+							["buff_uptime"] = 4,
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["aID"] = "73-0861EFDD",
+							["last_event"] = 1657145943,
+							["isTank"] = true,
+							["serial"] = "Player-73-0861EFDD",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 656,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Voodroo"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Voodroo", -- [1]
+				},
+				["CombatStartedAt"] = 2006975.885,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voodroo"] = {
+						["total"] = 144,
+						["last"] = 73,
+					},
+				},
+				["combat_counter"] = 846,
+				["playing_solo"] = true,
+				["totals"] = {
+					68822, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "18:19:04",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Charred Invader",
+				["TotalElapsedCombatTime"] = 1.100000000093132,
+				["CombatEndedAt"] = 2006974.968,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "18:19:02",
+				["end_time"] = 2006974.968,
+				["combat_id"] = 656,
+				["tempo_start"] = 1657145942,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Charred Invader"] = 2,
+				},
+				["totals_grupo"] = {
+					68822, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voodroo"] = 68822.001285,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 2006973.768,
+				["contra"] = "Charred Invader",
+				["TimeData"] = {
+				},
+			}, -- [40]
 		},
 	},
 	["ocd_tracker"] = {
 		["enabled"] = false,
 		["current_cooldowns"] = {
 		},
+		["lines_per_column"] = 12,
+		["show_options"] = false,
+		["pos"] = {
+		},
+		["height"] = 18,
 		["cooldowns"] = {
 		},
+		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["show_options"] = false,
-		["pos"] = {
+		["width"] = 120,
+		["filters"] = {
+			["defensive-raid"] = false,
+			["ofensive"] = true,
+			["defensive-target"] = false,
+			["utility"] = false,
+			["defensive-personal"] = false,
 		},
 	},
-	["last_version"] = "9.2.09720",
+	["last_version"] = "9.2.59824",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -7531,7 +14961,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -441.8443298339844,
-					["x"] = 651.0065307617188,
+					["x"] = 651.0075073242188,
 					["w"] = 209.0001373291016,
 					["h"] = 154.0000305175781,
 				},
@@ -7601,7 +15031,7 @@ _detalhes_database = {
 					["y"] = -243.8442077636719,
 					["x"] = 867.0028686523438,
 					["w"] = 188.9993286132813,
-					["h"] = 208.0009765625,
+					["h"] = 208.0010223388672,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -7611,6 +15041,40 @@ _detalhes_database = {
 				},
 			},
 		}, -- [3]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = false,
+			["is_open"] = false,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -6.103515625e-05,
+					["x"] = 0,
+					["w"] = 309.9999694824219,
+					["h"] = 158.0001220703125,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [4]
 	},
 	["cached_talents"] = {
 	},
@@ -7626,7 +15090,10 @@ _detalhes_database = {
 	["active_profile"] = "Jerkk-Bleeding Hollow",
 	["last_realversion"] = 146,
 	["ignore_nicktag"] = false,
-	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1658441387,
+		["last_version"] = 14,
+	},
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["enabled"] = true,
@@ -7640,11 +15107,13 @@ _detalhes_database = {
 			},
 			["usefocus"] = false,
 			["updatespeed"] = 1,
+			["disable_gouge"] = false,
 			["showamount"] = false,
 			["useplayercolor"] = false,
-			["playSound"] = false,
-			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["absolute_mode"] = false,
 			["useclasscolors"] = false,
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["playSound"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -7671,15 +15140,15 @@ _detalhes_database = {
 			["tank_block_size"] = 150,
 			["bar_height"] = 24,
 			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = false,
+			["tank_block_height"] = 40,
+			["tank_block_powerbar_size_height"] = 10,
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
-			["tank_block_powerbar_size_height"] = 10,
-			["tank_block_height"] = 40,
-			["show_inc_bars"] = false,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -7689,11 +15158,11 @@ _detalhes_database = {
 			["last_section_selected"] = "main",
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
 			["encounter_timers_dbm"] = {
 			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -7719,31 +15188,16 @@ _detalhes_database = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["point"] = "CENTER",
+			["arrow_anchor_y"] = 0,
 			["arrow_anchor_x"] = 0,
-			["row_height"] = 20,
+			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["use_square_mode"] = false,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
+			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -7751,19 +15205,39 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = 3.0517578125e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["font_size"] = 10,
+			["y"] = 4.57763671875e-05,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["use_spark"] = true,
-			["author"] = "Details! Team",
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["use_square_mode"] = false,
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
 		},
+	},
+	["on_death_menu"] = true,
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["cd_tracker"] = {
 		["enabled"] = false,
@@ -7776,26 +15250,32 @@ _detalhes_database = {
 		["pos"] = {
 		},
 	},
-	["cached_roles"] = {
-	},
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["last_encounter"] = "Ignis the Furnace Master",
-	["combat_counter"] = 819,
-	["announce_prepots"] = {
-		["enabled"] = false,
-		["channel"] = "SELF",
-		["reverse"] = false,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
 	},
-	["last_day"] = "21",
-	["combat_id"] = 630,
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["last_day"] = "06",
+	["combat_id"] = 695,
 	["savedStyles"] = {
 	},
 	["force_font_outline"] = "",
 	["character_data"] = {
-		["logons"] = 99,
+		["logons"] = 100,
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -7809,41 +15289,23 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["totalabsorbed"] = 0.120035,
+					["totalabsorbed"] = 0.4285350000000001,
 					["spec"] = 104,
 					["damage_from"] = {
 						["Voracious Virmen"] = true,
 						["Squatting Virmen"] = true,
+						["Charred Invader"] = true,
 						["Swooping Plainshawk"] = true,
 					},
 					["targets"] = {
+						["Raging Invader"] = 776863,
+						["Charred Invader"] = 2046358,
+						["Leyara"] = 41539,
+						["Obsidian Slaglord"] = 22896,
+						["Charred Flamewaker"] = 50244,
+						["Galenges"] = 89662,
+						["Brimstone Destroyer"] = 100396,
 					},
-					["on_hold"] = false,
-					["pets"] = {
-					},
-					["friendlyfire_total"] = 325194,
-					["last_dps"] = 0,
-					["classe"] = "DRUID",
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 0.120035,
-					["delay"] = 0,
-					["aID"] = "73-0861EFDD",
-					["dps_started"] = false,
-					["total"] = 0.120035,
-					["start_time"] = 1645641528,
-					["end_time"] = 1645641550,
-					["nome"] = "Voodroo",
-					["spells"] = {
-						["_ActorTable"] = {
-						},
-						["tipo"] = 2,
-					},
-					["grupo"] = true,
-					["tipo"] = 1,
-					["damage_taken"] = 7.120034999999999,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["avoidance"] = {
 						["overall"] = {
 							["DODGE"] = 0,
@@ -7862,30 +15324,189 @@ _detalhes_database = {
 							["FULL_HIT_AMT"] = 0,
 						},
 					},
-					["isTank"] = true,
-					["serial"] = "Player-73-0861EFDD",
+					["pets"] = {
+					},
+					["aID"] = "73-0861EFDD",
 					["friendlyfire"] = {
-						["Swooping Plainshawk"] = {
-							["total"] = 100885,
+						["Leyara"] = {
+							["spells"] = {
+								22868, -- [1]
+								[164812] = 91154,
+								[213771] = 64438,
+								[77758] = 56135,
+								[192090] = 1876,
+							},
+							["total"] = 236471,
+						},
+						["Lord Rhyolith"] = {
+							["spells"] = {
+								[164812] = 34665,
+							},
+							["total"] = 34665,
+						},
+						["Voracious Virmen"] = {
+							["total"] = 47019,
 							["spells"] = {
 								[164812] = 0,
-								[106830] = 0,
 							},
 						},
 						["Squatting Virmen"] = {
-							["total"] = 177290,
 							["spells"] = {
 								[164812] = 0,
 								[106830] = 0,
 							},
+							["total"] = 177290,
 						},
-						["Voracious Virmen"] = {
+						["Swooping Plainshawk"] = {
 							["spells"] = {
-								[164812] = 23434,
+								[164812] = 0,
+								[106830] = 0,
 							},
-							["total"] = 47019,
+							["total"] = 100885,
 						},
 					},
+					["classe"] = "DRUID",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 3127958.428534999,
+					["serial"] = "Player-73-0861EFDD",
+					["friendlyfire_total"] = 596330,
+					["dps_started"] = false,
+					["end_time"] = 1645641550,
+					["isTank"] = true,
+					["total"] = 3127958.428534999,
+					["nome"] = "Voodroo",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 11,
+								["b_amt"] = 0,
+								["c_dmg"] = 511024,
+								["g_amt"] = 0,
+								["n_max"] = 24052,
+								["targets"] = {
+									["Raging Invader"] = 94680,
+									["Charred Invader"] = 671678,
+									["Galenges"] = 46909,
+									["Obsidian Slaglord"] = 22896,
+								},
+								["n_dmg"] = 325139,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 25,
+								["total"] = 836163,
+								["c_max"] = 47590,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 14,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[164812] = {
+								["c_amt"] = 5,
+								["b_amt"] = 0,
+								["c_dmg"] = 125278,
+								["g_amt"] = 0,
+								["n_max"] = 12724,
+								["targets"] = {
+									["Brimstone Destroyer"] = 100396,
+									["Charred Flamewaker"] = 50244,
+									["Raging Invader"] = 99325,
+								},
+								["n_dmg"] = 124687,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 249965,
+								["c_max"] = 25453,
+								["id"] = 164812,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 10,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[77758] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 54139,
+								["g_amt"] = 0,
+								["n_max"] = 27872,
+								["targets"] = {
+									["Raging Invader"] = 54571,
+									["Charred Invader"] = 82011,
+								},
+								["n_dmg"] = 82443,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 136582,
+								["c_max"] = 54139,
+								["id"] = 77758,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[213771] = {
+								["c_amt"] = 27,
+								["b_amt"] = 0,
+								["c_dmg"] = 1143016,
+								["g_amt"] = 0,
+								["n_max"] = 21696,
+								["targets"] = {
+									["Leyara"] = 41539,
+									["Charred Invader"] = 1292669,
+									["Galenges"] = 42753,
+									["Raging Invader"] = 528287,
+								},
+								["n_dmg"] = 762232,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 63,
+								["total"] = 1905248,
+								["c_max"] = 43399,
+								["id"] = 213771,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 36,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["last_event"] = 0,
+					["damage_taken"] = 12.428535,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1645641436,
+					["delay"] = 0,
+					["on_hold"] = false,
 				}, -- [1]
 				{
 					["flag_original"] = 8465,
@@ -7897,24 +15518,17 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["total"] = 0.031867,
+					["on_hold"] = false,
+					["end_time"] = 1646073285,
 					["friendlyfire_total"] = 1,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.031867,
-					["last_event"] = 0,
+					["delay"] = 0,
 					["fight_component"] = true,
-					["dps_started"] = false,
-					["end_time"] = 1646073285,
-					["friendlyfire"] = {
-						["Voodroo"] = {
-							["spells"] = {
-								0, -- [1]
-							},
-							["total"] = 1,
-						},
-					},
+					["total"] = 0.031867,
 					["classe"] = "PET",
+					["damage_taken"] = 47019.031867,
 					["nome"] = "Voracious Virmen",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -7935,29 +15549,36 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["MISS"] = 1,
-								["extra"] = {
-								},
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
 								["a_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["MISS"] = 1,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["serial"] = "Creature-0-4231-870-24341-60039-00001D15C1",
-					["aID"] = "60039",
-					["last_dps"] = 0,
-					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 47019.031867,
+					["last_dps"] = 0,
+					["aID"] = "60039",
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+						["Voodroo"] = {
+							["total"] = 1,
+							["spells"] = {
+								0, -- [1]
+							},
+						},
+					},
 					["start_time"] = 1646073279,
-					["delay"] = 0,
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4231-870-24341-60039-00001D15C1",
+					["dps_started"] = false,
 				}, -- [2]
 				{
 					["flag_original"] = 8465,
@@ -7969,24 +15590,24 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["damage_taken"] = 82523.053633,
-					["end_time"] = 1646676979,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+						["Voodroo"] = {
+							["total"] = 4,
+							["spells"] = {
+								0, -- [1]
+							},
+						},
+					},
 					["aID"] = "60174",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.05363300000000001,
-					["serial"] = "Creature-0-4219-870-17-60174-0000264BF0",
+					["delay"] = 0,
 					["dps_started"] = false,
-					["total"] = 0.05363300000000001,
+					["end_time"] = 1646676979,
 					["friendlyfire_total"] = 4,
-					["friendlyfire"] = {
-						["Voodroo"] = {
-							["spells"] = {
-								0, -- [1]
-							},
-							["total"] = 4,
-						},
-					},
+					["on_hold"] = false,
 					["nome"] = "Squatting Virmen",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -8007,28 +15628,28 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["last_event"] = 0,
-					["last_dps"] = 0,
-					["classe"] = "PET",
-					["custom"] = 0,
 					["tipo"] = 1,
-					["on_hold"] = false,
+					["classe"] = "PET",
+					["last_dps"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 82523.053633,
 					["start_time"] = 1646676971,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4219-870-17-60174-0000264BF0",
+					["total"] = 0.05363300000000001,
 				}, -- [3]
 				{
 					["flag_original"] = 74001,
@@ -8040,17 +15661,24 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["damage_taken"] = 42190.021909,
-					["fight_component"] = true,
+					["friendlyfire"] = {
+						["Voodroo"] = {
+							["total"] = 2,
+							["spells"] = {
+								0, -- [1]
+							},
+						},
+					},
+					["on_hold"] = false,
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.021909,
-					["serial"] = "Creature-0-4229-870-7-60072-00002E28D5",
-					["dps_started"] = false,
+					["delay"] = 0,
+					["fight_component"] = true,
 					["total"] = 0.021909,
 					["aID"] = "60072",
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["nome"] = "Swooping Plainshawk",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -8071,36 +15699,423 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["end_time"] = 1647192282,
+					["friendlyfire_total"] = 2,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 42190.021909,
+					["start_time"] = 1647192277,
+					["serial"] = "Creature-0-4229-870-7-60072-00002E28D5",
+					["dps_started"] = false,
+				}, -- [4]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.184818,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Voodroo"] = true,
+						["Hyjal Assault Trooper"] = true,
+					},
+					["targets"] = {
+						["Voodroo"] = 5,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1657145892,
+					["friendlyfire"] = {
+					},
+					["aID"] = "52853",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 5.184818,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 5.184818,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Charred Invader",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["Voodroo"] = 5,
+								},
+								["n_dmg"] = 5,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 25,
+								["total"] = 5,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 16,
+								["DODGE"] = 4,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
-								["n_amt"] = 0,
+								["n_amt"] = 5,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							}, -- [1]
 						},
-						["tipo"] = 2,
 					},
 					["last_event"] = 0,
-					["friendlyfire_total"] = 2,
-					["end_time"] = 1647192282,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4229-1-71-52853-0000460A21",
 					["custom"] = 0,
 					["tipo"] = 1,
 					["last_dps"] = 0,
-					["start_time"] = 1647192277,
+					["start_time"] = 1657145881,
 					["delay"] = 0,
+					["damage_taken"] = 2046446.184817999,
+				}, -- [5]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.025286,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Hyjal Assault Trooper"] = true,
+						["Captain Saynna Stormrunner"] = true,
+						["Archdruid Hamuul Runetotem"] = true,
+						["Skylord Omnuron"] = true,
+						["Voodroo"] = true,
+						["Malfurion Stormrage"] = true,
+					},
+					["targets"] = {
+						["Captain Saynna Stormrunner"] = 631,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1657145975,
 					["friendlyfire"] = {
-						["Voodroo"] = {
-							["spells"] = {
-								0, -- [1]
-							},
-							["total"] = 2,
+					},
+					["aID"] = "52863",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 631.0252859999998,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 631.0252859999998,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Leyara",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 631,
+								["targets"] = {
+									["Captain Saynna Stormrunner"] = 631,
+								},
+								["n_dmg"] = 631,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 631,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
 						},
 					},
-				}, -- [4]
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4229-1-71-52863-0000460518",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1657145972,
+					["delay"] = 0,
+					["damage_taken"] = 300629.025286,
+				}, -- [6]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.09522,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Skylord Omnuron"] = true,
+						["Voodroo"] = true,
+						["Thisalee Crow"] = true,
+						["Mylune"] = true,
+						["Archdruid Hamuul Runetotem"] = true,
+						["Defender of Malorne"] = true,
+						["Avrilla"] = true,
+						["Rayne Feathersong"] = true,
+						["Choluna"] = true,
+						["Morthis Whisperwing"] = true,
+						["Elderlimb"] = true,
+					},
+					["targets"] = {
+						["Skylord Omnuron"] = 117,
+						["Rayne Feathersong"] = 231,
+						["Elderlimb"] = 1631,
+						["Defender of Malorne"] = 621,
+						["Avrilla"] = 434,
+						["Archdruid Hamuul Runetotem"] = 434,
+						["Choluna"] = 250,
+						["Morthis Whisperwing"] = 194,
+						["Mylune"] = 430,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1657146018,
+					["friendlyfire"] = {
+					},
+					["aID"] = "52557",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 4342.09522,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 4342.09522,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Raging Invader",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 705,
+								["g_amt"] = 0,
+								["n_max"] = 127,
+								["targets"] = {
+									["Skylord Omnuron"] = 117,
+									["Voodroo"] = 0,
+									["Rayne Feathersong"] = 231,
+									["Defender of Malorne"] = 621,
+									["Archdruid Hamuul Runetotem"] = 434,
+									["Avrilla"] = 434,
+									["Elderlimb"] = 1631,
+									["Choluna"] = 250,
+									["Morthis Whisperwing"] = 194,
+									["Mylune"] = 430,
+								},
+								["n_dmg"] = 3637,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 43,
+								["total"] = 4342,
+								["c_max"] = 238,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["DODGE"] = 3,
+								["extra"] = {
+								},
+								["PARRY"] = 3,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 34,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4229-1-71-52557-00004604F1",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1657146006,
+					["delay"] = 0,
+					["damage_taken"] = 799362.0952200003,
+				}, -- [7]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.027251,
+					["damage_from"] = {
+						["Voodroo"] = true,
+					},
+					["targets"] = {
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "52794",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.027251,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1657146200,
+					["dps_started"] = false,
+					["total"] = 0.027251,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Brimstone Destroyer",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4229-1-71-52794-00004609AB",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1657146197,
+					["delay"] = 0,
+					["damage_taken"] = 100396.027251,
+				}, -- [8]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.016825,
+					["damage_from"] = {
+						["Voodroo"] = true,
+					},
+					["targets"] = {
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "52791",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.016825,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1657146202,
+					["dps_started"] = false,
+					["total"] = 0.016825,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Charred Flamewaker",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4229-1-71-52791-0000460909",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1657146199,
+					["delay"] = 0,
+					["damage_taken"] = 50244.016825,
+				}, -- [9]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.011597,
+					["damage_from"] = {
+						["Voodroo"] = true,
+					},
+					["targets"] = {
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "52399",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.011597,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1657146264,
+					["dps_started"] = false,
+					["total"] = 0.011597,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Galenges",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4229-1-71-52399-0000460B94",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1657146261,
+					["delay"] = 0,
+					["damage_taken"] = 89662.01159699999,
+				}, -- [10]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.011158,
+					["damage_from"] = {
+						["Voodroo"] = true,
+					},
+					["targets"] = {
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "53381",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.011158,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1657146520,
+					["dps_started"] = false,
+					["total"] = 0.011158,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Obsidian Slaglord",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3133-861-10-53381-00004607EA",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1657146517,
+					["delay"] = 0,
+					["damage_taken"] = 22896.011158,
+				}, -- [11]
 			},
 		}, -- [1]
 		{
@@ -8108,36 +16123,64 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["healing_from"] = {
+					["targets_overheal"] = {
+						["Voodroo"] = 415,
 					},
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
-					["heal_enemy_amt"] = 0,
-					["totalover"] = 231.007706,
-					["total_without_pet"] = 0.007706,
-					["total"] = 0.007706,
-					["spec"] = 104,
+					["classe"] = "DRUID",
+					["totalover"] = 646.017923,
+					["total_without_pet"] = 1.017923,
+					["total"] = 1.017923,
+					["targets_absorbs"] = {
+					},
 					["heal_enemy"] = {
 					},
 					["on_hold"] = false,
 					["isTank"] = true,
 					["serial"] = "Player-73-0861EFDD",
-					["totalabsorb"] = 0.007706,
+					["totalabsorb"] = 0.017923,
 					["last_hps"] = 0,
 					["targets"] = {
+						["Voodroo"] = 1,
 					},
-					["totalover_without_pet"] = 0.007706,
-					["healing_taken"] = 0.007706,
+					["totalover_without_pet"] = 0.017923,
+					["healing_taken"] = 1.017923,
+					["fight_component"] = true,
 					["end_time"] = 1646073146,
-					["targets_overheal"] = {
-						["Voodroo"] = 0,
+					["healing_from"] = {
+						["Voodroo"] = true,
 					},
-					["targets_absorbs"] = {
-					},
+					["last_event"] = 0,
 					["nome"] = "Voodroo",
 					["spells"] = {
 						["_ActorTable"] = {
+							[227034] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Voodroo"] = 124,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Voodroo"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 2,
+								["overheal"] = 124,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 227034,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_amt"] = 2,
+								["n_curado"] = 0,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
 							[774] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
@@ -8158,32 +16201,32 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 1,
 								["n_curado"] = 0,
 								["totaldenied"] = 0,
-								["n_amt"] = 1,
 								["absorbed"] = 0,
 							},
-							[227034] = {
+							[145109] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
-									["Voodroo"] = 22,
+									["Voodroo"] = 313,
 								},
-								["n_max"] = 0,
+								["n_max"] = 1,
 								["targets"] = {
-									["Voodroo"] = 0,
+									["Voodroo"] = 1,
 								},
 								["n_min"] = 0,
 								["counter"] = 1,
-								["overheal"] = 22,
-								["total"] = 0,
+								["overheal"] = 313,
+								["total"] = 1,
 								["c_max"] = 0,
-								["id"] = 227034,
+								["id"] = 145109,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
-								["n_curado"] = 0,
+								["n_curado"] = 1,
 								["totaldenied"] = 0,
 								["n_amt"] = 1,
 								["absorbed"] = 0,
@@ -8192,20 +16235,68 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["classe"] = "DRUID",
-					["start_time"] = 1646073142,
+					["heal_enemy_amt"] = 0,
+					["totaldenied"] = 0.017923,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["aID"] = "73-0861EFDD",
-					["totaldenied"] = 0.007706,
+					["start_time"] = 1646073141,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["spec"] = 104,
 				}, -- [1]
 			},
 		}, -- [2]
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
+				{
+					["received"] = 23.206685,
+					["resource"] = 0.206685,
+					["targets"] = {
+						["Voodroo"] = 23,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 1,
+					["classe"] = "DRUID",
+					["passiveover"] = 0.008479,
+					["fight_component"] = true,
+					["total"] = 23.206685,
+					["totalover"] = 0.008479,
+					["tipo"] = 3,
+					["nome"] = "Voodroo",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+							[195707] = {
+								["total"] = 18,
+								["id"] = 195707,
+								["totalover"] = 0,
+								["targets"] = {
+									["Voodroo"] = 18,
+								},
+								["counter"] = 6,
+							},
+							[77758] = {
+								["total"] = 5,
+								["id"] = 77758,
+								["totalover"] = 0,
+								["targets"] = {
+									["Voodroo"] = 5,
+								},
+								["counter"] = 1,
+							},
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 104,
+					["flag_original"] = 1300,
+					["alternatepower"] = 2042.206685,
+					["last_event"] = 0,
+					["aID"] = "73-0861EFDD",
+					["isTank"] = true,
+					["serial"] = "Player-73-0861EFDD",
+				}, -- [1]
 			},
 		}, -- [3]
 		{
@@ -8213,109 +16304,151 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[192090] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = -1,
+								["uptime"] = 9,
+								["id"] = 192090,
+								["actived_at"] = 3314291926,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[164812] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 1,
+								["appliedamt"] = 2,
+								["id"] = 164812,
+								["uptime"] = 16,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
 					["pets"] = {
 					},
 					["classe"] = "DRUID",
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[225787] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 12,
 								["appliedamt"] = 12,
 								["id"] = 225787,
 								["uptime"] = 9,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
-							},
-							[335151] = {
-								["counter"] = 0,
-								["activedamt"] = 4,
-								["appliedamt"] = 4,
-								["id"] = 335151,
-								["uptime"] = 8,
-								["targets"] = {
-								},
-								["refreshamt"] = 0,
-							},
-							[93622] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 93622,
-								["uptime"] = 1,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[774] = {
-								["counter"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 774,
-								["uptime"] = 2,
-								["targets"] = {
-								},
-								["refreshamt"] = 0,
-							},
-							[186406] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 186406,
-								["uptime"] = 2,
-								["targets"] = {
-								},
 								["counter"] = 0,
 							},
 							[186403] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 6,
 								["appliedamt"] = 6,
 								["id"] = 186403,
 								["uptime"] = 6,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
 							},
 							[768] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 8,
 								["appliedamt"] = 8,
 								["id"] = 768,
 								["uptime"] = 6,
 								["targets"] = {
 								},
+								["counter"] = 0,
+							},
+							[774] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 774,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[93622] = {
+								["counter"] = 0,
+								["activedamt"] = 42,
+								["appliedamt"] = 42,
+								["id"] = 93622,
+								["uptime"] = 53,
+								["targets"] = {
+								},
+								["refreshamt"] = 5,
+							},
+							[5487] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 65,
+								["appliedamt"] = 65,
+								["id"] = 5487,
+								["uptime"] = 91,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[186406] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 186406,
+								["uptime"] = 2,
+								["targets"] = {
+								},
 								["refreshamt"] = 0,
 							},
 							[203975] = {
-								["counter"] = 0,
-								["activedamt"] = 13,
-								["appliedamt"] = 13,
+								["refreshamt"] = 9,
+								["activedamt"] = 66,
+								["appliedamt"] = 66,
 								["id"] = 203975,
-								["uptime"] = 10,
+								["uptime"] = 89,
 								["targets"] = {
 								},
-								["refreshamt"] = 6,
+								["counter"] = 0,
+							},
+							[335151] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 69,
+								["appliedamt"] = 69,
+								["id"] = 335151,
+								["uptime"] = 105,
+								["targets"] = {
+								},
+								["counter"] = 0,
 							},
 						},
 						["tipo"] = 9,
 					},
-					["nome"] = "Voodroo",
+					["fight_component"] = true,
+					["debuff_uptime"] = 25,
+					["debuff_uptime_targets"] = {
+					},
+					["buff_uptime_targets"] = {
+					},
 					["spec"] = 104,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[106830] = 4,
-						[8921] = 6,
+						[8921] = 11,
+						[213771] = 26,
+						[77758] = 1,
 						[774] = 1,
 					},
-					["buff_uptime"] = 44,
+					["buff_uptime"] = 363,
 					["last_event"] = 0,
-					["aID"] = "73-0861EFDD",
-					["buff_uptime_targets"] = {
-					},
-					["serial"] = "Player-73-0861EFDD",
 					["tipo"] = 4,
+					["nome"] = "Voodroo",
+					["serial"] = "Player-73-0861EFDD",
+					["aID"] = "73-0861EFDD",
 				}, -- [1]
 			},
 		}, -- [4]
@@ -8328,180 +16461,40 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 0.4330000000190921,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:50:31",
-			}, -- [1]
-			{
-				["elapsed"] = 0.6670000000158325,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:50:13",
-			}, -- [2]
-			{
-				["elapsed"] = 1.232999999949243,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:14:02",
-			}, -- [3]
-			{
-				["elapsed"] = 1.216000000014901,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:13:38",
-			}, -- [4]
-			{
-				["elapsed"] = 0.1169999999692664,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:12:01",
-			}, -- [5]
-			{
-				["elapsed"] = 1.233000000007451,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:10:17",
-			}, -- [6]
-			{
-				["elapsed"] = 1.183000000019092,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:10:09",
-			}, -- [7]
-			{
-				["elapsed"] = 1.232999999949243,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:24:40",
-			}, -- [8]
-			{
-				["elapsed"] = 1.049999999988359,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:23:36",
-			}, -- [9]
-			{
-				["elapsed"] = 0.4160000000265427,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:23:31",
-			}, -- [10]
-			{
-				["elapsed"] = 0.9669999999459833,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:49:44",
-			}, -- [11]
-			{
-				["elapsed"] = 0.4169999998994172,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:49:36",
-			}, -- [12]
-			{
-				["elapsed"] = 0.25,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:49:33",
-			}, -- [13]
-			{
-				["elapsed"] = 0.5500000000465661,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:49:07",
-			}, -- [14]
-			{
-				["elapsed"] = 5.384000000078231,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:17:29",
-			}, -- [15]
-			{
-				["elapsed"] = 2.183999999891967,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:16:17",
-			}, -- [16]
-			{
-				["elapsed"] = 0.5670000000391155,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:34:45",
-			}, -- [17]
-			{
-				["elapsed"] = 0.1,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:34:23",
-			}, -- [18]
-			{
-				["elapsed"] = 2.800000000046566,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:34:42",
-			}, -- [19]
-			{
-				["elapsed"] = 0.9000000000232831,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:33:42",
-			}, -- [20]
-			{
-				["elapsed"] = 0.2840000001015142,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:33:41",
-			}, -- [21]
-			{
-				["elapsed"] = 0.2330000000074506,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:33:06",
-			}, -- [22]
-			{
-				["elapsed"] = 1.51600000000326,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:40:20",
-			}, -- [23]
-			{
-				["elapsed"] = 0.1,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = "13:39:10",
-			}, -- [24]
+		["spells_cast_timeline"] = {
 		},
 		["tempo_start"] = 1645641550,
 		["cleu_timeline"] = {
 		},
 		["alternate_power"] = {
+			["Voodroo"] = {
+				["total"] = 2042,
+				["last"] = 0,
+			},
 		},
 		["combat_counter"] = 788,
 		["totals"] = {
-			0.234617, -- [1]
-			0.005281, -- [2]
+			3132936.798432999, -- [1]
+			1.009011, -- [2]
 			{
-				0, -- [1]
+				23.198206, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
-			["voidzone_damage"] = 0,
 			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -8511,132 +16504,314 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = "13:39:10",
-		["end_time"] = 295464.821,
-		["last_events_tables"] = {
+		["end_time"] = 2007550.934,
+		["cleu_events"] = {
+			["n"] = 1,
 		},
 		["totals_grupo"] = {
-			0.113591, -- [1]
-			0.005281, -- [2]
+			3127958.422090999, -- [1]
+			1.015498, -- [2]
 			{
-				0, -- [1]
+				23.198206, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
 		},
 		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 0.25,
+				["type"] = 0,
+				["name"] = "Obsidian Slaglord",
+				["clock"] = "18:28:39",
+			}, -- [1]
+			{
+				["elapsed"] = 13.43299999996088,
+				["type"] = 0,
+				["name"] = "Unknown",
+				["clock"] = "18:27:09",
+			}, -- [2]
+			{
+				["elapsed"] = 5.100000000093132,
+				["type"] = 0,
+				["name"] = "Unknown",
+				["clock"] = "18:26:25",
+			}, -- [3]
+			{
+				["elapsed"] = 0.5830000001005828,
+				["type"] = 0,
+				["name"] = "Galenges",
+				["clock"] = "18:24:24",
+			}, -- [4]
+			{
+				["elapsed"] = 1.5,
+				["type"] = 0,
+				["name"] = "Brimstone Destroyer",
+				["clock"] = "18:23:29",
+			}, -- [5]
+			{
+				["elapsed"] = 0.8160000001080334,
+				["type"] = 0,
+				["name"] = "Brimstone Destroyer",
+				["clock"] = "18:23:28",
+			}, -- [6]
+			{
+				["elapsed"] = 1.016000000061467,
+				["type"] = 0,
+				["name"] = "Charred Flamewaker",
+				["clock"] = "18:23:26",
+			}, -- [7]
+			{
+				["elapsed"] = 1.483000000007451,
+				["type"] = 0,
+				["name"] = "Brimstone Destroyer",
+				["clock"] = "18:23:23",
+			}, -- [8]
+			{
+				["elapsed"] = 1.449999999953434,
+				["type"] = 0,
+				["name"] = "Brimstone Destroyer",
+				["clock"] = "18:23:20",
+			}, -- [9]
+			{
+				["elapsed"] = 0.8659999999217689,
+				["type"] = 0,
+				["name"] = "Brimstone Destroyer",
+				["clock"] = "18:23:19",
+			}, -- [10]
+			{
+				["elapsed"] = 7.532999999821186,
+				["type"] = 0,
+				["name"] = "Unknown",
+				["clock"] = "18:22:25",
+			}, -- [11]
+			{
+				["elapsed"] = 0.4669999999459833,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:22:13",
+			}, -- [12]
+			{
+				["elapsed"] = 1.233000000007451,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:22:10",
+			}, -- [13]
+			{
+				["elapsed"] = 0.1839999998919666,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:22:05",
+			}, -- [14]
+			{
+				["elapsed"] = 0.5830000001005828,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:21:46",
+			}, -- [15]
+			{
+				["elapsed"] = 0.9500000001862645,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:21:16",
+			}, -- [16]
+			{
+				["elapsed"] = 1.033000000054017,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:21:15",
+			}, -- [17]
+			{
+				["elapsed"] = 1.582999999867752,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:21:11",
+			}, -- [18]
+			{
+				["elapsed"] = 1.617000000085682,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:21:07",
+			}, -- [19]
+			{
+				["elapsed"] = 1.382999999914318,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:21:06",
+			}, -- [20]
+			{
+				["elapsed"] = 0.3999999999068677,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:21:01",
+			}, -- [21]
+			{
+				["elapsed"] = 0.834000000031665,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:20:47",
+			}, -- [22]
+			{
+				["elapsed"] = 0.2830000000540167,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:20:43",
+			}, -- [23]
+			{
+				["elapsed"] = 1.332999999867752,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:20:24",
+			}, -- [24]
+			{
+				["elapsed"] = 0.6340000000782311,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:20:21",
+			}, -- [25]
+			{
+				["elapsed"] = 0.1340000000782311,
+				["type"] = 0,
+				["name"] = "Raging Invader",
+				["clock"] = "18:20:18",
+			}, -- [26]
+			{
+				["elapsed"] = 2.449999999953434,
+				["type"] = 0,
+				["name"] = "Leyara",
+				["clock"] = "18:19:36",
+			}, -- [27]
+			{
+				["elapsed"] = 1,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:34",
+			}, -- [28]
+			{
+				["elapsed"] = 1.800000000046566,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:31",
+			}, -- [29]
+			{
+				["elapsed"] = 0.9329999999608845,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:29",
+			}, -- [30]
+			{
+				["elapsed"] = 0.9330000001937151,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:27",
+			}, -- [31]
+			{
+				["elapsed"] = 2.632999999914318,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:23",
+			}, -- [32]
+			{
+				["elapsed"] = 1.199999999953434,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:21",
+			}, -- [33]
+			{
+				["elapsed"] = 1.067000000039116,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:18",
+			}, -- [34]
+			{
+				["elapsed"] = 1.149999999906868,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:16",
+			}, -- [35]
+			{
+				["elapsed"] = 1.182999999960885,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:13",
+			}, -- [36]
+			{
+				["elapsed"] = 2.966999999945983,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:09",
+			}, -- [37]
+			{
+				["elapsed"] = 0.9500000001862645,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:07",
+			}, -- [38]
+			{
+				["elapsed"] = 1.516999999992549,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:05",
+			}, -- [39]
+			{
+				["elapsed"] = 1.199999999953434,
+				["type"] = 0,
+				["name"] = "Charred Invader",
+				["clock"] = "18:19:02",
+			}, -- [40]
+		},
+		["data_fim"] = "18:28:40",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage"] = {
+			["damage_section"] = {
 			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage_section"] = {
+			["damage"] = {
 			},
 		},
-		["hasSaved"] = true,
-		["spells_cast_timeline"] = {
-		},
-		["data_fim"] = "13:50:32",
-		["overall_enemy_name"] = "Unknown",
-		["CombatSkillCache"] = {
-		},
-		["frags"] = {
-		},
-		["start_time"] = 295439.7880000003,
+		["start_time"] = 2007428.322,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["cleu_events"] = {
-			["n"] = 1,
+		["last_events_tables"] = {
 		},
 	},
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1647972874,
-		["Ugar"] = {
-			"Ugar", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			17, -- [7]
-		},
-		["last_version"] = 14,
-		["Keldrogo"] = {
-			"Gimme Heals", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-	},
-	["benchmark_db"] = {
-		["frame"] = {
-		},
-	},
-	["announce_cooldowns"] = {
+	["announce_prepots"] = {
 		["enabled"] = false,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["combat_counter"] = 885,
+	["last_encounter"] = "Ignis the Furnace Master",
+	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -8644,16 +16819,9 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["cached_roles"] = {
 	},
 	["cached_specs"] = {
-		["Player-77-0E6E50B3"] = 253,
 		["Player-73-0861EFDD"] = 104,
-		["Player-57-0D385059"] = 259,
-		["Player-3684-0AFB80CE"] = 253,
-		["Player-57-0AFD2F71"] = 259,
-		["Player-76-0B5BB994"] = 263,
 	},
 }

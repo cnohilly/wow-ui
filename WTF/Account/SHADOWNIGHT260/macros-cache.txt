@@ -27,8 +27,7 @@ VER 3 000000000000004A "cov gen abil" "INV_MISC_QUESTIONMARK"
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft"or G"Summon Steward")
 END
 VER 3 0000000000000051 "Decursive" "INV_MISC_QUESTIONMARK"
-/stopcasting
-/cast [@mouseover,nomod,exists] Remove Curse;  [@mouseover,exists,mod:ctrl] Spellsteal; [@mouseover,exists,mod:shift] Polymorph
+/script DecursiveRootTable.Dcr:Println('No spell available')
 END
 VER 3 0000000000000042 "Garrison Report" "134330"
 /run ShowGarrisonLandingPage(2)

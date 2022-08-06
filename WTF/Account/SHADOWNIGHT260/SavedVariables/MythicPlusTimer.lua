@@ -28,545 +28,21 @@ MythicPlusTimerDB = {
 		["color_prideful_value_alert"] = "FFFF0000",
 		["show_pull_values"] = true,
 		["show_percent_numbers"] = true,
-		["best_runs"] = {
-			[380] = {
-				["l16affixes-9-8-124-130"] = {
-					["elapsed_time"] = 1991,
-					["times"] = {
-						499, -- [1]
-						1080, -- [2]
-						1429, -- [3]
-						1991, -- [4]
-						1795, -- [5]
-						["5last_best_time_zone_level"] = 1464,
-						["4last_best_time_zone_level"] = 1606,
-						["3last_best_time_zone_level"] = 1187,
-						["1last_best_time_zone"] = 123,
-						["1last_best_time_zone_level"] = 347,
-						["5last_best_time_zone"] = 649,
-						["4last_best_time_zone"] = 616,
-						["3last_best_time_zone"] = 411,
-						["2last_best_time_zone"] = 325,
-						["2last_best_time_zone_level"] = 935,
-					},
-				},
-			},
-			[381] = {
-				["l16affixes-10-6-13-130"] = {
-					["elapsed_time"] = 2052,
-					["times"] = {
-						426, -- [1]
-						1234, -- [2]
-						1616, -- [3]
-						2052, -- [4]
-						1830, -- [5]
-						["5last_best_time_zone_level"] = 1272,
-						["4last_best_time_zone_level"] = 1467,
-						["3last_best_time_zone_level"] = 1075,
-						["1last_best_time_zone"] = 168,
-						["1last_best_time_zone_level"] = 254,
-						["5last_best_time_zone"] = 428,
-						["4last_best_time_zone"] = 428,
-						["3last_best_time_zone"] = 428,
-						["2last_best_time_zone"] = 428,
-						["2last_best_time_zone_level"] = 756,
-					},
-				},
-				["l21affixes-9-123-4-130"] = {
-					["times"] = {
-						400, -- [1]
-						1149, -- [2]
-						1556, -- [3]
-						2057, -- [4]
-						1768, -- [5]
-						["5last_best_time_zone_level"] = 1578,
-						["4last_best_time_zone_level"] = 1926,
-						["3last_best_time_zone_level"] = 1360,
-						["1last_best_time_zone"] = 168,
-						["1last_best_time_zone_level"] = 334,
-						["5last_best_time_zone"] = 428,
-						["4last_best_time_zone"] = 428,
-						["3last_best_time_zone"] = 428,
-						["2last_best_time_zone"] = 428,
-						["2last_best_time_zone_level"] = 952,
-					},
-					["elapsed_time"] = 2057,
-				},
-			},
-			[382] = {
-				["l15affixes-10-122-12-130"] = {
-					["times"] = {
-						140, -- [1]
-						1024, -- [2]
-						1398, -- [3]
-						613, -- [4]
-						1526, -- [5]
-						1236, -- [6]
-						["6last_best_time_zone_level"] = 983,
-						["5last_best_time_zone_level"] = 1321,
-						["4last_best_time_zone_level"] = 834,
-						["3last_best_time_zone_level"] = 426,
-						["1last_best_time_zone"] = 93,
-						["1last_best_time_zone_level"] = 93,
-						["5last_best_time_zone"] = 1000,
-						["4last_best_time_zone"] = 633,
-						["3last_best_time_zone"] = 336,
-						["2last_best_time_zone"] = 405,
-						["2last_best_time_zone_level"] = 1157,
-						["6last_best_time_zone"] = 821,
-					},
-					["elapsed_time"] = 1526,
-				},
-				["l20affixes-9-123-4-130"] = {
-					["elapsed_time"] = 2316,
-					["times"] = {
-						199, -- [1]
-						1369, -- [2]
-						713, -- [3]
-						2053, -- [4]
-						2316, -- [5]
-						1820, -- [6]
-						["5last_best_time_zone"] = 1000,
-						["4last_best_time_zone"] = 613,
-						["3last_best_time_zone"] = 336,
-						["2last_best_time_zone"] = 405,
-						["1last_best_time_zone"] = 93,
-						["1last_best_time_zone_level"] = 139,
-						["6last_best_time_zone"] = 821,
-					},
-				},
-				["l7affixes-9-8-124"] = {
-					["elapsed_time"] = 1346,
-					["times"] = {
-						149, -- [1]
-						825, -- [2]
-						486, -- [3]
-						1194, -- [4]
-						1346, -- [5]
-						1043, -- [6]
-						["5last_best_time_zone"] = 1000,
-						["4last_best_time_zone"] = 613,
-						["3last_best_time_zone"] = 336,
-						["2last_best_time_zone"] = 405,
-						["1last_best_time_zone"] = 93,
-						["6last_best_time_zone"] = 821,
-					},
-				},
-			},
-			[376] = {
-				["l22affixes-9-8-124-130"] = {
-					["elapsed_time"] = 2050,
-					["times"] = {
-						350, -- [1]
-						1116, -- [2]
-						1731, -- [3]
-						2050, -- [4]
-						1382, -- [5]
-						["5last_best_time_zone"] = 539,
-						["4last_best_time_zone"] = 754,
-						["3last_best_time_zone"] = 654,
-						["2last_best_time_zone"] = 401,
-						["1last_best_time_zone"] = 136,
-					},
-				},
-				["l17affixes-9-8-124-130"] = {
-					["times"] = {
-						200, -- [1]
-						728, -- [2]
-						1201, -- [3]
-						1380, -- [4]
-						931, -- [5]
-						["5last_best_time_zone_level"] = 1107,
-						["4last_best_time_zone_level"] = 1475,
-						["3last_best_time_zone_level"] = 1336,
-						["2last_best_time_zone_level"] = 721,
-						["1last_best_time_zone_level"] = 246,
-						["5last_best_time_zone"] = 539,
-						["4last_best_time_zone"] = 754,
-						["3last_best_time_zone"] = 654,
-						["2last_best_time_zone"] = 401,
-						["1last_best_time_zone"] = 136,
-					},
-					["elapsed_time"] = 1380,
-				},
-			},
-			[375] = {
-				["l18affixes-10-123-4-130"] = {
-					["elapsed_time"] = 1560,
-					["times"] = {
-						399, -- [1]
-						1083, -- [2]
-						1560, -- [3]
-						1440, -- [4]
-						["2last_best_time_zone_level"] = 1026,
-						["4last_best_time_zone"] = 674,
-						["4last_best_time_zone_level"] = 1344,
-						["3last_best_time_zone_level"] = 1499,
-						["1last_best_time_zone"] = 182,
-						["1last_best_time_zone_level"] = 443,
-						["2last_best_time_zone"] = 487,
-						["3last_best_time_zone"] = 744,
-					},
-				},
-				["l17affixes-10-7-14-130"] = {
-					["elapsed_time"] = 1777,
-					["times"] = {
-						553, -- [1]
-						1299, -- [2]
-						1777, -- [3]
-						1605, -- [4]
-						["2last_best_time_zone_level"] = 871,
-						["4last_best_time_zone"] = 674,
-						["4last_best_time_zone_level"] = 1255,
-						["3last_best_time_zone_level"] = 1318,
-						["1last_best_time_zone"] = 182,
-						["1last_best_time_zone_level"] = 369,
-						["2last_best_time_zone"] = 487,
-						["3last_best_time_zone"] = 744,
-					},
-				},
-				["l16affixes-9-8-124-130"] = {
-					["elapsed_time"] = 1767,
-					["times"] = {
-						701, -- [1]
-						1318, -- [2]
-						1713, -- [3]
-						1767, -- [4]
-						["4last_best_time_zone_level"] = 1139,
-						["3last_best_time_zone_level"] = 1167,
-						["1last_best_time_zone"] = 182,
-						["1last_best_time_zone_level"] = 286,
-						["2last_best_time_zone_level"] = 791,
-						["4last_best_time_zone"] = 674,
-						["3last_best_time_zone"] = 744,
-						["2last_best_time_zone"] = 487,
-						["3last_best_time_zone_level_affixes"] = 1579,
-						["1last_best_time_zone_level_affixes"] = 474,
-						["4last_best_time_zone_level_affixes"] = 1638,
-						["2last_best_time_zone_level_affixes"] = 1002,
-					},
-				},
-				["l20affixes-9-123-4-130"] = {
-					["times"] = {
-						452, -- [1]
-						1217, -- [2]
-						1681, -- [3]
-						1432, -- [4]
-						["4last_best_time_zone_level"] = 1541,
-						["4last_best_time_zone"] = 674,
-						["3last_best_time_zone"] = 744,
-						["3last_best_time_zone_level"] = 1450,
-						["1last_best_time_zone"] = 182,
-						["1last_best_time_zone_level"] = 363,
-						["2last_best_time_zone"] = 487,
-						["2last_best_time_zone_level"] = 977,
-					},
-					["elapsed_time"] = 1681,
-				},
-				["l5affixes-9-8"] = {
-					["elapsed_time"] = 1212,
-					["times"] = {
-						308, -- [1]
-						869, -- [2]
-						1212, -- [3]
-						1056, -- [4]
-						["1last_best_time_zone"] = 182,
-						["4last_best_time_zone"] = 674,
-						["3last_best_time_zone"] = 744,
-						["2last_best_time_zone"] = 487,
-					},
-				},
-			},
-			[391] = {
-				["l15affixes-10-7-14-130"] = {
-					["times"] = {
-						267, -- [1]
-						1199, -- [2]
-						528, -- [3]
-						820, -- [4]
-						1397, -- [5]
-						1294, -- [6]
-						["6last_best_time_zone_level"] = 1118,
-						["5last_best_time_zone_level"] = 1831,
-						["4last_best_time_zone_level"] = 835,
-						["3last_best_time_zone_level"] = 815,
-						["1last_best_time_zone"] = 227,
-						["1last_best_time_zone_level"] = 227,
-						["2last_best_time_zone_level"] = 479,
-						["5last_best_time_zone_level_affixes"] = 2051,
-						["4last_best_time_zone_level_affixes"] = 1341,
-						["6last_best_time_zone_level_affixes"] = 1630,
-						["5last_best_time_zone"] = 1831,
-						["4last_best_time_zone"] = 556,
-						["3last_best_time_zone"] = 711,
-						["2last_best_time_zone"] = 479,
-						["2last_best_time_zone_level_affixes"] = 1844,
-						["1last_best_time_zone_level_affixes"] = 405,
-						["3last_best_time_zone_level_affixes"] = 1099,
-						["6last_best_time_zone"] = 1118,
-					},
-					["elapsed_time"] = 1397,
-				},
-				["l15affixes-9-8-124-130"] = {
-					["times"] = {
-						340, -- [1]
-						842, -- [2]
-						1150, -- [3]
-						1480, -- [4]
-						1655, -- [5]
-						1054, -- [6]
-						["6last_best_time_zone_level"] = 1118,
-						["5last_best_time_zone_level"] = 1397,
-						["4last_best_time_zone_level"] = 820,
-						["3last_best_time_zone_level"] = 528,
-						["2last_best_time_zone_level"] = 479,
-						["1last_best_time_zone_level"] = 227,
-						["5last_best_time_zone"] = 1397,
-						["4last_best_time_zone"] = 556,
-						["3last_best_time_zone"] = 528,
-						["2last_best_time_zone"] = 479,
-						["1last_best_time_zone"] = 227,
-						["6last_best_time_zone"] = 1118,
-					},
-					["elapsed_time"] = 1655,
-				},
-				["l22affixes-9-123-4-130"] = {
-					["times"] = {
-						438, -- [1]
-						1796, -- [2]
-						1019, -- [3]
-						1481, -- [4]
-						2547, -- [5]
-						2012, -- [6]
-						["5last_best_time_zone"] = 1831,
-						["4last_best_time_zone"] = 556,
-						["3last_best_time_zone"] = 711,
-						["2last_best_time_zone"] = 479,
-						["1last_best_time_zone"] = 227,
-						["6last_best_time_zone"] = 1118,
-					},
-					["elapsed_time"] = 2547,
-				},
-				["l15affixes-10-6-13-130"] = {
-					["elapsed_time"] = 1730,
-					["times"] = {
-						381, -- [1]
-						900, -- [2]
-						1188, -- [3]
-						1500, -- [4]
-						1730, -- [5]
-						1049, -- [6]
-						["6last_best_time_zone_level"] = 1054,
-						["5last_best_time_zone_level"] = 1397,
-						["4last_best_time_zone_level"] = 820,
-						["3last_best_time_zone_level"] = 528,
-						["2last_best_time_zone_level"] = 479,
-						["1last_best_time_zone_level"] = 227,
-						["1last_best_time_zone"] = 227,
-						["1last_best_time_zone_level_affixes"] = 227,
-						["5last_best_time_zone"] = 1397,
-						["4last_best_time_zone"] = 556,
-						["3last_best_time_zone"] = 528,
-						["2last_best_time_zone"] = 479,
-						["2last_best_time_zone_level_affixes"] = 479,
-						["3last_best_time_zone_level_affixes"] = 815,
-						["4last_best_time_zone_level_affixes"] = 1067,
-						["6last_best_time_zone"] = 1035,
-					},
-				},
-				["l16affixes-9-8-124-130"] = {
-					["times"] = {
-						304, -- [1]
-						826, -- [2]
-						1152, -- [3]
-						1463, -- [4]
-						1656, -- [5]
-						1035, -- [6]
-						["6last_best_time_zone_level"] = 1348,
-						["5last_best_time_zone_level"] = 2218,
-						["4last_best_time_zone_level"] = 1082,
-						["3last_best_time_zone_level"] = 1280,
-						["2last_best_time_zone_level"] = 856,
-						["1last_best_time_zone_level"] = 407,
-						["5last_best_time_zone"] = 1397,
-						["4last_best_time_zone"] = 556,
-						["3last_best_time_zone"] = 528,
-						["2last_best_time_zone"] = 479,
-						["1last_best_time_zone"] = 227,
-						["6last_best_time_zone"] = 1054,
-					},
-					["elapsed_time"] = 1656,
-				},
-				["l22affixes-10-7-14-130"] = {
-					["elapsed_time"] = 2161,
-					["times"] = {
-						388, -- [1]
-						1153, -- [2]
-						1885, -- [3]
-						1660, -- [4]
-						2161, -- [5]
-						1942, -- [6]
-						["6last_best_time_zone_level"] = 2012,
-						["5last_best_time_zone_level"] = 2547,
-						["4last_best_time_zone_level"] = 1481,
-						["3last_best_time_zone_level"] = 1019,
-						["1last_best_time_zone"] = 227,
-						["1last_best_time_zone_level"] = 438,
-						["5last_best_time_zone"] = 1831,
-						["4last_best_time_zone"] = 556,
-						["3last_best_time_zone"] = 711,
-						["2last_best_time_zone"] = 479,
-						["2last_best_time_zone_level"] = 1796,
-						["6last_best_time_zone"] = 1118,
-					},
-				},
-			},
-			[377] = {
-				["l15affixes-10-6-13-130"] = {
-					["elapsed_time"] = 2193,
-					["times"] = {
-						1957, -- [1]
-						1347, -- [2]
-						631, -- [3]
-						2193, -- [4]
-						1784, -- [5]
-						["5last_best_time_zone_level"] = 1171,
-						["4last_best_time_zone_level"] = 1618,
-						["3last_best_time_zone_level"] = 444,
-						["2last_best_time_zone_level"] = 928,
-						["1last_best_time_zone_level"] = 682,
-						["3last_best_time_zone_level_affixes"] = 647,
-						["5last_best_time_zone_level_affixes"] = 1571,
-						["5last_best_time_zone"] = 1151,
-						["4last_best_time_zone"] = 1451,
-						["3last_best_time_zone"] = 444,
-						["2last_best_time_zone"] = 765,
-						["2last_best_time_zone_level_affixes"] = 1251,
-						["4last_best_time_zone_level_affixes"] = 1965,
-						["1last_best_time_zone_level_affixes"] = 1746,
-						["1last_best_time_zone"] = 266,
-					},
-				},
-			},
-			[378] = {
-				["l15affixes-10-122-12-130"] = {
-					["times"] = {
-						428, -- [1]
-						599, -- [2]
-						764, -- [3]
-						923, -- [4]
-						852, -- [5]
-						["5last_best_time_zone_level"] = 1203,
-						["4last_best_time_zone_level"] = 1294,
-						["3last_best_time_zone_level"] = 1096,
-						["1last_best_time_zone"] = 251,
-						["1last_best_time_zone_level"] = 713,
-						["4last_best_time_zone_level_affixes"] = 1690,
-						["5last_best_time_zone_level_affixes"] = 1565,
-						["5last_best_time_zone"] = 339,
-						["4last_best_time_zone"] = 568,
-						["3last_best_time_zone"] = 477,
-						["2last_best_time_zone"] = 388,
-						["3last_best_time_zone_level_affixes"] = 1438,
-						["1last_best_time_zone_level_affixes"] = 875,
-						["2last_best_time_zone_level_affixes"] = 1158,
-						["2last_best_time_zone_level"] = 839,
-					},
-					["elapsed_time"] = 923,
-				},
-				["l15affixes-10-6-13-130"] = {
-					["times"] = {
-						840, -- [1]
-						1176, -- [2]
-						1431, -- [3]
-						1839, -- [4]
-						1709, -- [5]
-						["5last_best_time_zone_level"] = 852,
-						["4last_best_time_zone_level"] = 923,
-						["3last_best_time_zone_level"] = 764,
-						["1last_best_time_zone"] = 251,
-						["1last_best_time_zone_level"] = 428,
-						["5last_best_time_zone"] = 339,
-						["4last_best_time_zone"] = 568,
-						["3last_best_time_zone"] = 477,
-						["2last_best_time_zone"] = 388,
-						["2last_best_time_zone_level"] = 599,
-					},
-					["elapsed_time"] = 1839,
-				},
-				["l15affixes-9-8-124-130"] = {
-					["elapsed_time"] = 1598,
-					["times"] = {
-						741, -- [1]
-						961, -- [2]
-						1251, -- [3]
-						1540, -- [4]
-						1598, -- [5]
-						["5last_best_time_zone_level"] = 852,
-						["4last_best_time_zone_level"] = 923,
-						["3last_best_time_zone_level"] = 764,
-						["2last_best_time_zone_level"] = 599,
-						["1last_best_time_zone_level"] = 428,
-						["5last_best_time_zone"] = 339,
-						["4last_best_time_zone"] = 568,
-						["3last_best_time_zone"] = 477,
-						["2last_best_time_zone"] = 388,
-						["1last_best_time_zone"] = 251,
-					},
-				},
-			},
-			[379] = {
-				["l15affixes-9-8-124-130"] = {
-					["times"] = {
-						375, -- [1]
-						811, -- [2]
-						1264, -- [3]
-						1548, -- [4]
-						1388, -- [5]
-						["5last_best_time_zone_level"] = 1031,
-						["4last_best_time_zone_level"] = 1194,
-						["3last_best_time_zone_level"] = 901,
-						["1last_best_time_zone"] = 160,
-						["1last_best_time_zone_level"] = 182,
-						["4last_best_time_zone_level_affixes"] = 1826,
-						["5last_best_time_zone_level_affixes"] = 1628,
-						["5last_best_time_zone"] = 724,
-						["4last_best_time_zone"] = 819,
-						["3last_best_time_zone"] = 631,
-						["2last_best_time_zone"] = 438,
-						["3last_best_time_zone_level_affixes"] = 1502,
-						["1last_best_time_zone_level_affixes"] = 463,
-						["2last_best_time_zone_level_affixes"] = 1104,
-						["2last_best_time_zone_level"] = 602,
-					},
-					["elapsed_time"] = 1548,
-				},
-			},
-			[392] = {
-				["l15affixes-10-122-12-130"] = {
-					["times"] = {
-						355, -- [1]
-						580, -- [2]
-						1107, -- [3]
-						835, -- [4]
-						["4last_best_time_zone_level"] = 1067,
-						["3last_best_time_zone_level"] = 815,
-						["1last_best_time_zone"] = 227,
-						["1last_best_time_zone_level"] = 227,
-						["3last_best_time_zone_level_affixes"] = 1315,
-						["4last_best_time_zone"] = 556,
-						["3last_best_time_zone"] = 711,
-						["2last_best_time_zone"] = 479,
-						["4last_best_time_zone_level_affixes"] = 1087,
-						["1last_best_time_zone_level_affixes"] = 533,
-						["2last_best_time_zone_level_affixes"] = 876,
-						["2last_best_time_zone_level"] = 479,
-					},
-					["elapsed_time"] = 1107,
-				},
-			},
-		},
+		["objective_time_delta_only"] = false,
+		["color_current_pull"] = "FF00FF00",
+		["color_chest_timeleft"] = "FF00FF00",
+		["color_timeleft_expired"] = "FFFF0000",
+		["color_chest_time_expired"] = "FF808080",
+		["insert_keystone"] = true,
 		["color_prideful"] = "FFFFFFFF",
+		["show_affixes_as_text"] = true,
+		["color_deathcounter"] = "FFFFFFFF",
+		["color_prideful_value"] = "FFFFFFFF",
+		["color_dungeon_name"] = "FFFFD100",
+		["hide_default_objectivetracker"] = true,
+		["color_objective_completed"] = "FF808080",
+		["objective_time"] = true,
+		["npc_progress_id"] = "sl_1",
 		["best_times"] = {
 			[2289] = {
 				160, -- [1]
@@ -853,19 +329,19 @@ MythicPlusTimerDB = {
 					1543, -- [4]
 					1414, -- [5]
 				},
-				["l16affixes-10-6-13-128"] = {
-					205, -- [1]
-					1034, -- [2]
-					1376, -- [3]
-					1648, -- [4]
-					1522, -- [5]
-				},
 				["l8affixes-10-11-124"] = {
 					420, -- [1]
 					996, -- [2]
 					1319, -- [3]
 					1567, -- [4]
 					1444, -- [5]
+				},
+				["l16affixes-10-6-13-128"] = {
+					205, -- [1]
+					1034, -- [2]
+					1376, -- [3]
+					1648, -- [4]
+					1522, -- [5]
 				},
 				["l12affixes-10-8-12-121"] = {
 					371, -- [1]
@@ -967,12 +443,12 @@ MythicPlusTimerDB = {
 					1867, -- [4]
 					1674, -- [5]
 				},
-				["l7affixes-9-6-13"] = {
-					839, -- [1]
-					1334, -- [2]
-					2003, -- [3]
-					2452, -- [4]
-					2786, -- [5]
+				["l14affixes-9-6-14-121"] = {
+					448, -- [1]
+					1314, -- [2]
+					1760, -- [3]
+					3324, -- [4]
+					1860, -- [5]
 				},
 				["l14affixes-10-8-14-121"] = {
 					897, -- [1]
@@ -1002,12 +478,12 @@ MythicPlusTimerDB = {
 					2230, -- [4]
 					1910, -- [5]
 				},
-				["l14affixes-9-6-14-121"] = {
-					448, -- [1]
-					1314, -- [2]
-					1760, -- [3]
-					3324, -- [4]
-					1860, -- [5]
+				["l7affixes-9-6-13"] = {
+					839, -- [1]
+					1334, -- [2]
+					2003, -- [3]
+					2452, -- [4]
+					2786, -- [5]
 				},
 				["l15affixes-9-6-3-130"] = {
 					526, -- [1]
@@ -1456,17 +932,17 @@ MythicPlusTimerDB = {
 					1417, -- [3]
 					1278, -- [4]
 				},
-				["l2affixes-9"] = {
-					217, -- [1]
-					547, -- [2]
-					787, -- [3]
-					683, -- [4]
-				},
 				["l17affixes-10-123-12-128"] = {
 					596, -- [1]
 					1151, -- [2]
 					1685, -- [3]
 					1526, -- [4]
+				},
+				["l2affixes-9"] = {
+					217, -- [1]
+					547, -- [2]
+					787, -- [3]
+					683, -- [4]
 				},
 				["l15affixes-10-8-12-121"] = {
 					532, -- [1]
@@ -1612,6 +1088,207 @@ MythicPlusTimerDB = {
 					1083, -- [2]
 					1560, -- [3]
 					1440, -- [4]
+				},
+			},
+			[2441] = {
+				227, -- [1]
+				479, -- [2]
+				528, -- [3]
+				556, -- [4]
+				1397, -- [5]
+				909, -- [6]
+				["l15affixes-10-7-14-130"] = {
+					267, -- [1]
+					1199, -- [2]
+					528, -- [3]
+					820, -- [4]
+					1397, -- [5]
+					1294, -- [6]
+				},
+				["l22"] = {
+					388, -- [1]
+					1153, -- [2]
+					1019, -- [3]
+					1481, -- [4]
+					2161, -- [5]
+					1942, -- [6]
+				},
+				["l15affixes-10-11-124-130"] = {
+					462, -- [1]
+					2132, -- [2]
+					1213, -- [3]
+					1576, -- [4]
+					2334, -- [5]
+					1955, -- [6]
+				},
+				["l18affixes-10-6-13-130"] = {
+				},
+				["l16"] = {
+					304, -- [1]
+					826, -- [2]
+					1152, -- [3]
+					1082, -- [4]
+					1656, -- [5]
+					1035, -- [6]
+				},
+				["l15affixes-10-122-12-130"] = {
+					355, -- [1]
+					580, -- [2]
+					1107, -- [3]
+					835, -- [4]
+				},
+				["l15affixes-9-8-124-130"] = {
+					340, -- [1]
+					842, -- [2]
+					1150, -- [3]
+					1480, -- [4]
+					1655, -- [5]
+					1054, -- [6]
+				},
+				["l16affixes-10-7-14-130"] = {
+					407, -- [1]
+					982, -- [2]
+					1556, -- [3]
+					2005, -- [4]
+					2218, -- [5]
+					1348, -- [6]
+				},
+				["l15affixes-9-11-3-130"] = {
+					385, -- [1]
+					874, -- [2]
+					1270, -- [3]
+					1634, -- [4]
+					1831, -- [5]
+					1118, -- [6]
+				},
+				["l16affixes-9-6-3-130"] = {
+					853, -- [1]
+					1261, -- [2]
+					1934, -- [3]
+					1625, -- [4]
+				},
+				["l22affixes-10-122-12-130"] = {
+				},
+				["l16affixes-9-8-124-130"] = {
+					304, -- [1]
+					826, -- [2]
+					1152, -- [3]
+					1463, -- [4]
+					1656, -- [5]
+					1035, -- [6]
+				},
+				["l22affixes-10-7-14-130"] = {
+					388, -- [1]
+					1153, -- [2]
+					1885, -- [3]
+					1660, -- [4]
+					2161, -- [5]
+					1942, -- [6]
+				},
+				["l20"] = {
+					521, -- [1]
+					906, -- [2]
+					1461, -- [3]
+					1147, -- [4]
+				},
+				["l15affixes-10-6-13-130"] = {
+					227, -- [1]
+					479, -- [2]
+					815, -- [3]
+					1067, -- [4]
+					1730, -- [5]
+					1049, -- [6]
+				},
+				["l15affixes-9-6-3-130"] = {
+					413, -- [1]
+					1847, -- [2]
+					1033, -- [3]
+					2196, -- [4]
+					2751, -- [5]
+					1368, -- [6]
+				},
+				["l16affixes-10-11-124-130"] = {
+					912, -- [1]
+					1776, -- [2]
+					3078, -- [3]
+					2428, -- [4]
+				},
+				["l14affixes-9-122-14-131"] = {
+					327, -- [1]
+					760, -- [2]
+					1015, -- [3]
+					1281, -- [4]
+					1437, -- [5]
+					909, -- [6]
+				},
+				["l14"] = {
+					327, -- [1]
+					760, -- [2]
+					1015, -- [3]
+					1281, -- [4]
+					1437, -- [5]
+					909, -- [6]
+				},
+				["l20affixes-9-123-4-130"] = {
+					610, -- [1]
+				},
+				["l2"] = {
+					311, -- [1]
+					486, -- [2]
+					711, -- [3]
+					556, -- [4]
+				},
+				["l17affixes-9-123-4-130"] = {
+					371, -- [1]
+					1014, -- [2]
+					1947, -- [3]
+					1605, -- [4]
+					2145, -- [5]
+					1765, -- [6]
+				},
+				["l16affixes-10-6-13-130"] = {
+					532, -- [1]
+					856, -- [2]
+					1280, -- [3]
+					1082, -- [4]
+				},
+				["l2affixes-10"] = {
+					311, -- [1]
+					486, -- [2]
+					711, -- [3]
+					556, -- [4]
+				},
+				["l18"] = {
+				},
+				["l20affixes-9-6-3-130"] = {
+					521, -- [1]
+					906, -- [2]
+					1461, -- [3]
+					1147, -- [4]
+				},
+				["l22affixes-9-123-4-130"] = {
+					438, -- [1]
+					1796, -- [2]
+					1019, -- [3]
+					1481, -- [4]
+					2547, -- [5]
+					2012, -- [6]
+				},
+				["l17"] = {
+					371, -- [1]
+					1014, -- [2]
+					1947, -- [3]
+					1605, -- [4]
+					2145, -- [5]
+					1765, -- [6]
+				},
+				["l15"] = {
+					227, -- [1]
+					479, -- [2]
+					528, -- [3]
+					820, -- [4]
+					1397, -- [5]
+					1049, -- [6]
 				},
 			},
 			[2291] = {
@@ -2025,12 +1702,12 @@ MythicPlusTimerDB = {
 					1973, -- [4]
 					1401, -- [5]
 				},
-				["l9affixes-10-122-12"] = {
-					483, -- [1]
-					1142, -- [2]
-					1848, -- [3]
-					2071, -- [4]
-					1764, -- [5]
+				["l21"] = {
+					1880, -- [1]
+					1339, -- [2]
+					729, -- [3]
+					2139, -- [4]
+					1746, -- [5]
 				},
 				["l15affixes-10-8-12-121"] = {
 					704, -- [1]
@@ -2039,12 +1716,12 @@ MythicPlusTimerDB = {
 					2542, -- [4]
 					2120, -- [5]
 				},
-				["l11affixes-10-8-12-121"] = {
-					901, -- [1]
-					1839, -- [2]
-					2927, -- [3]
-					3196, -- [4]
-					2791, -- [5]
+				["l9affixes-10-122-12"] = {
+					483, -- [1]
+					1142, -- [2]
+					1848, -- [3]
+					2071, -- [4]
+					1764, -- [5]
 				},
 				["l12affixes-10-123-12-121"] = {
 					703, -- [1]
@@ -2067,12 +1744,12 @@ MythicPlusTimerDB = {
 					2807, -- [4]
 					2361, -- [5]
 				},
-				["l21"] = {
-					1880, -- [1]
-					1339, -- [2]
-					729, -- [3]
-					2139, -- [4]
-					1746, -- [5]
+				["l11affixes-10-8-12-121"] = {
+					901, -- [1]
+					1839, -- [2]
+					2927, -- [3]
+					3196, -- [4]
+					2791, -- [5]
 				},
 				["l11affixes-10-11-124-130"] = {
 					681, -- [1]
@@ -2360,12 +2037,12 @@ MythicPlusTimerDB = {
 					2147, -- [4]
 					1996, -- [5]
 				},
-				["l13affixes-10-6-13-128"] = {
-					412, -- [1]
-					1296, -- [2]
-					1548, -- [3]
-					2036, -- [4]
-					1932, -- [5]
+				["l15affixes-10-11-124-130"] = {
+					387, -- [1]
+					1239, -- [2]
+					1506, -- [3]
+					2049, -- [4]
+					1908, -- [5]
 				},
 				["l10affixes-10-123-12-121"] = {
 					380, -- [1]
@@ -2395,12 +2072,12 @@ MythicPlusTimerDB = {
 					3457, -- [4]
 					3246, -- [5]
 				},
-				["l15affixes-10-11-124-130"] = {
-					387, -- [1]
-					1239, -- [2]
-					1506, -- [3]
-					2049, -- [4]
-					1908, -- [5]
+				["l13affixes-10-6-13-128"] = {
+					412, -- [1]
+					1296, -- [2]
+					1548, -- [3]
+					2036, -- [4]
+					1932, -- [5]
 				},
 				["l14affixes-10-123-12-121"] = {
 					498, -- [1]
@@ -2578,6 +2255,27 @@ MythicPlusTimerDB = {
 					1632, -- [3]
 					2500, -- [4]
 					2100, -- [5]
+				},
+			},
+			[1195] = {
+				449, -- [1]
+				911, -- [2]
+				1322, -- [3]
+				1599, -- [4]
+				1175, -- [5]
+				["l15"] = {
+					449, -- [1]
+					911, -- [2]
+					1322, -- [3]
+					1599, -- [4]
+					1175, -- [5]
+				},
+				["l15affixes-9-122-14-131"] = {
+					449, -- [1]
+					911, -- [2]
+					1322, -- [3]
+					1599, -- [4]
+					1175, -- [5]
 				},
 			},
 			[2285] = {
@@ -3437,14 +3135,6 @@ MythicPlusTimerDB = {
 					2400, -- [5]
 					1986, -- [6]
 				},
-				["l2"] = {
-					96, -- [1]
-					405, -- [2]
-					336, -- [3]
-					633, -- [4]
-					1000, -- [5]
-					821, -- [6]
-				},
 				["l13"] = {
 					153, -- [1]
 					1450, -- [2]
@@ -3452,6 +3142,14 @@ MythicPlusTimerDB = {
 					773, -- [4]
 					1583, -- [5]
 					1368, -- [6]
+				},
+				["l2"] = {
+					96, -- [1]
+					405, -- [2]
+					336, -- [3]
+					633, -- [4]
+					1000, -- [5]
+					821, -- [6]
 				},
 				["l14affixes-9-6-14-121"] = {
 					172, -- [1]
@@ -4759,260 +4457,692 @@ MythicPlusTimerDB = {
 					517, -- [6]
 				},
 			},
-			[2441] = {
-				227, -- [1]
-				479, -- [2]
-				528, -- [3]
-				556, -- [4]
-				1397, -- [5]
-				1035, -- [6]
-				["l15affixes-10-7-14-130"] = {
-					267, -- [1]
-					1199, -- [2]
-					528, -- [3]
-					820, -- [4]
-					1397, -- [5]
-					1294, -- [6]
+			[1208] = {
+				389, -- [1]
+				1444, -- [2]
+				2190, -- [3]
+				1848, -- [4]
+				["l15"] = {
+					389, -- [1]
+					1444, -- [2]
+					2190, -- [3]
+					1848, -- [4]
 				},
-				["l22"] = {
-					388, -- [1]
-					1153, -- [2]
-					1019, -- [3]
-					1481, -- [4]
-					2161, -- [5]
-					1942, -- [6]
+				["l15affixes-9-122-14-131"] = {
+					389, -- [1]
+					1444, -- [2]
+					2190, -- [3]
+					1848, -- [4]
 				},
-				["l15affixes-10-11-124-130"] = {
-					462, -- [1]
-					2132, -- [2]
-					1213, -- [3]
-					1576, -- [4]
-					2334, -- [5]
-					1955, -- [6]
-				},
-				["l18affixes-10-6-13-130"] = {
+				["l16affixes-9-122-14-131"] = {
 				},
 				["l16"] = {
-					304, -- [1]
-					826, -- [2]
-					1152, -- [3]
-					1082, -- [4]
-					1656, -- [5]
-					1035, -- [6]
 				},
-				["l15affixes-10-122-12-130"] = {
-					355, -- [1]
-					580, -- [2]
-					1107, -- [3]
-					835, -- [4]
+			},
+			[2097] = {
+				181, -- [1]
+				523, -- [2]
+				941, -- [3]
+				1342, -- [4]
+				1055, -- [5]
+				["l14affixes-9-122-14-131"] = {
+					181, -- [1]
+					523, -- [2]
+					941, -- [3]
+					1342, -- [4]
+					1055, -- [5]
 				},
-				["l16affixes-10-7-14-130"] = {
-					407, -- [1]
-					982, -- [2]
-					1556, -- [3]
-					2005, -- [4]
-					2218, -- [5]
-					1348, -- [6]
-				},
-				["l16affixes-9-6-3-130"] = {
-					853, -- [1]
-					1261, -- [2]
-					1934, -- [3]
-					1625, -- [4]
-				},
-				["l15affixes-9-8-124-130"] = {
-					340, -- [1]
-					842, -- [2]
-					1150, -- [3]
-					1480, -- [4]
-					1655, -- [5]
-					1054, -- [6]
-				},
-				["l15affixes-9-11-3-130"] = {
-					385, -- [1]
-					874, -- [2]
-					1270, -- [3]
-					1634, -- [4]
-					1831, -- [5]
-					1118, -- [6]
-				},
-				["l22affixes-10-7-14-130"] = {
-					388, -- [1]
-					1153, -- [2]
-					1885, -- [3]
-					1660, -- [4]
-					2161, -- [5]
-					1942, -- [6]
-				},
-				["l20"] = {
-					521, -- [1]
-					906, -- [2]
-					1461, -- [3]
-					1147, -- [4]
-				},
-				["l15affixes-10-6-13-130"] = {
-					227, -- [1]
-					479, -- [2]
-					815, -- [3]
-					1067, -- [4]
-					1730, -- [5]
-					1049, -- [6]
-				},
-				["l20affixes-9-123-4-130"] = {
-					610, -- [1]
-				},
-				["l16affixes-9-8-124-130"] = {
-					304, -- [1]
-					826, -- [2]
-					1152, -- [3]
-					1463, -- [4]
-					1656, -- [5]
-					1035, -- [6]
-				},
-				["l22affixes-9-123-4-130"] = {
-					438, -- [1]
-					1796, -- [2]
-					1019, -- [3]
-					1481, -- [4]
-					2547, -- [5]
-					2012, -- [6]
-				},
-				["l15affixes-9-6-3-130"] = {
-					413, -- [1]
-					1847, -- [2]
-					1033, -- [3]
-					2196, -- [4]
-					2751, -- [5]
-					1368, -- [6]
-				},
-				["l2affixes-10"] = {
-					311, -- [1]
-					486, -- [2]
-					711, -- [3]
-					556, -- [4]
-				},
-				["l16affixes-10-6-13-130"] = {
-					532, -- [1]
-					856, -- [2]
-					1280, -- [3]
-					1082, -- [4]
-				},
-				["l17affixes-9-123-4-130"] = {
-					371, -- [1]
-					1014, -- [2]
-					1947, -- [3]
-					1605, -- [4]
-					2145, -- [5]
-					1765, -- [6]
-				},
-				["l16affixes-10-11-124-130"] = {
-					912, -- [1]
-					1776, -- [2]
-					3078, -- [3]
-					2428, -- [4]
-				},
-				["l2"] = {
-					311, -- [1]
-					486, -- [2]
-					711, -- [3]
-					556, -- [4]
-				},
-				["l18"] = {
-				},
-				["l20affixes-9-6-3-130"] = {
-					521, -- [1]
-					906, -- [2]
-					1461, -- [3]
-					1147, -- [4]
-				},
-				["l22affixes-10-122-12-130"] = {
-				},
-				["l17"] = {
-					371, -- [1]
-					1014, -- [2]
-					1947, -- [3]
-					1605, -- [4]
-					2145, -- [5]
-					1765, -- [6]
+				["l14"] = {
+					181, -- [1]
+					523, -- [2]
+					941, -- [3]
+					1342, -- [4]
+					1055, -- [5]
 				},
 				["l15"] = {
-					227, -- [1]
-					479, -- [2]
-					528, -- [3]
-					820, -- [4]
-					1397, -- [5]
-					1049, -- [6]
+					331, -- [1]
+					1139, -- [2]
+					1830, -- [3]
+					2977, -- [4]
+					1977, -- [5]
+				},
+				["l15affixes-9-122-14-131"] = {
+					331, -- [1]
+					1139, -- [2]
+					1830, -- [3]
+					2977, -- [4]
+					1977, -- [5]
+				},
+				["l16affixes-9-122-14-131"] = {
+				},
+				["l16"] = {
 				},
 			},
 		},
-		["color_timeleft_expired"] = "FFFF0000",
-		["color_chest_time_expired"] = "FF808080",
-		["npc_progress_id"] = "sl_1",
-		["objective_time_delta_only"] = false,
-		["show_affixes_as_text"] = true,
-		["color_deathcounter"] = "FFFFFFFF",
-		["color_prideful_value"] = "FFFFFFFF",
-		["color_current_pull"] = "FF00FF00",
-		["current_run"] = {
-			["is_completed"] = true,
-			["is_teeming"] = false,
-			["is_prideful"] = false,
-			["quantity_number"] = 260,
-			["cm_level"] = 18,
-			["elapsed_time"] = 1560,
-			["deathcount"] = 7,
-			["quantity_completed"] = true,
-			["times"] = {
-				399, -- [1]
-				1083, -- [2]
-				1560, -- [3]
-				1440, -- [4]
-				["2last_best_time_zone_level"] = 1026,
-				["4last_best_time_zone"] = 674,
-				["4last_best_time_zone_level"] = 1344,
-				["3last_best_time_zone_level"] = 1499,
-				["1last_best_time_zone"] = 182,
-				["1last_best_time_zone_level"] = 443,
-				["2last_best_time_zone"] = 487,
-				["3last_best_time_zone"] = 744,
-			},
-			["zone_name"] = "Mists of Tirna Scithe",
-			["time_left_3"] = 0,
-			["time_left"] = 240,
-			["deathcount_visible"] = true,
-			["steps"] = 4,
-			["death_names"] = {
-				["Banditmadge-Area52"] = 1,
-				["Zgravy-Area52"] = 3,
-				["Thadchad-Area52"] = 3,
-			},
-			["affixes_key"] = "affixes-10-123-4-130",
-			["is_reaping"] = false,
-			["current_zone_id"] = 2290,
-			["max_time"] = 1800,
-			["affixes"] = {
-				10, -- [1]
-				123, -- [2]
-				4, -- [3]
-				130, -- [4]
-			},
-			["current_map_id"] = 375,
-			["pull"] = {
-			},
-			["level_key"] = "l18",
-			["final_quantity_number"] = 260,
-			["time_left_2"] = 0,
-		},
-		["hide_default_objectivetracker"] = true,
-		["color_objective_completed"] = "FF808080",
-		["objective_time"] = true,
-		["color_chest_timeleft"] = "FF00FF00",
-		["color_time"] = "FFFFFFFF",
 		["color_timeleft"] = "FF00FF00",
-		["color_dungeon_name"] = "FFFFD100",
+		["best_runs"] = {
+			[380] = {
+				["l16affixes-9-8-124-130"] = {
+					["elapsed_time"] = 1991,
+					["times"] = {
+						499, -- [1]
+						1080, -- [2]
+						1429, -- [3]
+						1991, -- [4]
+						1795, -- [5]
+						["5last_best_time_zone_level"] = 1464,
+						["4last_best_time_zone_level"] = 1606,
+						["3last_best_time_zone_level"] = 1187,
+						["1last_best_time_zone"] = 123,
+						["1last_best_time_zone_level"] = 347,
+						["5last_best_time_zone"] = 649,
+						["4last_best_time_zone"] = 616,
+						["3last_best_time_zone"] = 411,
+						["2last_best_time_zone"] = 325,
+						["2last_best_time_zone_level"] = 935,
+					},
+				},
+			},
+			[381] = {
+				["l16affixes-10-6-13-130"] = {
+					["elapsed_time"] = 2052,
+					["times"] = {
+						426, -- [1]
+						1234, -- [2]
+						1616, -- [3]
+						2052, -- [4]
+						1830, -- [5]
+						["5last_best_time_zone_level"] = 1272,
+						["4last_best_time_zone_level"] = 1467,
+						["3last_best_time_zone_level"] = 1075,
+						["1last_best_time_zone"] = 168,
+						["1last_best_time_zone_level"] = 254,
+						["5last_best_time_zone"] = 428,
+						["4last_best_time_zone"] = 428,
+						["3last_best_time_zone"] = 428,
+						["2last_best_time_zone"] = 428,
+						["2last_best_time_zone_level"] = 756,
+					},
+				},
+				["l21affixes-9-123-4-130"] = {
+					["times"] = {
+						400, -- [1]
+						1149, -- [2]
+						1556, -- [3]
+						2057, -- [4]
+						1768, -- [5]
+						["5last_best_time_zone_level"] = 1578,
+						["4last_best_time_zone_level"] = 1926,
+						["3last_best_time_zone_level"] = 1360,
+						["1last_best_time_zone"] = 168,
+						["1last_best_time_zone_level"] = 334,
+						["5last_best_time_zone"] = 428,
+						["4last_best_time_zone"] = 428,
+						["3last_best_time_zone"] = 428,
+						["2last_best_time_zone"] = 428,
+						["2last_best_time_zone_level"] = 952,
+					},
+					["elapsed_time"] = 2057,
+				},
+			},
+			[382] = {
+				["l15affixes-10-122-12-130"] = {
+					["times"] = {
+						140, -- [1]
+						1024, -- [2]
+						1398, -- [3]
+						613, -- [4]
+						1526, -- [5]
+						1236, -- [6]
+						["6last_best_time_zone_level"] = 983,
+						["5last_best_time_zone_level"] = 1321,
+						["4last_best_time_zone_level"] = 834,
+						["3last_best_time_zone_level"] = 426,
+						["1last_best_time_zone"] = 93,
+						["1last_best_time_zone_level"] = 93,
+						["5last_best_time_zone"] = 1000,
+						["4last_best_time_zone"] = 633,
+						["3last_best_time_zone"] = 336,
+						["2last_best_time_zone"] = 405,
+						["2last_best_time_zone_level"] = 1157,
+						["6last_best_time_zone"] = 821,
+					},
+					["elapsed_time"] = 1526,
+				},
+				["l20affixes-9-123-4-130"] = {
+					["elapsed_time"] = 2316,
+					["times"] = {
+						199, -- [1]
+						1369, -- [2]
+						713, -- [3]
+						2053, -- [4]
+						2316, -- [5]
+						1820, -- [6]
+						["5last_best_time_zone"] = 1000,
+						["4last_best_time_zone"] = 613,
+						["3last_best_time_zone"] = 336,
+						["2last_best_time_zone"] = 405,
+						["1last_best_time_zone"] = 93,
+						["1last_best_time_zone_level"] = 139,
+						["6last_best_time_zone"] = 821,
+					},
+				},
+				["l7affixes-9-8-124"] = {
+					["elapsed_time"] = 1346,
+					["times"] = {
+						149, -- [1]
+						825, -- [2]
+						486, -- [3]
+						1194, -- [4]
+						1346, -- [5]
+						1043, -- [6]
+						["5last_best_time_zone"] = 1000,
+						["4last_best_time_zone"] = 613,
+						["3last_best_time_zone"] = 336,
+						["2last_best_time_zone"] = 405,
+						["1last_best_time_zone"] = 93,
+						["6last_best_time_zone"] = 821,
+					},
+				},
+			},
+			[370] = {
+				["l14affixes-9-122-14-131"] = {
+					["times"] = {
+						181, -- [1]
+						523, -- [2]
+						941, -- [3]
+						1342, -- [4]
+						1055, -- [5]
+						["5last_best_time_zone"] = 1977,
+						["4last_best_time_zone"] = 2977,
+						["3last_best_time_zone"] = 1830,
+						["2last_best_time_zone"] = 1139,
+						["1last_best_time_zone"] = 331,
+					},
+					["elapsed_time"] = 1342,
+				},
+				["l15affixes-9-122-14-131"] = {
+					["elapsed_time"] = 2977,
+					["times"] = {
+						331, -- [1]
+						1139, -- [2]
+						1830, -- [3]
+						2977, -- [4]
+						1977, -- [5]
+					},
+				},
+			},
+			[391] = {
+				["l15affixes-10-7-14-130"] = {
+					["times"] = {
+						267, -- [1]
+						1199, -- [2]
+						528, -- [3]
+						820, -- [4]
+						1397, -- [5]
+						1294, -- [6]
+						["6last_best_time_zone_level"] = 1118,
+						["5last_best_time_zone_level"] = 1831,
+						["4last_best_time_zone_level"] = 835,
+						["3last_best_time_zone_level"] = 815,
+						["1last_best_time_zone"] = 227,
+						["1last_best_time_zone_level"] = 227,
+						["2last_best_time_zone_level"] = 479,
+						["4last_best_time_zone_level_affixes"] = 1341,
+						["5last_best_time_zone_level_affixes"] = 2051,
+						["6last_best_time_zone_level_affixes"] = 1630,
+						["5last_best_time_zone"] = 1831,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 711,
+						["2last_best_time_zone"] = 479,
+						["2last_best_time_zone_level_affixes"] = 1844,
+						["3last_best_time_zone_level_affixes"] = 1099,
+						["1last_best_time_zone_level_affixes"] = 405,
+						["6last_best_time_zone"] = 1118,
+					},
+					["elapsed_time"] = 1397,
+				},
+				["l15affixes-9-8-124-130"] = {
+					["times"] = {
+						340, -- [1]
+						842, -- [2]
+						1150, -- [3]
+						1480, -- [4]
+						1655, -- [5]
+						1054, -- [6]
+						["6last_best_time_zone_level"] = 1118,
+						["5last_best_time_zone_level"] = 1397,
+						["4last_best_time_zone_level"] = 820,
+						["3last_best_time_zone_level"] = 528,
+						["2last_best_time_zone_level"] = 479,
+						["1last_best_time_zone_level"] = 227,
+						["5last_best_time_zone"] = 1397,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 528,
+						["2last_best_time_zone"] = 479,
+						["1last_best_time_zone"] = 227,
+						["6last_best_time_zone"] = 1118,
+					},
+					["elapsed_time"] = 1655,
+				},
+				["l22affixes-9-123-4-130"] = {
+					["times"] = {
+						438, -- [1]
+						1796, -- [2]
+						1019, -- [3]
+						1481, -- [4]
+						2547, -- [5]
+						2012, -- [6]
+						["5last_best_time_zone"] = 1831,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 711,
+						["2last_best_time_zone"] = 479,
+						["1last_best_time_zone"] = 227,
+						["6last_best_time_zone"] = 1118,
+					},
+					["elapsed_time"] = 2547,
+				},
+				["l14affixes-9-122-14-131"] = {
+					["times"] = {
+						327, -- [1]
+						760, -- [2]
+						1015, -- [3]
+						1281, -- [4]
+						1437, -- [5]
+						909, -- [6]
+						["6last_best_time_zone_level"] = 1051,
+						["5last_best_time_zone_level"] = 1642,
+						["4last_best_time_zone_level"] = 1443,
+						["3last_best_time_zone_level"] = 1143,
+						["1last_best_time_zone"] = 227,
+						["1last_best_time_zone_level"] = 341,
+						["5last_best_time_zone_level_affixes"] = 1642,
+						["2last_best_time_zone_level"] = 871,
+						["4last_best_time_zone_level_affixes"] = 1443,
+						["6last_best_time_zone_level_affixes"] = 1051,
+						["5last_best_time_zone"] = 1397,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 528,
+						["2last_best_time_zone"] = 479,
+						["3last_best_time_zone_level_affixes"] = 1143,
+						["1last_best_time_zone_level_affixes"] = 341,
+						["2last_best_time_zone_level_affixes"] = 871,
+						["6last_best_time_zone"] = 1035,
+					},
+					["elapsed_time"] = 1437,
+				},
+				["l16affixes-9-8-124-130"] = {
+					["times"] = {
+						304, -- [1]
+						826, -- [2]
+						1152, -- [3]
+						1463, -- [4]
+						1656, -- [5]
+						1035, -- [6]
+						["6last_best_time_zone_level"] = 1348,
+						["5last_best_time_zone_level"] = 2218,
+						["4last_best_time_zone_level"] = 1082,
+						["3last_best_time_zone_level"] = 1280,
+						["2last_best_time_zone_level"] = 856,
+						["1last_best_time_zone_level"] = 407,
+						["5last_best_time_zone"] = 1397,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 528,
+						["2last_best_time_zone"] = 479,
+						["1last_best_time_zone"] = 227,
+						["6last_best_time_zone"] = 1054,
+					},
+					["elapsed_time"] = 1656,
+				},
+				["l15affixes-10-6-13-130"] = {
+					["elapsed_time"] = 1730,
+					["times"] = {
+						381, -- [1]
+						900, -- [2]
+						1188, -- [3]
+						1500, -- [4]
+						1730, -- [5]
+						1049, -- [6]
+						["6last_best_time_zone_level"] = 1054,
+						["5last_best_time_zone_level"] = 1397,
+						["4last_best_time_zone_level"] = 820,
+						["3last_best_time_zone_level"] = 528,
+						["2last_best_time_zone_level"] = 479,
+						["1last_best_time_zone_level"] = 227,
+						["1last_best_time_zone"] = 227,
+						["2last_best_time_zone_level_affixes"] = 479,
+						["5last_best_time_zone"] = 1397,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 528,
+						["2last_best_time_zone"] = 479,
+						["1last_best_time_zone_level_affixes"] = 227,
+						["4last_best_time_zone_level_affixes"] = 1067,
+						["3last_best_time_zone_level_affixes"] = 815,
+						["6last_best_time_zone"] = 1035,
+					},
+				},
+				["l22affixes-10-7-14-130"] = {
+					["elapsed_time"] = 2161,
+					["times"] = {
+						388, -- [1]
+						1153, -- [2]
+						1885, -- [3]
+						1660, -- [4]
+						2161, -- [5]
+						1942, -- [6]
+						["6last_best_time_zone_level"] = 2012,
+						["5last_best_time_zone_level"] = 2547,
+						["4last_best_time_zone_level"] = 1481,
+						["3last_best_time_zone_level"] = 1019,
+						["1last_best_time_zone"] = 227,
+						["1last_best_time_zone_level"] = 438,
+						["5last_best_time_zone"] = 1831,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 711,
+						["2last_best_time_zone"] = 479,
+						["2last_best_time_zone_level"] = 1796,
+						["6last_best_time_zone"] = 1118,
+					},
+				},
+			},
+			[376] = {
+				["l22affixes-9-8-124-130"] = {
+					["elapsed_time"] = 2050,
+					["times"] = {
+						350, -- [1]
+						1116, -- [2]
+						1731, -- [3]
+						2050, -- [4]
+						1382, -- [5]
+						["5last_best_time_zone"] = 539,
+						["4last_best_time_zone"] = 754,
+						["3last_best_time_zone"] = 654,
+						["2last_best_time_zone"] = 401,
+						["1last_best_time_zone"] = 136,
+					},
+				},
+				["l17affixes-9-8-124-130"] = {
+					["times"] = {
+						200, -- [1]
+						728, -- [2]
+						1201, -- [3]
+						1380, -- [4]
+						931, -- [5]
+						["5last_best_time_zone_level"] = 1107,
+						["4last_best_time_zone_level"] = 1475,
+						["3last_best_time_zone_level"] = 1336,
+						["2last_best_time_zone_level"] = 721,
+						["1last_best_time_zone_level"] = 246,
+						["5last_best_time_zone"] = 539,
+						["4last_best_time_zone"] = 754,
+						["3last_best_time_zone"] = 654,
+						["2last_best_time_zone"] = 401,
+						["1last_best_time_zone"] = 136,
+					},
+					["elapsed_time"] = 1380,
+				},
+			},
+			[377] = {
+				["l15affixes-10-6-13-130"] = {
+					["elapsed_time"] = 2193,
+					["times"] = {
+						1957, -- [1]
+						1347, -- [2]
+						631, -- [3]
+						2193, -- [4]
+						1784, -- [5]
+						["5last_best_time_zone_level"] = 1171,
+						["4last_best_time_zone_level"] = 1618,
+						["3last_best_time_zone_level"] = 444,
+						["2last_best_time_zone_level"] = 928,
+						["1last_best_time_zone_level"] = 682,
+						["2last_best_time_zone_level_affixes"] = 1251,
+						["3last_best_time_zone_level_affixes"] = 647,
+						["5last_best_time_zone"] = 1151,
+						["4last_best_time_zone"] = 1451,
+						["3last_best_time_zone"] = 444,
+						["2last_best_time_zone"] = 765,
+						["5last_best_time_zone_level_affixes"] = 1571,
+						["1last_best_time_zone_level_affixes"] = 1746,
+						["4last_best_time_zone_level_affixes"] = 1965,
+						["1last_best_time_zone"] = 266,
+					},
+				},
+			},
+			[375] = {
+				["l18affixes-10-123-4-130"] = {
+					["elapsed_time"] = 1560,
+					["times"] = {
+						399, -- [1]
+						1083, -- [2]
+						1560, -- [3]
+						1440, -- [4]
+						["1last_best_time_zone"] = 182,
+						["4last_best_time_zone"] = 674,
+						["3last_best_time_zone"] = 744,
+						["3last_best_time_zone_level"] = 1499,
+						["2last_best_time_zone_level"] = 1026,
+						["1last_best_time_zone_level"] = 443,
+						["2last_best_time_zone"] = 487,
+						["4last_best_time_zone_level"] = 1344,
+					},
+				},
+				["l17affixes-10-7-14-130"] = {
+					["elapsed_time"] = 1777,
+					["times"] = {
+						553, -- [1]
+						1299, -- [2]
+						1777, -- [3]
+						1605, -- [4]
+						["1last_best_time_zone"] = 182,
+						["4last_best_time_zone"] = 674,
+						["3last_best_time_zone"] = 744,
+						["3last_best_time_zone_level"] = 1318,
+						["2last_best_time_zone_level"] = 871,
+						["1last_best_time_zone_level"] = 369,
+						["2last_best_time_zone"] = 487,
+						["4last_best_time_zone_level"] = 1255,
+					},
+				},
+				["l16affixes-9-8-124-130"] = {
+					["elapsed_time"] = 1767,
+					["times"] = {
+						701, -- [1]
+						1318, -- [2]
+						1713, -- [3]
+						1767, -- [4]
+						["4last_best_time_zone_level"] = 1139,
+						["3last_best_time_zone_level"] = 1167,
+						["1last_best_time_zone"] = 182,
+						["1last_best_time_zone_level"] = 286,
+						["2last_best_time_zone_level"] = 791,
+						["4last_best_time_zone"] = 674,
+						["3last_best_time_zone"] = 744,
+						["2last_best_time_zone"] = 487,
+						["1last_best_time_zone_level_affixes"] = 474,
+						["2last_best_time_zone_level_affixes"] = 1002,
+						["3last_best_time_zone_level_affixes"] = 1579,
+						["4last_best_time_zone_level_affixes"] = 1638,
+					},
+				},
+				["l20affixes-9-123-4-130"] = {
+					["times"] = {
+						452, -- [1]
+						1217, -- [2]
+						1681, -- [3]
+						1432, -- [4]
+						["3last_best_time_zone"] = 744,
+						["4last_best_time_zone"] = 674,
+						["4last_best_time_zone_level"] = 1541,
+						["3last_best_time_zone_level"] = 1450,
+						["2last_best_time_zone_level"] = 977,
+						["1last_best_time_zone_level"] = 363,
+						["2last_best_time_zone"] = 487,
+						["1last_best_time_zone"] = 182,
+					},
+					["elapsed_time"] = 1681,
+				},
+				["l5affixes-9-8"] = {
+					["elapsed_time"] = 1212,
+					["times"] = {
+						308, -- [1]
+						869, -- [2]
+						1212, -- [3]
+						1056, -- [4]
+						["1last_best_time_zone"] = 182,
+						["4last_best_time_zone"] = 674,
+						["3last_best_time_zone"] = 744,
+						["2last_best_time_zone"] = 487,
+					},
+				},
+			},
+			[166] = {
+				["l15affixes-9-122-14-131"] = {
+					["elapsed_time"] = 2190,
+					["times"] = {
+						389, -- [1]
+						1444, -- [2]
+						2190, -- [3]
+						1848, -- [4]
+					},
+				},
+			},
+			[392] = {
+				["l15affixes-10-122-12-130"] = {
+					["times"] = {
+						355, -- [1]
+						580, -- [2]
+						1107, -- [3]
+						835, -- [4]
+						["4last_best_time_zone_level"] = 1067,
+						["3last_best_time_zone_level"] = 815,
+						["1last_best_time_zone"] = 227,
+						["1last_best_time_zone_level"] = 227,
+						["4last_best_time_zone_level_affixes"] = 1087,
+						["4last_best_time_zone"] = 556,
+						["3last_best_time_zone"] = 711,
+						["2last_best_time_zone"] = 479,
+						["1last_best_time_zone_level_affixes"] = 533,
+						["2last_best_time_zone_level_affixes"] = 876,
+						["3last_best_time_zone_level_affixes"] = 1315,
+						["2last_best_time_zone_level"] = 479,
+					},
+					["elapsed_time"] = 1107,
+				},
+			},
+			[378] = {
+				["l15affixes-10-122-12-130"] = {
+					["times"] = {
+						428, -- [1]
+						599, -- [2]
+						764, -- [3]
+						923, -- [4]
+						852, -- [5]
+						["5last_best_time_zone_level"] = 1203,
+						["4last_best_time_zone_level"] = 1294,
+						["3last_best_time_zone_level"] = 1096,
+						["1last_best_time_zone"] = 251,
+						["1last_best_time_zone_level"] = 713,
+						["3last_best_time_zone_level_affixes"] = 1438,
+						["4last_best_time_zone_level_affixes"] = 1690,
+						["5last_best_time_zone"] = 339,
+						["4last_best_time_zone"] = 568,
+						["3last_best_time_zone"] = 477,
+						["2last_best_time_zone"] = 388,
+						["5last_best_time_zone_level_affixes"] = 1565,
+						["2last_best_time_zone_level_affixes"] = 1158,
+						["1last_best_time_zone_level_affixes"] = 875,
+						["2last_best_time_zone_level"] = 839,
+					},
+					["elapsed_time"] = 923,
+				},
+				["l15affixes-10-6-13-130"] = {
+					["times"] = {
+						840, -- [1]
+						1176, -- [2]
+						1431, -- [3]
+						1839, -- [4]
+						1709, -- [5]
+						["5last_best_time_zone_level"] = 852,
+						["4last_best_time_zone_level"] = 923,
+						["3last_best_time_zone_level"] = 764,
+						["1last_best_time_zone"] = 251,
+						["1last_best_time_zone_level"] = 428,
+						["5last_best_time_zone"] = 339,
+						["4last_best_time_zone"] = 568,
+						["3last_best_time_zone"] = 477,
+						["2last_best_time_zone"] = 388,
+						["2last_best_time_zone_level"] = 599,
+					},
+					["elapsed_time"] = 1839,
+				},
+				["l15affixes-9-8-124-130"] = {
+					["elapsed_time"] = 1598,
+					["times"] = {
+						741, -- [1]
+						961, -- [2]
+						1251, -- [3]
+						1540, -- [4]
+						1598, -- [5]
+						["5last_best_time_zone_level"] = 852,
+						["4last_best_time_zone_level"] = 923,
+						["3last_best_time_zone_level"] = 764,
+						["2last_best_time_zone_level"] = 599,
+						["1last_best_time_zone_level"] = 428,
+						["5last_best_time_zone"] = 339,
+						["4last_best_time_zone"] = 568,
+						["3last_best_time_zone"] = 477,
+						["2last_best_time_zone"] = 388,
+						["1last_best_time_zone"] = 251,
+					},
+				},
+			},
+			[379] = {
+				["l15affixes-9-8-124-130"] = {
+					["times"] = {
+						375, -- [1]
+						811, -- [2]
+						1264, -- [3]
+						1548, -- [4]
+						1388, -- [5]
+						["5last_best_time_zone_level"] = 1031,
+						["4last_best_time_zone_level"] = 1194,
+						["3last_best_time_zone_level"] = 901,
+						["1last_best_time_zone"] = 160,
+						["1last_best_time_zone_level"] = 182,
+						["3last_best_time_zone_level_affixes"] = 1502,
+						["4last_best_time_zone_level_affixes"] = 1826,
+						["5last_best_time_zone"] = 724,
+						["4last_best_time_zone"] = 819,
+						["3last_best_time_zone"] = 631,
+						["2last_best_time_zone"] = 438,
+						["5last_best_time_zone_level_affixes"] = 1628,
+						["2last_best_time_zone_level_affixes"] = 1104,
+						["1last_best_time_zone_level_affixes"] = 463,
+						["2last_best_time_zone_level"] = 602,
+					},
+					["elapsed_time"] = 1548,
+				},
+			},
+			[169] = {
+				["l15affixes-9-122-14-131"] = {
+					["elapsed_time"] = 1599,
+					["times"] = {
+						449, -- [1]
+						911, -- [2]
+						1322, -- [3]
+						1599, -- [4]
+						1175, -- [5]
+					},
+				},
+			},
+		},
 		["npc_progress"] = {
 			[98954] = {
 				[4] = 2,
+			},
+			[144303] = {
+				[3] = 2,
 			},
 			[165872] = {
 				[4] = 138,
@@ -5020,8 +5150,17 @@ MythicPlusTimerDB = {
 			[173044] = {
 				[4] = 45,
 			},
+			[184911] = {
+				[8] = 1,
+			},
+			[144293] = {
+				[6] = 5,
+			},
+			[171455] = {
+				215, -- [1]
+			},
 			[180567] = {
-				[4] = 26,
+				[4] = 32,
 			},
 			[173714] = {
 				[16] = 19,
@@ -5032,8 +5171,23 @@ MythicPlusTimerDB = {
 			[179388] = {
 				[5] = 52,
 			},
+			[80938] = {
+				[18] = 1,
+			},
 			[172312] = {
 				[4] = 422,
+			},
+			[144294] = {
+				[3] = 4,
+			},
+			[162046] = {
+				430, -- [1]
+			},
+			[96584] = {
+				[4] = 3,
+			},
+			[179840] = {
+				[4] = 76,
 			},
 			[167117] = {
 				902, -- [1]
@@ -5041,8 +5195,21 @@ MythicPlusTimerDB = {
 			[162049] = {
 				[4] = 161,
 			},
+			[164510] = {
+				[4] = 131,
+			},
+			[151658] = {
+				[3] = 4,
+			},
+			[144295] = {
+				[3] = 2,
+			},
 			[167532] = {
 				[20] = 24,
+			},
+			[176396] = {
+				[2] = 3.620110026106674e-06,
+				[3] = 70,
 			},
 			[168361] = {
 				[8] = 9,
@@ -5050,24 +5217,42 @@ MythicPlusTimerDB = {
 			[168393] = {
 				[12] = 65,
 			},
+			[164920] = {
+				[4] = 325,
+			},
 			[171772] = {
 				[4] = 163,
 			},
-			[176394] = {
-				[4] = 0.02127709442521752,
-				[5] = 28,
+			[151659] = {
+				[3] = 1,
+			},
+			[144296] = {
+				[5] = 2,
 			},
 			[167533] = {
 				[20] = 19,
 			},
+			[171799] = {
+				[7] = 92,
+			},
 			[179837] = {
-				[20] = 8,
+				[20] = 5.120000000000001,
+				[18] = 2,
+			},
+			[165137] = {
+				[6] = 11,
 			},
 			[173016] = {
 				[4] = 266,
 			},
+			[98177] = {
+				[12] = 1,
+			},
 			[171805] = {
 				[4] = 205,
+			},
+			[171448] = {
+				[4] = 227,
 			},
 			[167534] = {
 				[20] = 22,
@@ -5078,8 +5263,9 @@ MythicPlusTimerDB = {
 			[169893] = {
 				[6] = 100,
 			},
-			[171455] = {
-				215, -- [1]
+			[170690] = {
+				[4] = 94.80000000000001,
+				[5] = 0.2621440000000001,
 			},
 			[164857] = {
 				[2] = 302.2,
@@ -5091,17 +5277,38 @@ MythicPlusTimerDB = {
 			[164921] = {
 				[4] = 285,
 			},
+			[144298] = {
+				[6] = 2,
+			},
 			[170850] = {
 				[7] = 48,
 			},
 			[170882] = {
 				[4] = 222,
 			},
+			[169861] = {
+				[25] = 16,
+			},
 			[168396] = {
 				[12] = 52,
 			},
+			[169696] = {
+				[8] = 143,
+			},
+			[86526] = {
+				[9] = 1,
+			},
+			[162057] = {
+				[7] = 183,
+			},
+			[144299] = {
+				[3] = 6,
+			},
 			[167536] = {
 				[20] = 25,
+			},
+			[81235] = {
+				[2] = 3,
 			},
 			[173720] = {
 				[16] = 24,
@@ -5109,8 +5316,14 @@ MythicPlusTimerDB = {
 			[169927] = {
 				[5] = 146,
 			},
+			[81283] = {
+				[4] = 6,
+			},
 			[165911] = {
 				[4] = 122,
+			},
+			[163620] = {
+				[6] = 10,
 			},
 			[98926] = {
 				[4] = 3,
@@ -5124,23 +5337,44 @@ MythicPlusTimerDB = {
 			[179841] = {
 				[4] = 28,
 			},
+			[168934] = {
+				[8] = 147,
+			},
+			[166411] = {
+				504, -- [1]
+			},
 			[168717] = {
 				[4] = 38,
+			},
+			[168718] = {
+				[4] = 41,
+			},
+			[163524] = {
+				[5] = 356,
 			},
 			[163458] = {
 				[4] = 225,
 			},
-			[164510] = {
-				[4] = 131,
+			[81236] = {
+				[4] = 4,
 			},
 			[179842] = {
 				[8] = 13,
+			},
+			[163621] = {
+				[6] = 33,
 			},
 			[162056] = {
 				275, -- [1]
 			},
 			[163618] = {
 				[8] = 156,
+			},
+			[174197] = {
+				[4] = 6,
+			},
+			[162763] = {
+				[8] = 14,
 			},
 			[163459] = {
 				[4] = 129,
@@ -5163,54 +5397,57 @@ MythicPlusTimerDB = {
 			[164926] = {
 				[6] = 186,
 			},
-			[184911] = {
-				[8] = 1,
+			[84520] = {
+				[9] = 1,
 			},
-			[168718] = {
-				[4] = 41,
+			[164563] = {
+				[4] = 816,
 			},
-			[163524] = {
-				[5] = 356,
+			[168992] = {
+				[4] = 475,
 			},
-			[98177] = {
-				[12] = 1,
+			[179334] = {
+				[24] = 2,
+				[16] = 0.1374389534720001,
+				[20] = 6.4,
 			},
-			[162046] = {
-				430, -- [1]
+			[164862] = {
+				[3] = 516,
+			},
+			[179893] = {
+				[4] = 12,
 			},
 			[167955] = {
 				321, -- [1]
 			},
-			[96584] = {
-				[4] = 3,
+			[167111] = {
+				[5] = 272,
 			},
-			[179840] = {
-				[4] = 73,
+			[168627] = {
+				[8] = 355.4,
+				[6] = 3.450873173395297e-08,
 			},
-			[176395] = {
-				[4] = 0.1037629354146164,
-				[5] = 20,
+			[83389] = {
+				[8] = 1.6,
+				[7] = 1,
 			},
-			[176396] = {
-				[2] = 5.267953421726517e-05,
-				[3] = 58,
+			[180348] = {
+				[8] = 6,
 			},
-			[170690] = {
-				[4] = 94.80000000000001,
-				[5] = 0.2621440000000001,
+			[165111] = {
+				[2] = 277,
 			},
-			[171799] = {
-				[7] = 92,
+			[168022] = {
+				[10] = 141,
 			},
-			[165137] = {
-				[6] = 11,
+			[163891] = {
+				[6] = 207,
 			},
 			[167956] = {
 				601, -- [1]
 			},
-			[179334] = {
-				[16] = 0.2147483648000001,
-				[20] = 10,
+			[80935] = {
+				[7] = 3,
 			},
 			[164705] = {
 				[6] = 101,
@@ -5221,60 +5458,60 @@ MythicPlusTimerDB = {
 			[166299] = {
 				[4] = 232,
 			},
-			[171448] = {
-				[4] = 227,
+			[26125] = {
+				[4] = 1,
 			},
-			[169861] = {
-				[25] = 16,
+			[168886] = {
+				[25] = 34,
 			},
-			[167538] = {
-				[20] = 18,
+			[171181] = {
+				[4] = 562.4,
+				[5] = 3.741444191567121e-06,
 			},
-			[162057] = {
-				[7] = 183,
+			[163086] = {
+				[8] = 65,
 			},
-			[163620] = {
-				[6] = 10,
+			[167963] = {
+				[5] = 294,
 			},
-			[162051] = {
-				[2] = 77,
+			[168681] = {
+				[6] = 65,
 			},
-			[166411] = {
-				504, -- [1]
+			[83390] = {
+				[7] = 3,
 			},
-			[167607] = {
-				[7] = 66,
+			[164861] = {
+				[2] = 581,
 			},
-			[168627] = {
-				[8] = 355.4,
-				[6] = 3.450873173395297e-08,
+			[177807] = {
+				[4] = 111,
 			},
-			[180348] = {
-				[8] = 6,
+			[169875] = {
+				[2] = 494,
 			},
 			[166396] = {
 				[4] = 201,
 			},
-			[163621] = {
-				[6] = 33,
+			[165414] = {
+				[4] = 805,
 			},
-			[168022] = {
-				[10] = 141,
+			[80936] = {
+				[7] = 2,
 			},
 			[170572] = {
 				[6] = 204,
 			},
-			[177808] = {
-				[8] = 25,
+			[167962] = {
+				[8] = 124,
 			},
 			[166301] = {
 				[4] = 226,
 			},
-			[162763] = {
-				[8] = 14,
+			[177808] = {
+				[8] = 29,
 			},
-			[164563] = {
-				[4] = 816,
+			[178165] = {
+				[15] = 8,
 			},
 			[96587] = {
 				[4] = 6,
@@ -5282,11 +5519,11 @@ MythicPlusTimerDB = {
 			[165919] = {
 				[6] = 173,
 			},
-			[168992] = {
-				[4] = 475,
+			[82594] = {
+				7, -- [1]
 			},
-			[168310] = {
-				[12] = 7,
+			[166276] = {
+				[4] = 279,
 			},
 			[174175] = {
 				[4] = 26,
@@ -5297,67 +5534,67 @@ MythicPlusTimerDB = {
 			[165824] = {
 				[15] = 52,
 			},
-			[179893] = {
-				[4] = 12,
-			},
-			[167111] = {
-				[5] = 272,
-			},
-			[163520] = {
-				[6] = 140,
-			},
-			[172981] = {
-				[5] = 124,
-			},
-			[165111] = {
-				[2] = 277,
-			},
-			[167610] = {
-				203, -- [1]
-			},
-			[163891] = {
-				[6] = 207,
-			},
-			[169905] = {
-				[6] = 217,
-			},
-			[26125] = {
-				[4] = 1,
-			},
-			[168949] = {
-				[4] = 486,
-			},
-			[171181] = {
-				[4] = 562.4,
-				[5] = 3.741444191567121e-06,
-			},
-			[167611] = {
-				[4] = 53,
-			},
-			[99649] = {
-				[12] = 1,
-			},
-			[178163] = {
-				265, -- [1]
-			},
-			[166304] = {
-				[4] = 152,
-			},
-			[168886] = {
-				[25] = 34,
-			},
-			[168153] = {
-				[12] = 41,
-			},
-			[171500] = {
-				357.4, -- [1]
-				[4] = 2.043740476963592e-32,
-			},
 			[163882] = {
 				[14] = 83,
 			},
 			[167994] = {
 				[4] = 171,
+			},
+			[163121] = {
+				[5] = 148,
+			},
+			[80937] = {
+				[6] = 3,
+			},
+			[171342] = {
+				[2] = 465,
+			},
+			[178392] = {
+				[10] = 0.4194304000000001,
+				[18] = 7,
+			},
+			[163501] = {
+				[4] = 247,
+			},
+			[169905] = {
+				[6] = 217,
+			},
+			[102584] = {
+				[4] = 2,
+			},
+			[168949] = {
+				[4] = 486,
+			},
+			[82579] = {
+				[12] = 1,
+			},
+			[180336] = {
+				[4] = 2.949120000000001,
+				[5] = 5,
+			},
+			[165076] = {
+				[4] = 285,
+			},
+			[83392] = {
+				[8] = 3,
+			},
+			[98963] = {
+				10, -- [1]
+			},
+			[167611] = {
+				[4] = 53,
+			},
+			[168153] = {
+				[12] = 41,
+			},
+			[172265] = {
+				[4] = 140,
+			},
+			[81432] = {
+				[4] = 1,
+			},
+			[98533] = {
+				[10] = 1,
 			},
 			[171341] = {
 				129, -- [1]
@@ -5371,14 +5608,14 @@ MythicPlusTimerDB = {
 			[167612] = {
 				[6] = 50,
 			},
-			[171342] = {
-				[2] = 465,
+			[167731] = {
+				[4] = 45,
 			},
-			[163086] = {
-				[8] = 65,
+			[99649] = {
+				[12] = 1,
 			},
-			[167963] = {
-				[5] = 294,
+			[178163] = {
+				265, -- [1]
 			},
 			[163915] = {
 				[10] = 9,
@@ -5386,27 +5623,29 @@ MythicPlusTimerDB = {
 			[165222] = {
 				[4] = 65,
 			},
-			[163501] = {
-				[4] = 247,
+			[164873] = {
+				[4] = 232,
 			},
 			[179821] = {
-				[20] = 0.3355443200000001,
-				[25] = 8,
+				[24] = 2,
+				[25] = 5.120000000000001,
+				[20] = 0.2147483648000001,
 			},
-			[169875] = {
-				[2] = 494,
+			[167965] = {
+				[5] = 148.4,
+				[6] = 0.003022314549036578,
 			},
 			[102566] = {
 				[12] = 1,
 			},
+			[170486] = {
+				[2] = 292,
+			},
 			[167964] = {
 				[8] = 69,
 			},
-			[165414] = {
-				[4] = 805,
-			},
-			[167731] = {
-				[4] = 45,
+			[171376] = {
+				[10] = 40,
 			},
 			[171343] = {
 				[5] = 62,
@@ -5414,49 +5653,48 @@ MythicPlusTimerDB = {
 			[166275] = {
 				[4] = 189,
 			},
-			[165415] = {
-				[2] = 736,
+			[177817] = {
+				[4] = 66,
 			},
 			[171184] = {
 				[12] = 11,
 			},
-			[171376] = {
-				[10] = 40,
-			},
-			[164873] = {
-				[4] = 232,
-			},
-			[167965] = {
-				[5] = 148.4,
-				[6] = 0.003022314549036578,
-			},
-			[166276] = {
-				[4] = 279,
-			},
 			[102583] = {
 				[4] = 2,
+			},
+			[178133] = {
+				[3] = 65,
+			},
+			[165415] = {
+				[2] = 736,
+			},
+			[167998] = {
+				[8] = 92,
+			},
+			[180429] = {
+				[10] = 7,
 			},
 			[167806] = {
 				[10] = 0.8,
 				[4] = 1,
 			},
-			[163503] = {
-				[2] = 765,
+			[151773] = {
+				[4] = 4,
 			},
 			[167615] = {
 				[4] = 103,
 			},
+			[83697] = {
+				[3] = 4,
+			},
+			[163089] = {
+				588, -- [1]
+			},
 			[168986] = {
 				[3] = 484,
 			},
-			[180429] = {
-				[10] = 7,
-			},
-			[163121] = {
-				[5] = 148,
-			},
-			[167998] = {
-				[8] = 92,
+			[80940] = {
+				[3] = 5,
 			},
 			[180015] = {
 				[5] = 46,
@@ -5464,27 +5702,26 @@ MythicPlusTimerDB = {
 			[168572] = {
 				[8] = 144,
 			},
-			[162038] = {
-				[7] = 79,
+			[83028] = {
+				[3] = 1,
 			},
 			[177816] = {
-				[4] = 61,
+				[4] = 64,
 			},
 			[163058] = {
 				[4] = 405,
 			},
-			[178392] = {
-				[10] = 0.65536,
-				[18] = 5,
+			[163503] = {
+				[2] = 765,
 			},
 			[167967] = {
 				[6] = 196,
 			},
-			[177817] = {
-				[4] = 60,
+			[163857] = {
+				[4] = 731,
 			},
-			[180431] = {
-				[5] = 28,
+			[162038] = {
+				[7] = 79,
 			},
 			[168318] = {
 				[8] = 287,
@@ -5499,18 +5736,17 @@ MythicPlusTimerDB = {
 			[162039] = {
 				[4] = 678,
 			},
-			[170486] = {
-				[2] = 292,
+			[180431] = {
+				[5] = 28,
 			},
 			[96480] = {
 				6, -- [1]
 			},
 			[180495] = {
-				[10] = 8,
+				[10] = 10,
 			},
-			[180336] = {
-				[4] = 2.949120000000001,
-				[5] = 5,
+			[81212] = {
+				[7] = 9,
 			},
 			[168574] = {
 				[8] = 61,
@@ -5519,20 +5755,20 @@ MythicPlusTimerDB = {
 				[4] = 394,
 				[5] = 1.032899951234772e-13,
 			},
-			[102584] = {
-				[4] = 2,
+			[162047] = {
+				[7] = 110,
 			},
 			[162040] = {
 				[7] = 154,
 			},
-			[163857] = {
-				[4] = 731,
-			},
 			[180432] = {
 				[5] = 43,
 			},
-			[163089] = {
-				588, -- [1]
+			[151649] = {
+				[3] = 6,
+			},
+			[170480] = {
+				[5] = 269,
 			},
 			[170838] = {
 				[4] = 89,
@@ -5540,38 +5776,39 @@ MythicPlusTimerDB = {
 			[165515] = {
 				[4] = 480,
 			},
-			[178165] = {
-				[15] = 8,
+			[171500] = {
+				357.4, -- [1]
+				[4] = 2.043740476963592e-32,
 			},
-			[178133] = {
-				[3] = 65,
+			[166304] = {
+				[4] = 152,
 			},
 			[162041] = {
 				[2] = 180,
 			},
-			[165076] = {
-				[4] = 285,
+			[163862] = {
+				[8] = 255,
 			},
-			[162047] = {
-				[7] = 110,
+			[167610] = {
+				203, -- [1]
 			},
 			[165197] = {
 				[12] = 9,
 			},
-			[170480] = {
-				[5] = 269,
+			[83763] = {
+				[2] = 1,
 			},
-			[98533] = {
-				[10] = 1,
+			[163520] = {
+				[6] = 140,
 			},
-			[167962] = {
-				[8] = 124,
+			[167607] = {
+				[7] = 66,
 			},
-			[172265] = {
-				[4] = 140,
+			[162051] = {
+				[2] = 77,
 			},
-			[98963] = {
-				10, -- [1]
+			[168310] = {
+				[12] = 7,
 			},
 			[178139] = {
 				[6] = 56,
@@ -5582,8 +5819,8 @@ MythicPlusTimerDB = {
 			[167493] = {
 				[8] = 168,
 			},
-			[168681] = {
-				[6] = 65,
+			[164707] = {
+				[6] = 119,
 			},
 			[97677] = {
 				7, -- [1]
@@ -5604,23 +5841,23 @@ MythicPlusTimerDB = {
 				[6] = 307.6,
 				[12] = 0.2621440000000001,
 			},
-			[163862] = {
-				[8] = 255,
+			[162729] = {
+				[4] = 1272,
 			},
-			[164861] = {
-				[2] = 581,
+			[167538] = {
+				[20] = 18,
 			},
 			[168578] = {
 				[8] = 121,
 			},
-			[164707] = {
-				[6] = 119,
+			[179386] = {
+				[5] = 26,
 			},
 			[164562] = {
 				[4] = 435,
 			},
-			[177807] = {
-				[4] = 102,
+			[88163] = {
+				[8] = 3,
 			},
 			[178141] = {
 				[3] = 50,
@@ -5628,17 +5865,17 @@ MythicPlusTimerDB = {
 			[163128] = {
 				[4] = 340,
 			},
-			[164862] = {
-				[3] = 516,
+			[173655] = {
+				[16] = 35,
 			},
-			[162729] = {
-				[4] = 1272,
+			[151476] = {
+				[9] = 2,
 			},
 			[171384] = {
 				[4] = 112,
 			},
-			[174197] = {
-				[4] = 6,
+			[168907] = {
+				[10] = 5,
 			},
 			[167113] = {
 				[4] = 538,
@@ -5652,23 +5889,24 @@ MythicPlusTimerDB = {
 			[163894] = {
 				[12] = 167,
 			},
-			[168934] = {
-				[8] = 147,
+			[86809] = {
+				[5] = 3,
 			},
-			[173655] = {
-				[16] = 35,
+			[176395] = {
+				[4] = 0.03400103867666151,
+				[5] = 25,
 			},
 			[168580] = {
 				[8] = 14,
 			},
-			[169696] = {
-				[8] = 143,
+			[81407] = {
+				[12] = 2,
 			},
-			[168907] = {
-				[10] = 5,
+			[172981] = {
+				[5] = 124,
 			},
-			[179386] = {
-				[5] = 26,
+			[81279] = {
+				[5] = 3,
 			},
 			[165138] = {
 				502.3616, -- [1]
@@ -5677,10 +5915,11 @@ MythicPlusTimerDB = {
 			[173840] = {
 				[4] = 108,
 			},
-			[164920] = {
-				[4] = 325,
+			[176394] = {
+				[4] = 0.01089387234571137,
+				[5] = 31,
 			},
 		},
-		["insert_keystone"] = true,
+		["color_time"] = "FFFFFFFF",
 	},
 }

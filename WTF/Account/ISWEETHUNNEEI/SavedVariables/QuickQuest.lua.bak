@@ -9,9 +9,9 @@ QuickQuestDB2 = {
 		["Stryfë - Bleeding Hollow"] = "Default",
 		["Diá - Bleeding Hollow"] = "Default",
 		["Blù - Bleeding Hollow"] = "Default",
-		["Pándan - Bleeding Hollow"] = "Default",
-		["Holynoly - Bleeding Hollow"] = "Default",
 		["Dorkks - Wyrmrest Accord"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

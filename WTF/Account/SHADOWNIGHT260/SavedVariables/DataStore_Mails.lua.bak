@@ -13,11 +13,11 @@ DataStore_MailsDB = {
 		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
-		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
+		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
@@ -26,11 +26,11 @@ DataStore_MailsDB = {
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
-		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
+		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -169,8 +169,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2021/10/19 16:01",
 			},
 			["Default.Bleeding Hollow.Lickk"] = {
-				["lastUpdate"] = 1658775129,
-				["lastVisitDate"] = "2022/07/25 14:52",
+				["lastUpdate"] = 1659747679,
+				["lastVisitDate"] = "2022/08/05 21:01",
 			},
 			["Default.Dalaran.Dwarfdorkk"] = {
 				["lastUpdate"] = 1553282074,
@@ -181,23 +181,12 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2022/07/17 12:15",
 			},
 			["Default.Bleeding Hollow.Dorkk"] = {
-				["lastUpdate"] = 1659137681,
-				["lastVisitDate"] = "2022/07/29 19:34",
+				["lastUpdate"] = 1659748529,
+				["lastVisitDate"] = "2022/08/05 21:15",
 			},
 			["Default.Bleeding Hollow.Illidorkk"] = {
-				["lastUpdate"] = 1658099288,
-				["Mails"] = {
-					{
-						["sender"] = "Dorkk",
-						["itemID"] = 169475,
-						["link"] = "|cff1eff00|Hitem:169475::::::::60:255::::1:28:690:::::|h[Barnacled Lockbox]|h|r",
-						["count"] = 1,
-						["lastCheck"] = 1658196099,
-						["icon"] = 644388,
-						["daysLeft"] = 30,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2022/07/17 19:08",
+				["lastUpdate"] = 1659747871,
+				["lastVisitDate"] = "2022/08/05 21:04",
 			},
 			["Default.Mal'Ganis.Platebaleful"] = {
 				["lastUpdate"] = 1551677748,

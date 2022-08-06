@@ -4,20 +4,20 @@ DataStoreDB = {
 		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
 		["Moodroo - Bleeding Hollow"] = "Moodroo - Bleeding Hollow",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
 		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
+		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
+		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
@@ -26,7 +26,7 @@ DataStoreDB = {
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
@@ -119,9 +119,9 @@ DataStoreDB = {
 				["faction"] = "Alliance",
 				["guildName"] = "Wipe Out",
 			},
-			["Default.Bleeding Hollow.Dorkk"] = {
-				["guildName"] = "STARWORLD",
+			["Default.Bleeding Hollow.Geekk"] = {
 				["faction"] = "Horde",
+				["guildName"] = "Papercut",
 			},
 			["Default.Bleeding Hollow.Moodroo"] = {
 				["faction"] = "Horde",
@@ -142,20 +142,20 @@ DataStoreDB = {
 				["faction"] = "Horde",
 				["guildName"] = "STARWORLD",
 			},
-			["Default.Bleeding Hollow.Geekk"] = {
+			["Default.Bleeding Hollow.Dorkk"] = {
+				["guildName"] = "STARWORLD",
 				["faction"] = "Horde",
-				["guildName"] = "Papercut",
 			},
 			["Default.Bleeding Hollow.Illidorkk"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Mal'Ganis.Platebaleful"] = {
+			["Default.Area 52.Dorkkborne"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Bleeding Hollow.Awkk"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Area 52.Dorkkborne"] = {
+			["Default.Mal'Ganis.Platebaleful"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Bleeding Hollow.Wardorkk"] = {

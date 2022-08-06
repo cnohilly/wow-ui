@@ -2,19 +2,19 @@
 DataStoreDB = {
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
 		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
 		["Happybirth - Tichondrius"] = "Happybirth - Tichondrius",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 	},
 	["global"] = {
 		["Guilds"] = {
@@ -43,59 +43,59 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Bleeding Hollow.Katdoge"] = {
-				["guildName"] = "Nightmare Unending",
 				["faction"] = "Horde",
+				["guildName"] = "Nightmare Unending",
 			},
 			["Default.Bleeding Hollow.Inolie"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Nightmare Unending",
+				["faction"] = "Horde",
 			},
 			["Default.Bleeding Hollow.Holynoly"] = {
-				["guildName"] = "STARWORLD",
 				["faction"] = "Horde",
+				["guildName"] = "STARWORLD",
 			},
 			["Default.Bleeding Hollow.Stryfë"] = {
-				["guildName"] = "STARWORLD",
 				["faction"] = "Horde",
+				["guildName"] = "STARWORLD",
 			},
 			["Default.Bleeding Hollow.Trublmakr"] = {
-				["guildName"] = "Nightmare Unending",
 				["faction"] = "Horde",
+				["guildName"] = "Nightmare Unending",
 			},
 			["Default.Bleeding Hollow.Emoclëw"] = {
+				["faction"] = "Horde",
 				["guildName"] = "Nightmare Unending",
-				["faction"] = "Horde",
-			},
-			["Default.Tichondrius.Happybirth"] = {
-				["guildName"] = "This is the End",
-				["faction"] = "Horde",
 			},
 			["Default.Bleeding Hollow.Diá"] = {
-				["guildName"] = "Papercut",
 				["faction"] = "Horde",
+				["guildName"] = "Papercut",
+			},
+			["Default.Tichondrius.Happybirth"] = {
+				["faction"] = "Horde",
+				["guildName"] = "This is the End",
 			},
 			["Default.Bleeding Hollow.Nolieper"] = {
-				["guildName"] = "Nightmare Unending",
 				["faction"] = "Horde",
+				["guildName"] = "Nightmare Unending",
 			},
-			["Default.Bleeding Hollow.Emogin"] = {
-				["guildName"] = "Nightmare Unending",
+			["Default.Bleeding Hollow.Noliee"] = {
 				["faction"] = "Horde",
+				["guildName"] = "Nightmare Unending",
+			},
+			["Default.Bleeding Hollow.Blù"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Yep Yep Yep",
 			},
 			["Default.Wyrmrest Accord.Dorkks"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Bleeding Hollow.Blù"] = {
-				["guildName"] = "Yep Yep Yep",
+			["Default.Bleeding Hollow.Emogin"] = {
 				["faction"] = "Horde",
-			},
-			["Default.Bleeding Hollow.Noliee"] = {
 				["guildName"] = "Nightmare Unending",
-				["faction"] = "Horde",
 			},
 			["Default.Bleeding Hollow.Pándan"] = {
-				["guildName"] = "Never Lucky",
 				["faction"] = "Horde",
+				["guildName"] = "Never Lucky",
 			},
 		},
 		["ShortToLongRealmNames"] = {

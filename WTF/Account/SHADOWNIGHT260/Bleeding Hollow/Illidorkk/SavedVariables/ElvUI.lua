@@ -2,29 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"up to you", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			22, -- [11]
-			false, -- [12]
-			31, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Sprootzz|r",
-			[51] = 1657602122,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sprootzz",
-		}, -- [1]
-		{
 			"if your going ally go", -- [1]
 			"|Kq25|k", -- [2]
 			"", -- [3]
@@ -46,7 +23,7 @@ ElvCharacterDB = {
 			[51] = 1657602129,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sprootzz",
-		}, -- [2]
+		}, -- [1]
 		{
 			"i mean ill do whichever i just wanna do it so i can go to bed lol", -- [1]
 			"|Kq25|k", -- [2]
@@ -69,7 +46,7 @@ ElvCharacterDB = {
 			[51] = 1657602194,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [3]
+		}, -- [2]
 		{
 			"i have no intention of keeping ally once patch is over", -- [1]
 			"|Kq25|k", -- [2]
@@ -92,7 +69,7 @@ ElvCharacterDB = {
 			[51] = 1657602203,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [4]
+		}, -- [3]
 		{
 			"just doing to keep lockout", -- [1]
 			"|Kq25|k", -- [2]
@@ -115,7 +92,7 @@ ElvCharacterDB = {
 			[51] = 1657602206,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [5]
+		}, -- [4]
 		{
 			"we can exptend it tommorow", -- [1]
 			"|Kq25|k", -- [2]
@@ -138,7 +115,7 @@ ElvCharacterDB = {
 			[51] = 1657602207,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sprootzz",
-		}, -- [6]
+		}, -- [5]
 		{
 			"well point is to save it now", -- [1]
 			"|Kq25|k", -- [2]
@@ -161,7 +138,7 @@ ElvCharacterDB = {
 			[51] = 1657602218,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [7]
+		}, -- [6]
 		{
 			"cus we have to extend it before we kill", -- [1]
 			"|Kq25|k", -- [2]
@@ -184,7 +161,7 @@ ElvCharacterDB = {
 			[51] = 1657602228,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [8]
+		}, -- [7]
 		{
 			"so go ally", -- [1]
 			"|Kq25|k", -- [2]
@@ -207,7 +184,7 @@ ElvCharacterDB = {
 			[51] = 1657602231,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sprootzz",
-		}, -- [9]
+		}, -- [8]
 		{
 			"and give it to me", -- [1]
 			"|Kq25|k", -- [2]
@@ -230,7 +207,7 @@ ElvCharacterDB = {
 			[51] = 1657602235,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sprootzz",
-		}, -- [10]
+		}, -- [9]
 		{
 			"idt it will work if we kill it in the same week we attempt to extend", -- [1]
 			"|Kq25|k", -- [2]
@@ -253,7 +230,7 @@ ElvCharacterDB = {
 			[51] = 1657602190,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [11]
+		}, -- [10]
 		{
 			"so well do it tommorow", -- [1]
 			"|Kq25|k", -- [2]
@@ -276,7 +253,7 @@ ElvCharacterDB = {
 			[51] = 1657602267,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sprootzz",
-		}, -- [12]
+		}, -- [11]
 		{
 			"whoever needs the lockout on horde", -- [1]
 			"|Kq25|k", -- [2]
@@ -299,7 +276,7 @@ ElvCharacterDB = {
 			[51] = 1657602268,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [13]
+		}, -- [12]
 		{
 			"before they go ally", -- [1]
 			"|Kq25|k", -- [2]
@@ -322,7 +299,7 @@ ElvCharacterDB = {
 			[51] = 1657602273,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [14]
+		}, -- [13]
 		{
 			"tomorrow would be the same week we extend", -- [1]
 			"|Kq25|k", -- [2]
@@ -345,7 +322,7 @@ ElvCharacterDB = {
 			[51] = 1657602289,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [15]
+		}, -- [14]
 		{
 			"just go dh and get me lockout so i can go sleep", -- [1]
 			"|Kq25|k", -- [2]
@@ -368,7 +345,7 @@ ElvCharacterDB = {
 			[51] = 1657602317,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sprootzz",
-		}, -- [16]
+		}, -- [15]
 		{
 			"ok", -- [1]
 			"|Kq25|k", -- [2]
@@ -391,7 +368,7 @@ ElvCharacterDB = {
 			[51] = 1657602323,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sprootzz",
-		}, -- [17]
+		}, -- [16]
 		{
 			"Tahkwitz", -- [1]
 			"Jerryuno-Illidan", -- [2]
@@ -413,7 +390,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Jerryuno-Illidan|r",
 			[51] = 1657602375,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [17]
 		{
 			"dork im not in yet", -- [1]
 			"Cocogoat-BleedingHollow", -- [2]
@@ -435,7 +412,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Cocogoat|r",
 			[51] = 1657602415,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [18]
 		{
 			"dont matter", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -457,7 +434,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657602360,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"you can get it?", -- [1]
 			"Cocogoat-BleedingHollow", -- [2]
@@ -479,7 +456,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Cocogoat|r",
 			[51] = 1657602368,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [20]
 		{
 			"ye", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -501,7 +478,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657602435,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"you got it?", -- [1]
 			"Cocogoat-BleedingHollow", -- [2]
@@ -523,7 +500,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Cocogoat|r",
 			[51] = 1657602438,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+		}, -- [22]
 		{
 			"10/11m", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -545,7 +522,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657602438,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"ye ty", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -567,7 +544,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657602441,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"k sick", -- [1]
 			"Cocogoat-BleedingHollow", -- [2]
@@ -589,7 +566,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Cocogoat|r",
 			[51] = 1657602441,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
+		}, -- [25]
 		{
 			"WTB |cffa335ee|Hitem:40150::::::::20:263:::::::::|h[Deft Ametrine]|h|r ", -- [1]
 			"Shookz-BleedingHollow", -- [2]
@@ -611,7 +588,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcShookz|r",
 			[51] = 1657602625,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [26]
 		{
 			"WTS +15-20's Get your vault rewards Get your portals all timed gold only PST For info", -- [1]
 			"Glasshearts-BleedingHollow", -- [2]
@@ -633,7 +610,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edGlasshearts|r",
 			[51] = 1657602608,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [27]
 		{
 			"WTS 2v2 boosts up to 2100 for gold pst", -- [1]
 			"Kraftyx-BleedingHollow", -- [2]
@@ -655,7 +632,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKraftyx|r",
 			[51] = 1657602706,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [28]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -677,7 +654,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657839924,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [30]
+		}, -- [29]
 		{
 			"<SavedInstances> Sepulcher of the First Ones has been reset.", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -699,7 +676,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657839924,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [31]
+		}, -- [30]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -721,7 +698,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657840455,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [32]
+		}, -- [31]
 		{
 			"make raid", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -743,7 +720,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909366,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [32]
 		{
 			"that's the lamest name I've ever seen", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -765,7 +742,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909367,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [33]
 		{
 			"thanks", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -787,7 +764,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909375,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"yw", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -809,7 +786,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909324,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+		}, -- [35]
 		{
 			"hm it says im already locked, so let me try inviting you rq", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -831,7 +808,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909399,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"I'm on disc", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -853,7 +830,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909384,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"in a call with gf", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -875,7 +852,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909393,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [38]
 		{
 			"lame", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -897,7 +874,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909396,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [39]
 		{
 			"but yeah idk. the lockout dupe ddidnt work", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -919,7 +896,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909460,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
+		}, -- [40]
 		{
 			"rip", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -941,7 +918,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909460,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [42]
+		}, -- [41]
 		{
 			"says i have a lock out", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -963,7 +940,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909465,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [42]
 		{
 			"i cant enter your lockout cus says im saved", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -985,7 +962,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909471,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
+		}, -- [43]
 		{
 			"I wonder if it will let you extend it?", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1007,7 +984,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909475,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [44]
 		{
 			"but if i enter my lockout its just a fresh raid", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1029,7 +1006,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909477,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [45]
 		{
 			"and I wonder what happens if I walk in?", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1051,7 +1028,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909482,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [46]
 		{
 			"well its different ids", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1073,7 +1050,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909498,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
+		}, -- [47]
 		{
 			"sepulchre without the boys? the betrayal", -- [1]
 			"|Kq20|k", -- [2]
@@ -1096,7 +1073,7 @@ ElvCharacterDB = {
 			[51] = 1657909499,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [49]
+		}, -- [48]
 		{
 			"like id number is completely different", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1118,7 +1095,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909448,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
+		}, -- [49]
 		{
 			"says all bosses dead", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1140,7 +1117,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909452,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
+		}, -- [50]
 		{
 			"etc", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1162,7 +1139,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
+		}, -- [51]
 		{
 			"but doesnt actually work ", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1184,7 +1161,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909520,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
+		}, -- [52]
 		{
 			"rip $60 for nothing", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1206,7 +1183,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909547,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [54]
+		}, -- [53]
 		{
 			"wait, was that really $60?", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1228,7 +1205,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909506,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [54]
 		{
 			"its 30 for a facton transfer, or 60 for 3 transfers", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1250,7 +1227,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909580,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
+		}, -- [55]
 		{
 			"so i bought the 3 so i can bring this toon back when it was done", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1272,7 +1249,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909596,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+		}, -- [56]
 		{
 			"but it didnt work anyway", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1294,7 +1271,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909599,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [57]
 		{
 			"sck", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1316,7 +1293,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909602,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
+		}, -- [58]
 		{
 			"sick", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1338,7 +1315,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909603,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [59]
 		{
 			"yep, nothing", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1360,7 +1337,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909640,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1382,7 +1359,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909653,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [62]
+		}, -- [61]
 		{
 			"i dont get it ", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1404,7 +1381,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909668,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [62]
 		{
 			"maybe it will work when you extend next week?", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1426,7 +1403,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909728,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [63]
 		{
 			"this one is extended from last week", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1448,7 +1425,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909692,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [64]
 		{
 			"yeah, like maybe when the reset comes around it will be \"fixed\"?", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1470,7 +1447,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909789,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [65]
 		{
 			"idk", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1492,7 +1469,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909849,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
+		}, -- [66]
 		{
 			"i wish i could put a ticket in but", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1514,7 +1491,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909858,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [68]
+		}, -- [67]
 		{
 			"we are trying to abuse a glitch", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1536,7 +1513,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909806,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [68]
 		{
 			"yep", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1558,7 +1535,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909808,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"lmfao", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1580,7 +1557,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909809,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+		}, -- [70]
 		{
 			"what's your paypal?  I'll just send you $60", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1602,7 +1579,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909907,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [71]
 		{
 			"lmao dont gotta do that", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1624,7 +1601,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909918,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+		}, -- [72]
 		{
 			"im mostly just disappointed it ddnt work", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1646,7 +1623,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909863,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
+		}, -- [73]
 		{
 			"not fair that you had to pay for all of it", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1668,7 +1645,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909874,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"snce unless someone else can get t to work or something, odds that we can get ethan CE or anything is pretty low", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1690,7 +1667,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909945,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
+		}, -- [75]
 		{
 			"we tried to dupe lockout", -- [1]
 			"|Kq20|k", -- [2]
@@ -1713,7 +1690,7 @@ ElvCharacterDB = {
 			[51] = 1657909966,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [77]
+		}, -- [76]
 		{
 			"but ddnt work", -- [1]
 			"|Kq20|k", -- [2]
@@ -1736,7 +1713,7 @@ ElvCharacterDB = {
 			[51] = 1657909968,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [78]
+		}, -- [77]
 		{
 			"so i was checkng", -- [1]
 			"|Kq20|k", -- [2]
@@ -1759,7 +1736,7 @@ ElvCharacterDB = {
 			[51] = 1657909971,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [79]
+		}, -- [78]
 		{
 			"and its sadge", -- [1]
 			"|Kq20|k", -- [2]
@@ -1782,7 +1759,7 @@ ElvCharacterDB = {
 			[51] = 1657909974,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Bandit",
-		}, -- [80]
+		}, -- [79]
 		{
 			"ethan can go with the pals for their reclear maybe?", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -1804,7 +1781,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657909920,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [80]
 		{
 			"ii was just thinking that as well but mostly up to them i think lol", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1826,7 +1803,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657909936,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
+		}, -- [81]
 		{
 			"dupe lockout?", -- [1]
 			"|Kq20|k", -- [2]
@@ -1849,7 +1826,7 @@ ElvCharacterDB = {
 			[51] = 1657910003,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [83]
+		}, -- [82]
 		{
 			"jailer mythic lockout?", -- [1]
 			"|Kq20|k", -- [2]
@@ -1872,7 +1849,7 @@ ElvCharacterDB = {
 			[51] = 1657910022,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Bandit",
-		}, -- [84]
+		}, -- [83]
 		{
 			"gonna try inviting my girlfriend and tell her to run in and see if its just completely fresh for her cus idk", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1894,7 +1871,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910045,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [84]
 		{
 			"literally lockout says 10/11", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1916,7 +1893,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910048,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [86]
+		}, -- [85]
 		{
 			"and when i open dungeon journal all the bosses are dead", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1938,7 +1915,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910056,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
+		}, -- [86]
 		{
 			"they all have the x on them", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1960,7 +1937,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910123,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
+		}, -- [87]
 		{
 			"but the raid itself is def fresh", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -1982,7 +1959,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910129,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [88]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -2004,7 +1981,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910140,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [90]
+		}, -- [89]
 		{
 			"alright, I have to get off for a meeting", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -2026,7 +2003,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657910477,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
+		}, -- [90]
 		{
 			"yeah ", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -2048,7 +2025,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910541,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [91]
 		{
 			"talk to you later", -- [1]
 			"Travieso-BleedingHollow", -- [2]
@@ -2070,7 +2047,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTravieso|r",
 			[51] = 1657910542,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [92]
 		{
 			"i let ethan know it didnt work", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -2092,7 +2069,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910546,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [93]
 		{
 			"thanks for checking", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -2114,7 +2091,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910547,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [94]
 		{
 			"maybe it will work tuesday", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -2136,7 +2113,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910555,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [95]
 		{
 			"who knows", -- [1]
 			"Illidorkk-BleedingHollow", -- [2]
@@ -2158,7 +2135,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illidorkk|r",
 			[51] = 1657910556,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [96]
 		{
 			"Mother Phestis 100.00% ~(54.98, 33.86) |cffffff00|Hworldmap:1970:5498:3386|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Shaundakul-BleedingHollow", -- [2]
@@ -2180,7 +2157,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Shaundakul|r",
 			[51] = 1657910733,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [97]
 		{
 			"if you were so harmless you wouldnt want to fight", -- [1]
 			"Itsybitsy-BleedingHollow", -- [2]
@@ -2202,6 +2179,29 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Itsybitsy|r",
 			[51] = 1658099158,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"t", -- [1]
+			"|Kq42|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			false, -- [12]
+			9, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Insanoflex|r",
+			[51] = 1659747925,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Insanoflex",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {

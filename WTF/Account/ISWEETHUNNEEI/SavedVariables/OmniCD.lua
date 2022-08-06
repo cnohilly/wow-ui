@@ -8,18 +8,18 @@ OmniCDDB = {
 		["Blù - Bleeding Hollow"] = "Default",
 		["Trublmakr - Bleeding Hollow"] = "Default",
 	},
-	["cooldowns"] = {
-	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["cooldowns"] = {
+	},
+	["version"] = 2.51,
 	["global"] = {
 		["disableElvMsg"] = true,
 		["oodChk"] = 220423,
 		["oodVer"] = 2713,
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {

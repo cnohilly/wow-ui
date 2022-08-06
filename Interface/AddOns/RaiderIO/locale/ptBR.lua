@@ -54,8 +54,14 @@ L["DISABLE_RWF_MODE_BUTTON_TOOLTIP"] = "Clique para desativar o modo Race World 
 L["DISABLE_RWF_MODE_RELOAD"] = "Você está desabilitando o modo Race World First. Clicar em Confirmar irá recarregar sua interface."
 L["DPS"] = "DPS"
 L["DUNGEON_SHORT_NAME_DOS"] = "Outro Lado"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_GD"] = ""--]] 
 L["DUNGEON_SHORT_NAME_GMBT"] = "Gambito de So'leah"
 L["DUNGEON_SHORT_NAME_HOA"] = "Salões"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_ID"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_LOWR"] = ""--]] 
 L["DUNGEON_SHORT_NAME_MISTS"] = "Brumas"
 L["DUNGEON_SHORT_NAME_NW"] = "Chaga"
 L["DUNGEON_SHORT_NAME_PF"] = "Empéstia"
@@ -63,6 +69,12 @@ L["DUNGEON_SHORT_NAME_SD"] = "Profundezas"
 L["DUNGEON_SHORT_NAME_SOA"] = "Torres"
 L["DUNGEON_SHORT_NAME_STRT"] = "Ruas das Maravilhas"
 L["DUNGEON_SHORT_NAME_TOP"] = "Teatro"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_UPPR"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_WORK"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_YARD"] = ""--]] 
 L["ENABLE_AUTO_FRAME_POSITION"] = "Posicionar o Quadro de Perfil do Raider.IO Automaticamente."
 L["ENABLE_AUTO_FRAME_POSITION_DESC"] = "Ativar isso manterá o Quadro de perfil de M+ ao lado do \"Localizador de grupos\"."
 L["ENABLE_DEBUG_MODE_RELOAD"] = "Você está ativando o modo de depuração. Destina-se apenas a fins de teste e desenvolvimento e incorrerá em uso adicional de memória. Clicar em Confirmar recarregará sua interface."
@@ -133,6 +145,68 @@ L["RAID_BOSS_CN_6"] = "Lady Verva Venumbra"
 L["RAID_BOSS_CN_7"] = "O Conselho de Sangue"
 L["RAID_BOSS_CN_8"] = "Punholodo"
 L["RAID_BOSS_CN_9"] = "Generais da Legião de Pedra"
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_11"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_9"] = ""--]] 
 L["RAID_BOSS_SFO_1"] = "Guardião Vigilante"
 L["RAID_BOSS_SFO_10"] = "Rygelon"
 L["RAID_BOSS_SFO_11"] = "O Carcereiro"

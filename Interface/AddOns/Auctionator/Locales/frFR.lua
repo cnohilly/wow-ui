@@ -139,19 +139,9 @@ L["CONFIG_SELLING_SHOW_BID_PRICE_TOOLTIP_HEADER"] = "Afficher le prix d'enchère
 L["CONFIG_SELLING_SHOW_BID_PRICE_TOOLTIP_TEXT"] = "Ajoute le prix d'enchère en plus du prix d'achat immédiat lors de la prépation de vos ventes."
 L["CONFIG_SELLING_SKIP_SHORTCUT"] = "Ignorer l'objet sélectionné et passer au suivant avec :"
 L["CONFIG_SELLING_TBC_ALL_ITEMS"] = "Options liées à la vente des objets."
-L["CONFIG_SELLING_TBC_SHOW_ALL_RESULTS"] = "Inclure les ventes non indispensables à l'obtention d'un prix minimal"
-L["CONFIG_SELLING_TBC_SHOW_ALL_RESULTS_TOOLTIP_HEADER"] = "Affiche tous les résultats"
-L["CONFIG_SELLING_TBC_SHOW_ALL_RESULTS_TOOLTIP_TEXT"] = [=[Active le scan de toutes les pages et l'affichage de toutes les ventes actuelles pour un objet.
-Autrement, seule la première page de résultats est considérée comme pertinente et traîtée afin de proposer un prix de vente.]=]
 L["CONFIG_SELLING_TEXT"] = "Options liées à l'onglet Vente."
 L["CONFIG_SHOPPING_CATEGORY"] = "Achat"
 L["CONFIG_SHOPPING_LIST"] = "Options liées aux listes d'achats."
-L["CONFIG_SHOPPING_LIST_EXCLUDE_RESULTS_FOR_SPEED"] = "Ignorer les résultats qui ne figurent pas sur la première page de la recherche en cours."
-L["CONFIG_SHOPPING_LIST_EXCLUDE_RESULTS_FOR_SPEED_TOOLTIP_HEADER"] = "Exclure les résultats pour plus de rapidité"
-L["CONFIG_SHOPPING_LIST_EXCLUDE_RESULTS_FOR_SPEED_TOOLTIP_TEXT"] = "Le fait d'ignorer les résultats qui ne figurent pas sur la première page peut faire que certains articles coûteux n'apparaissent pas. Les quantités dans l'historique des prix et les résultats de recherche seront inexactes."
-L["CONFIG_SHOPPING_LIST_FULL_REFRESH"] = "Rafraîchir toutes les pages en cliquant sur le bouton \"Rafraîchir\"."
-L["CONFIG_SHOPPING_LIST_FULL_REFRESH_TOOLTIP_HEADER"] = "Rafraichir toutes les pages"
-L["CONFIG_SHOPPING_LIST_FULL_REFRESH_TOOLTIP_TEXT"] = "Seule la première page est nécessaire pour déterminer le prix le plus bas. Si vous n'êtes intéressé que par le prix le plus bas et n'avez pas besoin de voir le reste des résultats, vous pouvez désactiver cette option pour gagner en rapidité."
 L["CONFIG_SHOPPING_LIST_MISSING_TERMS"] = "Afficher les objets introuvables d'une liste d'achats"
 L["CONFIG_SHOPPING_LIST_MISSING_TERMS_TOOLTIP_HEADER"] = "Recherches sans résultat"
 L["CONFIG_SHOPPING_LIST_MISSING_TERMS_TOOLTIP_TEXT"] = "Lorsqu'un objet est introuvable, il sera quand même affiché dans les résultats et indiquera une quantité disponible de 0."
@@ -244,6 +234,9 @@ L["LIST_EXTENDED_SEARCH_HEADER"] = "Options de recherche avancée"
 L["LIST_IMPORT_HEADER"] = "Importer la liste d'achats"
 L["LIST_SEARCH_START"] = "Recherche des objets dans %s..."
 L["LIST_SEARCH_STATUS"] = "Recherche de l'objet %s/%s dans \\n %s"
+L["LOAD_HIGHER_PRICES"] = "Charger les prix plus élevés"
+--[[Translation missing --]]
+L["LOAD_MORE_RESULTS"] = "Load more results"
 L["MAIL_TOOLTIP_TOOLTIP_HEADER"] = "Prix dans les info-bulles du courrier"
 L["MAIL_TOOLTIP_TOOLTIP_TEXT"] = "Inclu les prix à la vente dans les info-bulles du courrier."
 L["MAX"] = "Max"
@@ -435,6 +428,36 @@ L["SPLASH_9108_FEATURES_7"] = "Les messages relatifs au nombre maximal de piles 
 L["SPLASH_9108_FEATURES_8"] = "Un bouton de recherche de réactifs sur la fenêtre d'artisanat lorsque l'hôtel des ventes est ouvert avec les coûts de fabrication totaux affichés."
 L["SPLASH_9108_FEATURES_9"] = "Possibilité d'annuler ses propres enchères, à la fois dans les écrans d'achat et dans l'onglet dédié avec un scan de sous-cotation."
 L["SPLASH_9108_FEATURES_HEADER"] = "Caractéristiques de la version classique"
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_1"] = "Uses seen vendor prices when calculating crafting costs."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_2"] = "Right-click any auction in the Cancelling tab to search for competing auctions."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_3"] = "Quality filters for Shopping searches."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_4"] = "Shift-click any column headers to reset sorting."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_5"] = "Selling tab warns when posting an item below vendor price."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_HEADER"] = "Recent features for all versions"
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_1"] = "Now loads fewer pages from the AH when selling or shopping, saving time on busy realms."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_2"] = "Option for right-clicking an item in your bag to be a way to select it for the selling tab."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_3"] = "Optional \"Seller(s)\" column when posting or buying auctions (right-click column headers to enable)."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_4"] = "Blizzard Enchant view shows crafting cost when you are at the AH."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_5"] = "Click on the item's icon in the Shopping buy screen to view it in the vanilla AH."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_HEADER"] = "Recent features for Classic"
+--[[Translation missing --]]
+L["SPLASH_9225_DESCRIPTION"] = "Numerous improvements, including selling and shopping on busy classic realms becoming much faster."
+--[[Translation missing --]]
+L["SPLASH_9225_RETAIL_1"] = "Selling tab warns when posting a commodity for an abnormally low price compared to the others listed."
+--[[Translation missing --]]
+L["SPLASH_9225_RETAIL_HEADER"] = "Recent features for Retail"
 L["SPLASH_HIDE_MESSAGE"] = "Cacher jusqu'à la prochaine mise à jour"
 L["SPLASH_SCREEN_HEADER"] = "Bienvenue sur Auctionator"
 L["STACK_AUCTION_INFO"] = "%s pour %s (à %s chacun)"
@@ -473,8 +496,7 @@ L["TRANSLATORS_RUSSIAN"] = "Russe"
 L["TRANSLATORS_SIMPLIFIED_CHINESE"] = "Chinois simplifié"
 L["TRANSLATORS_SPANISH"] = "Espagnol"
 L["TRANSLATORS_TRADITIONAL_CHINESE"] = "Chinois traditionnel"
---[[Translation missing --]]
-L["UNDERCUT_BID"] = "Bid"
+L["UNDERCUT_BID"] = "Offre"
 L["UNDERCUT_NO"] = "Non"
 L["UNDERCUT_PREFERENCE"] = "Préférence de baisse des prix"
 L["UNDERCUT_SCAN"] = "Vérifier les prix des objets"

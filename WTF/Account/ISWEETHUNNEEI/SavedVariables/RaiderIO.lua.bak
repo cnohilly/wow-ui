@@ -1,39 +1,23 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["enableFriendsTooltips"] = true,
-	["enableUnitTooltips"] = true,
 	["alwaysExtendTooltip"] = false,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
 	["disableScoreColors"] = false,
 	["showDropDownCopyURL"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
 RaiderIO_LastCharacter = "us-Stryfë-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Sheradin-bleeding-hollow"] = true,
-	["us-Sencillo-bleeding-hollow"] = true,
-	["us-Ileina-bleeding-hollow"] = true,
-	["us-Phycoz-Bleeding Hollow"] = true,
-	["us-Swagony-bleeding-hollow"] = true,
-	["us-Bhangu-bleeding-hollow"] = true,
-	["us-Acesbrew-bleeding-hollow"] = true,
-	["us-Emorax-bleeding-hollow"] = true,
-	["us-Dhangbus-bleeding-hollow"] = true,
-	["us-Midgethand-bleeding-hollow"] = true,
-	["us-Qweralino-bleeding-hollow"] = true,
-	["us-Bhangbus-bleeding-hollow"] = true,
-	["us-Boomkinboy-bleeding-hollow"] = true,
-	["us-party2-bleeding-hollow"] = true,
-	["us-Seralino-bleeding-hollow"] = true,
-	["us-Sheraelino-bleeding-hollow"] = true,
-	["us-Zmithlock-ragnaros"] = true,
+	["us-Svt-bleeding-hollow"] = true,
 }
 RaiderIO_MissingServers = {
 }

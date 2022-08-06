@@ -73,8 +73,14 @@ L["DISABLE_DEBUG_MODE_RELOAD"] = [=[귀하는 디버그 모드를 비활성화�
 --[[ L["DISABLE_RWF_MODE_RELOAD"] = ""--]] 
 L["DPS"] = "|cffFF3636공격전담|r"
 L["DUNGEON_SHORT_NAME_DOS"] = "저편"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_GD"] = ""--]] 
 L["DUNGEON_SHORT_NAME_GMBT"] = "승부수"
 L["DUNGEON_SHORT_NAME_HOA"] = "속죄"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_ID"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_LOWR"] = ""--]] 
 L["DUNGEON_SHORT_NAME_MISTS"] = "티르"
 L["DUNGEON_SHORT_NAME_NW"] = "죽상"
 L["DUNGEON_SHORT_NAME_PF"] = "역병"
@@ -82,6 +88,12 @@ L["DUNGEON_SHORT_NAME_SD"] = "심연"
 L["DUNGEON_SHORT_NAME_SOA"] = "승천"
 L["DUNGEON_SHORT_NAME_STRT"] = "거리"
 L["DUNGEON_SHORT_NAME_TOP"] = "투기장"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_UPPR"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_WORK"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_YARD"] = ""--]] 
 L["ENABLE_AUTO_FRAME_POSITION"] = "내 프로필 프레임 위치 자동화"
 L["ENABLE_AUTO_FRAME_POSITION_DESC"] = "활성화시 프로필 툴팁이 파티 구성하기나 플레이어 툴팁 옆에 유지됩니다."
 L["ENABLE_DEBUG_MODE_RELOAD"] = [=[디버그 모드를 활성화합니다.
@@ -164,6 +176,68 @@ L["RAID_BOSS_CN_6"] = "귀부인 이네르바 다크베인"
 L["RAID_BOSS_CN_7"] = "혈기의 의회"
 L["RAID_BOSS_CN_8"] = "진흙주먹"
 L["RAID_BOSS_CN_9"] = "돌 군단 장군"
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_11"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_9"] = ""--]] 
 L["RAID_BOSS_SFO_1"] = "경계하는 수호자"
 L["RAID_BOSS_SFO_10"] = "라이겔론"
 L["RAID_BOSS_SFO_11"] = "간수"

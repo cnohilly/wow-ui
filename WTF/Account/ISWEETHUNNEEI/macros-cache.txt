@@ -29,6 +29,11 @@ END
 VER 3 0000000000000011 "target" "135886"
 /target captive
 END
+VER 3 0000000000000015 "target tlpd" "INV_MISC_QUESTIONMARK"
+/targetexact Time-Lost Proto-Drake
+/targetexact Vyragosa
+/run local N = UnitName("Target");if N and (N=="Time-Lost Proto-Drake") then PlaySound(13363);print(date(),N,"Found");SetRaidTarget("target",8);end
+END
 VER 3 0000000000000006 "Trinket 1" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 13
@@ -36,6 +41,12 @@ END
 VER 3 0000000000000012 "Trinket 2" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
+END
+VER 3 0000000000000014 "vyr/tlpd spawns" "136103"
+/way The Storm Peaks 52.3, 35.0 Ulduar Ravine
+/way The Storm Peaks 51.1, 71.2 Brunn Village
+/way The Storm Peaks 35.0, 76.5 Waterfall
+/way The Storm Peaks 31.5, 70.0 Frozen Lake
 END
 VER 3 0000000000000010 "waypoint2" "135754"
 /way 61.5 24.8 Azsh'ari Terrace

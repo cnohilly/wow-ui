@@ -17,10 +17,10 @@ HandyNotes_ShadowlandsTreasuresDB = {
 				[15509] = true,
 				[15391] = true,
 				[15502] = true,
-				[15331] = false,
-				[15211] = true,
-				[15224] = true,
 				[15392] = true,
+				[15224] = true,
+				[15211] = true,
+				[15331] = false,
 			},
 			["groupsHiddenByZone"] = {
 				[1970] = {

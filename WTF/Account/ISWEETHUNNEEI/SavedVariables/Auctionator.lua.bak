@@ -36,9 +36,24 @@ AUCTIONATOR_CONFIG = {
 		["Bidder"] = true,
 	},
 	["price_history_days"] = 21,
-	["selling_confirm_low_price"] = true,
+	["default_quantities"] = {
+		0, -- [1]
+		1, -- [2]
+		0, -- [3]
+		1, -- [4]
+		nil, -- [5]
+		nil, -- [6]
+		0, -- [7]
+		0, -- [8]
+		0, -- [9]
+		[0] = 0,
+		[17] = 1,
+		[15] = 0,
+		[12] = 0,
+		[16] = 0,
+	},
 	["gear_use_ilvl"] = true,
-	["selling_icon_size"] = 42,
+	["selling_confirm_low_price"] = true,
 	["not_lifo_auction_duration"] = 12,
 	["selling_skip_shortcut"] = "SHIFT-SPACE",
 	["shopping_list_missing_terms"] = false,
@@ -87,22 +102,7 @@ AUCTIONATOR_CONFIG = {
 	},
 	["selling_bag_collapsed"] = false,
 	["pet_tooltips"] = true,
-	["default_quantities"] = {
-		0, -- [1]
-		1, -- [2]
-		0, -- [3]
-		1, -- [4]
-		nil, -- [5]
-		nil, -- [6]
-		0, -- [7]
-		0, -- [8]
-		0, -- [9]
-		[0] = 0,
-		[17] = 1,
-		[15] = 0,
-		[12] = 0,
-		[16] = 0,
-	},
+	["selling_icon_size"] = 42,
 	["lifo_auction_sales_preference"] = "percentage",
 	["columns_selling_search_3"] = {
 		["Item Level"] = false,
@@ -121,13 +121,13 @@ AUCTIONATOR_CONFIG = {
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["LOG_DE_DATA_X"] = true,
-	["_500"] = 5,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
+	["LOG_DE_DATA_X"] = true,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
 	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
@@ -149,9 +149,7 @@ AUCTIONATOR_SHOPPING_LISTS = {
 }
 AUCTIONATOR_PRICE_DATABASE = {
 	["__dbversion"] = 6,
-	["Wyrmrest Accord"] = {
-	},
-	["Bleeding Hollow"] = {
+	["BleedingHollow"] = {
 		["2421"] = {
 			["a"] = {
 				[928] = 1,
@@ -380,6 +378,8 @@ AUCTIONATOR_PRICE_DATABASE = {
 			},
 		},
 	},
+	["Wyrmrest Accord"] = {
+	},
 }
 AUCTIONATOR_POSTING_HISTORY = {
 	["__dbversion"] = 1,
@@ -490,11 +490,11 @@ AUCTIONATOR_VENDOR_PRICE_CACHE = {
 	["187749"] = 34000000,
 	["160712"] = 2500,
 	["88893"] = 1868400,
-	["190880"] = 7500,
-	["39684"] = 9000,
 	["187869"] = 100000000,
-	["3857"] = 400,
+	["39684"] = 9000,
 	["183952"] = 90000,
+	["3857"] = 400,
+	["93224"] = 400000,
 	["163569"] = 20,
 	["84561"] = 320000,
 	["88741"] = 1875920,
@@ -513,7 +513,7 @@ AUCTIONATOR_VENDOR_PRICE_CACHE = {
 	["163203"] = 50000000,
 	["190379"] = 12750000,
 	["162588"] = 2000000,
-	["93224"] = 400000,
+	["190880"] = 7500,
 	["159959"] = 6000,
 	["89124"] = 800000,
 	["4399"] = 200,

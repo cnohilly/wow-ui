@@ -149,14 +149,14 @@ function AuctionatorSaleItemMixin:GetDeposit()
       self.itemInfo.itemKey.itemID,
       self:GetDuration(),
       self.Quantity:GetNumber()
-    )
+    ) or deposit
 
   elseif self.itemInfo.itemType == Auctionator.Constants.ITEM_TYPES.ITEM then
     deposit = C_AuctionHouse.CalculateItemDeposit(
       self.itemInfo.location,
       self:GetDuration(),
       self.Quantity:GetNumber()
-    )
+    ) or deposit
   end
 
   return NormalizePrice(deposit)
@@ -495,9 +495,9 @@ function AuctionatorSaleItemMixin:ProcessItemResults(itemKey)
   else
     -- Otherwise, we're not the lowest price, so calculate based on user preferences
     if Auctionator.Utilities.IsNotLIFOItemKey(itemKey) then
-      postingPrice = Auctionator.Selling.CalculateNotLIFOPriceFromPrice(result.buyoutAmount)
+      postingPrice = Auctionator.Selling.CalculateNotLIFOPriceFromPrice(result.buyoutAmount or result.bidAmount)
     else --Not LIFO
-      postingPrice = Auctionator.Selling.CalculateLIFOPriceFromPrice(result.buyoutAmount)
+      postingPrice = Auctionator.Selling.CalculateLIFOPriceFromPrice(result.buyoutAmount or result.bidAmount)
     end
   end
 

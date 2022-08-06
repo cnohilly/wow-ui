@@ -18,7 +18,18 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Dorkk-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Scoopslap-bleeding-hollow"] = true,
+	["us-Haze-bleeding-hollow"] = true,
+	["us-Veialoka-azralon"] = true,
+	["us-Sadohu-illidan"] = true,
+	["us-Felax-illidan"] = true,
+	["us-party5-bleeding-hollow"] = true,
+	["us-Tharlök-bleeding-hollow"] = true,
+	["us-Aznuur-frostmourne"] = true,
+	["us-Helpha-bleeding-hollow"] = true,
+	["us-Astrege-bleeding-hollow"] = true,
+	["us-party4-bleeding-hollow"] = true,
+	["us-Anjalissa-Mal"] = true,
+	["us-Pteargrifon-Bleeding Hollow"] = true,
 }
 RaiderIO_MissingServers = {
 }

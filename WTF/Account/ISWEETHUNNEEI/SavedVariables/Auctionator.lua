@@ -39,6 +39,8 @@ AUCTIONATOR_CONFIG = {
 		["Bidder"] = true,
 	},
 	["price_history_days"] = 21,
+	["selling_icon_size"] = 42,
+	["gear_use_ilvl"] = true,
 	["default_quantities"] = {
 		0, -- [1]
 		1, -- [2]
@@ -55,8 +57,6 @@ AUCTIONATOR_CONFIG = {
 		[12] = 0,
 		[16] = 0,
 	},
-	["gear_use_ilvl"] = true,
-	["selling_confirm_low_price"] = true,
 	["not_lifo_auction_duration"] = 12,
 	["selling_skip_shortcut"] = "SHIFT-SPACE",
 	["shopping_list_missing_terms"] = false,
@@ -105,7 +105,7 @@ AUCTIONATOR_CONFIG = {
 	},
 	["selling_bag_collapsed"] = false,
 	["pet_tooltips"] = true,
-	["selling_icon_size"] = 42,
+	["selling_confirm_low_price"] = true,
 	["crafting_cost_show_profit"] = false,
 	["columns_shopping"] = {
 		["Price"] = false,
@@ -121,13 +121,13 @@ AUCTIONATOR_CONFIG = {
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_10000"] = 200,
-	["_5000000"] = 10000,
-	["_1000000"] = 2500,
 	["_200000"] = 1000,
-	["LOG_DE_DATA_X"] = true,
+	["_10000"] = 200,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
 	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
+	["LOG_DE_DATA_X"] = true,
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
@@ -149,9 +149,7 @@ AUCTIONATOR_SHOPPING_LISTS = {
 }
 AUCTIONATOR_PRICE_DATABASE = {
 	["__dbversion"] = 6,
-	["Wyrmrest Accord"] = {
-	},
-	["Bleeding Hollow"] = {
+	["BleedingHollow"] = {
 		["2421"] = {
 			["a"] = {
 				[928] = 1,
@@ -380,6 +378,8 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["m"] = 12744578900,
 		},
 	},
+	["Wyrmrest Accord"] = {
+	},
 }
 AUCTIONATOR_POSTING_HISTORY = {
 	["__dbversion"] = 1,
@@ -492,9 +492,9 @@ AUCTIONATOR_VENDOR_PRICE_CACHE = {
 	["86377"] = 400000,
 	["4399"] = 200,
 	["89124"] = 800000,
-	["183952"] = 90000,
-	["39684"] = 9000,
 	["93224"] = 400000,
+	["39684"] = 9000,
+	["190880"] = 7500,
 	["163569"] = 20,
 	["84561"] = 320000,
 	["88741"] = 1875920,
@@ -513,7 +513,7 @@ AUCTIONATOR_VENDOR_PRICE_CACHE = {
 	["163203"] = 50000000,
 	["190379"] = 12750000,
 	["74636"] = 5200,
-	["190880"] = 7500,
+	["183952"] = 90000,
 	["159959"] = 6000,
 	["3857"] = 400,
 	["187869"] = 100000000,

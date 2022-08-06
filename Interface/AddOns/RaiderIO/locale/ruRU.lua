@@ -72,8 +72,14 @@ L["DISABLE_DEBUG_MODE_RELOAD"] = [=[Вы отключаете режим отл�
 --[[ L["DISABLE_RWF_MODE_RELOAD"] = ""--]] 
 L["DPS"] = "Боец"
 L["DUNGEON_SHORT_NAME_DOS"] = "Та Сторона"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_GD"] = ""--]] 
 L["DUNGEON_SHORT_NAME_GMBT"] = "Гамбит Со'леи"
 L["DUNGEON_SHORT_NAME_HOA"] = "Чертоги Покаяния"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_ID"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_LOWR"] = ""--]] 
 L["DUNGEON_SHORT_NAME_MISTS"] = "Туманы Тирна Скитта"
 L["DUNGEON_SHORT_NAME_NW"] = "Смертельная тризна"
 L["DUNGEON_SHORT_NAME_PF"] = "Чумные каскады"
@@ -81,6 +87,12 @@ L["DUNGEON_SHORT_NAME_SD"] = "Кровавые катакомбы"
 L["DUNGEON_SHORT_NAME_SOA"] = "Шпили Перерождения"
 L["DUNGEON_SHORT_NAME_STRT"] = "Улицы Чудес"
 L["DUNGEON_SHORT_NAME_TOP"] = "Театр Боли"
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_UPPR"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_WORK"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["DUNGEON_SHORT_NAME_YARD"] = ""--]] 
 L["ENABLE_AUTO_FRAME_POSITION"] = "Автоматическая позиция окна профиля RaiderIO"
 L["ENABLE_AUTO_FRAME_POSITION_DESC"] = "Включение этого параметра будет удерживать подсказку Эпох+ профиля рядом с окном поиска группы или подсказкой игрока. "
 L["ENABLE_DEBUG_MODE_RELOAD"] = [=[Вы включаете режим отладки. Он предназначен только для тестирования и разработки и потребует дополнительного использования памяти.
@@ -163,6 +175,68 @@ L["RAID_BOSS_CN_6"] = "Леди Инерва Дарквейн"
 L["RAID_BOSS_CN_7"] = "Совет Крови"
 L["RAID_BOSS_CN_8"] = "Грязешмяк"
 L["RAID_BOSS_CN_9"] = "Генералы Каменного легиона"
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FCN_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_11"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_9"] = ""--]] 
 L["RAID_BOSS_SFO_1"] = "Бдительный Страж"
 L["RAID_BOSS_SFO_10"] = "Ригелон"
 L["RAID_BOSS_SFO_11"] = "Тюремщик"

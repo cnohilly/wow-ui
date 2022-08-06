@@ -138,18 +138,9 @@ L["CONFIG_SELLING_SHOW_BID_PRICE_TOOLTIP_HEADER"] = "Gebotsoptionen"
 L["CONFIG_SELLING_SHOW_BID_PRICE_TOOLTIP_TEXT"] = "Steuert, ob die Option für den Angebotspreis beim Einstellen eines Gegenstands angezeigt wird."
 L["CONFIG_SELLING_SKIP_SHORTCUT"] = "Posten des gewählten Gegenstands überspringen"
 L["CONFIG_SELLING_TBC_ALL_ITEMS"] = "Optionen, um die Standard-Aushangseinstellungen für alle Gegenstände festzulegen."
-L["CONFIG_SELLING_TBC_SHOW_ALL_RESULTS"] = "Nicht benötigte Auktionen einbeziehen, um den Mindestpreis in den Ergebnissen zu erhalten"
-L["CONFIG_SELLING_TBC_SHOW_ALL_RESULTS_TOOLTIP_HEADER"] = "Alle Ergebnisse anzeigen"
-L["CONFIG_SELLING_TBC_SHOW_ALL_RESULTS_TOOLTIP_TEXT"] = "Wenn diese Einstellung aktiviert wird, werden alle Ergebnisseiten durchsucht und alle gefundenen Auktionen aufgelistet, auch wenn nur die erste Seite für die Ermittlung des Mindestpreises benötigt wird."
 L["CONFIG_SELLING_TEXT"] = "Optionen zum Ändern des Verhaltens des Verkaufen-Reiters"
 L["CONFIG_SHOPPING_CATEGORY"] = "Einkaufen"
 L["CONFIG_SHOPPING_LIST"] = "Einkaufslisteneinstellungen"
-L["CONFIG_SHOPPING_LIST_EXCLUDE_RESULTS_FOR_SPEED"] = "Ignoriert die Ergebnisse, die nicht auf der ersten Seite der aktuellen Suche sind"
-L["CONFIG_SHOPPING_LIST_EXCLUDE_RESULTS_FOR_SPEED_TOOLTIP_HEADER"] = "Ergebnisse für Geschwindigkeit ausschließen"
-L["CONFIG_SHOPPING_LIST_EXCLUDE_RESULTS_FOR_SPEED_TOOLTIP_TEXT"] = "Das Ignorieren von Ergebnissen, die sich nicht auf der ersten Seite befinden, können dazu führen, dass einige teure Gegenstände nicht angezeigt werden. Mengen in der Preishistorie und in den Suchergebnissen sind ungenau."
-L["CONFIG_SHOPPING_LIST_FULL_REFRESH"] = "Aktualisiert alle Seiten, wenn du auf die Schaltfläche Aktualisieren klickst"
-L["CONFIG_SHOPPING_LIST_FULL_REFRESH_TOOLTIP_HEADER"] = "Alle Seiten aktualisieren"
-L["CONFIG_SHOPPING_LIST_FULL_REFRESH_TOOLTIP_TEXT"] = "Nur die erste Seite ist erforderlich, um den günstigsten Preis zu bestimmen, wenn du nur an den günstigsten Preis interessiert bist und nicht den Rest der Ergebnisse sehen möchtest, kannst du diese Option für einen Geschwindigkeitsschub ausschalten."
 L["CONFIG_SHOPPING_LIST_MISSING_TERMS"] = "Begriffe aus einer Einkaufsliste anzeigen, die keine Ergebnisse in den Ergebnissen haben."
 L["CONFIG_SHOPPING_LIST_MISSING_TERMS_TOOLTIP_HEADER"] = "Suche ohne Ergebnisse"
 L["CONFIG_SHOPPING_LIST_MISSING_TERMS_TOOLTIP_TEXT"] = "Wenn ein Suchbegriff keine Ergebnisse liefert, wird den Ergebnissen ein Eintrag mit der Zahl Null hinzugefügt, um dies anzuzeigen."
@@ -242,6 +233,8 @@ L["LIST_EXTENDED_SEARCH_HEADER"] = "Erweiterte Suchoptionen"
 L["LIST_IMPORT_HEADER"] = "Einkaufslisten importieren"
 L["LIST_SEARCH_START"] = "Suche nach Gegenständen in %s..."
 L["LIST_SEARCH_STATUS"] = "Suche nach\\nGegenstand %s/%s in\\n%s"
+L["LOAD_HIGHER_PRICES"] = "Höhere Preise laden"
+L["LOAD_MORE_RESULTS"] = "Weitere Ergebnisse laden"
 L["MAIL_TOOLTIP_TOOLTIP_HEADER"] = "Mailbox Tooltip Infos"
 L["MAIL_TOOLTIP_TOOLTIP_TEXT"] = "Zeigt Auctionator-Informationen zu Gegenständen in der Mailbox an."
 L["MAX"] = "max."
@@ -431,6 +424,36 @@ L["SPLASH_9108_FEATURES_7"] = "Maximalzahlmeldungen für Stapel auf der Register
 L["SPLASH_9108_FEATURES_8"] = "Eine Schaltfläche für die Suche nach Reagenzien im Handwerksfenster, wenn das Auktionshaus geöffnet ist und die Gesamtkosten für die Herstellung angezeigt werden."
 L["SPLASH_9108_FEATURES_9"] = "Kann eigene Auktionen abbrechen, sowohl innerhalb der Kaufbildschirme als auch auf der speziellen Registerkarte mit einem Unterboten-Scan."
 L["SPLASH_9108_FEATURES_HEADER"] = "Merkmale der klassischen Version"
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_1"] = "Uses seen vendor prices when calculating crafting costs."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_2"] = "Right-click any auction in the Cancelling tab to search for competing auctions."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_3"] = "Quality filters for Shopping searches."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_4"] = "Shift-click any column headers to reset sorting."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_5"] = "Selling tab warns when posting an item below vendor price."
+--[[Translation missing --]]
+L["SPLASH_9225_ALL_VERSIONS_HEADER"] = "Recent features for all versions"
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_1"] = "Now loads fewer pages from the AH when selling or shopping, saving time on busy realms."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_2"] = "Option for right-clicking an item in your bag to be a way to select it for the selling tab."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_3"] = "Optional \"Seller(s)\" column when posting or buying auctions (right-click column headers to enable)."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_4"] = "Blizzard Enchant view shows crafting cost when you are at the AH."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_5"] = "Click on the item's icon in the Shopping buy screen to view it in the vanilla AH."
+--[[Translation missing --]]
+L["SPLASH_9225_CLASSIC_HEADER"] = "Recent features for Classic"
+--[[Translation missing --]]
+L["SPLASH_9225_DESCRIPTION"] = "Numerous improvements, including selling and shopping on busy classic realms becoming much faster."
+--[[Translation missing --]]
+L["SPLASH_9225_RETAIL_1"] = "Selling tab warns when posting a commodity for an abnormally low price compared to the others listed."
+--[[Translation missing --]]
+L["SPLASH_9225_RETAIL_HEADER"] = "Recent features for Retail"
 L["SPLASH_HIDE_MESSAGE"] = "Erst beim nächsten Update wieder anzeigen"
 L["SPLASH_SCREEN_HEADER"] = "Willkommen bei Auctionator"
 L["STACK_AUCTION_INFO"] = "%s für %s (jedes zu %s)"

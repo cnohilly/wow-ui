@@ -1,0 +1,45 @@
+
+DBMAffixes_AllSavedVars = {
+	["Lickk-Bleeding Hollow"] = {
+		["MPlusAffixes"] = {
+			[0] = {
+				["Enabled"] = true,
+				["SpecWarn366288dodge"] = true,
+				["SpecWarn366288dodgeSWNote"] = true,
+				["SpecWarn240447moveawaySWNote"] = true,
+				["SpecWarn209862gtfoSWNote"] = true,
+				["SpecWarn209862gtfo"] = true,
+				["announce240446cast"] = true,
+				["SpecWarn240447moveawaySWSound"] = 1,
+				["SpecWarn366288dodgeSWSound"] = 1,
+				["SpecWarn209862gtfoSWSound"] = 1,
+				["SpecWarn240447moveaway"] = true,
+			},
+		},
+		["FatedAffixes"] = {
+			[0] = {
+				["SpecWarn369505soakSWSound"] = 2,
+				["announceother372286target"] = true,
+				["Yell369505"] = true,
+				["announce372638cast"] = true,
+				["Yell372286shortfade"] = true,
+				["SpecWarn369505youSWNote"] = true,
+				["SpecWarn369505soakSWNote"] = true,
+				["SpecWarn369505you"] = true,
+				["SpecWarn371447youSWSound"] = 1,
+				["Enabled"] = true,
+				["SpecWarn369505youSWSound"] = 1,
+				["Yell372286"] = true,
+				["SpecWarn372286youSWNote"] = true,
+				["SpecWarn372286you"] = true,
+				["SpecWarn372286youSWSound"] = 1,
+				["announce371254spell"] = true,
+				["SpecWarn369505soak"] = true,
+				["SpecWarn371447youSWNote"] = true,
+				["announceother371447target"] = true,
+				["announceother369505target"] = true,
+				["SpecWarn371447you"] = true,
+			},
+		},
+	},
+}

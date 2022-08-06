@@ -11,26 +11,26 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		["Dorkks - Wyrmrest Accord"] = {
 		},
 		["Stryfë - Bleeding Hollow"] = {
+			["groupsHiddenByZone"] = {
+				[1970] = {
+					["Transportation"] = false,
+					["Schematics"] = true,
+					["Lore Concordances"] = true,
+					["lostovoid"] = true,
+					["soulshape"] = true,
+					["dailymount"] = true,
+				},
+			},
 			["achievementsHidden"] = {
 				[15542] = true,
 				[15411] = false,
 				[15509] = true,
 				[15391] = true,
 				[15502] = true,
-				[15392] = true,
-				[15224] = true,
-				[15211] = true,
 				[15331] = false,
-			},
-			["groupsHiddenByZone"] = {
-				[1970] = {
-					["Schematics"] = true,
-					["Lore Concordances"] = true,
-					["lostovoid"] = true,
-					["Transportation"] = false,
-					["soulshape"] = true,
-					["dailymount"] = true,
-				},
+				[15211] = true,
+				[15224] = true,
+				[15392] = true,
 			},
 		},
 	},

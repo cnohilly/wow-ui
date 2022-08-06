@@ -14,11 +14,11 @@ TomTomDB = {
 		["Zzxzz - Skullcrusher"] = "Default",
 		["Dwarfdorkk - Dalaran"] = "Default",
 		["Jerkk - Bleeding Hollow"] = "Default",
-		["Genericbank - Darkspear"] = "Default",
-		["Sasúke - Gilneas"] = "Default",
-		["Albiorix - Emerald Dream"] = "Default",
-		["Voodroosaur - Bleeding Hollow"] = "Default",
 		["Dorkkborne - Area 52"] = "Default",
+		["Sasúke - Gilneas"] = "Default",
+		["Genericbank - Darkspear"] = "Default",
+		["Voodroosaur - Bleeding Hollow"] = "Default",
+		["Albiorix - Emerald Dream"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -59,11 +59,11 @@ TomTomWaypointsM = {
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 	},
 	["profiles"] = {
 		["Platebaleful - Mal'Ganis"] = {
@@ -235,10 +235,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:438000000:828000000:TomTom waypoint"] = {
+				["504:575000000:485000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.4379999999999999, -- [2]
-					0.828, -- [3]
+					0.575, -- [2]
+					0.485, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -266,10 +266,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:592000000:569000000:TomTom waypoint"] = {
+				["504:580000000:396000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.5920000000000001, -- [2]
-					0.569, -- [3]
+					0.58, -- [2]
+					0.396, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -297,10 +297,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:551000000:492000000:TomTom waypoint"] = {
+				["504:545000000:813000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.551, -- [2]
-					0.4920000000000001, -- [3]
+					0.545, -- [2]
+					0.813, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -328,10 +328,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:457000000:821000000:TomTom waypoint"] = {
+				["504:503000000:272000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.457, -- [2]
-					0.821, -- [3]
+					0.503, -- [2]
+					0.272, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -483,10 +483,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:532000000:245000000:TomTom waypoint"] = {
+				["504:499000000:857000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.532, -- [2]
-					0.245, -- [3]
+					0.499, -- [2]
+					0.857, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -514,72 +514,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:568000000:456000000:TomTom waypoint"] = {
+				["504:542000000:537000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.568, -- [2]
-					0.456, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "TomTom waypoint",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "TomTom waypoint",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["504:529000000:772000000:TomTom waypoint"] = {
-					504, -- [1]
-					0.529, -- [2]
-					0.772, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "TomTom waypoint",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "TomTom waypoint",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["504:513000000:749000000:TomTom waypoint"] = {
-					504, -- [1]
-					0.513, -- [2]
-					0.7490000000000001, -- [3]
+					0.542, -- [2]
+					0.537, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -669,6 +607,68 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
+				["504:490000000:272000000:TomTom waypoint"] = {
+					504, -- [1]
+					0.49, -- [2]
+					0.272, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom waypoint",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom waypoint",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["504:529000000:772000000:TomTom waypoint"] = {
+					504, -- [1]
+					0.529, -- [2]
+					0.772, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom waypoint",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom waypoint",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
 				["504:593000000:568000000:TomTom waypoint"] = {
 					504, -- [1]
 					0.593, -- [2]
@@ -731,10 +731,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:542000000:537000000:TomTom waypoint"] = {
+				["504:568000000:456000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.542, -- [2]
-					0.537, -- [3]
+					0.568, -- [2]
+					0.456, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -762,10 +762,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:490000000:272000000:TomTom waypoint"] = {
+				["504:513000000:749000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.49, -- [2]
-					0.272, -- [3]
+					0.513, -- [2]
+					0.7490000000000001, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -793,10 +793,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:499000000:857000000:TomTom waypoint"] = {
+				["504:532000000:245000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.499, -- [2]
-					0.857, -- [3]
+					0.532, -- [2]
+					0.245, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -855,10 +855,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:503000000:272000000:TomTom waypoint"] = {
+				["504:457000000:821000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.503, -- [2]
-					0.272, -- [3]
+					0.457, -- [2]
+					0.821, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -886,10 +886,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:545000000:813000000:TomTom waypoint"] = {
+				["504:551000000:492000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.545, -- [2]
-					0.813, -- [3]
+					0.551, -- [2]
+					0.4920000000000001, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -917,10 +917,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:580000000:396000000:TomTom waypoint"] = {
+				["504:592000000:569000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.58, -- [2]
-					0.396, -- [3]
+					0.5920000000000001, -- [2]
+					0.569, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -948,10 +948,10 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["504:575000000:485000000:TomTom waypoint"] = {
+				["504:438000000:828000000:TomTom waypoint"] = {
 					504, -- [1]
-					0.575, -- [2]
-					0.485, -- [3]
+					0.4379999999999999, -- [2]
+					0.828, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
@@ -993,15 +993,15 @@ TomTomWaypointsM = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Dorkkborne - Area 52"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Genericbank - Darkspear"] = {
 		},
 		["Voodroosaur - Bleeding Hollow"] = {
 		},
-		["Dorkkborne - Area 52"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
 	},
 }

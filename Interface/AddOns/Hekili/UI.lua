@@ -676,6 +676,8 @@ do
         VEHICLE_UPDATE = 1,
         UPDATE_VEHICLE_ACTIONBAR = 1,
         UPDATE_OVERRIDE_ACTIONBAR = 1,
+        CLIENT_SCENE_OPENED = 1,
+        CLIENT_SCENE_CLOSED = 1,
         -- UNIT_FLAGS = 1,
 
         PLAYER_TARGET_CHANGED = 1,
@@ -779,12 +781,12 @@ do
     local Glower = LibStub("LibCustomGlow-1.0")
 
     local function CalculateAlpha( id )
-        if IsInPetBattle() or Hekili.Barber or UnitHasVehicleUI("player") or HasVehicleActionBar() or HasOverrideActionBar() or UnitOnTaxi("player") or not Hekili:IsDisplayActive( id ) then
+        if IsInPetBattle() or Hekili.Barber or Hekili.ClientScene or UnitHasVehicleUI("player") or HasVehicleActionBar() or HasOverrideActionBar() or UnitOnTaxi("player") or not Hekili:IsDisplayActive( id ) then
             return 0
         end
 
         local prof = Hekili.DB.profile
-        local conf, mode = prof.displays[ id ], prof.toggles.mode.value
+        local conf = prof.displays[ id ]
 
         local _, zoneType = IsInInstance()
 
@@ -792,7 +794,7 @@ do
         --   0 = Auto - AOE
         --   1 = ST - AOE
 
-        if ( not conf.enabled ) or ( not conf.visibility.mode[ mode ] ) then
+        if not conf.enabled then
             return 0
 
         elseif zoneType == "pvp" or zoneType == "arena" then
@@ -800,10 +802,15 @@ do
 
             if conf.visibility.pvp.hideMounted and IsMounted() then return 0 end
 
-            if conf.visibility.pvp.combatTarget > 0 and state.combat > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then return conf.visibility.pvp.combatTarget
-            elseif conf.visibility.pvp.combat > 0 and state.combat > 0 then return conf.visibility.pvp.combat
-            elseif conf.visibility.pvp.target > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then return conf.visibility.pvp.target
-            elseif conf.visibility.pvp.always > 0 then return conf.visibility.pvp.always end
+            if conf.visibility.pvp.combatTarget > 0 and state.combat > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then
+                return conf.visibility.pvp.combatTarget
+            elseif conf.visibility.pvp.combat > 0 and state.combat > 0 then
+                return conf.visibility.pvp.combat
+            elseif conf.visibility.pvp.target > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then
+                return conf.visibility.pvp.target
+            elseif conf.visibility.pvp.always > 0 then
+                return conf.visibility.pvp.always
+            end
 
             return 0
         end
@@ -812,10 +819,15 @@ do
 
         if conf.visibility.pve.hideMounted and IsMounted() then return 0 end
 
-        if conf.visibility.pve.combatTarget > 0 and state.combat > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then return conf.visibility.pve.combatTarget
-        elseif conf.visibility.pve.combat > 0 and state.combat > 0 then return conf.visibility.pve.combat
-        elseif conf.visibility.pve.target > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then return conf.visibility.pve.target
-        elseif conf.visibility.pve.always > 0 then return conf.visibility.pve.always end
+        if conf.visibility.pve.combatTarget > 0 and state.combat > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then
+            return conf.visibility.pve.combatTarget
+        elseif conf.visibility.pve.combat > 0 and state.combat > 0 then
+            return conf.visibility.pve.combat
+        elseif conf.visibility.pve.target > 0 and UnitExists( "target" ) and not UnitIsDead( "target" ) and UnitCanAttack( "player", "target" ) then
+            return conf.visibility.pve.target
+        elseif conf.visibility.pve.always > 0 then
+            return conf.visibility.pve.always
+        end
 
         return 0
     end
@@ -952,6 +964,7 @@ do
                     local caption = b.Recommendation.caption
                     local indicator = b.Recommendation.indicator
                     local keybind = b.Recommendation.keybind
+                    local exact_time = b.Recommendation.exact_time
 
                     local ability = class.abilities[ action ]
 
@@ -976,6 +989,20 @@ do
                         end
 
                         b.Texture:Show()
+
+                        if i == 1 then
+                            -- local ability = b.Ability
+                            local id = ability.item or ability.id
+                            local isItem = ability.item ~= nil
+
+                            local spellID = select( 9, UnitCastingInfo( "player" ) ) or select( 9, UnitChannelInfo( "player" ) )
+
+                            if id and ( isItem and IsCurrentItem( id ) or IsCurrentSpell( id ) ) and b.ExactTime > GetTime() then
+                                b.Highlight:Show()
+                            else
+                                b.Highlight:Hide()
+                            end
+                        end
 
                         if conf.indicators.enabled and indicator then
                             if indicator == "cycle" then
@@ -1041,7 +1068,7 @@ do
                     b.Indicator = indicator
                     b.Keybind = keybind
                     b.Ability = ability
-                    b.ExactTime = b.Recommendation.exact_time
+                    b.ExactTime = exact_time
                 end
 
                 -- Force glow, range, SpellFlash updates.
@@ -1049,11 +1076,13 @@ do
                 self.rangeTimer = -1
                 self.delayTimer = -1
 
-                self.recTimer = 0.1
+                self.recTimer = 0.2
                 self.alphaCheck = 0.5
 
-                self:RefreshCooldowns()
+                self:RefreshCooldowns( "RECS_UPDATED" )
             end
+
+
 
             local postRecs = debugprofilestop()
 
@@ -1116,7 +1145,7 @@ do
                                 Hekili:SaveDebugSnapshot( self.id )
                                 Hekili.ActiveDebug = nil
                             end
-                                                        
+
                             for _, d in pairs( ns.UI.Displays ) do d:SetThreadLocked( false ) end
 
                             self.activeThread = nil
@@ -1137,8 +1166,6 @@ do
                             if self.firstThreadCompleted then
                                 local timeSince = now - self.activeThreadStart
                                 self.lastUpdate = now
-
-                                -- Hekili:Print( format( "Update thread finished in %.2fms, used %.2fms (%.2f%%) in %d frames.", timeSince, self.activeThreadTime, ( 100 * self.activeThreadTime / timeSince ), self.activeThreadFrames ) )
 
                                 if self.threadUpdates then
                                     local updates = self.threadUpdates.updates
@@ -1551,6 +1578,7 @@ do
                 end
 
                 self.NewRecommendations = false
+
                 local finish = debugprofilestop()
 
                 if self.updateTime then
@@ -1610,9 +1638,9 @@ do
             self.alpha = newAlpha
         end
 
-        function d:RefreshCooldowns()
-            local gStart, gDuration, _, gModRate = GetSpellCooldown( 61304 )
-            local gExpires = gStart + gDuration
+        function d:RefreshCooldowns( event )
+            local gStart, _, _, gModRate = GetSpellCooldown( 61304 )
+            local cStart = ( select( 4, UnitCastingInfo( "player" ) ) or select( 4, UnitCastingInfo( "player" ) ) or 0 ) / 1000
 
             local now = GetTime()
             local conf = Hekili.DB.profile.displays[ self.id ]
@@ -1632,18 +1660,13 @@ do
                         start, duration, enabled, modRate = GetSpellCooldown( ability.id )
                     end
 
-                    if ability.gcd ~= "off" and start + duration < gExpires then
-                        start = gStart
-                        duration = gDuration
-                    end
-
                     if i == 1 and conf.delays.extend and rec.delay and rec.delay > 0 and rec.exact_time > max( now, start + duration ) then
-                        start = start > 0 and start or state.gcd.lastStart
+                        start = ( start > 0 and start ) or ( cStart > 0 and cStart ) or ( gStart > 0 and gStart ) or max( state.gcd.lastStart, state.combat )
                         duration = rec.exact_time - start
                     end
 
                     if enabled and enabled == 0 then
-                        cd:Clear()
+                        cd:SetCooldown( 0, 0, 1 )
                     elseif cd.lastStart ~= start or cd.lastDuration ~= duration then
                         cd:SetCooldown( start, duration, modRate )
                         cd.lastStart = start
@@ -1661,11 +1684,7 @@ do
 
             local init = debugprofilestop()
 
-            -- Update the CDs.
-            if event == "SPELL_UPDATE_USABLE" or event == "SPELL_UPDATE_COOLDOWN" or event == "ACTIONBAR_UPDATE_USABLE" or event == "ACTIONBAR_UPDATE_COOLDOWN" then
-                self:RefreshCooldowns()
-
-            elseif event == "SPELL_ACTIVATION_OVERLAY_GLOW_SHOW" then
+            if event == "SPELL_ACTIVATION_OVERLAY_GLOW_SHOW" then
                 if conf.glow.enabled then
                     for i, b in ipairs( self.Buttons ) do
                         if i > 1 and not conf.glow.queued then
@@ -1727,6 +1746,14 @@ do
                 self:UpdateKeybindings()
 
             elseif alphaUpdateEvents[ event ] then
+                if event == "CLIENT_SCENE_OPENED" then
+                    if ... == 1 then -- Minigame.
+                        Hekili.ClientScene = true
+                    end
+                elseif event == "CLIENT_SCENE_CLOSED" then
+                    Hekili.ClientScene = nil
+                end
+
                 self:UpdateAlpha()
 
             end
@@ -1751,7 +1778,7 @@ do
 
                 local spellID = select( 9, UnitCastingInfo( "player" ) ) or select( 9, UnitChannelInfo( "player" ) )
 
-                if id and ( isItem and IsCurrentItem( id ) or IsCurrentSpell( id ) ) and b.ExactTime > GetTime() and ( not spellID or id ~= spellID ) then
+                if id and ( isItem and IsCurrentItem( id ) or IsCurrentSpell( id ) ) then --  and b.ExactTime > GetTime() then
                     b.Highlight:Show()
                 else
                     b.Highlight:Hide()
@@ -1817,6 +1844,7 @@ do
 
                     -- Recheck spell displays if spells have changed.
                     self:RegisterEvent( "SPELLS_CHANGED" )
+                    self:RegisterEvent( "CURRENT_SPELL_CAST_CHANGED" )
 
                     -- Update keybindings.
                     for k in pairs( kbEvents ) do
@@ -2366,12 +2394,12 @@ do
         b.Cooldown = b.Cooldown or CreateFrame( "Cooldown", bName .. "_Cooldown", b, "CooldownFrameTemplate" )
         b.Cooldown:ClearAllPoints()
         b.Cooldown:SetAllPoints( b )
-        -- b.Cooldown:SetFrameStrata( "MEDIUM" )
-        -- b.Cooldown:SetFrameLevel( 50 )
+        b.Cooldown:SetFrameStrata( b:GetFrameStrata() )
+        b.Cooldown:SetFrameLevel( b:GetFrameLevel() + 1 )
         b.Cooldown:SetDrawBling( false )
         b.Cooldown:SetDrawEdge( false )
 
-        if _G["ElvUI"] and ( ( id == 1 and conf.elvuiCooldown ) or ( id > 1 and conf.queue.elvuiCooldown ) ) then
+        if _G["ElvUI"] and not b.isRegisteredCooldown and ( ( id == 1 and conf.elvuiCooldown ) or ( id > 1 and conf.queue.elvuiCooldown ) ) then
             local E = unpack( ElvUI )
 
             local cd = b.Cooldown.CooldownSettings or {}
@@ -2380,11 +2408,7 @@ do
             cd.fontOutline = E.db.cooldown.fonts.fontOutline
             b.Cooldown.CooldownSettings = cd
 
-            if not b.Cooldown.elvRegistered then
-                E:RegisterCooldown( b.Cooldown )
-                b.Cooldown.elvRegistered = true
-            end
-
+            E:RegisterCooldown( b.Cooldown )
             d.forceElvUpdate = true
         end
 
@@ -2434,6 +2458,15 @@ do
             -- Anchoring stuff for the queue.
             b:ClearAllPoints()
             b:SetPoint( "CENTER", d, "CENTER" )
+
+            -- Highlight
+            if not b.Highlight then
+                b.Highlight = b:CreateTexture( nil, "OVERLAY" )
+                b.Highlight:SetTexture( "Interface\\Buttons\\ButtonHilight-Square" )
+                b.Highlight:SetAllPoints( b )
+                b.Highlight:SetBlendMode( "ADD" )
+                b.Highlight:Hide()
+            end
 
             -- Target Counter
             b.Targets = b.Targets or b:CreateFontString( bName .. "_Targets", "OVERLAY" )

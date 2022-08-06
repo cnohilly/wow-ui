@@ -6,13 +6,13 @@ SimulationCraftDB = {
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
-		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Dorkks - Wyrmrest Accord"] = "Dorkks - Wyrmrest Accord",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Katdoge - Bleeding Hollow"] = {
@@ -28,22 +28,22 @@ SimulationCraftDB = {
 		},
 		["Stryfë - Bleeding Hollow"] = {
 		},
-		["Blù - Bleeding Hollow"] = {
+		["Dorkks - Wyrmrest Accord"] = {
 		},
 		["Nolieper - Bleeding Hollow"] = {
 		},
-		["Holynoly - Bleeding Hollow"] = {
-			["minimap"] = {
-				["minimapPos"] = 180.8012902156138,
-			},
-		},
 		["Pándan - Bleeding Hollow"] = {
+		},
+		["Blù - Bleeding Hollow"] = {
 		},
 		["Diá - Bleeding Hollow"] = {
 		},
 		["Emoclëw - Bleeding Hollow"] = {
 		},
-		["Dorkks - Wyrmrest Accord"] = {
+		["Holynoly - Bleeding Hollow"] = {
+			["minimap"] = {
+				["minimapPos"] = 180.8012902156138,
+			},
 		},
 	},
 }

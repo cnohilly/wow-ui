@@ -17,8 +17,9 @@ OneRing_Config = {
 				["onsumables"] = "CTRL-B",
 			},
 			["RotationTokens"] = {
-				["ABuez5CbYBwH"] = "ABuez5CbYBw0",
 				["ABuex3AJa0r"] = "ABuechShGne",
+				["ABuez5CbYBw5"] = "ABuez5CbYBwa",
+				["ABuez5CbYBwH"] = "ABuez5CbYBw0",
 			},
 			["ShowCooldowns"] = true,
 		},

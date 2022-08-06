@@ -49,3 +49,5 @@ LittleWigs: enabled
 DataStore: enabled
 Altoholic: enabled
 ElvUI_OptionsUI: enabled
+LittleWigs_Legion: enabled
+BigWigs_Shadowlands: enabled

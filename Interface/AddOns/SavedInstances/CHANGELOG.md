@@ -1,7 +1,6 @@
 # SavedInstances
 
-## [9.2.2](https://github.com/SavedInstances/SavedInstances/tree/9.2.2) (2022-04-27)
-[Full Changelog](https://github.com/SavedInstances/SavedInstances/commits/9.2.2) [Previous Releases](https://github.com/SavedInstances/SavedInstances/releases)
+## [9.2.3](https://github.com/SavedInstances/SavedInstances/tree/9.2.3) (2022-08-02)
+[Full Changelog](https://github.com/SavedInstances/SavedInstances/commits/9.2.3) [Previous Releases](https://github.com/SavedInstances/SavedInstances/releases)
 
-- fix: nil check in ShowIndicatorTooltip  
-    fixes #588  
+- feat(MythicPlus): reintroduce LEG & BfA M+ abbr., and add Grimrail Depot, Iron Docks  

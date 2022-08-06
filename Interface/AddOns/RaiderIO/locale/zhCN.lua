@@ -70,8 +70,11 @@ L["DISABLE_DEBUG_MODE_RELOAD"] = "你正在关闭Debug模式。点击确认会�
 --[[ L["DISABLE_RWF_MODE_RELOAD"] = ""--]] 
 L["DPS"] = "伤害输出"
 L["DUNGEON_SHORT_NAME_DOS"] = "彼界"
+L["DUNGEON_SHORT_NAME_GD"] = "恐轨车站"
 L["DUNGEON_SHORT_NAME_GMBT"] = "集市（后三）"
 L["DUNGEON_SHORT_NAME_HOA"] = "赎罪大厅"
+L["DUNGEON_SHORT_NAME_ID"] = "钢铁码头"
+L["DUNGEON_SHORT_NAME_LOWR"] = "卡拉赞下层"
 L["DUNGEON_SHORT_NAME_MISTS"] = "仙林迷雾"
 L["DUNGEON_SHORT_NAME_NW"] = "通灵战潮 "
 L["DUNGEON_SHORT_NAME_PF"] = "凋魂之殇"
@@ -79,6 +82,9 @@ L["DUNGEON_SHORT_NAME_SD"] = "赤红深渊"
 L["DUNGEON_SHORT_NAME_SOA"] = "晋升高塔"
 L["DUNGEON_SHORT_NAME_STRT"] = "集市（前五）"
 L["DUNGEON_SHORT_NAME_TOP"] = "伤逝剧场"
+L["DUNGEON_SHORT_NAME_UPPR"] = "卡拉赞上层"
+L["DUNGEON_SHORT_NAME_WORK"] = "麦卡贡车间"
+L["DUNGEON_SHORT_NAME_YARD"] = "麦卡贡垃圾场"
 L["ENABLE_AUTO_FRAME_POSITION"] = "自动调整Raider.IO个人页面的位置"
 L["ENABLE_AUTO_FRAME_POSITION_DESC"] = "开启此项将会在地下城查找器或者玩家框体上显示大秘境个人信息的鼠标提示。"
 L["ENABLE_DEBUG_MODE_RELOAD"] = "你正在开启Debug模式。该模式仅是为了测试插件，并且会使用额外的内存空间。点击确认将会重载你的界面。"
@@ -159,6 +165,58 @@ L["RAID_BOSS_CN_6"] = "伊涅瓦·暗脉女勋爵"
 L["RAID_BOSS_CN_7"] = "猩红议会"
 L["RAID_BOSS_CN_8"] = "泥拳"
 L["RAID_BOSS_CN_9"] = "顽石军团干将"
+L["RAID_BOSS_FCN_1"] = "啸翼（宿命）"
+L["RAID_BOSS_FCN_10"] = "德纳修斯大帝（宿命）"
+L["RAID_BOSS_FCN_2"] = "猎手阿尔迪莫（宿命）"
+L["RAID_BOSS_FCN_3"] = "饥饿的毁灭者（宿命）"
+L["RAID_BOSS_FCN_4"] = "圣物匠赛·墨克斯（宿命）"
+L["RAID_BOSS_FCN_5"] = "太阳之王的救赎（宿命）"
+L["RAID_BOSS_FCN_6"] = "伊涅瓦·暗脉女勋爵（宿命）"
+L["RAID_BOSS_FCN_7"] = "猩红议会（宿命）"
+L["RAID_BOSS_FCN_8"] = "泥拳（宿命）"
+L["RAID_BOSS_FCN_9"] = "顽石军团干将（宿命）"
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_11"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSFO_9"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_1"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_10"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_2"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_3"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_4"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_5"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_6"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_7"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_8"] = ""--]] 
+--[[Translation missing --]]
+--[[ L["RAID_BOSS_FSOD_9"] = ""--]] 
 L["RAID_BOSS_SFO_1"] = "警戒卫士"
 L["RAID_BOSS_SFO_10"] = "莱葛隆"
 L["RAID_BOSS_SFO_11"] = "典狱长"

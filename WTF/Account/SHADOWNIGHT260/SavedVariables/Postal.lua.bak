@@ -20,31 +20,32 @@ Postal3DB = {
 				"Freakk|Bleeding Hollow|Horde|48|DEATHKNIGHT", -- [15]
 				"Geekk|Bleeding Hollow|Horde|60|SHAMAN", -- [16]
 				"Genericbank|Darkspear|Horde|1|WARRIOR", -- [17]
-				"Illidorkk|Bleeding Hollow|Horde|60|DEMONHUNTER", -- [18]
-				"Jerkk|Arthas|Horde|1|HUNTER", -- [19]
-				"Jerkk|Bleeding Hollow|Horde|60|PALADIN", -- [20]
-				"Kanpeki|Kil'jaeden|Alliance|79|WARRIOR", -- [21]
-				"Leatherbale|Mal'Ganis|Horde|1|ROGUE", -- [22]
-				"Lickk|Bleeding Hollow|Horde|60|MAGE", -- [23]
-				"Lildorkk|Mal'Ganis|Horde|44|HUNTER", -- [24]
-				"Mailbaleful|Mal'Ganis|Horde|1|HUNTER", -- [25]
-				"Moodroo|Bleeding Hollow|Horde|47|DRUID", -- [26]
-				"Navi|Darkspear|Horde|1|MONK", -- [27]
-				"Nizearisbad|Mal'Ganis|Horde|1|WARRIOR", -- [28]
-				"Platebaleful|Mal'Ganis|Horde|1|WARRIOR", -- [29]
-				"Pricecheckin|Area 52|Horde|1|HUNTER", -- [30]
-				"Prodigie|Tichondrius|Horde|27|PALADIN", -- [31]
-				"Quirkk|Bleeding Hollow|Horde|47|PRIEST", -- [32]
-				"Sasúke|Gilneas|Horde|29|ROGUE", -- [33]
-				"Scongi|Kil'jaeden|Alliance|35|HUNTER", -- [34]
-				"Smíte|The Forgotten Coast|Horde|33|PRIEST", -- [35]
-				"Trickk|Bleeding Hollow|Horde|47|ROGUE", -- [36]
-				"Twerkk|Stormrage|Alliance|27|HUNTER", -- [37]
-				"Unorthodorkk|Bleeding Hollow|Horde|53|WARRIOR", -- [38]
-				"Voodroosaur|Bleeding Hollow|Horde|60|DRUID", -- [39]
-				"Voodroo|Bleeding Hollow|Horde|48|DRUID", -- [40]
-				"Wardorkk|Bleeding Hollow|Horde|60|WARLOCK", -- [41]
-				"Zzxzz|Skullcrusher|Horde|1|MAGE", -- [42]
+				"Holynoly|Altar of Storms|Horde|50|PALADIN", -- [18]
+				"Illidorkk|Bleeding Hollow|Horde|60|DEMONHUNTER", -- [19]
+				"Jerkk|Arthas|Horde|1|HUNTER", -- [20]
+				"Jerkk|Bleeding Hollow|Horde|60|PALADIN", -- [21]
+				"Kanpeki|Kil'jaeden|Alliance|79|WARRIOR", -- [22]
+				"Leatherbale|Mal'Ganis|Horde|1|ROGUE", -- [23]
+				"Lickk|Bleeding Hollow|Horde|60|MAGE", -- [24]
+				"Lildorkk|Mal'Ganis|Horde|44|HUNTER", -- [25]
+				"Mailbaleful|Mal'Ganis|Horde|1|HUNTER", -- [26]
+				"Moodroo|Bleeding Hollow|Horde|47|DRUID", -- [27]
+				"Navi|Darkspear|Horde|1|MONK", -- [28]
+				"Nizearisbad|Mal'Ganis|Horde|1|WARRIOR", -- [29]
+				"Platebaleful|Mal'Ganis|Horde|1|WARRIOR", -- [30]
+				"Pricecheckin|Area 52|Horde|1|HUNTER", -- [31]
+				"Prodigie|Tichondrius|Horde|27|PALADIN", -- [32]
+				"Quirkk|Bleeding Hollow|Horde|47|PRIEST", -- [33]
+				"Sasúke|Gilneas|Horde|29|ROGUE", -- [34]
+				"Scongi|Kil'jaeden|Alliance|36|HUNTER", -- [35]
+				"Smíte|The Forgotten Coast|Horde|33|PRIEST", -- [36]
+				"Trickk|Bleeding Hollow|Horde|47|ROGUE", -- [37]
+				"Twerkk|Stormrage|Alliance|27|HUNTER", -- [38]
+				"Unorthodorkk|Bleeding Hollow|Horde|53|WARRIOR", -- [39]
+				"Voodroosaur|Bleeding Hollow|Horde|60|DRUID", -- [40]
+				"Voodroo|Bleeding Hollow|Horde|48|DRUID", -- [41]
+				"Wardorkk|Bleeding Hollow|Horde|60|WARLOCK", -- [42]
+				"Zzxzz|Skullcrusher|Horde|1|MAGE", -- [43]
 			},
 		},
 	},
@@ -63,6 +64,7 @@ Postal3DB = {
 		["Dorkk - Kil'jaeden"] = "Dorkk - Kil'jaeden",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Clothbaleful - Mal'Ganis"] = "Clothbaleful - Mal'Ganis",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Holynohilly - Skullcrusher"] = "Holynohilly - Skullcrusher",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
@@ -223,6 +225,8 @@ Postal3DB = {
 					"Geekk-Bleeding Hollow|Mal'Ganis|Horde", -- [3]
 				},
 			},
+		},
+		["Holynoly - Altar of Storms"] = {
 		},
 		["Voodroo - Bleeding Hollow"] = {
 			["BlackBook"] = {

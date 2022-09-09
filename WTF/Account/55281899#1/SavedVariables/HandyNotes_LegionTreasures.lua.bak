@@ -1,0 +1,55 @@
+
+HandyNotes_LegionTreasuresDB = {
+	["profileKeys"] = {
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Trublmakr - Scarlet Crusade"] = "Trublmakr - Scarlet Crusade",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Pandan - Earthen Ring"] = "Pandan - Earthen Ring",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Nycee - Bleeding Hollow"] = "Nycee - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Pándan - Bleeding Hollow"] = {
+		},
+		["Emoclëw - Bleeding Hollow"] = {
+		},
+		["Katdoge - Bleeding Hollow"] = {
+		},
+		["Trublmakr - Scarlet Crusade"] = {
+		},
+		["Noliee - Bleeding Hollow"] = {
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Emogin - Bleeding Hollow"] = {
+		},
+		["Trublmakr - Bleeding Hollow"] = {
+		},
+		["Stryfë - Bleeding Hollow"] = {
+		},
+		["Diá - Bleeding Hollow"] = {
+		},
+		["Nolieper - Bleeding Hollow"] = {
+		},
+		["Blù - Bleeding Hollow"] = {
+		},
+		["Pandan - Earthen Ring"] = {
+		},
+		["Holynoly - Bleeding Hollow"] = {
+		},
+		["Nycee - Bleeding Hollow"] = {
+		},
+		["Noliedin - Bleeding Hollow"] = {
+		},
+	},
+}

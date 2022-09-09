@@ -121,7 +121,7 @@ DBM_AllSavedOptions = {
 		["RangeFrameRadarY"] = -100,
 		["HUDAlpha2"] = 0.5,
 		["StatusEnabled"] = true,
-		["CoreSavedRevision"] = 20220621041941,
+		["CoreSavedRevision"] = 20220830203448,
 		["RangeFrameX"] = -280.000183105469,
 		["HUDColor2"] = {
 			1, -- [1]

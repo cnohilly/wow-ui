@@ -2,732 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
-			"Telz-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Telz-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			525, -- [11]
-			"Player-73-0E8E5D98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Telz|r",
-			[51] = 1634094807,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"WTS M+ 0-20 +20 TIMED+KEY= 619K /+15=145k // +10=69K (BUY 2 OR MORE FREE ARMOR STACK) /15=124k (x3 DEAL PRICE) // +15 TIMED=200K // KSM =214k per key (x4 or +)//SOD MYTHIC  H =500k  AOTC = 105k // Tazavesh // Houkan Community // ONLY GOLD // WHISP", -- [1]
-			"Kächinsales-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kächinsales-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			526, -- [11]
-			"Player-73-0E80CC4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kächinsales|r",
-			[51] = 1634094855,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
-			"Methodxx-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Methodxx-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			527, -- [11]
-			"Player-73-0E957F58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cMethodxx|r",
-			[51] = 1634094871,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
-			"Cisu-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cisu-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			528, -- [11]
-			"Player-73-0E90ECAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Cisu|r",
-			[51] = 1634094877,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"!WTS M+10-20 || +20 TIMED & Key Specific 619K ||M+15 145k ||+14 140k ||+12 99k ||+10 69k || BUY 2 and Get Free Loot Funnels || Special Deals For 3 or More Keys ||SOD Heroic & mythic|| KSM DEALS || TORGHAST 1-12 ||TAZAVESH  . >Huokan Community<", -- [1]
-			"Gernardboost-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gernardboost-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			529, -- [11]
-			"Player-73-0E8E1D9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cGernardboost|r",
-			[51] = 1634094913,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
-			"Coybleedingh-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Coybleedingh-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			530, -- [11]
-			"Player-73-0E927C6E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Coybleedingh|r",
-			[51] = 1634094920,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"HEROIC |cffffff00|Hachievement:15126:Player-162-0B27393C:1:8:27:21:4294967295:4294967295:4294967295:4294967295|h[Sanctum of Domination]|h|r Full clear [425k]  or AOTC only [90k] @ 10 EST.  PST for more info. Gold only. [Accelerate]", -- [1]
-			"Saleskia-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saleskia-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			532, -- [11]
-			"Player-73-0E8CD2CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaSaleskia|r",
-			[51] = 1634094962,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"<<<WTS>>> +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
-			"Krowllei-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Krowllei-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			533, -- [11]
-			"Player-73-0E73CEC9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Krowllei|r",
-			[51] = 1634094962,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
-			"Methodxx-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Methodxx-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			535, -- [11]
-			"Player-73-0E957F58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cMethodxx|r",
-			[51] = 1634094990,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"<Broken> Recruitting for SoD. Currently 10/10H 4/10M. We raid T/TH 930pm to 1230am server time. Msg for more details.", -- [1]
-			"Improperpleb-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Improperpleb-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			536, -- [11]
-			"Player-73-0CD928A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Improperpleb|r",
-			[51] = 1634094995,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"any lvl 50+ wanna run me thru blood furnace? youll 1 shot eveyrthing. just need first boss a couple times.", -- [1]
-			"Impossibull-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Impossibull-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			537, -- [11]
-			"Player-73-0E9484D0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Impossibull|r",
-			[51] = 1634094997,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"will tip", -- [1]
-			"Impossibull-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Impossibull-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			538, -- [11]
-			"Player-73-0E9484D0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Impossibull|r",
-			[51] = 1634095000,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
-			"Smokingmachn-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Smokingmachn-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			539, -- [11]
-			"Player-73-0CDA0292", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cSmokingmachn|r",
-			[51] = 1634095008,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"WTS  || +15  ONLY 145K  !FREE ARMOR STACK on 2 runs!!||+14 140K || +12 99k || +10 69K (Special Deal on 3 Runs) || TC || WTS leveling 51-60 ||HEROIC SOD || GOLD ONLY|| Huokan ||", -- [1]
-			"Bankpep-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bankpep-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			541, -- [11]
-			"Player-73-0E8B73B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcBankpep|r",
-			[51] = 1634095062,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
-			"Smokingmachn-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Smokingmachn-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			542, -- [11]
-			"Player-73-0CDA0292", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cSmokingmachn|r",
-			[51] = 1634095063,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"<Broken> Recruitting for SoD. Currently 10/10H 4/10M. We raid T/TH 930pm to 1230am server time. Msg for more details.", -- [1]
-			"Improperpleb-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Improperpleb-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			543, -- [11]
-			"Player-73-0CD928A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Improperpleb|r",
-			[51] = 1634095097,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
-			"Telz-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Telz-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			545, -- [11]
-			"Player-73-0E8E5D98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Telz|r",
-			[51] = 1634095115,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
-		{
-			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
-			"Methodxx-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Methodxx-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			547, -- [11]
-			"Player-73-0E957F58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cMethodxx|r",
-			[51] = 1634095150,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
-			"Cisu-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cisu-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			548, -- [11]
-			"Player-73-0E90ECAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Cisu|r",
-			[51] = 1634095160,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"WTS M+ 0-20 +20 TIMED+KEY= 619K /+15=145k // +10=69K (BUY 2 OR MORE FREE ARMOR STACK) /15=124k (x3 DEAL PRICE) // +15 TIMED=200K // KSM =214k per key (x4 or +)//SOD MYTHIC  H =500k  AOTC = 105k // Tazavesh // Houkan Community // ONLY GOLD // WHISP", -- [1]
-			"Kächinsales-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kächinsales-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			549, -- [11]
-			"Player-73-0E80CC4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kächinsales|r",
-			[51] = 1634095171,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
-			"Smokingmachn-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Smokingmachn-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			550, -- [11]
-			"Player-73-0CDA0292", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cSmokingmachn|r",
-			[51] = 1634095186,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
-			"Coybleedingh-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Coybleedingh-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			551, -- [11]
-			"Player-73-0E927C6E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Coybleedingh|r",
-			[51] = 1634095200,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
-			"Smokingmachn-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Smokingmachn-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			553, -- [11]
-			"Player-73-0CDA0292", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cSmokingmachn|r",
-			[51] = 1634095251,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"WTS  || +15  ONLY 145K  !FREE ARMOR STACK on 2 runs!!||+14 140K || +12 99k || +10 69K (Special Deal on 3 Runs) || TC || WTS leveling 51-60 ||HEROIC SOD || GOLD ONLY|| Huokan ||", -- [1]
-			"Bankpep-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bankpep-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			554, -- [11]
-			"Player-73-0E8B73B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcBankpep|r",
-			[51] = 1634095304,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
-			"Cisu-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cisu-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			555, -- [11]
-			"Player-73-0E90ECAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Cisu|r",
-			[51] = 1634095316,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
-			"Methodxx-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Methodxx-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			556, -- [11]
-			"Player-73-0E957F58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cMethodxx|r",
-			[51] = 1634095391,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
-			"Cisu-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cisu-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			557, -- [11]
-			"Player-73-0E90ECAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Cisu|r",
-			[51] = 1634095405,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"!WTS M+10-20 || +20 TIMED & Key Specific 619K ||M+15 145k ||+14 140k ||+12 99k ||+10 69k || BUY 2 and Get Free Loot Funnels || Special Deals For 3 or More Keys ||SOD Heroic & mythic|| KSM DEALS || TORGHAST 1-12 ||TAZAVESH  . >Huokan Community<", -- [1]
-			"Gernardboost-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gernardboost-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			559, -- [11]
-			"Player-73-0E8E1D9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cGernardboost|r",
-			[51] = 1634095434,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
-			"Telz-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Telz-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			560, -- [11]
-			"Player-73-0E8E5D98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Telz|r",
-			[51] = 1634095442,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
-			"Methodxx-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Methodxx-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			561, -- [11]
-			"Player-73-0E957F58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cMethodxx|r",
-			[51] = 1634095452,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
-			"Coybleedingh-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Coybleedingh-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			562, -- [11]
-			"Player-73-0E927C6E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Coybleedingh|r",
-			[51] = 1634095480,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"<<<WTS>>> +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
-			"Krowllei-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Krowllei-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			563, -- [11]
-			"Player-73-0E73CEC9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Krowllei|r",
-			[51] = 1634095498,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"WTS M+ 0-20 +20 TIMED+KEY= 619K /+15=145k // +10=69K (BUY 2 OR MORE FREE ARMOR STACK) /15=124k (x3 DEAL PRICE) // +15 TIMED=200K // KSM =214k per key (x4 or +)//SOD MYTHIC  H =500k  AOTC = 105k // Tazavesh // Houkan Community // ONLY GOLD // WHISP", -- [1]
-			"Kächinsales-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kächinsales-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			564, -- [11]
-			"Player-73-0E80CC4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kächinsales|r",
-			[51] = 1634095549,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
 			"", -- [3]
@@ -748,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634095680,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [1]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -770,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634095701,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [2]
 		{
 			"LF lvl 50+ to run be through The Blood Furnace a few times. Just need first boss. Will tip!", -- [1]
 			"Impossibull-BleedingHollow", -- [2]
@@ -792,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Impossibull|r",
 			[51] = 1634095725,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [3]
 		{
 			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
 			"Telz-BleedingHollow", -- [2]
@@ -814,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Telz|r",
 			[51] = 1634095740,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [4]
 		{
 			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Coybleedingh-BleedingHollow", -- [2]
@@ -836,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Coybleedingh|r",
 			[51] = 1634095760,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [5]
 		{
 			"<<<WTS>>> +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Krowllei-BleedingHollow", -- [2]
@@ -858,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Krowllei|r",
 			[51] = 1634095841,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [6]
 		{
 			"WTS M+ 0-20 +20 TIMED+KEY= 619K /+15=145k // +10=69K (BUY 2 OR MORE FREE ARMOR STACK) /15=124k (x3 DEAL PRICE) // +15 TIMED=200K // KSM =214k per key (x4 or +)//SOD MYTHIC  H =500k  AOTC = 105k // Tazavesh // Houkan Community // ONLY GOLD // WHISP", -- [1]
 			"Kächinsales-BleedingHollow", -- [2]
@@ -880,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Kächinsales|r",
 			[51] = 1634095859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [7]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -902,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634095862,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [8]
 		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
@@ -924,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634095888,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [9]
 		{
 			"|cffa335ee|Hitem:184799::::::::10:265:::3:6652:1472:6646:1:28:1707:::::|h[Puño con colmillos de lobo]|h|r|cffa335ee|Hitem:184804::::::::10:265:::3:6652:1472:6646:1:28:1707:::::|h[Mandoble apaciguador de Ulfius]|h|r|cffa335ee|Hitem:163945::::::::10:265::54:2:1472:4786:1:28:188:::::|h[Mitones magníficos de Mystrah]|h|r", -- [1]
 			"Maxicolados-BleedingHollow", -- [2]
@@ -946,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edMaxicolados|r",
 			[51] = 1634095952,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [10]
 		{
 			"|cffa335ee|Hitem:163938::::::::10:265::54:2:1472:4786:1:28:188:::::|h[Chanclos de Kalieve]|h|r|cffa335ee|Hitem:184787::::::::10:265:::3:6652:1472:6646:1:28:1707:::::|h[Pesar de paciencia de Elohin]|h|r|cffa335ee|Hitem:184805::::::::10:265:::3:6652:1472:6646:1:28:1707:::::|h[Balista de reyes enterrados]|h|r", -- [1]
 			"Maxicolados-BleedingHollow", -- [2]
@@ -968,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edMaxicolados|r",
 			[51] = 1634095956,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [11]
 		{
 			"!WTS M+10-20 || +20 TIMED & Key Specific 619K ||M+15 145k ||+14 140k ||+12 99k ||+10 69k || BUY 2 and Get Free Loot Funnels || Special Deals For 3 or More Keys ||SOD Heroic & mythic|| KSM DEALS || TORGHAST 1-12 ||TAZAVESH  . >Huokan Community<", -- [1]
 			"Gernardboost-BleedingHollow", -- [2]
@@ -990,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGernardboost|r",
 			[51] = 1634095982,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [12]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1012,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634095994,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [13]
 		{
 			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Coybleedingh-BleedingHollow", -- [2]
@@ -1034,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Coybleedingh|r",
 			[51] = 1634096040,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [14]
 		{
 			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
 			"Telz-BleedingHollow", -- [2]
@@ -1056,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Telz|r",
 			[51] = 1634096046,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [15]
 		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
@@ -1078,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634096061,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [16]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1100,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096081,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [17]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1122,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096206,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [18]
 		{
 			"(SoC) 5/10M, 10/10H – Raiding Guild looking to recruit a WW, Mage, and Warlock. All classes are under consideration. We are an active guild with daily mythic + runs. We Raid Tues/Thurs 8:30 pm to 11:30 pm Eastern.", -- [1]
 			"Mulân-BleedingHollow", -- [2]
@@ -1144,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Mulân|r",
 			[51] = 1634096290,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [19]
 		{
 			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
 			"Smokingmachn-BleedingHollow", -- [2]
@@ -1166,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSmokingmachn|r",
 			[51] = 1634096292,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [20]
 		{
 			"WTS M+ 0-20 +20 TIMED+KEY= 619K /+15=145k // +10=69K (BUY 2 OR MORE FREE ARMOR STACK) /15=124k (x3 DEAL PRICE) // +15 TIMED=200K // KSM =214k per key (x4 or +)//SOD MYTHIC  H =500k  AOTC = 105k // Tazavesh // Houkan Community // ONLY GOLD // WHISP", -- [1]
 			"Kächinsales-BleedingHollow", -- [2]
@@ -1188,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Kächinsales|r",
 			[51] = 1634096299,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [21]
 		{
 			"!WTS M+10-20 || +20 TIMED & Key Specific 619K ||M+15 145k ||+14 140k ||+12 99k ||+10 69k || BUY 2 and Get Free Loot Funnels || Special Deals For 3 or More Keys ||SOD Heroic & mythic|| KSM DEALS || TORGHAST 1-12 ||TAZAVESH  . >Huokan Community<", -- [1]
 			"Gernardboost-BleedingHollow", -- [2]
@@ -1210,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGernardboost|r",
 			[51] = 1634096312,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [22]
 		{
 			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Coybleedingh-BleedingHollow", -- [2]
@@ -1232,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Coybleedingh|r",
 			[51] = 1634096320,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [23]
 		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
@@ -1254,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634096373,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [24]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1276,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096399,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [25]
 		{
 			"(SoC) 5/10M, 10/10H – Raiding Guild looking to recruit a WW, Mage, and Warlock. All classes are under consideration. We are an active guild with daily mythic + runs. We Raid Tues/Thurs 8:30 pm to 11:30 pm Eastern.", -- [1]
 			"Mulân-BleedingHollow", -- [2]
@@ -1298,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Mulân|r",
 			[51] = 1634096405,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [26]
 		{
 			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
 			"Telz-BleedingHollow", -- [2]
@@ -1320,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Telz|r",
 			[51] = 1634096406,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [27]
 		{
 			"this is kinda depressing lmao ", -- [1]
 			"|Kq18|k", -- [2]
@@ -1343,7 +617,7 @@ ElvCharacterDB = {
 			[51] = 1634096431,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [61]
+		}, -- [28]
 		{
 			"LF lvl 50+ to run be through The Blood Furnace a few times. Just need first boss. Will tip!", -- [1]
 			"Impossibull-BleedingHollow", -- [2]
@@ -1365,7 +639,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Impossibull|r",
 			[51] = 1634096435,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [29]
 		{
 			"feels like so much wasted time ", -- [1]
 			"|Kq18|k", -- [2]
@@ -1388,7 +662,7 @@ ElvCharacterDB = {
 			[51] = 1634096439,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [63]
+		}, -- [30]
 		{
 			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
 			"Smokingmachn-BleedingHollow", -- [2]
@@ -1410,7 +684,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSmokingmachn|r",
 			[51] = 1634096449,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [31]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1432,7 +706,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096475,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [32]
 		{
 			"yea ", -- [1]
 			"|Kq18|k", -- [2]
@@ -1455,7 +729,7 @@ ElvCharacterDB = {
 			[51] = 1634096502,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [66]
+		}, -- [33]
 		{
 			"[BigWigs] I'm busy in combat with 'Remnant of Ner'zhul' (Mythic) and 20/20 people are alive: Remnant of Ner'zhul (88.0%), Orb of Torment (84.3%), Orb of Torment (99.9%)", -- [1]
 			"|Kq18|k", -- [2]
@@ -1478,7 +752,7 @@ ElvCharacterDB = {
 			[51] = 1634096503,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [67]
+		}, -- [34]
 		{
 			"WTS M+ 0-20 >>15=145K<< +14=140K || 12=99K || 10=69K BUY 2 RUNS Get FREE ARMOR STACK ||||>>WEEKLY 15x3=124K Each<<|||| KSM 4+=214K Each |||| +20 Key Timed 3+=619K || TAZA || Torghast || LVL || RAID SoD >>AOTC<< HC & Mythic!! <HUOKAN>", -- [1]
 			"Tpcrowbleed-BleedingHollow", -- [2]
@@ -1500,7 +774,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Tpcrowbleed|r",
 			[51] = 1634096505,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [35]
 		{
 			"are there alts in here ..is that the problem", -- [1]
 			"|Kq18|k", -- [2]
@@ -1523,7 +797,7 @@ ElvCharacterDB = {
 			[51] = 1634096513,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [69]
+		}, -- [36]
 		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
@@ -1545,7 +819,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634096553,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [37]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1567,7 +841,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096566,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [38]
 		{
 			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Coybleedingh-BleedingHollow", -- [2]
@@ -1589,7 +863,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Coybleedingh|r",
 			[51] = 1634096600,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [39]
 		{
 			"WTS M+ 0-20 +20 TIMED+KEY= 619K /+15=145k // +10=69K (BUY 2 OR MORE FREE ARMOR STACK) /15=124k (x3 DEAL PRICE) // +15 TIMED=200K // KSM =214k per key (x4 or +)//SOD MYTHIC  H =500k  AOTC = 105k // Tazavesh // Houkan Community // ONLY GOLD // WHISP", -- [1]
 			"Kächinsales-BleedingHollow", -- [2]
@@ -1611,7 +885,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Kächinsales|r",
 			[51] = 1634096621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [40]
 		{
 			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
 			"Smokingmachn-BleedingHollow", -- [2]
@@ -1633,7 +907,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSmokingmachn|r",
 			[51] = 1634096639,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [41]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1655,7 +929,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096655,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [42]
 		{
 			"WTS  || +15  ONLY 145K  !FREE ARMOR STACK on 2 runs!!||+14 140K || +12 99k || +10 69K (Special Deal on 3 Runs) || TC || WTS leveling 51-60 ||HEROIC SOD || GOLD ONLY|| Huokan ||", -- [1]
 			"Bankpep-BleedingHollow", -- [2]
@@ -1677,7 +951,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcBankpep|r",
 			[51] = 1634096660,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [43]
 		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
@@ -1699,7 +973,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634096683,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [44]
 		{
 			"!WTS M+10-20 || +20 TIMED & Key Specific 619K ||M+15 145k ||+14 140k ||+12 99k ||+10 69k || BUY 2 and Get Free Loot Funnels || Special Deals For 3 or More Keys ||SOD Heroic & mythic|| KSM DEALS || TORGHAST 1-12 ||TAZAVESH  . >Huokan Community<", -- [1]
 			"Gernardboost-BleedingHollow", -- [2]
@@ -1721,7 +995,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGernardboost|r",
 			[51] = 1634096687,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [45]
 		{
 			"(SoC) 5/10M, 10/10H – Raiding Guild looking to recruit a WW, Mage, and Warlock. All classes are under consideration. We are an active guild with daily mythic + runs. We Raid Tues/Thurs 8:30 pm to 11:30 pm Eastern.", -- [1]
 			"Mulân-BleedingHollow", -- [2]
@@ -1743,7 +1017,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Mulân|r",
 			[51] = 1634096688,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [46]
 		{
 			"[BigWigs] I lost against 'Remnant of Ner'zhul' at: Remnant of Ner'zhul (37.1%), Orb of Torment (0.0%), Orb of Torment (0.0%), Orb of Torment (85.1%)", -- [1]
 			"|Kq18|k", -- [2]
@@ -1766,7 +1040,7 @@ ElvCharacterDB = {
 			[51] = 1634096694,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [80]
+		}, -- [47]
 		{
 			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
 			"Telz-BleedingHollow", -- [2]
@@ -1788,7 +1062,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Telz|r",
 			[51] = 1634096722,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [48]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-299196-73-104935558|h[Guild: Icy Dead People]|h|ris RECRUITING! If you're looking for a new guild to raid with or just a chill group of people to hang out with... we're the guild for you! We are 10/10N and 9/10H.", -- [1]
 			"Velyndrys-BleedingHollow", -- [2]
@@ -1810,7 +1084,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Velyndrys|r",
 			[51] = 1634096728,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [49]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1832,7 +1106,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096752,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [50]
 		{
 			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
 			"Smokingmachn-BleedingHollow", -- [2]
@@ -1854,7 +1128,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSmokingmachn|r",
 			[51] = 1634096812,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [51]
 		{
 			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Coybleedingh-BleedingHollow", -- [2]
@@ -1876,7 +1150,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Coybleedingh|r",
 			[51] = 1634096880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [52]
 		{
 			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
 			"Smokingmachn-BleedingHollow", -- [2]
@@ -1898,7 +1172,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSmokingmachn|r",
 			[51] = 1634096898,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [53]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1920,7 +1194,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096909,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [54]
 		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
@@ -1942,7 +1216,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634096924,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [55]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -1964,7 +1238,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634096992,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [56]
 		{
 			"WTS M+ 0-20 +20 TIMED+KEY= 619K /+15=145k // +10=69K (BUY 2 OR MORE FREE ARMOR STACK) /15=124k (x3 DEAL PRICE) // +15 TIMED=200K // KSM =214k per key (x4 or +)//SOD MYTHIC  H =500k  AOTC = 105k // Tazavesh // Houkan Community // ONLY GOLD // WHISP", -- [1]
 			"Kächinsales-BleedingHollow", -- [2]
@@ -1986,7 +1260,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Kächinsales|r",
 			[51] = 1634097013,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [57]
 		{
 			":)/WTS M+15 145K BUY 2 AND GET FULL ARMOR STACK / 3M+ 15  372K/ M+ 20 TIMED 619k> M+15 TIMED 200K> KSM Deal 4or more 214K PER KEY>Level boost>Full clear-Heroic SOD>Tazavesh>Torghast 5 STARS>Only Gold<HUOKAN>", -- [1]
 			"Methodxx-BleedingHollow", -- [2]
@@ -2008,7 +1282,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMethodxx|r",
 			[51] = 1634097027,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [58]
 		{
 			"!!WTS M +15 145K!! <BUY 2 GET FREE LOOT STACK> l +14 140K l  l +12 99K l  l +10 74K l TIMED +20 KEY 619K !SPECIAL DEAL ON 3 RUNS (15% - 25% OFF)! WTS TAZAVESH / HC SoD / TORGHAST / ONLY GOLD > Huokan < ", -- [1]
 			"Telz-BleedingHollow", -- [2]
@@ -2030,7 +1304,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Telz|r",
 			[51] = 1634097055,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [59]
 		{
 			"<<<WTS>>> +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Krowllei-BleedingHollow", -- [2]
@@ -2052,7 +1326,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Krowllei|r",
 			[51] = 1634097075,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [60]
 		{
 			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
 			"Smokingmachn-BleedingHollow", -- [2]
@@ -2074,7 +1348,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSmokingmachn|r",
 			[51] = 1634097115,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [61]
 		{
 			"(SoC) 5/10M, 10/10H – Raiding Guild looking to recruit a WW, Mage, and Warlock. All classes are under consideration. We are an active guild with daily mythic + runs. We Raid Tues/Thurs 8:30 pm to 11:30 pm Eastern.", -- [1]
 			"Mulân-BleedingHollow", -- [2]
@@ -2096,7 +1370,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Mulân|r",
 			[51] = 1634097119,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [62]
 		{
 			"WTS  || +15  ONLY 145K  !FREE ARMOR STACK on 2 runs!!||+14 140K || +12 99k || +10 69K (Special Deal on 3 Runs) || TC || WTS leveling 51-60 ||HEROIC SOD || GOLD ONLY|| Huokan ||", -- [1]
 			"Bankpep-BleedingHollow", -- [2]
@@ -2118,7 +1392,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcBankpep|r",
 			[51] = 1634097138,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [63]
 		{
 			"WTS +15 145k|| 20 Timed&specific 619k ||(BUY 2 and get free loot stack)KSM/Portal Deals to  ||3 +15 124k(136k lootfunnel) per key|| 3 +10 52k(63k funnel) per key||Tazavesh||Torghast||SoD Heroic/Mythic|| Lvl51-60<ONLY GOLD> Huokan", -- [1]
 			"Coybleedingh-BleedingHollow", -- [2]
@@ -2140,7 +1414,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Coybleedingh|r",
 			[51] = 1634097160,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [64]
 		{
 			"WTS 2V2s ARENA CARRYS FOR HEALERS !!!!!! 0-1400-1600-1800-2100!!!!!! Cheap pricesssssssss!!!!!!!!!!s", -- [1]
 			"Smokingmachn-BleedingHollow", -- [2]
@@ -2162,7 +1436,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSmokingmachn|r",
 			[51] = 1634097238,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [65]
 		{
 			"WTS |cff71d5ff|Hspell:60002:0|h[Time-Lost Proto-Drake]|h|r|cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cff71d5ff|Hspell:148476:0|h[Thundering Onyx Cloud Serpent]|h|r, Aeonaxx,Camel, Fabious and more. Gold Only! PST", -- [1]
 			"Cisu-BleedingHollow", -- [2]
@@ -2183,6 +1457,732 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cfffef367Cisu|r",
 			[51] = 1634097274,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"He was the inspiration of Elvis", -- [1]
+			"Dakasgrim-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dakasgrim-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-73-0E0E0B84", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcDakasgrim|r",
+			[51] = 1657844078,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"im so old i remember when mtv played music videos", -- [1]
+			"Footodor-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Footodor-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-73-0A189699", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Footodor|r",
+			[51] = 1657844084,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"@JimC....gee what drink are you havin!", -- [1]
+			"Ascii-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ascii-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-73-0AB22FBB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edAscii|r",
+			[51] = 1657844089,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"MTV saved my life. I was in a coma. Jersey Shore was on. I woke up just to change the channel.", -- [1]
+			"Unstopabull-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Unstopabull-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-73-0EC1622A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Unstopabull|r",
+			[51] = 1657844099,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"thought forest gump was elvises insperation?", -- [1]
+			"Trollistick-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Trollistick-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-73-0EC1C6A4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Trollistick|r",
+			[51] = 1657844041,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"ketamine", -- [1]
+			"Itheleron-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Itheleron-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-73-0E5EF3B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Itheleron|r",
+			[51] = 1657844044,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"Buddy Holly you should look him up Buddy Holly and the Crickets", -- [1]
+			"Orraken-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orraken-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-73-0609B62C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrraken|r",
+			[51] = 1657844045,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"buddy holly is fake news", -- [1]
+			"Jumpernickel-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jumpernickel-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-73-0EB3D4C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edJumpernickel|r",
+			[51] = 1657844052,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"there is only forest gump", -- [1]
+			"Jumpernickel-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jumpernickel-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-73-0EB3D4C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edJumpernickel|r",
+			[51] = 1657844116,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"I look just like Buddy Holly", -- [1]
+			"Spoetzl-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Spoetzl-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-73-0EC08DF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Spoetzl|r",
+			[51] = 1657844119,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"Jersey Shore was a 10/10 show to watch while pre-gaming for the bar", -- [1]
+			"Dahhaka-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dahhaka-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-73-09E69F6A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edDahhaka|r",
+			[51] = 1657844121,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"your birth is fake news", -- [1]
+			"Orraken-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orraken-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-73-0609B62C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrraken|r",
+			[51] = 1657844130,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"WTS Mythic+15-20 key for 262-278ilvl / KSM for Ach|cffffff00|Hachievement:15499:Player-73-0EC1C75B:0:0:0:-1:0:0:0:0|h[Shadowlands Keystone Master: Season Three]|h|rMythic SOTFO 1-6th/Heroic SOTFO 11/11/ FULL 265ilvl (AOTC)/All 29 Glory ach|cffffff00|Hachievement:15491:Player-73-0EC1C75B:0:0:0:-1:0:0:0:0|h[Glory of the Sepulcher Raider]|h|rPst!", -- [1]
+			"Tokalzzakzak-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tokalzzakzak-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-73-0EC1C75B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcTokalzzakzak|r",
+			[51] = 1657844139,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"I remember MTV weekly battles...when Quiet Riot took first place forever", -- [1]
+			"Ascii-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ascii-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-73-0AB22FBB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edAscii|r",
+			[51] = 1657844143,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"Buddy Holly isn't even a real name", -- [1]
+			"Shaddux-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shaddux-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-73-0E7779AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcShaddux|r",
+			[51] = 1657844144,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"I miss MTV's shit dating shows", -- [1]
+			"Jumpernickel-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jumpernickel-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-73-0EB3D4C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edJumpernickel|r",
+			[51] = 1657844144,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"yes it is actually", -- [1]
+			"Orraken-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orraken-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-73-0609B62C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrraken|r",
+			[51] = 1657844100,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"I miss Cody Lane", -- [1]
+			"Unstopabull-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Unstopabull-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-73-0EC1622A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Unstopabull|r",
+			[51] = 1657844101,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"You're right, it was a nickname", -- [1]
+			"Spoetzl-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Spoetzl-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			36, -- [11]
+			"Player-73-0EC08DF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Spoetzl|r",
+			[51] = 1657844185,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"Dinosaur Jr was cool too", -- [1]
+			"Orraken-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orraken-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			38, -- [11]
+			"Player-73-0609B62C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrraken|r",
+			[51] = 1657844187,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"charles hardin holley", -- [1]
+			"Spoetzl-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Spoetzl-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			43, -- [11]
+			"Player-73-0EC08DF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Spoetzl|r",
+			[51] = 1657844194,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"I miss legit bacon", -- [1]
+			"Ascii-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ascii-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-73-0AB22FBB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edAscii|r",
+			[51] = 1657844195,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"Singled Out with Jenny McCarthy was awesome ", -- [1]
+			"Amazonkiller-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Amazonkiller-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			45, -- [11]
+			"Player-73-0A0CAED0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Amazonkiller|r",
+			[51] = 1657844196,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"Having sex with a girl is gay bc you're having sex with someone who is attracted to men.", -- [1]
+			"Unstopabull-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Unstopabull-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-73-0EC1622A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Unstopabull|r",
+			[51] = 1657844202,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"damn", -- [1]
+			"Swampwater-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Swampwater-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-73-0C0D2D3A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Swampwater|r",
+			[51] = 1657844212,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"holy fuck", -- [1]
+			"Posionzen-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Posionzen-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-73-096DC09B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Posionzen|r",
+			[51] = 1657844160,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"I haven't lost my virginity bc I never lose. #KeepItOneHunnit", -- [1]
+			"Unstopabull-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Unstopabull-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-73-0EC1622A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Unstopabull|r",
+			[51] = 1657844168,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"i need to tell my family im gay", -- [1]
+			"Posionzen-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Posionzen-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-73-096DC09B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Posionzen|r",
+			[51] = 1657844172,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"@amazon....oooh jenny and pauly shore....geez I am now looking for grey hairs", -- [1]
+			"Ascii-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ascii-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"Player-73-0AB22FBB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edAscii|r",
+			[51] = 1657844234,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"its gay if you have 2 fathers and they are related", -- [1]
+			"Orraken-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orraken-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-73-0609B62C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrraken|r",
+			[51] = 1657844243,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"Also if this guy was 12 when Buddy Holly was born he'd have to be 98 years old.", -- [1]
+			"Shaddux-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shaddux-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-73-0E7779AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcShaddux|r",
+			[51] = 1657844247,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"i identify as a virgin", -- [1]
+			"Jimcarrey-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jimcarrey-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			78, -- [11]
+			"Player-73-0D8B427E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Jimcarrey|r",
+			[51] = 1657844248,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"if i were a mage, and i popped mirror images and had sex with them would it be considered.. gay or masturbation", -- [1]
+			"Thestainz-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Thestainz-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			83, -- [11]
+			"Player-73-0CC284CE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Thestainz|r",
+			[51] = 1657844253,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

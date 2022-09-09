@@ -3,33 +3,34 @@ DataStore_CurrenciesDB = {
 	["profileKeys"] = {
 		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
-		["Moodroo - Bleeding Hollow"] = "Moodroo - Bleeding Hollow",
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
+		["Moodroo - Bleeding Hollow"] = "Moodroo - Bleeding Hollow",
+		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
-		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
-		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 	},
 	["global"] = {
@@ -47,22 +48,22 @@ DataStore_CurrenciesDB = {
 					[1149] = "209-0-0-5000",
 					[1342] = "370-0-0-1000",
 					[1220] = "268447-0-0-0",
-					[1602] = "0-0-0-6850",
+					[1602] = "0-0-0-0",
 					[81] = "3-0-0-0",
 					[823] = "122470-0-0-0",
 					[1508] = "542-0-0-2000",
-					[1979] = "31-0-0-0",
-					[1906] = "1700-0-0-0",
+					[1979] = "36-0-0-0",
+					[1906] = "1400-0-0-0",
 					[776] = "0-0-0-20",
 					[1977] = "48-0-0-0",
-					[1191] = "2825-0-0-6750",
+					[1191] = "3075-0-0-0",
 					[1166] = "2425-0-0-0",
 					[61] = "1-0-0-0",
-					[1819] = "119-0-0-0",
+					[1819] = "121-0-0-0",
 					[777] = "7854-0-0-0",
 					[1560] = "792-0-0-0",
 					[1820] = "100-0-0-100",
-					[2009] = "2748-0-0-0",
+					[2009] = "2653-0-0-0",
 					[1275] = "142-0-0-0",
 					[1828] = "5980-0-0-0",
 					[1580] = "0-0-0-5",
@@ -76,24 +77,24 @@ DataStore_CurrenciesDB = {
 					[614] = "0-0-0-0",
 					[1931] = "4458-0-0-0",
 					[944] = "99-0-0-1000",
-					[1813] = "31963-0-0-200000",
+					[1813] = "34518-0-0-200000",
 					[241] = "15-0-0-0",
 					[1716] = "38-0-0-0",
 				},
 				["Currencies"] = {
 					584326785, -- [1]
-					360194177, -- [2]
-					4071681, -- [3]
+					347742337, -- [2]
+					4727041, -- [3]
 					4463617, -- [4]
 					13113857, -- [5]
-					15604865, -- [6]
-					4189461121, -- [7]
+					15867009, -- [6]
+					4524350081, -- [7]
 					783817473, -- [8]
-					222830337, -- [9]
+					183508737, -- [9]
 					110893953, -- [10]
 					6299137, -- [11]
 					8065, -- [12]
-					370279809, -- [13]
+					403047809, -- [13]
 					317850882, -- [14]
 					397315, -- [15]
 					6404, -- [16]
@@ -125,7 +126,7 @@ DataStore_CurrenciesDB = {
 					135690, -- [42]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1651010452,
+				["lastUpdate"] = 1658675318,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -230,13 +231,13 @@ DataStore_CurrenciesDB = {
 					[824] = "8253-0-0-10000",
 					[1101] = "19450-0-0-100000",
 					[980] = "230-0-0-20000",
-					[1226] = "4900-0-0-0",
+					[615] = "6-0-0-0",
 					[1533] = "61-0-0-0",
 					[823] = "80023-0-0-0",
-					[615] = "6-0-0-0",
+					[1166] = "535-0-0-0",
 					[614] = "17-0-0-0",
 					[994] = "6-0-0-20",
-					[1166] = "535-0-0-0",
+					[1226] = "4900-0-0-0",
 					[1191] = "0-0-0-10250",
 				},
 				["Currencies"] = {
@@ -298,7 +299,7 @@ DataStore_CurrenciesDB = {
 					[738] = "675-0-0-0",
 					[824] = "10000-0-0-10000",
 					[1508] = "960-0-0-2000",
-					[1191] = "0-0-0-6000",
+					[1191] = "0-0-0-0",
 					[1273] = "0-0-0-6",
 				},
 				["Currencies"] = {
@@ -324,7 +325,7 @@ DataStore_CurrenciesDB = {
 					11143689, -- [20]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1650904702,
+				["lastUpdate"] = 1658675169,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -563,7 +564,29 @@ DataStore_CurrenciesDB = {
 					7738633, -- [8]
 					4723082, -- [9]
 				},
-				["lastUpdate"] = 1634673604,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					24, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					27, -- [17]
+					3, -- [18]
+					0, -- [19]
+					10, -- [20]
+				},
+				["lastUpdate"] = 1661048469,
 				["CurrencyInfo"] = {
 					[81] = "5-0-0-0",
 					[824] = "14-0-0-10000",
@@ -586,6 +609,10 @@ DataStore_CurrenciesDB = {
 					[614] = "5-0-0-0",
 					[241] = "15-0-0-0",
 				},
+			},
+			["Default.Tichondrius.Prodigie"] = {
+				["lastUpdate"] = 1607927050,
+				["Conquest"] = 0,
 			},
 			["Default.Bleeding Hollow.Voodroosaur"] = {
 				["CurrencyInfo"] = {
@@ -711,21 +738,15 @@ DataStore_CurrenciesDB = {
 				},
 				["lastUpdate"] = 1650904562,
 			},
-			["Default.Tichondrius.Prodigie"] = {
-				["lastUpdate"] = 1607927050,
-				["Conquest"] = 0,
-			},
-			["Default.Area 52.Dorkkborne"] = {
-				["lastUpdate"] = 1629836687,
-			},
 			["Default.Bleeding Hollow.Lickk"] = {
 				["Currencies"] = {
 					65675393, -- [1]
-					22552833, -- [2]
+					33038593, -- [2]
 					402397825, -- [3]
 					26221313, -- [4]
 					13115137, -- [5]
-					26215809, -- [6]
+					1409, -- [6]
+					659080, -- [7]
 				},
 				["Archeology"] = {
 					0, -- [1]
@@ -749,15 +770,19 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1657215143,
+				["lastUpdate"] = 1662621687,
 				["CurrencyInfo"] = {
 					[1828] = "200-0-0-0",
-					[1979] = "172-0-0-0",
+					[1979] = "252-0-0-0",
 					[1906] = "100-0-0-0",
-					[2009] = "501-0-0-0",
-					[1191] = "200-0-0-0",
+					[1191] = "0-0-0-0",
 					[1813] = "3070-0-0-200000",
+					[738] = "5-0-0-0",
+					[2009] = "501-0-0-0",
 				},
+			},
+			["Default.Area 52.Dorkkborne"] = {
+				["lastUpdate"] = 1629836687,
 			},
 			["Default.Bleeding Hollow.Awkk"] = {
 				["CurrencyInfo"] = {
@@ -821,6 +846,131 @@ DataStore_CurrenciesDB = {
 					0, -- [18]
 					0, -- [19]
 					0, -- [20]
+				},
+			},
+			["Default.Bleeding Hollow.Dorkk"] = {
+				["CurrencyInfo"] = {
+					[824] = "9831-0-0-10000",
+					[515] = "163-0-0-0",
+					[1904] = "0-0-0-3510",
+					[777] = "61249-0-0-0",
+					[1101] = "99565-0-0-100000",
+					[1810] = "11-0-0-100",
+					[789] = "102-0-0-0",
+					[1129] = "9-0-0-20",
+					[1767] = "3405-0-0-0",
+					[738] = "5092-0-0-0",
+					[1275] = "127-0-0-0",
+					[1342] = "114-0-0-1000",
+					[1220] = "348236-0-0-0",
+					[1602] = "0-0-0-0",
+					[81] = "12-0-0-0",
+					[752] = "0-0-0-20",
+					[823] = "26176-0-0-0",
+					[1508] = "514-0-0-2000",
+					[1191] = "1135-0-0-0",
+					[391] = "13-0-0-0",
+					[1977] = "31-0-0-0",
+					[1906] = "4262-0-0-0",
+					[1721] = "127-0-0-0",
+					[776] = "3-0-0-20",
+					[1792] = "2585-0-0-15000",
+					[1166] = "610-0-0-0",
+					[614] = "0-0-0-0",
+					[1885] = "39-0-0-0",
+					[1149] = "59-0-0-5000",
+					[1560] = "439-0-0-0",
+					[1299] = "1725-0-0-5000",
+					[1820] = "100-0-0-100",
+					[1828] = "55788-0-0-0",
+					[402] = "8-0-0-0",
+					[697] = "20-0-0-20",
+					[1533] = "964-0-0-0",
+					[1273] = "0-0-0-6",
+					[615] = "0-0-0-0",
+					[1155] = "448-0-0-1800",
+					[416] = "43-0-0-0",
+					[1226] = "1891-0-0-0",
+					[2009] = "15816-0-0-0",
+					[994] = "10-0-0-20",
+					[1931] = "1760-0-0-0",
+					[944] = "95-0-0-1000",
+					[1813] = "8142-0-0-200000",
+					[241] = "8-0-0-0",
+					[1979] = "64-0-0-0",
+				},
+				["lastUpdate"] = 1661214398,
+				["Conquest"] = 0,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					23, -- [6]
+					135, -- [7]
+					78, -- [8]
+					43, -- [9]
+					41, -- [10]
+					45, -- [11]
+					25, -- [12]
+					26, -- [13]
+					23, -- [14]
+					3, -- [15]
+					36, -- [16]
+					24, -- [17]
+					12, -- [18]
+					23, -- [19]
+					20, -- [20]
+				},
+				["Currencies"] = {
+					230694529, -- [1]
+					2073043073, -- [2]
+					8397057, -- [3]
+					5118977, -- [4]
+					13113857, -- [5]
+					1067195009, -- [6]
+					7312251649, -- [7]
+					558636801, -- [8]
+					446307201, -- [9]
+					4070913, -- [10]
+					8065, -- [11]
+					148768129, -- [12]
+					79955202, -- [13]
+					21367939, -- [14]
+					1576963, -- [15]
+					1051907, -- [16]
+					6404, -- [17]
+					338829316, -- [18]
+					1708804, -- [19]
+					226101893, -- [20]
+					16654725, -- [21]
+					57546629, -- [22]
+					58720518, -- [23]
+					16646534, -- [24]
+					14942726, -- [25]
+					247857798, -- [26]
+					45643989766, -- [27]
+					902, -- [28]
+					7734278, -- [29]
+					67376646, -- [30]
+					126359174, -- [31]
+					3430942343, -- [32]
+					12455303, -- [33]
+					1288570631, -- [34]
+					13050185607, -- [35]
+					1181703, -- [36]
+					1312903, -- [37]
+					13374344, -- [38]
+					2626568, -- [39]
+					667422344, -- [40]
+					5256, -- [41]
+					8028032776, -- [42]
+					397192, -- [43]
+					2441, -- [44]
+					5641481, -- [45]
+					2569, -- [46]
+					1053066, -- [47]
 				},
 			},
 			["Default.Bleeding Hollow.Illidorkk"] = {
@@ -888,129 +1038,6 @@ DataStore_CurrenciesDB = {
 			},
 			["Default.Emerald Dream.Albiorix"] = {
 				["lastUpdate"] = 1630267166,
-			},
-			["Default.Bleeding Hollow.Dorkk"] = {
-				["CurrencyInfo"] = {
-					[824] = "9831-0-0-10000",
-					[515] = "163-0-0-0",
-					[1904] = "0-0-0-3510",
-					[777] = "61249-0-0-0",
-					[1101] = "99565-0-0-100000",
-					[1810] = "11-0-0-100",
-					[789] = "102-0-0-0",
-					[1129] = "9-0-0-20",
-					[1767] = "406-0-0-0",
-					[738] = "5269-0-0-0",
-					[1275] = "127-0-0-0",
-					[1342] = "114-0-0-1000",
-					[1220] = "348236-0-0-0",
-					[1602] = "795-0-0-0",
-					[81] = "12-0-0-0",
-					[752] = "0-0-0-20",
-					[823] = "26176-0-0-0",
-					[1508] = "514-0-0-2000",
-					[1191] = "720-0-0-0",
-					[1977] = "31-0-0-0",
-					[1906] = "42-0-0-0",
-					[391] = "13-0-0-0",
-					[776] = "3-0-0-20",
-					[1792] = "2585-0-0-15000",
-					[1166] = "610-0-0-0",
-					[614] = "0-0-0-0",
-					[1885] = "33-0-0-0",
-					[994] = "10-0-0-20",
-					[1560] = "115-0-0-0",
-					[1149] = "59-0-0-5000",
-					[1820] = "100-0-0-100",
-					[1299] = "1725-0-0-5000",
-					[402] = "8-0-0-0",
-					[416] = "43-0-0-0",
-					[697] = "1-0-0-20",
-					[1273] = "0-0-0-6",
-					[615] = "0-0-0-0",
-					[1155] = "448-0-0-1800",
-					[1533] = "964-0-0-0",
-					[1226] = "1891-0-0-0",
-					[1828] = "36418-0-0-0",
-					[2009] = "12700-0-0-0",
-					[1931] = "1119-0-0-0",
-					[944] = "95-0-0-1000",
-					[1813] = "2652-0-0-200000",
-					[241] = "6-0-0-0",
-					[1979] = "291-0-0-0",
-				},
-				["lastUpdate"] = 1657470986,
-				["Conquest"] = 0,
-				["Archeology"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0, -- [4]
-					0, -- [5]
-					23, -- [6]
-					135, -- [7]
-					78, -- [8]
-					43, -- [9]
-					41, -- [10]
-					45, -- [11]
-					25, -- [12]
-					26, -- [13]
-					23, -- [14]
-					3, -- [15]
-					36, -- [16]
-					24, -- [17]
-					12, -- [18]
-					23, -- [19]
-					20, -- [20]
-				},
-				["Currencies"] = {
-					146677377, -- [1]
-					1664622721, -- [2]
-					38150401, -- [3]
-					4332545, -- [4]
-					13113857, -- [5]
-					347609729, -- [6]
-					4773387009, -- [7]
-					5512961, -- [8]
-					53222273, -- [9]
-					4070913, -- [10]
-					8065, -- [11]
-					94373249, -- [12]
-					79955202, -- [13]
-					21367939, -- [14]
-					1576963, -- [15]
-					1051907, -- [16]
-					104208644, -- [17]
-					338829316, -- [18]
-					1708804, -- [19]
-					226101893, -- [20]
-					15079301, -- [21]
-					58720518, -- [22]
-					16646534, -- [23]
-					14942726, -- [24]
-					247857798, -- [25]
-					45643989766, -- [26]
-					902, -- [27]
-					7734278, -- [28]
-					67376646, -- [29]
-					126359174, -- [30]
-					3430942343, -- [31]
-					12455303, -- [32]
-					1288570631, -- [33]
-					13050185607, -- [34]
-					1181703, -- [35]
-					1312903, -- [36]
-					13374344, -- [37]
-					136200, -- [38]
-					690622088, -- [39]
-					5256, -- [40]
-					8028032776, -- [41]
-					397192, -- [42]
-					2441, -- [43]
-					5641481, -- [44]
-					2569, -- [45]
-					790922, -- [46]
-				},
 			},
 			["Default.Bleeding Hollow.Wardorkk"] = {
 				["CurrencyInfo"] = {
@@ -1085,17 +1112,42 @@ DataStore_CurrenciesDB = {
 					0, -- [20]
 				},
 			},
+			["Default.Altar of Storms.Holynoly"] = {
+				["lastUpdate"] = 1658725893,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
+			},
 			["Default.Bleeding Hollow.Voodroo"] = {
 				["CurrencyInfo"] = {
 					[402] = "5-0-0-0",
 					[1268] = "39-0-0-1000",
 					[944] = "7-0-0-1000",
 					[1299] = "8-0-0-5000",
-					[1149] = "303-0-0-5000",
+					[823] = "75997-0-0-0",
 					[1508] = "556-0-0-2000",
 					[1166] = "2730-0-0-0",
 					[776] = "0-0-0-20",
-					[823] = "75997-0-0-0",
+					[1273] = "0-0-0-6",
 					[777] = "35524-0-0-0",
 					[1275] = "175-0-0-0",
 					[738] = "278-0-0-0",
@@ -1115,7 +1167,7 @@ DataStore_CurrenciesDB = {
 					[416] = "15-0-0-0",
 					[615] = "8-0-0-0",
 					[994] = "19-0-0-20",
-					[1273] = "0-0-0-6",
+					[1149] = "303-0-0-5000",
 				},
 				["lastUpdate"] = 1657471152,
 				["Conquest"] = 0,
@@ -1242,6 +1294,7 @@ DataStore_CurrenciesDB = {
 				"Honor|1455894", -- [64]
 				"Cosmic Flux|4381149", -- [65]
 				"Cyphers of the First Ones|3950362", -- [66]
+				"Prismatic Manapearl|463858", -- [67]
 			},
 			["CurrencyTextRev"] = {
 				["Stygia"] = 55,
@@ -1285,44 +1338,45 @@ DataStore_CurrenciesDB = {
 				["Lingering Soul Fragment"] = 22,
 				["Ironpaw Token"] = 26,
 				["Conquest"] = 50,
+				["Dalaran Jewelcrafter's Token"] = 36,
 				["Lesser Charm of Good Fortune"] = 29,
 				["Oil"] = 15,
 				["Seal of Wartorn Fate"] = 48,
-				["Dalaran Jewelcrafter's Token"] = 36,
-				["Brawler's Gold"] = 21,
+				["Ancient Mana"] = 2,
+				["Wrath of the Lich King"] = 34,
 				["Shadowlands"] = 51,
 				["Soul Ash"] = 54,
 				["Player vs. Player"] = 37,
 				["Timewarped Badge"] = 10,
-				["Wrath of the Lich King"] = 34,
 				["Curious Coin"] = 3,
+				["Seal of Inevitable Fate"] = 16,
 				["Veiled Argunite"] = 44,
-				["Warforged Seal"] = 31,
-				["Epicurean's Award"] = 32,
 				["Warlords of Draenor"] = 12,
+				["Epicurean's Award"] = 32,
+				["Mote of Darkness"] = 20,
 				["Mogu Rune of Fate"] = 41,
 				["Miscellaneous"] = 24,
-				["Mote of Darkness"] = 20,
+				["Warforged Seal"] = 31,
 				["Legion"] = 1,
 				["Darkmoon Prize Ticket"] = 25,
-				["Seal of Inevitable Fate"] = 16,
 				["Nethershard"] = 5,
 				["Legionfall War Supplies"] = 4,
+				["Brawler's Gold"] = 21,
 				["Champion's Seal"] = 35,
-				["Ancient Mana"] = 2,
+				["Prismatic Manapearl"] = 67,
 			},
 			["HeadersRev"] = {
 				["Battle for Azeroth"] = 5,
-				["Dungeon and Raid"] = 2,
 				["Burning Crusade"] = 11,
+				["Miscellaneous"] = 3,
 				["Warlords of Draenor"] = 7,
 				["Legion"] = 6,
-				["Mists of Pandaria"] = 8,
-				["Cataclysm"] = 9,
 				["Wrath of the Lich King"] = 10,
+				["Cataclysm"] = 9,
 				["Shadowlands"] = 1,
+				["Mists of Pandaria"] = 8,
 				["Player vs. Player"] = 4,
-				["Miscellaneous"] = 3,
+				["Dungeon and Raid"] = 2,
 			},
 			["Headers"] = {
 				"Shadowlands", -- [1]

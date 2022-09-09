@@ -1,9 +1,7 @@
 ﻿LibRealmInfo
 ===============
 
-> **IMPORTANT:** LibRealmInfo is now maintained here: <https://github.com/janekjl/LibRealmInfo>. This original repository is now archived, and the original author (Phanx) is no longer involved in the library's development or maintenance.
-
-World of Warcraft addon library to provide information about realms.
+Library to provide information about realms.
 
 * [Download on CurseForge](https://wow.curseforge.com/projects/librealminfo)
 * [Download on WoWInterface](https://www.wowinterface.com/downloads/info22987-LibRealmInfo.html)

@@ -1,0 +1,109 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Trublmakr - Scarlet Crusade"] = "Trublmakr - Scarlet Crusade",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Pandan - Earthen Ring"] = "Pandan - Earthen Ring",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Nycee - Bleeding Hollow"] = "Nycee - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+	},
+	["global"] = {
+		["Guilds"] = {
+			["Default.Bleeding Hollow.Never Lucky"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.STARWORLD"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Papercut"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Yep Yep Yep"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Nightmare Unending"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Bleeding Hollow.Katdoge"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Nightmare Unending",
+			},
+			["Default.Scarlet Crusade.Trublmakr"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Inolie"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Nightmare Unending",
+			},
+			["Default.Bleeding Hollow.Holynoly"] = {
+				["faction"] = "Horde",
+				["guildName"] = "STARWORLD",
+			},
+			["Default.Bleeding Hollow.Emogin"] = {
+				["guildName"] = "Nightmare Unending",
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Blù"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Yep Yep Yep",
+			},
+			["Default.Bleeding Hollow.Trublmakr"] = {
+				["guildName"] = "Nightmare Unending",
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Emoclëw"] = {
+				["guildName"] = "Nightmare Unending",
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Stryfë"] = {
+				["faction"] = "Horde",
+				["guildName"] = "STARWORLD",
+			},
+			["Default.Earthen Ring.Pandan"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Nolieper"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Never Lucky",
+			},
+			["Default.Bleeding Hollow.Nycee"] = {
+				["guildName"] = "STARWORLD",
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Noliedin"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Diá"] = {
+				["guildName"] = "Papercut",
+				["faction"] = "Horde",
+			},
+			["Default.Bleeding Hollow.Noliee"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Nightmare Unending",
+			},
+			["Default.Bleeding Hollow.Pándan"] = {
+				["guildName"] = "Never Lucky",
+				["faction"] = "Horde",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["BleedingHollow"] = "Bleeding Hollow",
+			["EarthenRing"] = "Earthen Ring",
+			["ScarletCrusade"] = "Scarlet Crusade",
+		},
+	},
+}

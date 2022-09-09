@@ -209,3 +209,9 @@ DBM-VPVEM: enabled
 ElvUI_CustomTags: disabled
 kExtraBossFrames: disabled
 OPie_Classic: disabled
+RaiderIO_DB_TW_R: disabled
+RaiderIO_DB_TW_M: disabled
+RaiderIO_DB_KR_R: disabled
+RaiderIO_DB_KR_M: disabled
+RaiderIO_DB_EU_R: disabled
+RaiderIO_DB_EU_M: disabled

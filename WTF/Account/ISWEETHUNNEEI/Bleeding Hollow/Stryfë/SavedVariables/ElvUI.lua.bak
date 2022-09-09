@@ -1,2248 +1,1599 @@
 
 ElvCharacterDB = {
-	["CliqueDatatext"] = {
-	},
 	["ConvertKeybindings"] = true,
-	["ChatEditHistory"] = {
-		"rip...elegon doesnt require the book", -- [1]
-		"lol", -- [2]
-		"now the real question is how to do this without killing him", -- [3]
-		"i cant find it in my spellbook", -- [4]
-		"oh ok i see it", -- [5]
-		"ty ty", -- [6]
-		"was it sha", -- [7]
-		"need to start camping for him", -- [8]
-		"sha???", -- [9]
-		"why did i think he spawned longer", -- [10]
-		"also i feel like that means mounts have a worse drop rate", -- [11]
-		"i never see anyone sitting by him but yet he's always dead", -- [12]
-		"ugh", -- [13]
-		"well that was easy", -- [14]
-		"and he respawns", -- [15]
-		"what do you mean", -- [16]
-		"yea", -- [17]
-		"makes sense if you're looking to clear the raid", -- [18]
-		"still no pet though", -- [19]
-		"well now  you can try for both at the same time", -- [20]
-	},
 	["ChatHistoryLog"] = {
 		{
-			"?", -- [1]
-			"Skajuanda-Quel'Thalas", -- [2]
+			"i just saw your name", -- [1]
+			"|Kq31|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Skajuanda-Quel'Thalas", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1813, -- [11]
-			"Player-1428-0D717E3D", -- [12]
-			0, -- [13]
+			1126, -- [11]
+			false, -- [12]
+			36, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Skajuanda-Quel'Thalas|r",
-			[51] = 1623287289,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Riverb|r",
+			[51] = 1659311821,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Riverb",
 		}, -- [1]
 		{
-			"sorry, i am need", -- [1]
-			"Saffirahh-Goldrinn", -- [2]
+			"trying to get you", -- [1]
+			"|Kq31|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Saffirahh-Goldrinn", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1814, -- [11]
-			"Player-3207-0B3B8711", -- [12]
-			0, -- [13]
+			1127, -- [11]
+			false, -- [12]
+			36, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaSaffirahh-Goldrinn|r",
-			[51] = 1623287303,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Riverb|r",
+			[51] = 1659311824,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Riverb",
 		}, -- [2]
 		{
-			"i could use", -- [1]
-			"Stryfë-BleedingHollow", -- [2]
+			"there lol", -- [1]
+			"|Kq31|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Stryfë-BleedingHollow", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1818, -- [11]
-			"Player-73-09B0681E", -- [12]
-			0, -- [13]
+			1128, -- [11]
+			false, -- [12]
+			36, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Stryfë|r",
-			[51] = 1623287315,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Riverb|r",
+			[51] = 1659311829,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Riverb",
 		}, -- [3]
 		{
-			"vengil#4527", -- [1]
-			"Vengil-BleedingHollow", -- [2]
+			"ahah", -- [1]
+			"|Kq31|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Vengil-BleedingHollow", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1819, -- [11]
-			"Player-73-0E56D670", -- [12]
-			0, -- [13]
+			1129, -- [11]
+			false, -- [12]
+			36, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cVengil|r",
-			[51] = 1623287320,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Riverb|r",
+			[51] = 1659311832,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Riverb",
 		}, -- [4]
 		{
-			"!!WTS +15 Only 130k>> BUY 2 GET FREE LOOT FUNNELS)+15 185k TIMED SPECIFIC KEY/Mythic Keys +10-20!/+14 110K /+12 90k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
-			"Luciter-BleedingHollow", -- [2]
+			"tried:(", -- [1]
+			"|Kq31|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Luciter-BleedingHollow", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1822, -- [11]
-			"Player-73-0E788E8D", -- [12]
-			0, -- [13]
+			1131, -- [11]
+			false, -- [12]
+			36, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Luciter|r",
-			[51] = 1623287326,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Riverb|r",
+			[51] = 1659312217,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Riverb",
 		}, -- [5]
 		{
-			"As part of a growing community HUOKAN is gifting a M Sire Denathrius Kill || That's right, FREE Cutting Edge Acchievment || wisp for more info <3 HUOKAN BOOSTING COMMUNITY <3 || Disclaimer: GOld Only, no purchase necessary <3", -- [1]
-			"Luminable-BleedingHollow", -- [2]
+			"he might do more", -- [1]
+			"|Kq31|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Luminable-BleedingHollow", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1826, -- [11]
-			"Player-73-0E65B040", -- [12]
-			0, -- [13]
+			1132, -- [11]
+			false, -- [12]
+			36, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Luminable|r",
-			[51] = 1623287340,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Riverb|r",
+			[51] = 1659312220,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Riverb",
 		}, -- [6]
 		{
-			"Can y'all do me a favor Trade Chat? Report my name. Too many sexual whispers.", -- [1]
-			"Uwufemdom-BleedingHollow", -- [2]
+			"JCs are finally making their money, huh?", -- [1]
+			"Blackfog-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Uwufemdom-BleedingHollow", -- [5]
+			"Blackfog-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			1828, -- [11]
-			"Player-73-0E7EDE86", -- [12]
+			556, -- [11]
+			"Player-73-0DE65002", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Uwufemdom|r",
-			[51] = 1623287347,
+			[52] = "|cffa22fc8Blackfog|r",
+			[51] = 1659545370,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [7]
 		{
-			"!!WTS +15 Only 130k>> BUY 2 GET FREE LOOT FUNNELS)+15 185k TIMED SPECIFIC KEY/Mythic Keys +10-20!/+14 110K /+12 90k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
-			"Luciter-BleedingHollow", -- [2]
+			"where are the new vendors located ", -- [1]
+			"Datvoodoomon-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Luciter-BleedingHollow", -- [5]
+			"Datvoodoomon-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			107, -- [11]
-			"Player-73-0E788E8D", -- [12]
+			557, -- [11]
+			"Player-73-0E7CDDD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Luciter|r",
-			[51] = 1623338076,
+			[52] = "|cff006fdcDatvoodoomon|r",
+			[51] = 1659545415,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [8]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14328:Player-73-09B0681E:1:6:10:21:4294967295:4294967295:4294967295:4294967295|h[Professional Shadowlands Master]|h|r!", -- [1]
-			"Stryfë-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stryfë-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-73-09B0681E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Stryfë|r",
-			[51] = 1623338466,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [9]
-		{
-			"HUOKAN SALES!! Come and get your KSM and your AOTC with a 12% discount /w me. !!GOLD ONLY!! We also offer bundles and offers in LEVELING, TORGHAST and all about LEGACY CONTENT (Achv, titles, misc...)", -- [1]
-			"Yuquita-BleedingHollow", -- [2]
+			"For?", -- [1]
+			"Blackfog-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Yuquita-BleedingHollow", -- [5]
+			"Blackfog-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			303, -- [11]
-			"Player-73-0CC53ECC", -- [12]
+			560, -- [11]
+			"Player-73-0DE65002", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Yuquita|r",
-			[51] = 1623339012,
+			[52] = "|cffa22fc8Blackfog|r",
+			[51] = 1659545426,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"I think he's talking about the Dinar vendor", -- [1]
+			"Shaddux-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shaddux-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			563, -- [11]
+			"Player-73-0E7779AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcShaddux|r",
+			[51] = 1659545438,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [10]
 		{
-			"!!WTS +15 Only 130k>> BUY 2 GET FREE LOOT FUNNELS)+15 185k TIMED SPECIFIC KEY/Mythic Keys +10-20!/+14 110K /+12 90k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
-			"Luciter-BleedingHollow", -- [2]
+			"near joe", -- [1]
+			"Softsecks-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Luciter-BleedingHollow", -- [5]
+			"Softsecks-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			304, -- [11]
-			"Player-73-0E788E8D", -- [12]
+			564, -- [11]
+			"Player-73-0D0D73EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Luciter|r",
-			[51] = 1623339019,
+			[52] = "|cffa9d271Softsecks|r",
+			[51] = 1659545447,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"WTS M+ 0-19 keys || World Tour M0 || KSM || Level Boost 51-60 || Castle Nathria full clears/Last 2 || Torghast all layers || GOLD ONLY |||| HUOKAN BOOSTING COMMUNITY |||| BEST PRICES !! Only buy from Huokan GuildBanks", -- [1]
-			"Pandastastic-BleedingHollow", -- [2]
+			"wtf xd", -- [1]
+			"Shodtgun-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Pandastastic-BleedingHollow", -- [5]
+			"Shodtgun-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			305, -- [11]
-			"Player-73-0E67CEA8", -- [12]
+			1134, -- [11]
+			"Player-73-0EC49277", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Pandastastic|r",
-			[51] = 1623339061,
+			[52] = "|cff00fe97Shodtgun|r",
+			[51] = 1660092482,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"!!WTS +15 Only 120k>> BUY 2 GET FREE LOOT FUNNELS)+15 176k TIMED SPECIFIC KEY/Mythic Keys +10-20!/+14 99K /+12 85k /+10 75K /(SPECIAL DEAL FOR 4 RUNS)<WTS  CN HC/M>!WTS! Torghast/WTS leveling 51-60) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
-			"Huokandeal-BleedingHollow", -- [2]
+			"            |cff71d5ff|Hspell:115191:0|h[Stealth]|h|rAnal ", -- [1]
+			"Nerdneck-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Huokandeal-BleedingHollow", -- [5]
+			"Nerdneck-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			98, -- [11]
-			"Player-73-0E800AC9", -- [12]
+			1137, -- [11]
+			"Player-73-0EC3584B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcHuokandeal|r",
-			[51] = 1623706289,
+			[52] = "|cfffef367Nerdneck|r",
+			[51] = 1660092501,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"Why do Tauren literally shove their Honorable Pennant up their ass?", -- [1]
-			"Phearbunny-BleedingHollow", -- [2]
+			"anal |cff71d5ff|Hspell:1449:0|h[Arcane Explosion]|h|r", -- [1]
+			"Eyce-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Phearbunny-BleedingHollow", -- [5]
+			"Eyce-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			99, -- [11]
-			"Player-73-0DE92B05", -- [12]
+			1139, -- [11]
+			"Player-73-0E0FB0F1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc31d39Phearbunny|r",
-			[51] = 1623706296,
+			[52] = "|cff3ec6eaEyce|r",
+			[51] = 1660092528,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [14]
 		{
-			"Ad post here. Sellin everything that every other boosting community is but cheaper. You know the drill. Gold only - slide into my DM's ;)", -- [1]
-			"Mysteroctomy-BleedingHollow", -- [2]
+			"Anal |cffffff00|Hachievement:12830:Player-73-0EC58C4D:0:0:0:-1:0:0:0:0|h[Edgelords]|h|r", -- [1]
+			"Rianan-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Mysteroctomy-BleedingHollow", -- [5]
+			"Rianan-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			132, -- [11]
-			"Player-73-0E7EE5A3", -- [12]
+			1140, -- [11]
+			"Player-73-0EC58C4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Mysteroctomy|r",
-			[51] = 1623810826,
+			[52] = "|cfffef367Rianan|r",
+			[51] = 1660092531,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"|cffffd100|HclubFinder:ClubFinder-1-106255-73-86005546|h[Guild: The Scarlet Fellowship]|h|r Visit thescarletfellowship.com || N/H Raiding || Mythic+ || Rated PvP || Torghast || Achievements || Mounts || Guild Events || Dedicated Discord || Join today!", -- [1]
-			"Tubbërs-BleedingHollow", -- [2]
+			"anal |cff71d5ff|Hspell:2006:0|h[Resurrection]|h|r", -- [1]
+			"Fatalbeáuty-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Tubbërs-BleedingHollow", -- [5]
+			"Fatalbeáuty-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			133, -- [11]
-			"Player-73-0CAAF633", -- [12]
+			1141, -- [11]
+			"Player-73-0EC1EA47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Tubbërs|r",
-			[51] = 1623810840,
+			[52] = "|cfffefefeFatalbeáuty|r",
+			[51] = 1660092594,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"Sus? ", -- [1]
-			"Thaluston-BleedingHollow", -- [2]
+			"Anal |cff71d5ff|Hspell:1943:0|h[Rupture]|h|r", -- [1]
+			"Nerdneck-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Thaluston-BleedingHollow", -- [5]
+			"Nerdneck-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			2, -- [11]
-			"Player-73-0BBEA9EE", -- [12]
+			1144, -- [11]
+			"Player-73-0EC3584B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfff38bb9Thaluston|r",
-			[51] = 1651010164,
+			[52] = "|cfffef367Nerdneck|r",
+			[51] = 1660092596,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"rmt", -- [1]
-			"Ceraxus-BleedingHollow", -- [2]
+			"WTS Alchemy Profession Kits 1 to 300 Vanilla  w/ Alchemist Flask!  PST", -- [1]
+			"Classicalch-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Ceraxus-BleedingHollow", -- [5]
+			"Classicalch-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			4, -- [11]
-			"Player-73-0A018E8E", -- [12]
+			1145, -- [11]
+			"Player-73-0EC71671", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Ceraxus|r",
-			[51] = 1651010170,
+			[52] = "|cff3ec6eaClassicalch|r",
+			[51] = 1660092550,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [18]
 		{
-			"i wonder if they realize that all they do is get on people's ignore list", -- [1]
-			"Gormak-BleedingHollow", -- [2]
+			"anal|cff71d5ff|Hspell:323654:0|h[Flagellation]|h|r", -- [1]
+			"Blakene-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Gormak-BleedingHollow", -- [5]
+			"Blakene-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			5, -- [11]
-			"Player-73-0E2F29A5", -- [12]
+			1146, -- [11]
+			"Player-73-0A2C1D87", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Gormak|r",
-			[51] = 1651010170,
+			[52] = "|cfffef367Blakene|r",
+			[51] = 1660092556,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [19]
 		{
-			"When it was a comunity, they had something to lose ", -- [1]
-			"Thaluston-BleedingHollow", -- [2]
+			"anal |cff71d5ff|Hspell:6572:0|h[Revenge]|h|r", -- [1]
+			"Gorehog-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Thaluston-BleedingHollow", -- [5]
+			"Gorehog-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			6, -- [11]
-			"Player-73-0BBEA9EE", -- [12]
+			1151, -- [11]
+			"Player-73-099DCFA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfff38bb9Thaluston|r",
-			[51] = 1651010172,
+			[52] = "|cffc59a6cGorehog|r",
+			[51] = 1660092563,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [20]
 		{
-			"Selling m15 De Other Side, cheap af 99k ! 278ilvl weekly chest guaranteed.", -- [1]
-			"Monpipal-BleedingHollow", -- [2]
+			"anal |cff71d5ff|Hspell:324631:0|h[Fleshcraft]|h|r", -- [1]
+			"Paperdoll-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Monpipal-BleedingHollow", -- [5]
+			"Paperdoll-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			7, -- [11]
-			"Player-73-0C0C241D", -- [12]
+			1154, -- [11]
+			"Player-73-0B783BC7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfff38bb9Monpipal|r",
-			[51] = 1651010179,
+			[52] = "|cfffef367Paperdoll|r",
+			[51] = 1660092575,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
 		{
-			"u think they sell it for their guild??", -- [1]
-			"Avcii-BleedingHollow", -- [2]
+			"reported", -- [1]
+			"Nidron-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Avcii-BleedingHollow", -- [5]
+			"Nidron-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			8, -- [11]
-			"Player-73-0CAD441C", -- [12]
+			1155, -- [11]
+			"Player-73-0E49E555", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Avcii|r",
-			[51] = 1651010209,
+			[52] = "|cfffefefeNidron|r",
+			[51] = 1660092583,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [22]
 		{
-			"funny", -- [1]
-			"Avcii-BleedingHollow", -- [2]
+			"anal|cff71d5ff|Hspell:1833:0|h[Cheap Shot]|h|r", -- [1]
+			"Blakene-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Avcii-BleedingHollow", -- [5]
+			"Blakene-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			9, -- [11]
-			"Player-73-0CAD441C", -- [12]
+			1158, -- [11]
+			"Player-73-0A2C1D87", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Avcii|r",
-			[51] = 1651010215,
+			[52] = "|cfffef367Blakene|r",
+			[51] = 1660092586,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [23]
 		{
-			"Yes. Consumes are very expensive ", -- [1]
-			"Thaluston-BleedingHollow", -- [2]
+			"Anal |cff71d5ff|Hspell:20573:0|h[Hardiness]|h|r", -- [1]
+			"Nerdneck-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Thaluston-BleedingHollow", -- [5]
+			"Nerdneck-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			10, -- [11]
-			"Player-73-0BBEA9EE", -- [12]
+			1159, -- [11]
+			"Player-73-0EC3584B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfff38bb9Thaluston|r",
-			[51] = 1651010226,
+			[52] = "|cfffef367Nerdneck|r",
+			[51] = 1660092586,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [24]
 		{
-			"WTS |cff1eff00|Hitem:16252::::::::34:269::::1:28:35:::::|h[Formula: Enchant Weapon - Crusader]|h|r", -- [1]
-			"Mindhaze-BleedingHollow", -- [2]
+			"anal |cff71d5ff|Hspell:1766:0|h[Kick]|h|r", -- [1]
+			"Paperdoll-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Mindhaze-BleedingHollow", -- [5]
+			"Paperdoll-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			11, -- [11]
-			"Player-73-0EB13470", -- [12]
+			1160, -- [11]
+			"Player-73-0B783BC7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Mindhaze|r",
-			[51] = 1651010237,
+			[52] = "|cfffef367Paperdoll|r",
+			[51] = 1660092653,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [25]
 		{
-			"<Atlantic> 6/11M || Selling Heroic Tier Bosses on Tuesday at 8:30 PM EST! Booking now - all four Token Types still available. PST for more information!", -- [1]
-			"Chonkyboi-BleedingHollow", -- [2]
+			"Anal |cff71d5ff|Hspell:78633:0|h[Mount Up]|h|r", -- [1]
+			"Nerdneck-BleedingHollow", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Chonkyboi-BleedingHollow", -- [5]
+			"Nerdneck-BleedingHollow", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			14, -- [11]
-			"Player-73-0C65E099", -- [12]
+			1172, -- [11]
+			"Player-73-0EC3584B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Chonkyboi|r",
-			[51] = 1651010249,
+			[52] = "|cfffef367Nerdneck|r",
+			[51] = 1660092603,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [26]
 		{
-			"my hunter looks ok ", -- [1]
-			"|Kq2|k", -- [2]
+			"anal |cff71d5ff|Hpvptal:5417|h[Rodeo]|h|r", -- [1]
+			"Beeftea-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Beeftea-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			168, -- [11]
-			false, -- [12]
-			5, -- [13]
+			1173, -- [11]
+			"Player-73-0EC56A45", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1654654757,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Dorkk",
+			true, -- [17]
+			[52] = "|cff00fe97Beeftea|r",
+			[51] = 1660092603,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"my ui is the same", -- [1]
-			"|Kq2|k", -- [2]
+			"anal|cff71d5ff|Hspell:5938:0|h[Shiv]|h|r", -- [1]
+			"Blakene-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Blakene-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			169, -- [11]
-			false, -- [12]
-			5, -- [13]
+			1180, -- [11]
+			"Player-73-0A2C1D87", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1654654764,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Dorkk",
+			true, -- [17]
+			[52] = "|cfffef367Blakene|r",
+			[51] = 1660092609,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"the keybinds and bars", -- [1]
-			"|Kq2|k", -- [2]
+			"anal |cff71d5ff|Hspell:8676:0|h[Ambush]|h|r", -- [1]
+			"Paperdoll-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Paperdoll-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			170, -- [11]
-			false, -- [12]
-			5, -- [13]
+			1187, -- [11]
+			"Player-73-0B783BC7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1654654839,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Dorkk",
+			true, -- [17]
+			[52] = "|cfffef367Paperdoll|r",
+			[51] = 1660092613,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
 		{
-			"are prolly not ", -- [1]
-			"|Kq2|k", -- [2]
+			"LMAO", -- [1]
+			"Nerdneck-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Nerdneck-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			171, -- [11]
-			false, -- [12]
-			5, -- [13]
+			1190, -- [11]
+			"Player-73-0EC3584B", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1654654841,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Dorkk",
+			true, -- [17]
+			[52] = "|cfffef367Nerdneck|r",
+			[51] = 1660092616,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [30]
 		{
-			"oh", -- [1]
-			"|Kq2|k", -- [2]
+			"omg lol", -- [1]
+			"Scoobs-BleedingHollow", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Scoobs-BleedingHollow", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			172, -- [11]
-			false, -- [12]
-			5, -- [13]
+			1191, -- [11]
+			"Player-73-0BCD8501", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1654654848,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Dorkk",
+			true, -- [17]
+			[52] = "|cfff38bb9Scoobs|r",
+			[51] = 1660092623,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"WTS 2s carry (gold only), 27xp mglad", -- [1]
-			"Cocobutterx-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cocobutterx-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			13, -- [11]
-			"Player-73-0EA8A420", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Cocobutterx|r",
-			[51] = 1655589483,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"makes some strange gestures.", -- [1]
-			"Softmuahuwu-BleedingHollow", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:15124:Player-73-0DE14EE2:1:8:10:22:4294967295:4294967295:4294967295:4294967295|h[Shackles of Fate]|h|r!", -- [1]
+			"Quonshack-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Softmuahuwu-BleedingHollow", -- [5]
+			"Quonshack-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			20, -- [11]
-			"Player-73-0BD96B8E", -- [12]
+			1116, -- [11]
+			"Player-73-0DE14EE2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSoftmuahuwu|r",
-			[51] = 1655589546,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [33]
+			[52] = "|cffc59a6cQuonshack|r",
+			[51] = 1660197048,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [32]
 		{
-			"<Magic Bears> GUILD W T S 11/11 SOTFO HC & MM, Jailer mount. KSM or Mythic +15-22 timed. Lets go boys! X4 Loot traders. W/me for more info", -- [1]
-			"Tajyn-BleedingHollow", -- [2]
+			"im assuimg everyones here to get King krush", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tajyn-BleedingHollow", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			39, -- [11]
-			"Player-73-0EBCF2AD", -- [12]
+			1183, -- [11]
+			"Player-52-0720E0F1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cTajyn|r",
-			[51] = 1655589690,
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660197748,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [33]
+		{
+			"not i", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1184, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660197761,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5810:Player-73-09B0681E:1:6:18:22:4294967295:4294967295:4294967295:4294967295|h[Not an Ambi-Turner]|h|r!", -- [1]
-			"Stryfë-BleedingHollow", -- [2]
+			"thank god phew", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Stryfë-BleedingHollow", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			94, -- [11]
-			"Player-73-09B0681E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Stryfë|r",
-			[51] = 1655590224,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [35]
-		{
-			"ive been doing callings for stuff i am missing", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1290, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003194,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [36]
-		{
-			"bitches love |cffa335ee|Hitem:647:1900:::::::32:72::1:1:6661:2:9:30:28:218:::::|h[Destiny]|h|r|cffa335ee|Hitem:30090:1900:::::::32:72::::1:28:1011:::::|h[World Breaker]|h|r wombo", -- [1]
-			"Epicpotato-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Epicpotato-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1291, -- [11]
-			"Player-73-0E9E0646", -- [12]
+			1185, -- [11]
+			"Player-52-0720E0F1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cEpicpotato|r",
-			[51] = 1656003264,
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660197766,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [35]
+		{
+			"loque for me", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1186, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660197777,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [36]
+		{
+			"4 days for me tryna find him", -- [1]
+			"Alo-Khadgar", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1187, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660197726,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [37]
 		{
-			"misstype", -- [1]
-			"Epicpotato-BleedingHollow", -- [2]
+			"goddamn ", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Epicpotato-BleedingHollow", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1292, -- [11]
-			"Player-73-0E9E0646", -- [12]
+			1188, -- [11]
+			"Player-58-0D45E2F7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cEpicpotato|r",
-			[51] = 1656003267,
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660197805,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [38]
 		{
-			"|Hspell:294038:0|h[Royal Snapdragon]|hgot this one yesterday", -- [1]
-			"|Kq35|k", -- [2]
+			"if u see krush let me know ! ill look for Loque on the side , their under track hidden right?", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1293, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003273,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [39]
-		{
-			"i cant even do it", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1294, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003296,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [40]
-		{
-			"why?", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1295, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003246,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [41]
-		{
-			"i dont have the cloud serpent rep unlocked D;", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1296, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003249,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [42]
-		{
-			"wait not even on priest?", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1297, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003338,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [43]
-		{
-			"i have it on priest", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1298, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003344,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [44]
-		{
-			"you can buy the book/learn it on any toon", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1299, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003345,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [45]
-		{
-			"omg really?", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1300, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003353,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [46]
-		{
-			"and it unlocks account wide", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1301, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003354,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [47]
-		{
-			"ok brb lol", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1302, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003356,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [48]
-		{
-			"<Ruby Heralds> 11 Mythic Guild sells HC and MM 11/11 SOTFO, Jailer mount. KSM or Mythic up to +22 weekly. Next run in 20 mins. 20% DISCOUNT! Message me to reserve a spot", -- [1]
-			"Tafukikenawi-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tafukikenawi-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1303, -- [11]
-			"Player-73-0EBDE81A", -- [12]
+			1189, -- [11]
+			"Player-52-0720E0F1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cTafukikenawi|r",
-			[51] = 1656003356,
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660197835,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"there is like 10 different spots for him and ill let you know", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1190, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660197867,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"ya i got krush on a path so ill see him eventually where loque spawns are i cross over", -- [1]
+			"Alo-Khadgar", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1191, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660197899,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"YO", -- [1]
+			"Alo-Khadgar", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1193, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198035,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"HERE", -- [1]
+			"Alo-Khadgar", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1194, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198037,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [43]
+		{
+			"i literally got the warning for my addon", -- [1]
+			"Alo-Khadgar", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1195, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198074,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"=\\ thts crappy im srry ", -- [1]
+			"Alo-Khadgar", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1196, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198092,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"not there ? lol", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1197, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198123,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"ya my addon bugged for his rare", -- [1]
+			"Alo-Khadgar", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1198, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198167,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"haha ", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1199, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198175,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"of course", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			1200, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198180,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"yes", -- [1]
-			"|Kq35|k", -- [2]
+			"lol", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1304, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1201, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003357,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198191,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"rip...elegon doesnt require the book", -- [1]
-			"|Kq35|k", -- [2]
+			"past 4 days ive come onto someone killing krush ", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1399, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1202, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003917,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198233,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			"LOL woops", -- [1]
-			"|Kq35|k", -- [2]
+			"killing ? wtf lol", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1400, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1203, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003928,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198277,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"lol", -- [1]
-			"|Kq35|k", -- [2]
+			"hes part of a achivment", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1401, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1204, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003932,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198287,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"well still useful tho", -- [1]
-			"|Kq35|k", -- [2]
+			"ahhh lol", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1402, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1205, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003938,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198294,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"yea", -- [1]
-			"|Kq35|k", -- [2]
+			"so i gotta compete with people who literally poach him lmao ", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1403, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1206, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656003942,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198313,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"now the real question is how to do this without killing him", -- [1]
-			"|Kq35|k", -- [2]
+			"thats the best lol", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1404, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1207, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004034,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198332,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [56]
 		{
-			"just use tame I think", -- [1]
-			"|Kq35|k", -- [2]
+			"hahaha ", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1405, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1208, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004124,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198347,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [57]
 		{
-			"i cant find it in my spellbook", -- [1]
-			"|Kq35|k", -- [2]
+			"im to the point i wanna go on a very low server get him and transfer over xD", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1406, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1209, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004136,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198434,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [58]
 		{
-			"its under the hunter pet spells", -- [1]
-			"|Kq35|k", -- [2]
+			"krush?", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1407, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1210, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004091,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198454,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [59]
 		{
-			"like, the mage ports", -- [1]
-			"|Kq35|k", -- [2]
+			"both of them lol", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1408, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1211, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004100,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198470,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [60]
 		{
-			"little arrow", -- [1]
-			"|Kq35|k", -- [2]
+			"oh im sorry are u lookin for him now?", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1409, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1212, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004104,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198487,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"oh ok i see it", -- [1]
-			"|Kq35|k", -- [2]
+			"no just loque for now", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1410, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1216, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004148,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198522,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [62]
 		{
-			"ty ty", -- [1]
-			"|Kq35|k", -- [2]
+			"oh ok ", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1411, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1217, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004150,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198542,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [63]
 		{
-			"I was afk looking in the map and a rare that drops a mount spawnedLOL", -- [1]
-			"|Kq35|k", -- [2]
+			"i havent seen loque in years lol", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1412, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1219, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004182,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198611,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [64]
 		{
-			"no mount tho :C", -- [1]
-			"|Kq35|k", -- [2]
+			"same saw him few days ago and i came back and it was gone within 30-40secs of my path", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1413, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1220, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004247,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198640,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [65]
 		{
-			"was it sha", -- [1]
-			"|Kq35|k", -- [2]
+			"insane", -- [1]
+			"Tyllanlan-Stormreaver", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Tyllanlan-Stormreaver", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1417, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1221, -- [11]
+			"Player-58-0D45E2F7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004258,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Tyllanlan-Stormreaver|r",
+			[51] = 1660198657,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [66]
 		{
-			"need to start camping for him", -- [1]
-			"|Kq35|k", -- [2]
+			"its nuts an tbh ", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1419, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1222, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004207,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198674,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [67]
 		{
-			"he respawns every 15mins", -- [1]
-			"|Kq35|k", -- [2]
+			"i rarley seem them being used", -- [1]
+			"Alo-Khadgar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Sholazar Basin", -- [4]
+			"Alo-Khadgar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
 			0, -- [10]
-			1421, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1223, -- [11]
+			"Player-52-0720E0F1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004224,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			true, -- [17]
+			[52] = "|cffa9d271Alo-Khadgar|r",
+			[51] = 1660198621,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [68]
 		{
-			"same with other world boss", -- [1]
-			"|Kq35|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:15123:Player-73-0DE14EE2:1:8:10:22:4294967295:4294967295:4294967295:4294967295|h[The Dark Bastille]|h|r!", -- [1]
+			"Quonshack-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Quonshack-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1422, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1231, -- [11]
+			"Player-73-0DE14EE2", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004227,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			[52] = "|cffc59a6cQuonshack|r",
+			[51] = 1660199366,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [69]
 		{
-			"ruhkmar too", -- [1]
-			"|Kq35|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:15125:Player-73-0DE14EE2:1:8:10:22:4294967295:4294967295:4294967295:4294967295|h[The Reckoning]|h|r!", -- [1]
+			"Quonshack-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Quonshack-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1423, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1235, -- [11]
+			"Player-73-0DE14EE2", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004231,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
+			[52] = "|cffc59a6cQuonshack|r",
+			[51] = 1660200456,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [70]
 		{
-			"sha???", -- [1]
-			"|Kq35|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:15126:Player-73-0DE14EE2:1:8:10:22:4294967295:4294967295:4294967295:4294967295|h[Sanctum of Domination]|h|r!", -- [1]
+			"Quonshack-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Quonshack-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1424, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1236, -- [11]
+			"Player-73-0DE14EE2", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004232,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			[52] = "|cffc59a6cQuonshack|r",
+			[51] = 1660200456,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [71]
 		{
-			"why did i think he spawned longer", -- [1]
-			"|Kq35|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13545:Player-73-0EC61C58:1:8:11:22:4294967295:4294967295:4294967295:4294967295|h[Go Ahead, Make My Daisy]|h|r!", -- [1]
+			"Shelmarvis-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Shelmarvis-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1445, -- [11]
-			false, -- [12]
-			33, -- [13]
+			1261, -- [11]
+			"Player-73-0EC61C58", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004319,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
+			[52] = "|cff3ec6eaShelmarvis|r",
+			[51] = 1660204850,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [72]
 		{
-			"also i feel like that means mounts have a worse drop rate", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1446, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004269,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [73]
-		{
-			"yes, mop world bosses and wod respawn pretty quick", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1448, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004273,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [74]
-		{
-			"nah, the chance is still terrible, just spawns quicker", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1451, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004290,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [75]
-		{
-			"i never see anyone sitting by him but yet he's always dead ", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1453, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004368,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [76]
-		{
-			"I see more ppl there than oribos", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1469, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004335,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [77]
-		{
-			"same with the rare in mechagos, the spider and the bird that drops the bike", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1476, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004354,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [78]
-		{
-			"mechagon, I cant type today", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1480, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004388,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [79]
-		{
-			"ugh", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1487, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004408,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [80]
-		{
-			"well that was easy", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1545, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004840,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [81]
-		{
-			"and he respawns", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1546, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656004910,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [82]
-		{
-			"which one did you killed", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1569, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005023,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [83]
-		{
-			"what do you mean", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1570, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005092,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [84]
-		{
-			"oh wait does the astral boss respawn", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1573, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005061,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [85]
-		{
-			"yea", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1574, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005067,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [86]
-		{
-			"oh did not know that", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1577, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005073,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [87]
-		{
-			"makes sense if you're looking to clear the raid", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1580, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005154,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [88]
-		{
-			"still no pet though", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1592, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005129,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [89]
-		{
-			"I didnt tame it yet cus of the mount", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1594, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005210,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [90]
-		{
-			"i got the earthstorm", -- [1]
-			"Warpaints-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Warpaints-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1613, -- [11]
-			"Player-73-0EA2C2DC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cWarpaints|r",
-			[51] = 1656005179,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
-		{
-			"<Ruby Heralds> 11 Mythic Guild sells HC and MM 11/11 SOTFO, Jailer mount. KSM or Mythic up to +22 weekly. Next run in 20 mins. 20% DISCOUNT! Message me to reserve a spot", -- [1]
-			"Tafukikenawi-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tafukikenawi-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1614, -- [11]
-			"Player-73-0EBDE81A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cTafukikenawi|r",
-			[51] = 1656005182,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
-		{
-			"well now  you can try for both at the same time", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1615, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005188,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Riverb",
-		}, -- [93]
-		{
-			"WTS |cff0070dd|Hbattlepet:3211:1:3:155:11:11:0000000000000000:105485|h[Archetype of Malice]|h|r", -- [1]
-			"Doosakania-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Doosakania-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1616, -- [11]
-			"Player-73-0EBCCBA4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cDoosakania|r",
-			[51] = 1656005224,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
-		{
-			"one day maybe", -- [1]
-			"|Kq35|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1617, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaRiverb|r",
-			[51] = 1656005239,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Riverb",
-		}, -- [95]
-		{
-			"So I am rolling lowbies on all the big Horder servers looking for a new home, and I swear I see the exact same ad in every TC, haha.", -- [1]
-			"Monsanreaux-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Monsanreaux-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2002, -- [11]
-			"Player-73-0EBDF3FE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMonsanreaux|r",
-			[51] = 1656007192,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
-		{
-			"yep its a business", -- [1]
-			"Manfredman-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Manfredman-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2012, -- [11]
-			"Player-73-0EBDDBB8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Manfredman|r",
-			[51] = 1656007283,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
-		{
-			"<Ruby Heralds> 11 Mythic Guild sells HC and MM 11/11 SOTFO, Jailer mount. KSM or Mythic up to +22 weekly. Next run in 20 mins. 20% DISCOUNT! Message me to reserve a spot", -- [1]
-			"Tafukikenawi-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tafukikenawi-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2013, -- [11]
-			"Player-73-0EBDE81A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cTafukikenawi|r",
-			[51] = 1656007288,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12079:Player-73-09B0681E:1:6:23:22:4294967295:4294967295:4294967295:4294967295|h[Raiding with Leashes V: Cuteaclysm]|h|r!", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:2256:Player-73-09B0681E:1:8:11:22:4294967295:4294967295:4294967295:4294967295|h[Northern Exposure]|h|r!", -- [1]
 			"Stryfë-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2252,7 +1603,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2085, -- [11]
+			1266, -- [11]
 			"Player-73-09B0681E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2260,8 +1611,604 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa9d271Stryfë|r",
-			[51] = 1656007852,
+			[51] = 1660206223,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [73]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15689:Player-73-0E7740DF:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Conqueror: Season Four]|h|r!", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Vroomvroom-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			613, -- [11]
+			"Player-73-0E7740DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1660412982,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [74]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13545:Player-73-0A16E1F9:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Go Ahead, Make My Daisy]|h|r!", -- [1]
+			"Noitanivid-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Noitanivid-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			616, -- [11]
+			"Player-73-0A16E1F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Noitanivid|r",
+			[51] = 1660413462,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [75]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15690:Player-73-0A16E1F9:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Master: Season Four]|h|r!", -- [1]
+			"Noitanivid-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Noitanivid-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			618, -- [11]
+			"Player-73-0A16E1F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Noitanivid|r",
+			[51] = 1660413958,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [76]
+		{
+			"|cffa335ee|Hkeystone:180653:166:7:10:8:12:0|h[Keystone: Grimrail Depot (7)]|h|r need a tank and a healer", -- [1]
+			"Hinàta-BleedingHollow", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Hinàta-BleedingHollow", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-73-05CCB8BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHinàta|r",
+			[51] = 1660417791,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15418:Player-73-0E669CCF:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[The Grand Design]|h|r!", -- [1]
+			"Doggypics-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Doggypics-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			650, -- [11]
+			"Player-73-0E669CCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDoggypics|r",
+			[51] = 1660419064,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [78]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15125:Player-73-0EC61C58:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[The Reckoning]|h|r!", -- [1]
+			"Shelmarvis-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shelmarvis-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			657, -- [11]
+			"Player-73-0EC61C58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaShelmarvis|r",
+			[51] = 1660420404,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [79]
+		{
+			"S T A R W O R L D", -- [1]
+			"Ohgodnowhy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			658, -- [11]
+			"Player-73-0EA72FFE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcOhgodnowhy|r",
+			[51] = 1660420415,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [80]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15122:Player-73-0A6D1CB7:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[The Jailer's Vanguard]|h|r!", -- [1]
+			"Sharpfen-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sharpfen-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			661, -- [11]
+			"Player-73-0A6D1CB7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Sharpfen|r",
+			[51] = 1660421769,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [81]
+		{
+			"|cffa335ee|Hitem:169050::::::::60:252::23:1:3524::::::|h[Logg]|h|r|cffa335ee|Hitem:169050::::::::60:252::23:1:3524::::::|h[Logg]|h|r", -- [1]
+			"Sprootzz-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			670, -- [11]
+			"Player-73-0EBE4DF0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Sprootzz|r",
+			[51] = 1660423264,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [82]
+		{
+			"this dude just got a |cffa335ee|Hitem:142215::::::::60:257::87:8:8279:8765:6652:7749:8136:8138:3161:6646:1:28:1180:::::|h[Wine-Stained Mantle]|h|r from my m+", -- [1]
+			"Doggypics-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			673, -- [11]
+			"Player-73-0E669CCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDoggypics|r",
+			[51] = 1660423605,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [83]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15040:Player-73-0EBE4DF0:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Flawless Fate]|h|r!", -- [1]
+			"Sprootzz-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sprootzz-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			674, -- [11]
+			"Player-73-0EBE4DF0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Sprootzz|r",
+			[51] = 1660423613,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [84]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15040:Player-73-0EA72FFE:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Flawless Fate]|h|r!", -- [1]
+			"Ohgodnowhy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ohgodnowhy-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			675, -- [11]
+			"Player-73-0EA72FFE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcOhgodnowhy|r",
+			[51] = 1660423613,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [85]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15668:Player-73-09A70304:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Fate of Domination]|h|r!", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Boomkinboy-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			676, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1660423613,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [86]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15667:Player-73-09A70304:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Fate of Domination]|h|r!", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Boomkinboy-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			677, -- [11]
+			"Player-73-09A70304", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1660423613,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [87]
+		{
+			"hey ryan u there", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			685, -- [11]
+			"Player-73-0E7740DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1660424053,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [88]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-336302-3683-106430875|h[Guild: Absolute Serenity]|h|r a Dalaran server guild is recruiting!!! We are a smaller, casual guild looking to fill our ranks. Newer players are welcome. Active Discord. Pst for info/inv", -- [1]
+			"Neriphylia-Dalaran", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Neriphylia-Dalaran", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			687, -- [11]
+			"Player-3683-0B6F7F68", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Neriphylia-Dalaran|r",
+			[51] = 1660424188,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"any hunters loque hunting", -- [1]
+			"Dirtyrêd-Area52", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Dirtyrêd-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			689, -- [11]
+			"Player-3676-09BC9037", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaDirtyrêd-Area52|r",
+			[51] = 1660424632,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"|cff71d5ff|Hspell:1122:0|h[Summon Infernal]|h|r", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			701, -- [11]
+			"Player-73-0E7740DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1660425727,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"|cff71d5ff|Hspell:265187:0|h[Summon Demonic Tyrant]|h|r", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			702, -- [11]
+			"Player-73-0E7740DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1660425756,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15124:Player-73-0A6D1CB7:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Shackles of Fate]|h|r!", -- [1]
+			"Sharpfen-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sharpfen-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			34, -- [11]
+			"Player-73-0A6D1CB7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Sharpfen|r",
+			[51] = 1660439762,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [93]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15126:Player-73-0A6D1CB7:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Sanctum of Domination]|h|r!", -- [1]
+			"Sharpfen-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sharpfen-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-73-0A6D1CB7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Sharpfen|r",
+			[51] = 1660439762,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [94]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9038:Player-73-0A6D1CB7:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Iron Docks]|h|r!", -- [1]
+			"Sharpfen-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sharpfen-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-73-0A6D1CB7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Sharpfen|r",
+			[51] = 1660441018,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [95]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15650:Player-73-0A6D1CB7:1:8:13:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Streets of Wonder]|h|r!", -- [1]
+			"Sharpfen-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sharpfen-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-73-0A6D1CB7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Sharpfen|r",
+			[51] = 1660442781,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [96]
+		{
+			"any hunters loque hunting", -- [1]
+			"Dirtyrêd-Area52", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Dirtyrêd-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-3676-09BC9037", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaDirtyrêd-Area52|r",
+			[51] = 1660446243,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"yes", -- [1]
+			"Fumdukr-Area52", -- [2]
+			"", -- [3]
+			"1. General - Sholazar Basin", -- [4]
+			"Fumdukr-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Sholazar Basin", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-3676-0DE4BA5A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Fumdukr-Area52|r",
+			[51] = 1660446249,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Free +14-+16 Community Keys / Carry's! - PST for more info. 100% Free - I do not accept ANY form of payment. 100% FREE!", -- [1]
+			"Angarakttv-BleedingHollow", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Angarakttv-BleedingHollow", -- [5]
+			"DND", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			1001, -- [11]
+			"Player-73-0EAA52DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Angarakttv|r",
+			[51] = 1661275344,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
+	},
+	["ChatEditHistory"] = {
+		"and he respawns", -- [1]
+		"what do you mean", -- [2]
+		"yea", -- [3]
+		"makes sense if you're looking to clear the raid", -- [4]
+		"still no pet though", -- [5]
+		"well now  you can try for both at the same time", -- [6]
+		"lol", -- [7]
+		"do i have to add him on bnet", -- [8]
+		"like how does he invite you", -- [9]
+		"so i have to request to join?", -- [10]
+		"i see it", -- [11]
+		"idgi", -- [12]
+		"i did", -- [13]
+		"i wont get this", -- [14]
+		"rip", -- [15]
+		"lol why are you there again", -- [16]
+		"i just saw your name", -- [17]
+		"ahah", -- [18]
+		"/ec", -- [19]
+		"/reload", -- [20]
+	},
+	["CliqueDatatext"] = {
 	},
 }

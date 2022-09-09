@@ -2,2213 +2,2213 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"if no main does", -- [1]
-			"Taladras-BleedingHollow", -- [2]
+			"Bomb (1{rt1}) on Hashtagthicc", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2938, -- [11]
-			"Player-73-0E66416C", -- [12]
+			6880, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cTaladras|r",
-			[51] = 1651118543,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659328859,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"do you get 2h xmog on non 2h classes?", -- [1]
-			"Ballmilk-BleedingHollow", -- [2]
+			"Bomb (6{rt6}) on Swayzexd", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			10, -- [11]
-			"Player-73-0EAA1210", -- [12]
+			6881, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Ballmilk|r",
-			[51] = 1657298436,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1659328859,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"with legacy loot?", -- [1]
-			"Ballmilk-BleedingHollow", -- [2]
+			"Bomb (2{rt2}) on Pteargrifon", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			11, -- [11]
-			"Player-73-0EAA1210", -- [12]
+			6882, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Ballmilk|r",
-			[51] = 1657298455,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1659328859,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12313:Player-73-0EAA1210:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Unbroken]|h|r!", -- [1]
-			"Ballmilk-BleedingHollow", -- [2]
+			"{rt5} 3", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ballmilk-BleedingHollow", -- [5]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			12, -- [11]
-			"Player-73-0EAA1210", -- [12]
+			6889, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Ballmilk|r",
-			[51] = 1657298492,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1659328802,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12316:Player-73-0EAA1210:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Shutout]|h|r!", -- [1]
-			"Ballmilk-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ballmilk-BleedingHollow", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13, -- [11]
-			"Player-73-0EAA1210", -- [12]
+			6890, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Ballmilk|r",
-			[51] = 1657298492,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659328802,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"yup you are", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt3} 3", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			73, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6891, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299098,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1659328802,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"wtb aotc with gold pst", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt5} 2", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			74, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6892, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299098,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1659328803,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"|cffffff00Valley of Strength is under attack!|r", -- [1]
-			"", -- [2]
+			"{rt5} 1", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
-			"3. LocalDefense - Orgrimmar", -- [4]
-			"", -- [5]
+			"", -- [4]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Orgrimmar", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			75, -- [11]
-			false, -- [12]
+			6893, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1657299099,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1659328804,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"ill give a guild 100k to not boost phiosa", -- [1]
-			"Hustlin-BleedingHollow", -- [2]
+			"Bomb (3{rt3}) on Xemos", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hustlin-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			78, -- [11]
-			"Player-73-0C14EBDF", -- [12]
+			6897, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edHustlin|r",
-			[51] = 1657299118,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328826,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"Phiosa is trolling, we give him suggesting but he always comes up with an excuse", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt1}Rune 1", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			81, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6901, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299065,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659328826,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"sure im in org", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"Bomb (2{rt2}) on Boomkinboy", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Boomkinboy-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			82, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6902, -- [11]
+			"Player-73-09A70304", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299065,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1659328826,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"i literally have a spot next wednesday..", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"Bomb (4{rt4}) on Zubx", -- [1]
+			"Zubx-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Zubx-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			83, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6903, -- [11]
+			"Player-73-0E835A7E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299137,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec6eaZubx|r",
+			[51] = 1659328826,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"then why are you still advertising to buy?", -- [1]
-			"Màgèyoulook-BleedingHollow", -- [2]
+			"Bomb (6{rt6}) on Vroomvroom", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Màgèyoulook-BleedingHollow", -- [5]
+			"", -- [4]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			84, -- [11]
-			"Player-73-0EC0308D", -- [12]
+			6904, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMàgèyoulook|r",
-			[51] = 1657299275,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1659328826,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"idk why im not allowed to look at other options ", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"Bomb (5{rt5}) on Worobeam", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			85, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6905, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299279,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1659328826,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"^^", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt3} 3", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			86, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6909, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299279,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328829,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"why are you guys so mad?", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt4} 3", -- [1]
+			"Zubx-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Zubx-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			87, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6910, -- [11]
+			"Player-73-0E835A7E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299287,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec6eaZubx|r",
+			[51] = 1659328829,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"lol", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt2} 3", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Boomkinboy-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			88, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6911, -- [11]
+			"Player-73-09A70304", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299289,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1659328829,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"like if you buy a car do you only look at one spot? no... use your brains you turds", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt6} 3", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			89, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6912, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299316,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1659328829,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"i do", -- [1]
-			"Dayonemain-BleedingHollow", -- [2]
+			"{rt5} 3", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dayonemain-BleedingHollow", -- [5]
+			"", -- [4]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			90, -- [11]
-			"Player-73-0EC0A4F4", -- [12]
+			6913, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaDayonemain|r",
-			[51] = 1657299324,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1659328829,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"unfortunate", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt3} 2", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			94, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6914, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299330,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328830,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"lmao looks like you're the one that's mad budf", -- [1]
-			"Màgèyoulook-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Màgèyoulook-BleedingHollow", -- [5]
+			"", -- [4]
+			"Boomkinboy-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			100, -- [11]
-			"Player-73-0EC0308D", -- [12]
+			6915, -- [11]
+			"Player-73-09A70304", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMàgèyoulook|r",
-			[51] = 1657299339,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1659328830,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"lmao you also don't yell on a street \"looking to buy a car\" you turd", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt6} 2", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			102, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6916, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299342,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1659328830,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"woah... using trade chat for trading gold for services... must be a new concept?", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt4} 2", -- [1]
+			"Zubx-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Zubx-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			121, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6917, -- [11]
+			"Player-73-0E835A7E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299391,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec6eaZubx|r",
+			[51] = 1659328830,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"cmon man... again use that brain", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt1}3", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			122, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6918, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299400,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659328830,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"says the guy who needs to buy AOTC", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt3} 1", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			125, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6919, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299446,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328831,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"LOL", -- [1]
-			"Màgèyoulook-BleedingHollow", -- [2]
+			"{rt4} 1", -- [1]
+			"Zubx-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Màgèyoulook-BleedingHollow", -- [5]
+			"", -- [4]
+			"Zubx-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			126, -- [11]
-			"Player-73-0EC0308D", -- [12]
+			6920, -- [11]
+			"Player-73-0E835A7E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMàgèyoulook|r",
-			[51] = 1657299451,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec6eaZubx|r",
+			[51] = 1659328831,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"dont \"need\" it I just want it and im not poor so why not", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt6} 1", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			127, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6921, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299492,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1659328831,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"the fight is so easy now anybody with 2 brain cells to rub together can get for free lmao", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Boomkinboy-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Boomkinboy-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			128, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6922, -- [11]
+			"Player-73-09A70304", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299520,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Boomkinboy|r",
+			[51] = 1659328831,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"idk why youre going all elitist when youre clearly angry everytime i post my macro", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt1}2", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			129, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6923, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299525,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659328831,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"Getting stuff on your own is so cringe anyway", -- [1]
-			"Sheburgs-BleedingHollow", -- [2]
+			"{rt1}1", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sheburgs-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			130, -- [11]
-			"Player-73-0EB7FB9A", -- [12]
+			6924, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cSheburgs|r",
-			[51] = 1657299530,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659328832,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"literally mad cus poor", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"not falling with 0.1 seconds left!", -- [1]
+			"Vroomvroom-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Vroomvroom-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			131, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6925, -- [11]
+			"Player-73-0E7740DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299550,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8687edVroomvroom|r",
+			[51] = 1659328833,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [31]
 		{
-			"lol I'm poor? hahahahahahaha", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"Martyrdom on Kyotojones", -- [1]
+			"Kyotojones-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kyotojones-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			132, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6927, -- [11]
+			"Player-73-0E99CF15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299560,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Kyotojones|r",
+			[51] = 1659328837,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [32]
 		{
-			"Im mad on world of warcraft", -- [1]
-			"Sheburgs-BleedingHollow", -- [2]
+			"3", -- [1]
+			"Kyotojones-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sheburgs-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kyotojones-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			133, -- [11]
-			"Player-73-0EB7FB9A", -- [12]
+			6928, -- [11]
+			"Player-73-0E99CF15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cSheburgs|r",
-			[51] = 1657299563,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Kyotojones|r",
+			[51] = 1659328838,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [33]
 		{
-			"seems", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"2", -- [1]
+			"Kyotojones-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kyotojones-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			134, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6929, -- [11]
+			"Player-73-0E99CF15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299564,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Kyotojones|r",
+			[51] = 1659328839,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [34]
 		{
-			"nah I just know how to play this game lol", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"1", -- [1]
+			"Kyotojones-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kyotojones-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			135, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6930, -- [11]
+			"Player-73-0E99CF15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299574,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Kyotojones|r",
+			[51] = 1659328840,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [35]
 		{
-			"I'm literally sitting on a longboi but yes I'm poor", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"Bomb (2{rt2}) on Plumper", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			136, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6933, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299592,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1659328844,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"bragging about being bad at the game but having enough gold to buy boosts? imagine", -- [1]
-			"Hustlin-BleedingHollow", -- [2]
+			"Bomb (3{rt3}) on Notjoe", -- [1]
+			"Notjoe-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hustlin-BleedingHollow", -- [5]
+			"", -- [4]
+			"Notjoe-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			137, -- [11]
-			"Player-73-0C14EBDF", -- [12]
+			6934, -- [11]
+			"Player-73-0EAABDF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edHustlin|r",
-			[51] = 1657299595,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Notjoe|r",
+			[51] = 1659328844,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"he's literally just a hater", -- [1]
-			"Wildboy-BleedingHollow", -- [2]
+			"Bomb (5{rt5}) on Peezuh", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wildboy-BleedingHollow", -- [5]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			138, -- [11]
-			"Player-73-0DFA654C", -- [12]
+			6935, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Wildboy|r",
-			[51] = 1657299618,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1659328844,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"so youre saying... i should waste hours hopping from pug to pug in HOPES of them being smart enough to clear it instead of paying and being done in 20min?", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"Bomb (4{rt4}) on Dorkk", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			139, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6936, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299647,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328844,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"is this right neckbeard?", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"Bomb (6{rt6}) on Pteargrifon", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			140, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6937, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299676,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1659328844,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"looks who's mad now lmao", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt2} 3", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			141, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6944, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299695,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1659328907,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"just asking, you know how to play right?", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			142, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6945, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299707,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1659328907,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"you obviously don't lmao", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt5} 3", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			143, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			6946, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657299661,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1659328907,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"are you new here?", -- [1]
-			"Cheesedaddy-BleedingHollow", -- [2]
+			"{rt3} 3", -- [1]
+			"Notjoe-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cheesedaddy-BleedingHollow", -- [5]
+			"", -- [4]
+			"Notjoe-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			144, -- [11]
-			"Player-73-0EBE2DD6", -- [12]
+			6947, -- [11]
+			"Player-73-0EAABDF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cCheesedaddy|r",
-			[51] = 1657299663,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Notjoe|r",
+			[51] = 1659328907,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"just answer the q noob", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt6} 3", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			145, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6948, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657299729,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1659328907,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"he has every Aotc, but not a single CE... must know how to play the game", -- [1]
-			"Twodadsbtw-BleedingHollow", -- [2]
+			"{rt4} 3", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Twodadsbtw-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			147, -- [11]
-			"Player-73-0E58BCC5", -- [12]
+			6949, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Twodadsbtw|r",
-			[51] = 1657299739,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328907,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"he's rich guys ", -- [1]
-			"Wildboy-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wildboy-BleedingHollow", -- [5]
+			"", -- [4]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-73-0DFA654C", -- [12]
+			6950, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Wildboy|r",
-			[51] = 1657299747,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1659328908,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"also 1500 arena player... big gamer flaming in trade chat", -- [1]
-			"Twodadsbtw-BleedingHollow", -- [2]
+			"{rt3} 2", -- [1]
+			"Notjoe-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Twodadsbtw-BleedingHollow", -- [5]
+			"", -- [4]
+			"Notjoe-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			149, -- [11]
-			"Player-73-0E58BCC5", -- [12]
+			6951, -- [11]
+			"Player-73-0EAABDF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Twodadsbtw|r",
-			[51] = 1657299750,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Notjoe|r",
+			[51] = 1659328908,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"crickets.", -- [1]
-			"Twodadsbtw-BleedingHollow", -- [2]
+			"{rt5} 2", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Twodadsbtw-BleedingHollow", -- [5]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			151, -- [11]
-			"Player-73-0E58BCC5", -- [12]
+			6952, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Twodadsbtw|r",
-			[51] = 1657299821,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1659328908,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"wtb aotc with gold pst", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			152, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6953, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657300023,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1659328908,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"WTS 2v2 boosts up to 2100 for gold pst", -- [1]
-			"Kraftyx-BleedingHollow", -- [2]
+			"{rt6} 2", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kraftyx-BleedingHollow", -- [5]
+			"", -- [4]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			153, -- [11]
-			"Player-73-0E9F2139", -- [12]
+			6954, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cKraftyx|r",
-			[51] = 1657300150,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1659328908,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"wtb aotc with gold pst", -- [1]
-			"Phiosa-BleedingHollow", -- [2]
+			"{rt4} 2", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phiosa-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			154, -- [11]
-			"Player-73-08839D2B", -- [12]
+			6955, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Phiosa|r",
-			[51] = 1657300556,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328908,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"wtf is aotc", -- [1]
-			"Pamper-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Plumper-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pamper-BleedingHollow", -- [5]
+			"", -- [4]
+			"Plumper-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			155, -- [11]
-			"Player-73-0E76920E", -- [12]
+			6956, -- [11]
+			"Player-73-0DE35DF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Pamper|r",
-			[51] = 1657300504,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Plumper|r",
+			[51] = 1659328909,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"Need a heal for a 2 Wake", -- [1]
-			"Azekia-BleedingHollow", -- [2]
+			"{rt1} 1", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Azekia-BleedingHollow", -- [5]
+			"", -- [4]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			156, -- [11]
-			"Player-73-0E9F44E5", -- [12]
+			6957, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Azekia|r",
-			[51] = 1657300605,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1659328909,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"at head of the cock", -- [1]
-			"Qtbnk-BleedingHollow", -- [2]
+			"{rt3} 1", -- [1]
+			"Notjoe-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Qtbnk-BleedingHollow", -- [5]
+			"", -- [4]
+			"Notjoe-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			157, -- [11]
-			"Player-73-0E6D71B4", -- [12]
+			6958, -- [11]
+			"Player-73-0EAABDF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edQtbnk|r",
-			[51] = 1657300561,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Notjoe|r",
+			[51] = 1659328909,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"its called ahead of the curve", -- [1]
-			"Saruya-BleedingHollow", -- [2]
+			"{rt5} 1", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saruya-BleedingHollow", -- [5]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			158, -- [11]
-			"Player-73-0EC0A4AE", -- [12]
+			6959, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Saruya|r",
-			[51] = 1657300565,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1659328909,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11775:Player-73-0B6F0FF9:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Harjatan]|h|r!", -- [1]
-			"Astraeues-BleedingHollow", -- [2]
+			"{rt6} 1", -- [1]
+			"Pteargrifon-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Astraeues-BleedingHollow", -- [5]
+			"Pteargrifon-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			164, -- [11]
-			"Player-73-0B6F0FF9", -- [12]
+			6960, -- [11]
+			"Player-73-0E99820F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cAstraeues|r",
-			[51] = 1657300943,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfff38bb9Pteargrifon|r",
+			[51] = 1659328909,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11775:Player-73-0998CFAB:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Harjatan]|h|r!", -- [1]
-			"Sloknah-BleedingHollow", -- [2]
+			"{rt4} 1", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sloknah-BleedingHollow", -- [5]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			165, -- [11]
-			"Player-73-0998CFAB", -- [12]
+			6961, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Sloknah|r",
-			[51] = 1657300943,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328909,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11776:Player-73-0B6F0FF9:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mistress Sassz'ine]|h|r!", -- [1]
-			"Astraeues-BleedingHollow", -- [2]
+			"Charms (1{rt1}) on Hashtagthicc", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Astraeues-BleedingHollow", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			178, -- [11]
-			"Player-73-0B6F0FF9", -- [12]
+			6969, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cAstraeues|r",
-			[51] = 1657301176,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659328881,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11776:Player-73-0998CFAB:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mistress Sassz'ine]|h|r!", -- [1]
-			"Sloknah-BleedingHollow", -- [2]
+			"Charms (3{rt3}) on Xemos", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sloknah-BleedingHollow", -- [5]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			179, -- [11]
-			"Player-73-0998CFAB", -- [12]
+			6970, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Sloknah|r",
-			[51] = 1657301176,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328881,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"pog", -- [1]
-			"Walonos-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			180, -- [11]
-			"Player-73-0DE4F272", -- [12]
+			6974, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Walonos|r",
-			[51] = 1657301194,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659328882,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:15416:Player-73-0DE4F272:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Domination's Grasp]|h|r!", -- [1]
-			"Walonos-BleedingHollow", -- [2]
+			"{rt3} 3", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Walonos-BleedingHollow", -- [5]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			189, -- [11]
-			"Player-73-0DE4F272", -- [12]
+			6975, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Walonos|r",
-			[51] = 1657301451,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328882,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11777:Player-73-0B6F0FF9:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Sisters of the Moon]|h|r!", -- [1]
-			"Astraeues-BleedingHollow", -- [2]
+			"{rt3} 2", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Astraeues-BleedingHollow", -- [5]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			193, -- [11]
-			"Player-73-0B6F0FF9", -- [12]
+			6976, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cAstraeues|r",
-			[51] = 1657301501,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328883,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11777:Player-73-0998CFAB:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Sisters of the Moon]|h|r!", -- [1]
-			"Sloknah-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sloknah-BleedingHollow", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			194, -- [11]
-			"Player-73-0998CFAB", -- [12]
+			6977, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Sloknah|r",
-			[51] = 1657301501,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659328883,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11778:Player-73-0B6F0FF9:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Desolate Host]|h|r!", -- [1]
-			"Astraeues-BleedingHollow", -- [2]
+			"{rt3} 1", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Astraeues-BleedingHollow", -- [5]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			235, -- [11]
-			"Player-73-0B6F0FF9", -- [12]
+			6978, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cAstraeues|r",
-			[51] = 1657301890,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328884,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11778:Player-73-0998CFAB:1:7:8:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Desolate Host]|h|r!", -- [1]
-			"Sloknah-BleedingHollow", -- [2]
+			"{rt1} 1", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sloknah-BleedingHollow", -- [5]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			236, -- [11]
-			"Player-73-0998CFAB", -- [12]
+			6979, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Sloknah|r",
-			[51] = 1657301890,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659328884,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"can someone donate me 8k to buy the leggo neck piece 291. I dont have enough gold Im 8k short", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			11, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			6980, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391045,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1659328884,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"world of loancraft", -- [1]
-			"Gerode-BleedingHollow", -- [2]
+			"Binding Shot Down", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gerode-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12, -- [11]
-			"Player-73-0935C981", -- [12]
+			6981, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Gerode|r",
-			[51] = 1657391127,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328884,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [68]
 		{
-			"you do your covenant dailies?", -- [1]
-			"Derphero-BleedingHollow", -- [2]
+			"I'M PANICKING", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Derphero-BleedingHollow", -- [5]
+			"", -- [4]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			13, -- [11]
-			"Player-73-0B5D6CD1", -- [12]
+			6982, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Derphero|r",
-			[51] = 1657391128,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659328886,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"that'll get you about 7-8k", -- [1]
-			"Derphero-BleedingHollow", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:15348:Player-73-0EA544FF:1:7:31:22:4294967295:4294967295:4294967295:4294967295|h[Combatant I: Shadowlands Season 3]|h|r!", -- [1]
+			"Fngerbng-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Derphero-BleedingHollow", -- [5]
+			"", -- [4]
+			"Fngerbng-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			14, -- [11]
-			"Player-73-0B5D6CD1", -- [12]
+			6989, -- [11]
+			"Player-73-0EA544FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Derphero|r",
-			[51] = 1657391137,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cFngerbng|r",
+			[51] = 1659328927,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [70]
 		{
-			"wts m+15/20s pst", -- [1]
-			"Bÿ-BleedingHollow", -- [2]
+			"Charms (1{rt1}) on Jrpoopsie", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bÿ-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			15, -- [11]
-			"Player-73-0EAE2043", -- [12]
+			6995, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Bÿ|r",
-			[51] = 1657391155,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1659328931,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"is just cuz I dont have much time to faarm all this gold.", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"Charms (3{rt3}) on Dorkk", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			16, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			6996, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391105,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328931,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"buy wow token", -- [1]
-			"Pizepsi-BleedingHollow", -- [2]
+			"{rt1} 3", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pizepsi-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			17, -- [11]
-			"Player-73-0EB8A766", -- [12]
+			6997, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Pizepsi|r",
-			[51] = 1657391181,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1659328932,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"seems faster than asking for it in trade", -- [1]
-			"Gerode-BleedingHollow", -- [2]
+			"{rt3} 3", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gerode-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			18, -- [11]
-			"Player-73-0935C981", -- [12]
+			6998, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Gerode|r",
-			[51] = 1657391186,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328932,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"and I wanna do some keys to get gear in my time", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			19, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			6999, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391186,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1659328933,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"you dont have 30 minutes?", -- [1]
-			"Derphero-BleedingHollow", -- [2]
+			"{rt1} 2", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Derphero-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			20, -- [11]
-			"Player-73-0B5D6CD1", -- [12]
+			7000, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Derphero|r",
-			[51] = 1657391190,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1659328933,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"4 hours later and you're still asking for gold", -- [1]
-			"Father-BleedingHollow", -- [2]
+			"{rt3} 2", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Father-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			21, -- [11]
-			"Player-73-0CD22107", -- [12]
+			7002, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeFather|r",
-			[51] = 1657391200,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328933,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"you got time for keys but not a few dalies?", -- [1]
-			"Pizepsi-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Cocogoat-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pizepsi-BleedingHollow", -- [5]
+			"", -- [4]
+			"Cocogoat-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			22, -- [11]
-			"Player-73-0EB8A766", -- [12]
+			7003, -- [11]
+			"Player-73-0E997BDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Pizepsi|r",
-			[51] = 1657391202,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Cocogoat|r",
+			[51] = 1659328934,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"^^", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt1} 1", -- [1]
+			"Jrpoopsie-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Jrpoopsie-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			23, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			7004, -- [11]
+			"Player-73-0EA916DF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657391211,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Jrpoopsie|r",
+			[51] = 1659328934,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"is one or the other life is hard", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"{rt3} 1", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			24, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			7005, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391213,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328934,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"definitely right life is hard ;) so make your choice", -- [1]
-			"Derphero-BleedingHollow", -- [2]
+			"{rt1}Rune 1", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Derphero-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			25, -- [11]
-			"Player-73-0B5D6CD1", -- [12]
+			7012, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Derphero|r",
-			[51] = 1657391170,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659328981,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"^", -- [1]
-			"Pizepsi-BleedingHollow", -- [2]
+			"Charms (2{rt2}) on Xemos", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pizepsi-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			26, -- [11]
-			"Player-73-0EB8A766", -- [12]
+			7013, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Pizepsi|r",
-			[51] = 1657391239,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328981,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"I mean sometimes theres nice people out there that dont mind helping", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"{rt2} 3", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			27, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			7017, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391249,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328982,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"I mean do dungeon, do dailies for gold. Nobody want to see you in chat begging for gold", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt3} 2", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			29, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			7018, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657391257,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1659328983,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"all ima say is quit wasting time in trade chat get to work", -- [1]
-			"Slackar-BleedingHollow", -- [2]
+			"{rt2} 2", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Slackar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			30, -- [11]
-			"Player-73-0CDA9E88", -- [12]
+			7019, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Slackar|r",
-			[51] = 1657391257,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328983,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"if u not that person we dont need ur toxicity", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"{rt1}2", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			31, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			7020, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391260,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659328983,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"stop sounding like a peasant", -- [1]
-			"Father-BleedingHollow", -- [2]
+			"{rt3} 1", -- [1]
+			"Swayzexd-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Father-BleedingHollow", -- [5]
+			"", -- [4]
+			"Swayzexd-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			32, -- [11]
-			"Player-73-0CD22107", -- [12]
+			7021, -- [11]
+			"Player-73-0DF08F93", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeFather|r",
-			[51] = 1657391263,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Swayzexd|r",
+			[51] = 1659328984,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"Get back to work.", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"{rt2} 1", -- [1]
+			"Xemos-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Xemos-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			33, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			7022, -- [11]
+			"Player-73-0E63B539", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657391265,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Xemos|r",
+			[51] = 1659328984,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"work work work", -- [1]
-			"Gerode-BleedingHollow", -- [2]
+			"{rt1}1", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gerode-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			34, -- [11]
-			"Player-73-0935C981", -- [12]
+			7023, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Gerode|r",
-			[51] = 1657391275,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659328984,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"can an alt and do weekly quests and callings", -- [1]
-			"Pizepsi-BleedingHollow", -- [2]
+			"Binding Shot Down", -- [1]
+			"Dorkk-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pizepsi-BleedingHollow", -- [5]
+			"", -- [4]
+			"Dorkk-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			35, -- [11]
-			"Player-73-0EB8A766", -- [12]
+			7025, -- [11]
+			"Player-73-0A3F8EDD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Pizepsi|r",
-			[51] = 1657391230,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Dorkk|r",
+			[51] = 1659328985,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [90]
 		{
-			"if 8k is nothing for u guyz why not donate to me?", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"tuesday?", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			36, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			7043, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391295,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659329146,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"yeo", -- [1]
-			"Gerode-BleedingHollow", -- [2]
+			"i also think", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gerode-BleedingHollow", -- [5]
+			"", -- [4]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			37, -- [11]
-			"Player-73-0935C981", -- [12]
+			7045, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Gerode|r",
-			[51] = 1657391296,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1659329114,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [92]
 		{
-			"lol", -- [1]
-			"Slackar-BleedingHollow", -- [2]
+			"given how close we got, having not raided for a week, we did pretty damn good", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Slackar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			38, -- [11]
-			"Player-73-0CDA9E88", -- [12]
+			7049, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Slackar|r",
-			[51] = 1657391308,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1659329137,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [93]
 		{
-			"you been asking for 8k for 4 hours", -- [1]
-			"Father-BleedingHollow", -- [2]
+			"ggs all", -- [1]
+			"Kharissa-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Father-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kharissa-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			39, -- [11]
-			"Player-73-0CD22107", -- [12]
+			7050, -- [11]
+			"Player-73-0E80F945", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeFather|r",
-			[51] = 1657391309,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Kharissa|r",
+			[51] = 1659329137,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [94]
 		{
-			"Because it's the idea that you're getting 8k for doing nothing", -- [1]
-			"Shaddux-BleedingHollow", -- [2]
+			"true", -- [1]
+			"Kyotojones-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shaddux-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kyotojones-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			40, -- [11]
-			"Player-73-0E7779AF", -- [12]
+			7051, -- [11]
+			"Player-73-0E99CF15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcShaddux|r",
-			[51] = 1657391311,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Kyotojones|r",
+			[51] = 1659329139,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [95]
 		{
-			"nah i earned my gold lol", -- [1]
-			"Pizepsi-BleedingHollow", -- [2]
+			"especially with how scrambled it was", -- [1]
+			"Worobeam-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pizepsi-BleedingHollow", -- [5]
+			"", -- [4]
+			"Worobeam-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			41, -- [11]
-			"Player-73-0EB8A766", -- [12]
+			7052, -- [11]
+			"Player-73-0B63A4AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Pizepsi|r",
-			[51] = 1657391313,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Worobeam|r",
+			[51] = 1659329139,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [96]
 		{
-			"actually there is a person that gave me 15", -- [1]
-			"Asynjar-BleedingHollow", -- [2]
+			"gg's, I'll make myself available for the boys <3", -- [1]
+			"Hashtagthicc-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Asynjar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Hashtagthicc-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			42, -- [11]
-			"Player-73-0B98ED9F", -- [12]
+			7053, -- [11]
+			"Player-73-0E9E5D45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAsynjar|r",
-			[51] = 1657391321,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeHashtagthicc|r",
+			[51] = 1659329210,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [97]
 		{
-			"you got time to beg and scam in chat...", -- [1]
-			"Slackar-BleedingHollow", -- [2]
+			"same", -- [1]
+			"Kyotojones-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Slackar-BleedingHollow", -- [5]
+			"", -- [4]
+			"Kyotojones-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			43, -- [11]
-			"Player-73-0CDA9E88", -- [12]
+			7055, -- [11]
+			"Player-73-0E99CF15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Slackar|r",
-			[51] = 1657391327,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe97Kyotojones|r",
+			[51] = 1659329216,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [98]
 		{
-			"ask them again then", -- [1]
-			"Pizepsi-BleedingHollow", -- [2]
+			"gg <3 ", -- [1]
+			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pizepsi-BleedingHollow", -- [5]
+			"", -- [4]
+			"Peezuh-BleedingHollow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			44, -- [11]
-			"Player-73-0EB8A766", -- [12]
+			7056, -- [11]
+			"Player-73-0E9AF323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Pizepsi|r",
-			[51] = 1657391331,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Peezuh|r",
+			[51] = 1659329216,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [99]
 	},
-	["CliqueDatatext"] = {
-	},
 	["ConvertKeybindings"] = true,
-	["ChatEditHistory"] = {
-		"/raid 2nd swarm?", -- [1]
-		"/raid k", -- [2]
-		"/raid im glad you were cc'ing the add on anduin kory", -- [3]
-		"/raid cus for some reason it wont let me cast trap", -- [4]
-		"/raid even jones' wife cant stand him enough to live with him ?", -- [5]
-		"/raid i tank", -- [6]
-		"/raid its like kwei never left, already flaming jones again like the rest of us", -- [7]
-		"/raid lust 2nd swarm i assume", -- [8]
-		"/raid travie is gonna mind control bhang of the ledge during among us", -- [9]
-		"/raid its ok im survival", -- [10]
-		"/raid so i have a pet", -- [11]
-		"/raid i only stand in front of mal'ganis", -- [12]
-		"/raid I miss mike. he would have had the soundboard button for \"Congratulations. You won!\"", -- [13]
-		"/RELOAD", -- [14]
-		"/raid R", -- [15]
-		"/cw Vroomvroom if you're fae and want 16 crit, put me in your group", -- [16]
-		"/cw Tarnius i talented / conduit for 2min turtle", -- [17]
-		"/cw Tarnius idk if you wanted to as well", -- [18]
-		"/cw Tarnius since we're the only ranged soaks", -- [19]
-		"/cw Tarnius can have a book if you want lol", -- [20]
+	["CliqueDatatext"] = {
 	},
 	["BodyGuard"] = {
 		["Active"] = false,
 		["Health"] = 0,
 		["MaxHealth"] = 0,
 		["IsInValidZone"] = true,
+	},
+	["ChatEditHistory"] = {
+		"/s henry", -- [1]
+		"/s you dont want to invoke my wrath", -- [2]
+		"/s you will not see the inside of a raid without swapblasters again", -- [3]
+		"/stare", -- [4]
+		"/raid when ethan said he had internet again, was he just referring to bhangs house ?", -- [5]
+		"/raid my gf and tia can kill us both", -- [6]
+		"/cw Travieso in your professional opinion, what did you think of that extra soak.. idt that was the reason hash died and nate was mc's", -- [7]
+		"/cw Travieso i waited till after tank slam and saw everyone topped off so figured i could.. do you think i shoudl just not bother since it still risks death", -- [8]
+		"/raid you see no traps", -- [9]
+		"/raid I ROLLED A 20 THO", -- [10]
+		"/raid YEAH YOU SEE ALL ZERO TRAPS", -- [11]
+		"/cw Cocogoat-BleedingHollow also your mic is like super open and we hear you head banging on your keyboard", -- [12]
+		"/cw Travieso-BleedingHollow how come our dps has been so behind tonight", -- [13]
+		"/cw Travieso-BleedingHollow is that really the 5% diff", -- [14]
+		"/cw Travieso-BleedingHollow wild", -- [15]
+		"/raid i got .. ptear kept summoning me so i just bought", -- [16]
+		"/raid guys if we dont kill it next pull, i think my gf is gonna help tia break each and everyone of our bowls", -- [17]
+		"/raid dont be a bhang", -- [18]
+		"/altoholic", -- [19]
+		"/altoholic show", -- [20]
 	},
 }

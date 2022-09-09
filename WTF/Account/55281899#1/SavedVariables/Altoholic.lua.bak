@@ -1,0 +1,28 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+		["Nycee - Bleeding Hollow"] = "Nycee - Bleeding Hollow",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Trublmakr - Scarlet Crusade"] = "Trublmakr - Scarlet Crusade",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Pandan - Earthen Ring"] = "Pandan - Earthen Ring",
+	},
+	["global"] = {
+		["options"] = {
+			["UI.Tabs.Search.CurrentLocation"] = 3,
+			["UI.Mail.LastExpiryWarning"] = 1662263165,
+			["UI.Minimap.ShowIcon"] = false,
+		},
+	},
+}

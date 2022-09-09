@@ -1,0 +1,148 @@
+
+HandyNotes_TreasureHunterDB = {
+	["char"] = {
+		["Holynoly - Bleeding Hollow"] = {
+			["hidden"] = {
+				[539] = {
+					[29603380] = true,
+					[52803100] = true,
+					[56205240] = true,
+					[38803640] = true,
+					[29600620] = true,
+					[50807880] = true,
+					[29605080] = true,
+					[58408680] = true,
+					[51807920] = true,
+					[45806860] = true,
+					[48007760] = true,
+					[44404340] = true,
+					[31905720] = true,
+					[42603080] = true,
+					[42804100] = true,
+					[50207240] = true,
+					[61408880] = true,
+					[48208100] = true,
+				},
+				[550] = {
+					[62201500] = true,
+					[54403540] = true,
+					[71005660] = true,
+					[64402040] = true,
+					[79205680] = true,
+					[77404060] = true,
+					[76003000] = true,
+					[83806480] = true,
+					[60203280] = true,
+					[65604180] = true,
+					[43003640] = true,
+					[48803420] = true,
+					[38602240] = true,
+				},
+				[525] = {
+					[87004640] = true,
+					[64605200] = true,
+					[72402420] = true,
+					[51205020] = true,
+					[43002100] = true,
+					[22406620] = true,
+					[48202340] = true,
+					[38201600] = true,
+					[68801940] = true,
+					[70002700] = true,
+					[86604880] = true,
+					[45001500] = true,
+					[70603900] = true,
+					[70003600] = true,
+					[86605180] = true,
+					[72203600] = true,
+					[62604220] = true,
+					[83604720] = true,
+					[88605740] = true,
+					[72203300] = true,
+					[85005220] = true,
+					[57401820] = true,
+					[63407960] = true,
+				},
+				[535] = {
+					[22207400] = true,
+					[78405500] = true,
+					[41004200] = true,
+					[67206040] = true,
+					[37203760] = true,
+					[51408120] = true,
+					[62004540] = true,
+					[61803120] = true,
+					[30502640] = true,
+					[36804100] = true,
+					[61107170] = true,
+				},
+				[542] = {
+					[72001980] = true,
+					[51800720] = true,
+					[73003180] = true,
+					[71203380] = true,
+				},
+				[543] = {
+					[40602580] = true,
+					[47002580] = true,
+					[52805360] = true,
+					[48202100] = true,
+					[45404750] = true,
+					[50002380] = true,
+					[49003380] = true,
+					[47002380] = true,
+					[43205550] = true,
+					[51404310] = true,
+					[47603060] = true,
+					[48405680] = true,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Katdoge - Bleeding Hollow"] = {
+		},
+		["Noliee - Bleeding Hollow"] = {
+		},
+		["Nolieper - Bleeding Hollow"] = {
+		},
+		["Emogin - Bleeding Hollow"] = {
+		},
+		["Trublmakr - Bleeding Hollow"] = {
+		},
+		["Stryfë - Bleeding Hollow"] = {
+		},
+		["Blù - Bleeding Hollow"] = {
+		},
+		["Diá - Bleeding Hollow"] = {
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Holynoly - Bleeding Hollow"] = {
+			["achievementsHidden"] = {
+				[9633] = true,
+			},
+		},
+		["Pándan - Bleeding Hollow"] = {
+		},
+		["Emoclëw - Bleeding Hollow"] = {
+		},
+		["Noliedin - Bleeding Hollow"] = {
+		},
+	},
+}

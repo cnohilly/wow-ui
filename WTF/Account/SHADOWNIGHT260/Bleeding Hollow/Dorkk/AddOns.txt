@@ -233,3 +233,4 @@ RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
+MaxDps: disabled

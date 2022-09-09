@@ -1,99 +1,12 @@
 
 ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
 	["CliqueDatatext"] = {
 	},
 	["ChatEditHistory"] = {
 		"/EC", -- [1]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"it's real bad here haha", -- [1]
-			"Kenskill-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Kenskill-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			517, -- [11]
-			"Player-61-0E3D7C45", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kenskill-Zul'jin|r",
-			[51] = 1610153741,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"^", -- [1]
-			"Rinzog-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Rinzog-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			518, -- [11]
-			"Player-73-0E4769EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaRinzog|r",
-			[51] = 1610153742,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"I just got here not long ago, pretty sure it's just this zone right now", -- [1]
-			"Kenskill-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Kenskill-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			522, -- [11]
-			"Player-61-0E3D7C45", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kenskill-Zul'jin|r",
-			[51] = 1610153757,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"Must be the invasion", -- [1]
-			"Wakanasha-Arthas", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Wakanasha-Arthas", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			523, -- [11]
-			"Player-69-0B5F6B3A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWakanasha-Arthas|r",
-			[51] = 1610153768,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
 		{
 			"oh yeah forgot that is whats going on", -- [1]
 			"Bogan-Arthas", -- [2]
@@ -115,7 +28,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Bogan-Arthas|r",
 			[51] = 1610153780,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [1]
 		{
 			"anyone else lagging", -- [1]
 			"Rahfnarg-Area52", -- [2]
@@ -137,7 +50,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rahfnarg-Area52|r",
 			[51] = 1610150458,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [2]
 		{
 			"yup", -- [1]
 			"Darkironhuff-Khadgar", -- [2]
@@ -159,7 +72,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDarkironhuff-Khadgar|r",
 			[51] = 1610154068,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [3]
 		{
 			"everyone", -- [1]
 			"Zamolxis-BurningBlade", -- [2]
@@ -181,7 +94,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Zamolxis-BurningBlade|r",
 			[51] = 1610154069,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [4]
 		{
 			"yeah me and my bf both", -- [1]
 			"Alisanne-Azgalor", -- [2]
@@ -203,7 +116,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Alisanne-Azgalor|r",
 			[51] = 1610154077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [5]
 		{
 			"^", -- [1]
 			"Bogan-Arthas", -- [2]
@@ -225,7 +138,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Bogan-Arthas|r",
 			[51] = 1610154080,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [6]
 		{
 			"need tank +3  sanguine depths", -- [1]
 			"Buttcheeks-BleedingHollow", -- [2]
@@ -247,7 +160,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Buttcheeks|r",
 			[51] = 1610154422,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [7]
 		{
 			"Use the LFG tool, why it exists", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -269,7 +182,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154439,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [8]
 		{
 			"Are you whining about someone using the LFG channel to LFG?", -- [1]
 			"Kamikazebob-BleedingHollow", -- [2]
@@ -291,7 +204,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKamikazebob|r",
 			[51] = 1610154463,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [9]
 		{
 			"also why this chat channel exists ", -- [1]
 			"Buttcheeks-BleedingHollow", -- [2]
@@ -313,7 +226,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Buttcheeks|r",
 			[51] = 1610154467,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [10]
 		{
 			"to make you ask why", -- [1]
 			"Deadlegacy-BleedingHollow", -- [2]
@@ -335,7 +248,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Deadlegacy|r",
 			[51] = 1610154480,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [11]
 		{
 			"Nah, but you're just not gonna have any results here", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -357,7 +270,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154481,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [12]
 		{
 			"because it usedto be the only way", -- [1]
 			"Tramwreck-BleedingHollow", -- [2]
@@ -379,7 +292,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTramwreck|r",
 			[51] = 1610154484,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [13]
 		{
 			"u must be new here lol", -- [1]
 			"Tramwreck-BleedingHollow", -- [2]
@@ -401,7 +314,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTramwreck|r",
 			[51] = 1610154490,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [14]
 		{
 			"People use the LFG tool for stuff like scores", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -423,7 +336,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154492,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [15]
 		{
 			"just asserted my OG status upon you", -- [1]
 			"Tramwreck-BleedingHollow", -- [2]
@@ -445,7 +358,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTramwreck|r",
 			[51] = 1610154506,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [16]
 		{
 			"anyone need naelcrotix?", -- [1]
 			"Lilwing-BleedingHollow", -- [2]
@@ -467,7 +380,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Lilwing|r",
 			[51] = 1610154510,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [17]
 		{
 			"Also can see people's ilvls and stuff", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -489,7 +402,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154511,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [18]
 		{
 			"No reason to use chat when a superior tool exists", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -511,7 +424,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154520,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [19]
 		{
 			"yea why be social", -- [1]
 			"Cånary-BleedingHollow", -- [2]
@@ -533,7 +446,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Cånary|r",
 			[51] = 1610154528,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [20]
 		{
 			"LFG to ignore Mordeo", -- [1]
 			"Kamikazebob-BleedingHollow", -- [2]
@@ -555,7 +468,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKamikazebob|r",
 			[51] = 1610154534,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [21]
 		{
 			"Spamming \"need tank\" isn't being social", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -577,7 +490,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154545,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [22]
 		{
 			"Come on", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -599,7 +512,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154546,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [23]
 		{
 			"yeah well, TSM Hamlinz hosted me like 4 times so, im gonna make it any day now", -- [1]
 			"Ttvsagecrit-BleedingHollow", -- [2]
@@ -621,7 +534,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Ttvsagecrit|r",
 			[51] = 1610155330,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [24]
 		{
 			"the fact that cencorship is being praised is actually scary", -- [1]
 			"Batwhaman-BleedingHollow", -- [2]
@@ -643,7 +556,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Batwhaman|r",
 			[51] = 1611207939,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [25]
 		{
 			"if you cant see that you need to wake up", -- [1]
 			"Batwhaman-BleedingHollow", -- [2]
@@ -665,7 +578,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Batwhaman|r",
 			[51] = 1611207952,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [26]
 		{
 			"<Not Just Madness> is recruiting for Heroic & Mythic Nathria. Raids are Wed/Thur/Sat 9pm EST. Would you like to know more?", -- [1]
 			"Plaz-BleedingHollow", -- [2]
@@ -687,7 +600,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPlaz|r",
 			[51] = 1611207952,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [27]
 		{
 			"they're censoring my terroristic threats! oh no!", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -709,7 +622,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1611207955,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [28]
 		{
 			"they takin errrr jerrrbssss, really Bat?", -- [1]
 			"Poker-BleedingHollow", -- [2]
@@ -731,7 +644,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Poker|r",
 			[51] = 1611207961,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [29]
 		{
 			"where the hell was all this unity when Trump took office?", -- [1]
 			"Deathanger-BleedingHollow", -- [2]
@@ -753,7 +666,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Deathanger|r",
 			[51] = 1611207966,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [30]
 		{
 			"Liberal hypocrisy is astonishing.", -- [1]
 			"Asinine-BleedingHollow", -- [2]
@@ -775,7 +688,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Asinine|r",
 			[51] = 1611207970,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [31]
 		{
 			"You sound asinine", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -797,7 +710,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611207983,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [32]
 		{
 			"so at least the name fits", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -819,7 +732,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611207983,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [33]
 		{
 			"what abou the ozone layer, the ice age and healthy carbs?  those were all 'settled science facts',...oh what will you dullard sheep believe next lololol", -- [1]
 			"Waggs-BleedingHollow", -- [2]
@@ -841,7 +754,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeWaggs|r",
 			[51] = 1611207983,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [34]
 		{
 			"rofl", -- [1]
 			"Atlantic-BleedingHollow", -- [2]
@@ -863,7 +776,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Atlantic|r",
 			[51] = 1611207983,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [35]
 		{
 			"this t rade chat is literally leike twitter", -- [1]
 			"Batwhaman-BleedingHollow", -- [2]
@@ -885,7 +798,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Batwhaman|r",
 			[51] = 1611207983,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [36]
 		{
 			"just like the last 4, expect the same this $", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -907,7 +820,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611207994,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [37]
 		{
 			"WTS |cffa335ee|Hitem:183010::::::::60:577::5:4:7188:6652:1485:6646:1:28:752:::|h[Stud-Scarred Footwear]|h|r pst", -- [1]
 			"Lanill-BleedingHollow", -- [2]
@@ -929,7 +842,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lanill|r",
 			[51] = 1611207994,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [38]
 		{
 			"Clear Coms is a growing CE Progression guild that is currently 9/10 heroic. We need strong and reliable players for our core and trial teams. Core prog nights are 8-11pm server Tues/Thurs. Trial group nights are Wens 8-11 pm server", -- [1]
 			"Baithof-BleedingHollow", -- [2]
@@ -951,7 +864,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Baithof|r",
 			[51] = 1611208002,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [39]
 		{
 			"people these days are so stupid you cant even reason with them", -- [1]
 			"Batwhaman-BleedingHollow", -- [2]
@@ -973,7 +886,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Batwhaman|r",
 			[51] = 1611208005,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [40]
 		{
 			"WTS|cff1eff00|Hbattlepet:42:1:2:144:12:10:0000000000000000:5448|h[Black Tabby Cat]|h|r25k|cff1eff00|Hbattlepet:2962:1:2:152:12:8:0000000000000000:99922|h[Toenail]|h|r99k", -- [1]
 			"Obb-BleedingHollow", -- [2]
@@ -995,7 +908,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaObb|r",
 			[51] = 1611208005,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [41]
 		{
 			"4", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -1017,7 +930,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208006,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [42]
 		{
 			"I sometimes wonder how you people manage to turn on your computer and log on wow", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -1039,7 +952,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1611208016,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [43]
 		{
 			"if we had twitter 25 years ago Bin Laden would have basically been doing the same thing Trump just did and nobody would have complained when they banned his ass. There's free speech, and then there's terrorism", -- [1]
 			"Arcadía-BleedingHollow", -- [2]
@@ -1061,7 +974,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Arcadía|r",
 			[51] = 1611208016,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [44]
 		{
 			"american democrats are addicted to hate", -- [1]
 			"Waggs-BleedingHollow", -- [2]
@@ -1083,7 +996,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeWaggs|r",
 			[51] = 1611208018,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [45]
 		{
 			"Bring back the Orange man who called his daughter a Piece of Ass", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -1105,7 +1018,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611208023,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [46]
 		{
 			"It can't be like twitter because people are arguing. Twitter should be a field of flowers for whoevers left on it.", -- [1]
 			"Inconvenient-BleedingHollow", -- [2]
@@ -1127,7 +1040,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Inconvenient|r",
 			[51] = 1611208030,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [47]
 		{
 			"my mom turns on my computer for me", -- [1]
 			"Thrasius-BleedingHollow", -- [2]
@@ -1149,7 +1062,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Thrasius|r",
 			[51] = 1611208033,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [48]
 		{
 			"americans*", -- [1]
 			"Lillerbean-BleedingHollow", -- [2]
@@ -1171,7 +1084,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Lillerbean|r",
 			[51] = 1611208033,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [49]
 		{
 			"if you gotta ask", -- [1]
 			"Thrasius-BleedingHollow", -- [2]
@@ -1193,7 +1106,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Thrasius|r",
 			[51] = 1611208036,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [50]
 		{
 			"if you watched the inauguration today, clearly you seen the swamp creatures mingling about under the guard of 25000 troops? but yeah the people elected him right?", -- [1]
 			"Deathanger-BleedingHollow", -- [2]
@@ -1215,7 +1128,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Deathanger|r",
 			[51] = 1611208050,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [51]
 		{
 			"My computer turns on by its own touch free", -- [1]
 			"Leis-BleedingHollow", -- [2]
@@ -1237,7 +1150,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Leis|r",
 			[51] = 1611208052,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [52]
 		{
 			"I'm gonna make a new party called the Pepega Party, designed to siphon all the uninformed gamer votes from both parties", -- [1]
 			"Londochar-BleedingHollow", -- [2]
@@ -1259,7 +1172,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Londochar|r",
 			[51] = 1611208055,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [53]
 		{
 			"i am an american democrat, can confirm. hate trump. : )", -- [1]
 			"Iongpp-BleedingHollow", -- [2]
@@ -1281,7 +1194,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeIongpp|r",
 			[51] = 1611208060,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [54]
 		{
 			"its demands, from the left, no asking now", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -1303,7 +1216,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208062,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [55]
 		{
 			"If you watched Trumps inauguration you saw there were fifty BILLION people there", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -1325,7 +1238,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611208069,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [56]
 		{
 			"you might get elected", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -1347,7 +1260,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1611208069,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [57]
 		{
 			"i liked trump and i also like biden.  deal with it, or dont, im happy", -- [1]
 			"Waggs-BleedingHollow", -- [2]
@@ -1369,7 +1282,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeWaggs|r",
 			[51] = 1611208076,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [58]
 		{
 			"WTS weekly +14/15s ", -- [1]
 			"Berlinnetti-BleedingHollow", -- [2]
@@ -1391,7 +1304,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Berlinnetti|r",
 			[51] = 1611208084,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [59]
 		{
 			"time to Q", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -1413,7 +1326,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208087,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [60]
 		{
 			"#trumpcrimefamily", -- [1]
 			"Gulhane-BleedingHollow", -- [2]
@@ -1435,7 +1348,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Gulhane|r",
 			[51] = 1611208092,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [61]
 		{
 			"WTS 1400-1600-1800 arena carries for gold PST", -- [1]
 			"Purkinji-BleedingHollow", -- [2]
@@ -1457,7 +1370,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaPurkinji|r",
 			[51] = 1611208101,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [62]
 		{
 			"Send money to fund trump's legal defense team", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -1479,7 +1392,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611208102,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [63]
 		{
 			"WTS |cffa335ee|Hitem:183010::::::::60:102::6:4:7187:6652:1498:6646:1:28:753:::|h[Stud-Scarred Footwear]|h|r650k", -- [1]
 			"Crìmsix-BleedingHollow", -- [2]
@@ -1501,7 +1414,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Crìmsix|r",
 			[51] = 1611208102,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [64]
 		{
 			"hurry", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -1523,7 +1436,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611208105,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [65]
 		{
 			"damn it feels good that donald trump isnt our president anymore wow", -- [1]
 			"Dabr-BleedingHollow", -- [2]
@@ -1545,7 +1458,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dabr|r",
 			[51] = 1611208106,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [66]
 		{
 			"#notmypresidaaaant", -- [1]
 			"Asinine-BleedingHollow", -- [2]
@@ -1567,7 +1480,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Asinine|r",
 			[51] = 1611208108,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [67]
 		{
 			"So much changed no", -- [1]
 			"Watchdis-BleedingHollow", -- [2]
@@ -1589,7 +1502,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Watchdis|r",
 			[51] = 1611208124,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [68]
 		{
 			"now", -- [1]
 			"Watchdis-BleedingHollow", -- [2]
@@ -1611,7 +1524,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Watchdis|r",
 			[51] = 1611208125,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [69]
 		{
 			"#Clintons, OBOMA, and ...hunter...?", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -1633,7 +1546,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208128,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [70]
 		{
 			"i got |cff71d5ff|Hspell:336507:0|h[Crystalline Reflection]|h|r so im really happy!", -- [1]
 			"Waggs-BleedingHollow", -- [2]
@@ -1655,7 +1568,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeWaggs|r",
 			[51] = 1611208130,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [71]
 		{
 			"WTS |cffa335ee|Hitem:183010::::::::60:254::6:4:7187:6652:1498:6646:1:28:753:::|h[Stud-Scarred Footwear]|h|r 649K", -- [1]
 			"Soulbite-BleedingHollow", -- [2]
@@ -1677,7 +1590,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Soulbite|r",
 			[51] = 1611208130,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [72]
 		{
 			"I dont have to cringe about breaking news anymore", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -1699,7 +1612,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1611208133,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [73]
 		{
 			"the caravans are on there way", -- [1]
 			"Deathanger-BleedingHollow", -- [2]
@@ -1721,7 +1634,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Deathanger|r",
 			[51] = 1611208135,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [74]
 		{
 			"Bring back the Orange guy who was literally named as an accomplish in Financial crimes by a convicted felon", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -1743,7 +1656,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611208136,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [75]
 		{
 			"oh let me add NOT russians", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -1765,7 +1678,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208148,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [76]
 		{
 			"accomplice8", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -1787,7 +1700,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611208149,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [77]
 		{
 			"Lol if you think MSM is going to stop talking about Trump now", -- [1]
 			"Asinine-BleedingHollow", -- [2]
@@ -1809,7 +1722,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Asinine|r",
 			[51] = 1611208151,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [78]
 		{
 			"I love watching the Qanon guys right now. they don't knwo what to do with themselves", -- [1]
 			"Subkelvin-BleedingHollow", -- [2]
@@ -1831,7 +1744,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaSubkelvin|r",
 			[51] = 1611208152,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [79]
 		{
 			"Clear Coms is a growing CE Progression guild that is currently 9/10 heroic. We need strong and reliable players for our core and trial teams. Core prog nights are 8-11pm server Tues/Thurs. Trial group nights are Wens 8-11 pm server", -- [1]
 			"Baithof-BleedingHollow", -- [2]
@@ -1853,7 +1766,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Baithof|r",
 			[51] = 1611208159,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [80]
 		{
 			"trump pardened the jailer", -- [1]
 			"Waggs-BleedingHollow", -- [2]
@@ -1875,7 +1788,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeWaggs|r",
 			[51] = 1611208160,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [81]
 		{
 			"but forget about your pals", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -1897,7 +1810,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208165,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [82]
 		{
 			"WTS |cffa335ee|Hitem:183010::::::::60:577::5:4:7188:6652:1485:6646:1:28:752:::|h[Stud-Scarred Footwear]|h|r 60k", -- [1]
 			"Lanill-BleedingHollow", -- [2]
@@ -1919,7 +1832,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lanill|r",
 			[51] = 1611208170,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [83]
 		{
 			"i got so much enjoyment out of reading the q people lose their minds today", -- [1]
 			"Dabr-BleedingHollow", -- [2]
@@ -1941,7 +1854,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dabr|r",
 			[51] = 1611208173,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [84]
 		{
 			"Im just here waiting for the 4D checkmate", -- [1]
 			"Aristazia-BleedingHollow", -- [2]
@@ -1963,7 +1876,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAristazia|r",
 			[51] = 1611208181,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [85]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-259724-73-101166551|h[Guild: Casino Nathria]|h|r LF Unholy DK and rDPS to fill out our core raiding team 1/10M 10/10H. Tuesday and Wednesday 9pm-12am server as well as Sunday 10pm-1am server. Flex spots open! Pst for more info! ", -- [1]
 			"Kuramae-BleedingHollow", -- [2]
@@ -1985,7 +1898,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaKuramae|r",
 			[51] = 1611208186,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [86]
 		{
 			"lol #shadowpresident", -- [1]
 			"Dabr-BleedingHollow", -- [2]
@@ -2007,7 +1920,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dabr|r",
 			[51] = 1611208189,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [87]
 		{
 			"WTS|cff1eff00|Hbattlepet:42:1:2:144:12:10:0000000000000000:5448|h[Black Tabby Cat]|h|r25k|cff1eff00|Hbattlepet:2962:1:2:152:12:8:0000000000000000:99922|h[Toenail]|h|r99k", -- [1]
 			"Obb-BleedingHollow", -- [2]
@@ -2029,7 +1942,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaObb|r",
 			[51] = 1611208195,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [88]
 		{
 			"its just trhe alcohol", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -2051,7 +1964,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208207,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [89]
 		{
 			"all getting lelouched", -- [1]
 			"Philly-BleedingHollow", -- [2]
@@ -2073,7 +1986,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPhilly|r",
 			[51] = 1611208212,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [90]
 		{
 			"cognitive dissonance is strong", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -2095,7 +2008,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1611208222,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [91]
 		{
 			"and the derangement ive seen for 4 years", -- [1]
 			"Stellix-BleedingHollow", -- [2]
@@ -2117,7 +2030,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edStellix|r",
 			[51] = 1611208231,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [92]
 		{
 			"when does biden legalize reefer nationwide? is that next week?", -- [1]
 			"Chafing-BleedingHollow", -- [2]
@@ -2139,7 +2052,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcChafing|r",
 			[51] = 1611208232,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [93]
 		{
 			"Is anybody High?", -- [1]
 			"Scyler-BleedingHollow", -- [2]
@@ -2161,7 +2074,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scyler|r",
 			[51] = 1611208235,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [94]
 		{
 			"the establishment hates trump ", -- [1]
 			"Deathanger-BleedingHollow", -- [2]
@@ -2182,6 +2095,94 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cffc31d39Deathanger|r",
 			[51] = 1611208237,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-401235-73-109577559|h[Guild: KITTY DEMON]|h|r's a new guild lf all roles/classes wanting to progress for AOTC/KSM every tier/season and prepare for DragonFlight! RBGs, 2v2, 3v3, & socially active. Free repairs too! Raids are Tue/Thu, 9pm-12pm server. Pst if interested. >:3", -- [1]
+			"Starffox-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Starffox-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-73-0E93E7CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Starffox|r",
+			[51] = 1657826487,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTB +15. Looking for group that can stack cloth", -- [1]
+			"Vijayjay-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vijayjay-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-73-0EC08D0E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edVijayjay|r",
+			[51] = 1657826551,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"WTS AotC Jailer Kill at 180K! Get your mount and a chance to get 272 loot. Whisp if interested! (11/11M Guild, no community) Gold only", -- [1]
+			"Wayu-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Wayu-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			124, -- [11]
+			"Player-73-0EBF8395", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Wayu|r",
+			[51] = 1657826553,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Free +14-+16 Community Keys / Carry's! - PST for more info. 100% Free - I do not accept ANY form of payment. 100% FREE!", -- [1]
+			"Angarakttv-BleedingHollow", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Angarakttv-BleedingHollow", -- [5]
+			"DND", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			443, -- [11]
+			"Player-73-0EAA52DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Angarakttv|r",
+			[51] = 1661271954,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

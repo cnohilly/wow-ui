@@ -1,0 +1,46 @@
+
+HandyNotes_ShadowlandsDB = {
+	["char"] = {
+		["Holynoly - Bleeding Hollow"] = {
+			["1533_coord_61061510"] = true,
+			["1536_coord_50346328"] = true,
+			["1970_coord_48016641"] = true,
+			["1970_coord_47486228"] = true,
+			["1970_coord_60022583"] = true,
+			["1970_coord_43513294"] = true,
+			["1970_coord_54507344"] = true,
+			["1970_coord_64054975"] = true,
+			["1533_coord_37004180"] = true,
+			["1533_coord_66004367"] = true,
+			["1970_coord_64743369"] = true,
+			["1970_coord_35877121"] = true,
+			["1970_coord_38872762"] = true,
+			["1970_coord_53634435"] = true,
+			["1970_coord_42302099"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Noliedin - Bleeding Hollow"] = "Default",
+		["Nycee - Bleeding Hollow"] = "Default",
+		["Katdoge - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
+		["Noliee - Bleeding Hollow"] = "Default",
+		["Pandan - Earthen Ring"] = "Default",
+		["Emogin - Bleeding Hollow"] = "Default",
+		["Trublmakr - Bleeding Hollow"] = "Default",
+		["Trublmakr - Scarlet Crusade"] = "Default",
+		["Blù - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
+		["Stryfë - Bleeding Hollow"] = "Default",
+		["Emoclëw - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["icon_display_pet_battles"] = true,
+			["hide_done_rares"] = true,
+		},
+	},
+}

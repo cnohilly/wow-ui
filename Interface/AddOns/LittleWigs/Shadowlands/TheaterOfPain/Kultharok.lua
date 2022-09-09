@@ -4,7 +4,7 @@
 
 local mod, CL = BigWigs:NewBoss("Kul'tharok", 2293, 2389)
 if not mod then return end
-mod:RegisterEnableMob(162309)
+mod:RegisterEnableMob(162309) -- Kul'tharok
 mod:SetEncounterID(2364)
 mod:SetRespawnTime(30)
 
@@ -52,7 +52,7 @@ function mod:DrawSoulApplied(args)
 end
 
 function mod:ReclaimedSoulApplied(args)
-	self:StackMessage(args.spellId, args.destName, args.amount, "green")
+	self:StackMessageOld(args.spellId, args.destName, args.amount, "green")
 	self:PlaySound(args.spellId, "info", nil, args.destName)
 end
 
@@ -64,7 +64,7 @@ do
 	local playerList = mod:NewTargetList()
 	function mod:PhantasmalParasiteApplied(args)
 		playerList[#playerList+1] = args.destName
-		self:TargetsMessage(args.spellId, "orange", playerList, 2, nil, nil, 0.8)
+		self:TargetsMessageOld(args.spellId, "orange", playerList, 2, nil, nil, 0.8)
 		self:PlaySound(args.spellId, "alert", nil, playerList)
 		if self:Me(args.destGUID) then
 			self:Say(args.spellId)

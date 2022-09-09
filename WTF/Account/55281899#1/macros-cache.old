@@ -1,0 +1,13 @@
+VER 3 0000000000000001 "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
+/cm rc
+END
+VER 3 0000000000000003 "CollectMeRM" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/cm rm
+END
+VER 3 0000000000000002 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
+/cm rt
+END
+VER 3 0000000000000004 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Polymorph;  [@mouseover,exists,mod:ctrl] Remove Curse; [@mouseover,exists,mod:shift] Spellsteal
+END

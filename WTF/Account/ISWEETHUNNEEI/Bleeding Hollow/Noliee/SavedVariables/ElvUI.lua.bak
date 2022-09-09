@@ -2,1197 +2,7 @@
 ElvCharacterDB = {
 	["CliqueDatatext"] = {
 	},
-	["ChatEditHistory"] = {
-	},
 	["ChatHistoryLog"] = {
-		{
-			"Platinum PvP is now RECRUTING PvP boosters to carry people to 1800!!! Must have at least 2.1k xp!!!PST IF INTERESTED, JOIN DISCORD FOR INFO https://discord.gg/HcZGaSYF", -- [1]
-			"Deadnchrist-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Deadnchrist-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1574, -- [11]
-			"Player-73-087FFED7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Deadnchrist|r",
-			[51] = 1609970199,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"Hey Trumpers, how y'all doing today?", -- [1]
-			"Littlestank-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Littlestank-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1575, -- [11]
-			"Player-73-0E3C9CEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Littlestank|r",
-			[51] = 1609970225,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"Unfollowing trump was just so catty of Pencwe", -- [1]
-			"Tailhole-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tailhole-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1576, -- [11]
-			"Player-73-0E3B688F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaTailhole|r",
-			[51] = 1609970228,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"Phoenix Community || WTS N and H Castle Nathria || M+0 - 15s || Torghast || GOLD ONLY", -- [1]
-			"Sámmý-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sámmý-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1577, -- [11]
-			"Player-73-0CD88BC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edSámmý|r",
-			[51] = 1609970229,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"it's a good day", -- [1]
-			"Uggolok-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Uggolok-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1578, -- [11]
-			"Player-73-0B658C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edUggolok|r",
-			[51] = 1609970232,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"<Starlight Boosting> Deal price WTS heroic CASTLE NATHRIA full clear O aotc RUN TODAY 8 PM EST cheap price only gold personal loot// limited spots//  ran by <resonate>  pst me for more info <3", -- [1]
-			"Melsailes-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Melsailes-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1579, -- [11]
-			"Player-73-0E47566D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cMelsailes|r",
-			[51] = 1609970242,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"looking for guild", -- [1]
-			"Holzycow-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Holzycow-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1580, -- [11]
-			"Player-73-0C2FC773", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Holzycow|r",
-			[51] = 1609970246,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"He's still following him, gg on falling for the fake news doe :)", -- [1]
-			"Texss-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Texss-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1581, -- [11]
-			"Player-73-0E149C46", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Texss|r",
-			[51] = 1609970259,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"Trump snowflakes are melting", -- [1]
-			"Egamderis-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Egamderis-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1582, -- [11]
-			"Player-73-0931A86D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaEgamderis|r",
-			[51] = 1609970261,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"WTS |cffa335ee|Hitem:153594::::::::10:64::13:::::|h[Xiwyllag ATV]|h|r20k |cffa335ee|Hitem:50380::::::::10:64::::1:28:1087:::|h[Battered Hilt]|h|rPST!", -- [1]
-			"Wtbgold-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wtbgold-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1583, -- [11]
-			"Player-73-0B6D9A2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaWtbgold|r",
-			[51] = 1609970261,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"lf pvp dedicated guild", -- [1]
-			"Brewswïllis-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Brewswïllis-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1584, -- [11]
-			"Player-73-0B358F69", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Brewswïllis|r",
-			[51] = 1609970266,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"<Eminent> [10/10 H] #1 Ranked PvP guild recruiting 2k+ PvPers for our RBG teams, and Mythic raiders and high IO M+ players for our rosters. https://discord.gg/PjsyqnF for more info!", -- [1]
-			"Bgwizard-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bgwizard-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1585, -- [11]
-			"Player-73-077F2048", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeBgwizard|r",
-			[51] = 1609970273,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"Nah, they're too busy storming the capitol", -- [1]
-			"Littlestank-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Littlestank-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1586, -- [11]
-			"Player-73-0E3C9CEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Littlestank|r",
-			[51] = 1609970280,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"Pence unfollowed Trump but the magats are still simping lol", -- [1]
-			"Lecrab-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lecrab-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1587, -- [11]
-			"Player-73-0AB711B1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Lecrab|r",
-			[51] = 1609970286,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14373:Player-73-075E1B4D:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[De Other Side]|h|r!", -- [1]
-			"Faffykins-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Faffykins-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1588, -- [11]
-			"Player-73-075E1B4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFaffykins|r",
-			[51] = 1609970286,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [15]
-		{
-			"Completely normal behavior", -- [1]
-			"Littlestank-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Littlestank-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1589, -- [11]
-			"Player-73-0E3C9CEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Littlestank|r",
-			[51] = 1609970287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"It's incredible to me people still believe fake news. After years of Russiagate.", -- [1]
-			"Uggolok-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Uggolok-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1590, -- [11]
-			"Player-73-0B658C89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edUggolok|r",
-			[51] = 1609970287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
-		{
-			"Platinum PvP is now RECRUTING PvP boosters to carry people to 1800!!! Must have at least 2.1k xp!!!PST IF INTERESTED, JOIN DISCORD FOR INFO https://discord.gg/HcZGaSYF", -- [1]
-			"Deadnchrist-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Deadnchrist-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1591, -- [11]
-			"Player-73-087FFED7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Deadnchrist|r",
-			[51] = 1609970291,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"WTB |cffffffff|Hitem:168586::::::::60:256:::::::|h[Rising Glory]|h|r|cffffffff|Hitem:168583::::::::60:256:::::::|h[Widowbloom]|h|r", -- [1]
-			"Nooglets-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nooglets-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1592, -- [11]
-			"Player-73-06E908F9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeNooglets|r",
-			[51] = 1609970303,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"Phoenix Community || Selling M+0 - M+15s! Fill up your Great Vault with the highest ilvl gear. Also WTS Heroic 10/10 Castle Nathria (Last 3/AoTC only available as well) - GOLD ONLY", -- [1]
-			"Hotgirl-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hotgirl-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1593, -- [11]
-			"Player-73-0677EE3A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Hotgirl|r",
-			[51] = 1609970311,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"WTS Mythic+10 - 385k", -- [1]
-			"Finestrogue-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Finestrogue-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1594, -- [11]
-			"Player-73-0E47A190", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Finestrogue|r",
-			[51] = 1609970319,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"Wait, what is fake?", -- [1]
-			"Littlestank-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Littlestank-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1595, -- [11]
-			"Player-73-0E3C9CEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Littlestank|r",
-			[51] = 1609970320,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"Selling ALL ranks of ALL LEATHER legendary patterns(ALL UNLOCKED AS OF TODAY CHEST TOO!, I'll beat every price out there! If the great vault shafts you, come to me and I'll make it all better. Return customer and refer a friend discounts! PST for info", -- [1]
-			"Manapâwz-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Manapâwz-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1596, -- [11]
-			"Player-73-0B9D8F46", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Manapâwz|r",
-			[51] = 1609970321,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"Uggolok has no platform to denounce fake news. He legitimately thinks status quo Joe is a far left lib", -- [1]
-			"Lecrab-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lecrab-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1597, -- [11]
-			"Player-73-0AB711B1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Lecrab|r",
-			[51] = 1609970325,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14408:Player-73-075E1B4D:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: De Other Side]|h|r!", -- [1]
-			"Faffykins-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Faffykins-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1747, -- [11]
-			"Player-73-075E1B4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFaffykins|r",
-			[51] = 1609972092,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [25]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12835:Player-73-09A94066:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Shrine of the Storm]|h|r!", -- [1]
-			"Exfoliation-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Exfoliation-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1751, -- [11]
-			"Player-73-09A94066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Exfoliation|r",
-			[51] = 1609972236,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [26]
-		{
-			"wts |cff1eff00|Hitem:172438::::::::60:70:::::::|h[Enchanted Heavy Callous Hide]|h|r cheaper than AH", -- [1]
-			"Noctirnal-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Noctirnal-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1765, -- [11]
-			"Player-73-0E2EF8F4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Noctirnal|r",
-			[51] = 1609972330,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"WTS |cffffffff|Hitem:173241::::::::60:581::65:2:6718:1522::::|h[Grim-Veiled Robe]|h|r", -- [1]
-			"Seademon-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Seademon-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1766, -- [11]
-			"Player-73-0CCF25CD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Seademon|r",
-			[51] = 1609972331,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-217590-73-97290548|h[Guild: Nocturnum]|h|r 10/10N 2/10H CN is recruiting exceptional Tanks, 2 Healers, and DPS who want to push for CE in SL. Raid times are Tues/Wed/Thurs 5PM-8PM EST. Active M+ and PvP community", -- [1]
-			"Phântõm-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phântõm-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1, -- [11]
-			"Player-73-08F3A178", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Phântõm|r",
-			[51] = 1610033449,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"is daily reset in 30 minutes?", -- [1]
-			"Jinnsomnia-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jinnsomnia-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4, -- [11]
-			"Player-73-0E2AB50A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaJinnsomnia|r",
-			[51] = 1610033469,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"30 mins ago", -- [1]
-			"Cíle-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cíle-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5, -- [11]
-			"Player-73-0B050024", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Cíle|r",
-			[51] = 1610033483,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"already happened", -- [1]
-			"Loislanee-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loislanee-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			6, -- [11]
-			"Player-73-09B6BF8F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Loislanee|r",
-			[51] = 1610033484,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"thanks guys", -- [1]
-			"Jinnsomnia-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jinnsomnia-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			7, -- [11]
-			"Player-73-0E2AB50A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaJinnsomnia|r",
-			[51] = 1610033492,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"Can the horde win just one bg i mean christ almighty", -- [1]
-			"Sephirothic-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sephirothic-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			8, -- [11]
-			"Player-73-068C8AC6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Sephirothic|r",
-			[51] = 1610033514,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"Mythic+ & Raid |cffffd100|HclubFinder:ClubFinder-1-233482-73-98869548|h[Guild: Average Adults]|h|r is recruiting for our Tues & Thurs 7-10pm raid rosters! The core group 10/10N 1/10H needs RDPS + Monk/Druid Heals - Casual group needs DPS and healers!", -- [1]
-			"Phlamingo-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Phlamingo-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			9, -- [11]
-			"Player-73-06DFD825", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edPhlamingo|r",
-			[51] = 1610033523,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"wts |cff0070dd|Hitem:172097::::::::60:254:::::::|h[Heavy Callous Hide]|h|rx14 20k, pst", -- [1]
-			"Saliendo-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saliendo-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			10, -- [11]
-			"Player-73-0E2427B8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Saliendo|r",
-			[51] = 1610033531,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"WTS|cff66bbff|Hjournal:1:2425:14|h[Stone Legion Generals]|h|r|cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|rNormal  join us and take your Legendary +loot whisper me for more info:)Only Gold", -- [1]
-			"Sarlek-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sarlek-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			11, -- [11]
-			"Player-73-0CD146AD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSarlek|r",
-			[51] = 1610033541,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"WTB |cffa335ee|Hitem:183035::::::::60:254:::::::|h[Ardent Sunstar Signet]|h|r|cffa335ee|Hitem:184778::::::::60:254:::::::|h[Decadent Nathrian Shawl]|h|r", -- [1]
-			"Drektorath-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Drektorath-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			13, -- [11]
-			"Player-73-0971870A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Drektorath|r",
-			[51] = 1610033550,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14758:Player-73-0ABD55FA:1:1:7:21:4294967295:4294967295:4294967295:4294967295|h[The World Beyond]|h|r!", -- [1]
-			"Aurelys-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aurelys-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			57, -- [11]
-			"Player-73-0ABD55FA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeAurelys|r",
-			[51] = 1610034246,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [39]
-		{
-			"better to go quest", -- [1]
-			"Pewpypanz-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pewpypanz-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			434, -- [11]
-			"Player-73-06B152CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edPewpypanz|r",
-			[51] = 1610152792,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
-			"no ones doing anything for 5k", -- [1]
-			"Gnagredrum-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gnagredrum-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			435, -- [11]
-			"Player-73-0E3DC978", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeGnagredrum|r",
-			[51] = 1610152801,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
-		{
-			"the lag is real", -- [1]
-			"Skullthetank-Thrall", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Skullthetank-Thrall", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			449, -- [11]
-			"Player-3678-0B174360", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cSkullthetank-Thrall|r",
-			[51] = 1610152965,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
-		{
-			"so its not just me lol", -- [1]
-			"Astira-BloodFurnace", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Astira-BloodFurnace", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			452, -- [11]
-			"Player-77-0E48A733", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Astira-BloodFurnace|r",
-			[51] = 1610152981,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
-		{
-			"I thought it was just me", -- [1]
-			"Moonlillie-Wildhammer", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Moonlillie-Wildhammer", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			456, -- [11]
-			"Player-53-0CF2FFD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Moonlillie-Wildhammer|r",
-			[51] = 1610153032,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14629:Player-73-01C93733:1:1:8:21:4294967295:4294967295:4294967295:4294967295|h[Gaining Respect]|h|r!", -- [1]
-			"Dyclaine-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dyclaine-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			489, -- [11]
-			"Player-73-01C93733", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaDyclaine|r",
-			[51] = 1610153516,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [45]
-		{
-			"Jesus christ lol", -- [1]
-			"Kenskill-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Kenskill-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			508, -- [11]
-			"Player-61-0E3D7C45", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kenskill-Zul'jin|r",
-			[51] = 1610153697,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
-		{
-			"you lagging too?", -- [1]
-			"Bogan-Arthas", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Bogan-Arthas", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-69-0E308481", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Bogan-Arthas|r",
-			[51] = 1610153720,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
-		{
-			"Anyone know if it's like that in SL?", -- [1]
-			"Wakanasha-Arthas", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Wakanasha-Arthas", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			512, -- [11]
-			"Player-69-0B5F6B3A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWakanasha-Arthas|r",
-			[51] = 1610153724,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
-		{
-			"Oh yeah", -- [1]
-			"Kenskill-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Kenskill-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			514, -- [11]
-			"Player-61-0E3D7C45", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kenskill-Zul'jin|r",
-			[51] = 1610153726,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
-		{
-			"glad im not the only one at least", -- [1]
-			"Bogan-Arthas", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Bogan-Arthas", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			515, -- [11]
-			"Player-69-0E308481", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Bogan-Arthas|r",
-			[51] = 1610153735,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
-		{
-			"it's real bad here haha", -- [1]
-			"Kenskill-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Kenskill-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			517, -- [11]
-			"Player-61-0E3D7C45", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kenskill-Zul'jin|r",
-			[51] = 1610153741,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
-		{
-			"^", -- [1]
-			"Rinzog-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Rinzog-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			518, -- [11]
-			"Player-73-0E4769EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaRinzog|r",
-			[51] = 1610153742,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
-		{
-			"I just got here not long ago, pretty sure it's just this zone right now", -- [1]
-			"Kenskill-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Kenskill-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			522, -- [11]
-			"Player-61-0E3D7C45", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kenskill-Zul'jin|r",
-			[51] = 1610153757,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"Must be the invasion", -- [1]
-			"Wakanasha-Arthas", -- [2]
-			"", -- [3]
-			"1. General - Azsuna", -- [4]
-			"Wakanasha-Arthas", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Azsuna", -- [9]
-			0, -- [10]
-			523, -- [11]
-			"Player-69-0B5F6B3A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWakanasha-Arthas|r",
-			[51] = 1610153768,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
 		{
 			"oh yeah forgot that is whats going on", -- [1]
 			"Bogan-Arthas", -- [2]
@@ -1214,7 +24,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Bogan-Arthas|r",
 			[51] = 1610153780,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [1]
 		{
 			"anyone else lagging", -- [1]
 			"Rahfnarg-Area52", -- [2]
@@ -1236,7 +46,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rahfnarg-Area52|r",
 			[51] = 1610150458,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [2]
 		{
 			"yup", -- [1]
 			"Darkironhuff-Khadgar", -- [2]
@@ -1258,7 +68,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDarkironhuff-Khadgar|r",
 			[51] = 1610154068,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [3]
 		{
 			"everyone", -- [1]
 			"Zamolxis-BurningBlade", -- [2]
@@ -1280,7 +90,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Zamolxis-BurningBlade|r",
 			[51] = 1610154069,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [4]
 		{
 			"yeah me and my bf both", -- [1]
 			"Alisanne-Azgalor", -- [2]
@@ -1302,7 +112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Alisanne-Azgalor|r",
 			[51] = 1610154077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [5]
 		{
 			"^", -- [1]
 			"Bogan-Arthas", -- [2]
@@ -1324,7 +134,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Bogan-Arthas|r",
 			[51] = 1610154080,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [6]
 		{
 			"need tank +3  sanguine depths", -- [1]
 			"Buttcheeks-BleedingHollow", -- [2]
@@ -1346,7 +156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Buttcheeks|r",
 			[51] = 1610154422,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [7]
 		{
 			"Use the LFG tool, why it exists", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -1368,7 +178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154439,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [8]
 		{
 			"Are you whining about someone using the LFG channel to LFG?", -- [1]
 			"Kamikazebob-BleedingHollow", -- [2]
@@ -1390,7 +200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKamikazebob|r",
 			[51] = 1610154463,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [9]
 		{
 			"also why this chat channel exists ", -- [1]
 			"Buttcheeks-BleedingHollow", -- [2]
@@ -1412,7 +222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Buttcheeks|r",
 			[51] = 1610154467,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [10]
 		{
 			"to make you ask why", -- [1]
 			"Deadlegacy-BleedingHollow", -- [2]
@@ -1434,7 +244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Deadlegacy|r",
 			[51] = 1610154480,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [11]
 		{
 			"Nah, but you're just not gonna have any results here", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -1456,7 +266,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154481,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [12]
 		{
 			"because it usedto be the only way", -- [1]
 			"Tramwreck-BleedingHollow", -- [2]
@@ -1478,7 +288,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTramwreck|r",
 			[51] = 1610154484,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [13]
 		{
 			"u must be new here lol", -- [1]
 			"Tramwreck-BleedingHollow", -- [2]
@@ -1500,7 +310,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTramwreck|r",
 			[51] = 1610154490,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [14]
 		{
 			"People use the LFG tool for stuff like scores", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -1522,7 +332,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154492,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [15]
 		{
 			"just asserted my OG status upon you", -- [1]
 			"Tramwreck-BleedingHollow", -- [2]
@@ -1544,7 +354,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTramwreck|r",
 			[51] = 1610154506,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [16]
 		{
 			"anyone need naelcrotix?", -- [1]
 			"Lilwing-BleedingHollow", -- [2]
@@ -1566,7 +376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Lilwing|r",
 			[51] = 1610154510,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [17]
 		{
 			"Also can see people's ilvls and stuff", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -1588,7 +398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154511,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [18]
 		{
 			"No reason to use chat when a superior tool exists", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -1610,7 +420,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154520,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [19]
 		{
 			"yea why be social", -- [1]
 			"Cånary-BleedingHollow", -- [2]
@@ -1632,7 +442,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Cånary|r",
 			[51] = 1610154528,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [20]
 		{
 			"LFG to ignore Mordeo", -- [1]
 			"Kamikazebob-BleedingHollow", -- [2]
@@ -1654,7 +464,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKamikazebob|r",
 			[51] = 1610154534,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [21]
 		{
 			"Spamming \"need tank\" isn't being social", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -1676,7 +486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154545,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [22]
 		{
 			"Come on", -- [1]
 			"Mordeo-BleedingHollow", -- [2]
@@ -1698,7 +508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mordeo|r",
 			[51] = 1610154546,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [23]
 		{
 			"yeah well, TSM Hamlinz hosted me like 4 times so, im gonna make it any day now", -- [1]
 			"Ttvsagecrit-BleedingHollow", -- [2]
@@ -1720,7 +530,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Ttvsagecrit|r",
 			[51] = 1610155330,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [24]
 		{
 			"the fact that cencorship is being praised is actually scary", -- [1]
 			"Batwhaman-BleedingHollow", -- [2]
@@ -1742,6 +552,1638 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Batwhaman|r",
 			[51] = 1611207939,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [25]
+		{
+			"if you cant see that you need to wake up", -- [1]
+			"Batwhaman-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Batwhaman-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4646, -- [11]
+			"Player-73-0E419B6C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Batwhaman|r",
+			[51] = 1611207952,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [26]
+		{
+			"<Not Just Madness> is recruiting for Heroic & Mythic Nathria. Raids are Wed/Thur/Sat 9pm EST. Would you like to know more?", -- [1]
+			"Plaz-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Plaz-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4647, -- [11]
+			"Player-73-0AE43C4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcPlaz|r",
+			[51] = 1611207952,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [27]
+		{
+			"they're censoring my terroristic threats! oh no!", -- [1]
+			"Kibble-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kibble-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4648, -- [11]
+			"Player-73-0ACD4A00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kibble|r",
+			[51] = 1611207955,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [28]
+		{
+			"they takin errrr jerrrbssss, really Bat?", -- [1]
+			"Poker-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Poker-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4649, -- [11]
+			"Player-73-09A37C1A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Poker|r",
+			[51] = 1611207961,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [29]
+		{
+			"where the hell was all this unity when Trump took office?", -- [1]
+			"Deathanger-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deathanger-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4650, -- [11]
+			"Player-73-03852BD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Deathanger|r",
+			[51] = 1611207966,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [30]
+		{
+			"Liberal hypocrisy is astonishing.", -- [1]
+			"Asinine-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Asinine-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4651, -- [11]
+			"Player-73-0CD5E463", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Asinine|r",
+			[51] = 1611207970,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [31]
+		{
+			"You sound asinine", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4652, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611207983,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [32]
+		{
+			"so at least the name fits", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4653, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611207983,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [33]
+		{
+			"what abou the ozone layer, the ice age and healthy carbs?  those were all 'settled science facts',...oh what will you dullard sheep believe next lololol", -- [1]
+			"Waggs-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Waggs-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4654, -- [11]
+			"Player-73-0CB2D9B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeWaggs|r",
+			[51] = 1611207983,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [34]
+		{
+			"rofl", -- [1]
+			"Atlantic-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Atlantic-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4655, -- [11]
+			"Player-73-0CABF3DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Atlantic|r",
+			[51] = 1611207983,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [35]
+		{
+			"this t rade chat is literally leike twitter", -- [1]
+			"Batwhaman-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Batwhaman-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4656, -- [11]
+			"Player-73-0E419B6C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Batwhaman|r",
+			[51] = 1611207983,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [36]
+		{
+			"just like the last 4, expect the same this $", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4660, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611207994,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [37]
+		{
+			"WTS |cffa335ee|Hitem:183010::::::::60:577::5:4:7188:6652:1485:6646:1:28:752:::|h[Stud-Scarred Footwear]|h|r pst", -- [1]
+			"Lanill-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lanill-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4661, -- [11]
+			"Player-73-0A9D1BCD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Lanill|r",
+			[51] = 1611207994,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [38]
+		{
+			"Clear Coms is a growing CE Progression guild that is currently 9/10 heroic. We need strong and reliable players for our core and trial teams. Core prog nights are 8-11pm server Tues/Thurs. Trial group nights are Wens 8-11 pm server", -- [1]
+			"Baithof-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Baithof-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4662, -- [11]
+			"Player-73-0A1C848D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Baithof|r",
+			[51] = 1611208002,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"people these days are so stupid you cant even reason with them", -- [1]
+			"Batwhaman-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Batwhaman-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4664, -- [11]
+			"Player-73-0E419B6C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Batwhaman|r",
+			[51] = 1611208005,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"WTS|cff1eff00|Hbattlepet:42:1:2:144:12:10:0000000000000000:5448|h[Black Tabby Cat]|h|r25k|cff1eff00|Hbattlepet:2962:1:2:152:12:8:0000000000000000:99922|h[Toenail]|h|r99k", -- [1]
+			"Obb-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Obb-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4665, -- [11]
+			"Player-73-0CA5ECA8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaObb|r",
+			[51] = 1611208005,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"4", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4666, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208006,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"I sometimes wonder how you people manage to turn on your computer and log on wow", -- [1]
+			"Kibble-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kibble-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4669, -- [11]
+			"Player-73-0ACD4A00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kibble|r",
+			[51] = 1611208016,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [43]
+		{
+			"if we had twitter 25 years ago Bin Laden would have basically been doing the same thing Trump just did and nobody would have complained when they banned his ass. There's free speech, and then there's terrorism", -- [1]
+			"Arcadía-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Arcadía-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4670, -- [11]
+			"Player-73-0E1DCB0B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arcadía|r",
+			[51] = 1611208016,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"american democrats are addicted to hate", -- [1]
+			"Waggs-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Waggs-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4671, -- [11]
+			"Player-73-0CB2D9B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeWaggs|r",
+			[51] = 1611208018,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"Bring back the Orange man who called his daughter a Piece of Ass", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4678, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611208023,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"It can't be like twitter because people are arguing. Twitter should be a field of flowers for whoevers left on it.", -- [1]
+			"Inconvenient-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Inconvenient-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4679, -- [11]
+			"Player-73-0B069DA7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Inconvenient|r",
+			[51] = 1611208030,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"my mom turns on my computer for me", -- [1]
+			"Thrasius-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Thrasius-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4681, -- [11]
+			"Player-73-0E3B8FF5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Thrasius|r",
+			[51] = 1611208033,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"americans*", -- [1]
+			"Lillerbean-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lillerbean-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4682, -- [11]
+			"Player-73-0E40FDA3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Lillerbean|r",
+			[51] = 1611208033,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"if you gotta ask", -- [1]
+			"Thrasius-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Thrasius-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4686, -- [11]
+			"Player-73-0E3B8FF5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Thrasius|r",
+			[51] = 1611208036,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [50]
+		{
+			"if you watched the inauguration today, clearly you seen the swamp creatures mingling about under the guard of 25000 troops? but yeah the people elected him right?", -- [1]
+			"Deathanger-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deathanger-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4693, -- [11]
+			"Player-73-03852BD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Deathanger|r",
+			[51] = 1611208050,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [51]
+		{
+			"My computer turns on by its own touch free", -- [1]
+			"Leis-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Leis-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4695, -- [11]
+			"Player-73-0E30CD79", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Leis|r",
+			[51] = 1611208052,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [52]
+		{
+			"I'm gonna make a new party called the Pepega Party, designed to siphon all the uninformed gamer votes from both parties", -- [1]
+			"Londochar-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Londochar-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4697, -- [11]
+			"Player-73-0E5003EC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Londochar|r",
+			[51] = 1611208055,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [53]
+		{
+			"i am an american democrat, can confirm. hate trump. : )", -- [1]
+			"Iongpp-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Iongpp-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4700, -- [11]
+			"Player-73-0E2F2BC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeIongpp|r",
+			[51] = 1611208060,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [54]
+		{
+			"its demands, from the left, no asking now", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4702, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208062,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [55]
+		{
+			"If you watched Trumps inauguration you saw there were fifty BILLION people there", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4707, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611208069,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [56]
+		{
+			"you might get elected", -- [1]
+			"Kibble-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kibble-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4708, -- [11]
+			"Player-73-0ACD4A00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kibble|r",
+			[51] = 1611208069,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
+		{
+			"i liked trump and i also like biden.  deal with it, or dont, im happy", -- [1]
+			"Waggs-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Waggs-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4713, -- [11]
+			"Player-73-0CB2D9B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeWaggs|r",
+			[51] = 1611208076,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"WTS weekly +14/15s ", -- [1]
+			"Berlinnetti-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Berlinnetti-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4718, -- [11]
+			"Player-73-0D62BC9B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Berlinnetti|r",
+			[51] = 1611208084,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [59]
+		{
+			"time to Q", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4721, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208087,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"#trumpcrimefamily", -- [1]
+			"Gulhane-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gulhane-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4723, -- [11]
+			"Player-73-0E508712", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Gulhane|r",
+			[51] = 1611208092,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"WTS 1400-1600-1800 arena carries for gold PST", -- [1]
+			"Purkinji-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Purkinji-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4731, -- [11]
+			"Player-73-0CCD191D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaPurkinji|r",
+			[51] = 1611208101,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"Send money to fund trump's legal defense team", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4733, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611208102,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"WTS |cffa335ee|Hitem:183010::::::::60:102::6:4:7187:6652:1498:6646:1:28:753:::|h[Stud-Scarred Footwear]|h|r650k", -- [1]
+			"Crìmsix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Crìmsix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4734, -- [11]
+			"Player-73-0E1A6FF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Crìmsix|r",
+			[51] = 1611208102,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [64]
+		{
+			"hurry", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4736, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611208105,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"damn it feels good that donald trump isnt our president anymore wow", -- [1]
+			"Dabr-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dabr-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4738, -- [11]
+			"Player-73-06AFE2F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Dabr|r",
+			[51] = 1611208106,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"#notmypresidaaaant", -- [1]
+			"Asinine-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Asinine-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4739, -- [11]
+			"Player-73-0CD5E463", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Asinine|r",
+			[51] = 1611208108,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"So much changed no", -- [1]
+			"Watchdis-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Watchdis-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4749, -- [11]
+			"Player-73-069DD516", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Watchdis|r",
+			[51] = 1611208124,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"now", -- [1]
+			"Watchdis-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Watchdis-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4750, -- [11]
+			"Player-73-069DD516", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Watchdis|r",
+			[51] = 1611208125,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"#Clintons, OBOMA, and ...hunter...?", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4754, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208128,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"i got |cff71d5ff|Hspell:336507:0|h[Crystalline Reflection]|h|r so im really happy!", -- [1]
+			"Waggs-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Waggs-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4756, -- [11]
+			"Player-73-0CB2D9B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeWaggs|r",
+			[51] = 1611208130,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"WTS |cffa335ee|Hitem:183010::::::::60:254::6:4:7187:6652:1498:6646:1:28:753:::|h[Stud-Scarred Footwear]|h|r 649K", -- [1]
+			"Soulbite-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Soulbite-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4757, -- [11]
+			"Player-73-0C95FB05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Soulbite|r",
+			[51] = 1611208130,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"I dont have to cringe about breaking news anymore", -- [1]
+			"Kibble-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kibble-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4760, -- [11]
+			"Player-73-0ACD4A00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kibble|r",
+			[51] = 1611208133,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"the caravans are on there way", -- [1]
+			"Deathanger-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deathanger-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4763, -- [11]
+			"Player-73-03852BD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Deathanger|r",
+			[51] = 1611208135,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"Bring back the Orange guy who was literally named as an accomplish in Financial crimes by a convicted felon", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4765, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611208136,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"oh let me add NOT russians", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4778, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208148,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"accomplice8", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4779, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611208149,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"Lol if you think MSM is going to stop talking about Trump now", -- [1]
+			"Asinine-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Asinine-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4783, -- [11]
+			"Player-73-0CD5E463", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Asinine|r",
+			[51] = 1611208151,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"I love watching the Qanon guys right now. they don't knwo what to do with themselves", -- [1]
+			"Subkelvin-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Subkelvin-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4784, -- [11]
+			"Player-73-0E48EE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaSubkelvin|r",
+			[51] = 1611208152,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
+		{
+			"Clear Coms is a growing CE Progression guild that is currently 9/10 heroic. We need strong and reliable players for our core and trial teams. Core prog nights are 8-11pm server Tues/Thurs. Trial group nights are Wens 8-11 pm server", -- [1]
+			"Baithof-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Baithof-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4792, -- [11]
+			"Player-73-0A1C848D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Baithof|r",
+			[51] = 1611208159,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"trump pardened the jailer", -- [1]
+			"Waggs-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Waggs-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4793, -- [11]
+			"Player-73-0CB2D9B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeWaggs|r",
+			[51] = 1611208160,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"but forget about your pals", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4796, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208165,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"WTS |cffa335ee|Hitem:183010::::::::60:577::5:4:7188:6652:1485:6646:1:28:752:::|h[Stud-Scarred Footwear]|h|r 60k", -- [1]
+			"Lanill-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lanill-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4800, -- [11]
+			"Player-73-0A9D1BCD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Lanill|r",
+			[51] = 1611208170,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"i got so much enjoyment out of reading the q people lose their minds today", -- [1]
+			"Dabr-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dabr-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4802, -- [11]
+			"Player-73-06AFE2F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Dabr|r",
+			[51] = 1611208173,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"Im just here waiting for the 4D checkmate", -- [1]
+			"Aristazia-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aristazia-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4807, -- [11]
+			"Player-73-0E1F1E4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeAristazia|r",
+			[51] = 1611208181,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-259724-73-101166551|h[Guild: Casino Nathria]|h|r LF Unholy DK and rDPS to fill out our core raiding team 1/10M 10/10H. Tuesday and Wednesday 9pm-12am server as well as Sunday 10pm-1am server. Flex spots open! Pst for more info! ", -- [1]
+			"Kuramae-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kuramae-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4810, -- [11]
+			"Player-73-0DF89C9A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaKuramae|r",
+			[51] = 1611208186,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"lol #shadowpresident", -- [1]
+			"Dabr-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dabr-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4813, -- [11]
+			"Player-73-06AFE2F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Dabr|r",
+			[51] = 1611208189,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"WTS|cff1eff00|Hbattlepet:42:1:2:144:12:10:0000000000000000:5448|h[Black Tabby Cat]|h|r25k|cff1eff00|Hbattlepet:2962:1:2:152:12:8:0000000000000000:99922|h[Toenail]|h|r99k", -- [1]
+			"Obb-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Obb-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4817, -- [11]
+			"Player-73-0CA5ECA8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaObb|r",
+			[51] = 1611208195,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"its just trhe alcohol", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4824, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208207,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"all getting lelouched", -- [1]
+			"Philly-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Philly-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4828, -- [11]
+			"Player-73-0E4A0050", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcPhilly|r",
+			[51] = 1611208212,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"cognitive dissonance is strong", -- [1]
+			"Kibble-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kibble-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4833, -- [11]
+			"Player-73-0ACD4A00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kibble|r",
+			[51] = 1611208222,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"and the derangement ive seen for 4 years", -- [1]
+			"Stellix-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stellix-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4838, -- [11]
+			"Player-73-06D5EBC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edStellix|r",
+			[51] = 1611208231,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"when does biden legalize reefer nationwide? is that next week?", -- [1]
+			"Chafing-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chafing-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4840, -- [11]
+			"Player-73-0855F82C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcChafing|r",
+			[51] = 1611208232,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"Is anybody High?", -- [1]
+			"Scyler-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Scyler-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4842, -- [11]
+			"Player-73-031CDBE8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Scyler|r",
+			[51] = 1611208235,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"the establishment hates trump ", -- [1]
+			"Deathanger-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deathanger-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4845, -- [11]
+			"Player-73-03852BD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Deathanger|r",
+			[51] = 1611208237,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-401235-73-109577559|h[Guild: KITTY DEMON]|h|r's a new guild lf all roles/classes wanting to progress for AOTC/KSM every tier/season and prepare for DragonFlight! RBGs, 2v2, 3v3, & socially active. Free repairs too! Raids are Tue/Thu, 9pm-12pm server. Pst if interested. >:3", -- [1]
+			"Starffox-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Starffox-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-73-0E93E7CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Starffox|r",
+			[51] = 1657826487,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTB +15. Looking for group that can stack cloth", -- [1]
+			"Vijayjay-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vijayjay-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-73-0EC08D0E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edVijayjay|r",
+			[51] = 1657826551,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"WTS AotC Jailer Kill at 180K! Get your mount and a chance to get 272 loot. Whisp if interested! (11/11M Guild, no community) Gold only", -- [1]
+			"Wayu-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Wayu-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			124, -- [11]
+			"Player-73-0EBF8395", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Wayu|r",
+			[51] = 1657826553,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Free +14-+16 Community Keys / Carry's! - PST for more info. 100% Free - I do not accept ANY form of payment. 100% FREE!", -- [1]
+			"Angarakttv-BleedingHollow", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Angarakttv-BleedingHollow", -- [5]
+			"DND", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			443, -- [11]
+			"Player-73-0EAA52DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Angarakttv|r",
+			[51] = 1661271954,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
 	},
+	["ChatEditHistory"] = {
+		"/EC", -- [1]
+	},
+	["ConvertKeybindings"] = true,
 }

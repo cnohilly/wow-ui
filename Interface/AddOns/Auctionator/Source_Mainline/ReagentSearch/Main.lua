@@ -4,7 +4,14 @@ function Auctionator.ReagentSearch.DoTradeSkillReagentsSearch()
 
   local recipeInfo = C_TradeSkillUI.GetRecipeInfo(recipeIndex, recipeLevel)
 
-  local items = {recipeInfo.name}
+  local items = {}
+
+  local linkName = Auctionator.Utilities.GetNameFromLink(C_TradeSkillUI.GetRecipeItemLink(recipeIndex))
+  if linkName and linkName ~= "" then
+    table.insert(items, linkName)
+  else
+    table.insert(recipeInfo.name)
+  end
 
   for reagentIndex = 1, C_TradeSkillUI.GetRecipeNumReagents(recipeIndex, recipeLevel) do
 
@@ -36,9 +43,9 @@ function Auctionator.ReagentSearch.GetSkillReagentsTotal()
     if link ~= nil then
       local unitPrice
 
-      local dbKey = Auctionator.Utilities.BasicDBKeyFromLink(link)
-      if AUCTIONATOR_VENDOR_PRICE_CACHE[dbKey] ~= nil then
-        unitPrice = AUCTIONATOR_VENDOR_PRICE_CACHE[dbKey]
+      local vendorPrice = Auctionator.API.v1.GetVendorPriceByItemLink(AUCTIONATOR_L_REAGENT_SEARCH, link)
+      if vendorPrice ~= nil then
+        unitPrice = vendorPrice
       else
         unitPrice = Auctionator.API.v1.GetAuctionPriceByItemLink(AUCTIONATOR_L_REAGENT_SEARCH, link)
       end

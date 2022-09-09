@@ -1,21 +1,25 @@
 
 DataStore_AuctionsDB = {
 	["profileKeys"] = {
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Bleeding Hollow.Holynoly"] = {
-				["lastUpdate"] = 1621121948,
-				["lastVisitDate"] = "2021/05/15 19:39",
+				["lastUpdate"] = 1661284298,
+				["lastVisitDate"] = "2022/08/23 15:51",
 			},
 			["Default.Bleeding Hollow.Pándan"] = {
 				["lastUpdate"] = 1656253904,

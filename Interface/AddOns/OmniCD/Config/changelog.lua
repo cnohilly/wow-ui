@@ -1,24 +1,28 @@
 local E, L, C = select(2, ...):unpack()
 
 if E.isClassic then E.changelog = [=[
+v1.14.3.2722
 
-Previous changes can be found in the CHANGELOG file.
+	Classic Era re-release. (Build 44834)
 ]=]
 elseif E.isBCC then E.changelog = [=[
-v2.7.15
-	Feign Death will no longer grey-out the icons.
-	Fixed an issue where logging back in would incorrectly grey-out the icons.
-	Group inspection is now done periodically until the arena match begins.
+v2.5.4.2722
+	NIL.
 
 Previous changes can be found in the CHANGELOG file.
 ]=]
-else E.changelog = [=[
-v2.7.19
-	JUNE 28. 2022, Blizzard Class Tuning Update
+elseif E.isWOTLKC then E.changelog = [=[
+v3.4.0.2722
 
-v2.7.18
-	TOC bump.
-	9.2.5 minor updates.
+	Wrath of the Lich King Classic release. (Build 45435)
+]=]
+else E.changelog = [=[
+v9.2.7.2722
+	Minor bug fixes.
+	bump toc.
+
+v9.2.5.2721
+	Season 4 PvP trinkets added.
 
 Previous changes can be found in the CHANGELOG file.
 ]=]

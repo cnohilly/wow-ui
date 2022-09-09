@@ -266,10 +266,12 @@ addon:Controller("AltoholicUI.TabGuild.Members", { function()
 			
 			if not isResizing then
 				guild = DataStore:GetGuild()
-				local guildName = select(3, strsplit(".", guild))
-				
-				local parent = frame:GetParent()
-				parent:SetStatus(format("%s%s|r / %s%s", colors.white, L["GUILD_MEMBERS"], colors.green, guildName))
+				if guild then
+					local guildName = select(3, strsplit(".", guild))
+					
+					local parent = frame:GetParent()
+					parent:SetStatus(format("%s%s|r / %s%s", colors.white, L["GUILD_MEMBERS"], colors.green, guildName))
+				end
 			end
 			
 			if #view == 0 then

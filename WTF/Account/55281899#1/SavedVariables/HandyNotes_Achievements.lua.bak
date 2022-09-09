@@ -1,0 +1,24 @@
+
+HandyNotesAchievementsDB = {
+	["profileKeys"] = {
+		["Trublmakr - Scarlet Crusade"] = "Default",
+		["Katdoge - Bleeding Hollow"] = "Default",
+		["Emoclëw - Bleeding Hollow"] = "Default",
+		["Noliee - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
+		["Emogin - Bleeding Hollow"] = "Default",
+		["Trublmakr - Bleeding Hollow"] = "Default",
+		["Stryfë - Bleeding Hollow"] = "Default",
+		["Blù - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
+		["Pandan - Earthen Ring"] = "Default",
+		["Nycee - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

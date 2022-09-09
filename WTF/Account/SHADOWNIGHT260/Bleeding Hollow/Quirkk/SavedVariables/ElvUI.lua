@@ -1,6 +1,5 @@
 
 ElvCharacterDB = {
-	["ConvertKeybindings"] = true,
 	["ChatHistoryLog"] = {
 		{
 			"WTS>Friends group  M+15-25 ||||PORTAL DEAL M+20 SPEC KEY TIMED ||||Torgast farm ||KSM DEAL ||||<ONLY GOLD> Group ready whit high Rio!!!", -- [1]
@@ -2272,6 +2271,9 @@ ElvCharacterDB = {
 			[53] = "Party",
 		}, -- [99]
 	},
+	["CliqueDatatext"] = {
+	},
+	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
 		"idk if that applies to both difficulties or just heroic", -- [1]
 		"but it was definitely very little damage on heroic", -- [2]
@@ -2295,9 +2297,9 @@ ElvCharacterDB = {
 		"/wa", -- [20]
 	},
 	["BodyGuard"] = {
-		["Active"] = false,
-		["Health"] = 0,
-		["MaxHealth"] = 0,
 		["IsInValidZone"] = true,
+		["MaxHealth"] = 0,
+		["Health"] = 0,
+		["Active"] = false,
 	},
 }

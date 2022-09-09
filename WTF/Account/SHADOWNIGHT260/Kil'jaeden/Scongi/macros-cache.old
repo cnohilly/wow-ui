@@ -2,3 +2,9 @@ VER 3 0100000000000001 "death" "ABILITY_RACIAL_RUNNINGWILD"
 /cancelaura Honorless Target
 /run RepopMe()AcceptResurrect()AcceptXPLoss()
 END
+VER 3 0100000000000002 "vyr/tlpd" "INV_MISC_QUESTIONMARK"
+/way The Storm Peaks 52.3, 35.0 Ulduar Ravine
+/way The Storm Peaks 51.1, 71.2 Brunn Village
+/way The Storm Peaks 35.0, 76.5 Waterfall
+/way The Storm Peaks 31.5, 70.0 Frozen Lake
+END

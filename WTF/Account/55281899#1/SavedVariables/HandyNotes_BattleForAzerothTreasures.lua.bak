@@ -1,0 +1,52 @@
+
+HandyNotes_BattleForAzerothTreasuresDB = {
+	["profileKeys"] = {
+		["Trublmakr - Scarlet Crusade"] = "Trublmakr - Scarlet Crusade",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Pandan - Earthen Ring"] = "Pandan - Earthen Ring",
+		["Nycee - Bleeding Hollow"] = "Nycee - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+	},
+	["profiles"] = {
+		["Trublmakr - Scarlet Crusade"] = {
+		},
+		["Katdoge - Bleeding Hollow"] = {
+		},
+		["Emoclëw - Bleeding Hollow"] = {
+		},
+		["Noliee - Bleeding Hollow"] = {
+		},
+		["Nolieper - Bleeding Hollow"] = {
+		},
+		["Emogin - Bleeding Hollow"] = {
+		},
+		["Trublmakr - Bleeding Hollow"] = {
+		},
+		["Stryfë - Bleeding Hollow"] = {
+		},
+		["Blù - Bleeding Hollow"] = {
+		},
+		["Diá - Bleeding Hollow"] = {
+		},
+		["Pándan - Bleeding Hollow"] = {
+		},
+		["Holynoly - Bleeding Hollow"] = {
+		},
+		["Pandan - Earthen Ring"] = {
+		},
+		["Nycee - Bleeding Hollow"] = {
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+	},
+}

@@ -4,7 +4,7 @@
 
 local mod, CL = BigWigs:NewBoss("Xav the Unfallen", 2293, 2390)
 if not mod then return end
-mod:RegisterEnableMob(162329)
+mod:RegisterEnableMob(162329) -- Xav the Unfallen
 mod:SetEncounterID(2366)
 mod:SetRespawnTime(30)
 
@@ -87,7 +87,7 @@ do
 		if #playerList == 2 then
 			self:PlaySound(args.spellId, "long")
 		end
-		self:TargetsMessage(args.spellId, "yellow", playerList, 2, nil, nil, 1) -- 1s wait time as it can be a little delayed sometimes
+		self:TargetsMessageOld(args.spellId, "yellow", playerList, 2, nil, nil, 1) -- 1s wait time as it can be a little delayed sometimes
 	end
 end
 

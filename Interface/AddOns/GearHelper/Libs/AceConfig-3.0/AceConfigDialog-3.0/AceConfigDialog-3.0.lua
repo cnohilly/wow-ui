@@ -1,13 +1,13 @@
 --- AceConfigDialog-3.0 generates AceGUI-3.0 based windows based on option tables.
 -- @class file
 -- @name AceConfigDialog-3.0
--- @release $Id: AceConfigDialog-3.0.lua 1255 2021-11-14 09:14:15Z nevcairiel $
+-- @release $Id: AceConfigDialog-3.0.lua 1232 2020-04-14 22:21:22Z nevcairiel $
 
 local LibStub = LibStub
 local gui = LibStub("AceGUI-3.0")
 local reg = LibStub("AceConfigRegistry-3.0")
 
-local MAJOR, MINOR = "AceConfigDialog-3.0", 82
+local MAJOR, MINOR = "AceConfigDialog-3.0", 79
 local AceConfigDialog, oldminor = LibStub:NewLibrary(MAJOR, MINOR)
 
 if not AceConfigDialog then return end
@@ -22,10 +22,10 @@ AceConfigDialog.frame.closing = AceConfigDialog.frame.closing or {}
 AceConfigDialog.frame.closeAllOverride = AceConfigDialog.frame.closeAllOverride or {}
 
 -- Lua APIs
-local tinsert, tsort, tremove, wipe = table.insert, table.sort, table.remove, table.wipe
+local tinsert, tsort, tremove = table.insert, table.sort, table.remove
 local strmatch, format = string.match, string.format
 local error = error
-local pairs, next, select, type, unpack, ipairs = pairs, next, select, type, unpack, ipairs
+local pairs, next, select, type, unpack, wipe, ipairs = pairs, next, select, type, unpack, wipe, ipairs
 local tostring, tonumber = tostring, tonumber
 local math_min, math_max, math_floor = math.min, math.max, math.floor
 
@@ -544,15 +544,13 @@ local function GetFuncName(option)
 end
 do
 	local frame = AceConfigDialog.popup
-	if not frame or oldminor < 81 then
+	if not frame then
 		frame = CreateFrame("Frame", nil, UIParent)
 		AceConfigDialog.popup = frame
 		frame:Hide()
 		frame:SetPoint("CENTER", UIParent, "CENTER")
 		frame:SetSize(320, 72)
-		frame:EnableMouse(true) -- Do not allow click-through on the frame
 		frame:SetFrameStrata("TOOLTIP")
-		frame:SetFrameLevel(100) -- Lots of room to draw under it
 		frame:SetScript("OnKeyDown", function(self, key)
 			if key == "ESCAPE" then
 				self:SetPropagateKeyboardInput(false)
@@ -566,7 +564,7 @@ do
 			end
 		end)
 
-		if not frame.SetFixedFrameStrata then -- API capability check (classic check)
+		if WOW_PROJECT_ID == WOW_PROJECT_CLASSIC then
 			frame:SetBackdrop({
 				bgFile = [[Interface\DialogFrame\UI-DialogBox-Background-Dark]],
 				edgeFile = [[Interface\DialogFrame\UI-DialogBox-Border]],
@@ -576,10 +574,8 @@ do
 				insets = { left = 11, right = 11, top = 11, bottom = 11 },
 			})
 		else
-			local border = CreateFrame("Frame", nil, frame, "DialogBorderOpaqueTemplate")
+			local border = CreateFrame("Frame", nil, frame, "DialogBorderDarkTemplate")
 			border:SetAllPoints(frame)
-			frame:SetFixedFrameStrata(true)
-			frame:SetFixedFrameLevel(true)
 		end
 
 		local text = frame:CreateFontString(nil, "ARTWORK", "GameFontHighlight")
@@ -1368,7 +1364,7 @@ local function FeedOptions(appName, options,container,rootframe,path,group,inlin
 							elseif width == "half" then
 								check:SetWidth(width_multiplier / 2)
 							elseif (type(width) == "number") then
-								check:SetWidth(width_multiplier * width)
+								control:SetWidth(width_multiplier * width)
 							elseif width == "full" then
 								check.width = "fill"
 							else

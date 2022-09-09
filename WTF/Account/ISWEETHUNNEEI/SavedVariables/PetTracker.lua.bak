@@ -1,9 +1,8 @@
 
 PetTracker_Sets = {
 	["mapSearch"] = "Missing",
-	["tutorial"] = 10,
+	["tutorial"] = 12,
 	["trackPets"] = true,
-	["rivalSearch"] = "",
 	["rivalHistory"] = {
 		[85519] = {
 			"1c6033ea18812500000539779200730cc0aa000004D7C5D4f537541539000004B7DF1E", -- [1]
@@ -13,4 +12,6 @@ PetTracker_Sets = {
 			"2c6000711072390000032D52DB006e38542c0000081CC77303d71883d9000005397792", -- [2]
 		},
 	},
+	["hideSpecies"] = true,
+	["rivalSearch"] = "",
 }

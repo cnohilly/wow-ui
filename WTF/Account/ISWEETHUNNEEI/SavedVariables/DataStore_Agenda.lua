@@ -1,110 +1,93 @@
 
 DataStore_AgendaDB = {
 	["profileKeys"] = {
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
 		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
 		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
-		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 	},
 	["global"] = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2022-07-12",
+			["NextWeeklyReset"] = "2022-09-13",
 		},
 		["Characters"] = {
+			["Default.Bleeding Hollow.Katdoge"] = {
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297798"] = "458350|1662622849|0|1",
+				},
+				["lastUpdate"] = 1662622849,
+			},
 			["Default.Bleeding Hollow.Inolie"] = {
-				["lastUpdate"] = 1657213782,
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297840"] = "457732|1662623467|0|1",
+				},
+				["lastUpdate"] = 1662623467,
 			},
 			["Default.Bleeding Hollow.Holynoly"] = {
 				["DungeonIDs"] = {
-					["Ulduar Normal|799641851"] = "148010|1657489967|0|1",
-					["Icecrown Citadel 25 Player|799641911"] = "148010|1657489967|0|1",
+					["Ahn'Qiraj Temple 40 Player|803294454"] = "461535|1662619664|0|1",
+					["Ulduar Normal|803294430"] = "461535|1662619664|0|1",
 				},
-				["lastUpdate"] = 1657489967,
-				["LFGDungeons"] = {
-					["279.Professor Putricide"] = true,
-					["279.Festergut"] = true,
-					["279.Lord Marrowgar"] = true,
-					["279.Count"] = 7,
-					["279.Rotface"] = true,
-					["279.Icecrown Gunship Battle"] = true,
-					["279.Lady Deathwhisper"] = true,
-					["279.Deathbringer Saurfang"] = true,
-				},
+				["lastUpdate"] = 1662619664,
 			},
 			["Default.Bleeding Hollow.Stryfë"] = {
-				["DungeonIDs"] = {
-					["Ulduar Normal|799638826"] = "432628|1657205361|0|1",
-				},
-				["lastUpdate"] = 1657205361,
+				["lastUpdate"] = 1661875710,
 			},
 			["Default.Bleeding Hollow.Trublmakr"] = {
-				["DungeonIDs"] = {
-					["Icecrown Citadel 25 Player (Heroic)|799635625"] = "430901|1657207087|0|1",
-					["Ulduar Normal|799638990"] = "430901|1657207087|0|1",
-				},
-				["lastUpdate"] = 1657207087,
-				["LFGDungeons"] = {
-					["280.Professor Putricide"] = true,
-					["279.Rotface"] = true,
-					["280.Festergut"] = true,
-					["280.Rotface"] = true,
-					["279.Professor Putricide"] = true,
-					["280.Deathbringer Saurfang"] = true,
-					["279.Icecrown Gunship Battle"] = true,
-					["279.Deathbringer Saurfang"] = true,
-					["279.Festergut"] = true,
-					["280.Lady Deathwhisper"] = true,
-					["279.Lord Marrowgar"] = true,
-					["279.Count"] = 7,
-					["280.Icecrown Gunship Battle"] = true,
-					["280.Lord Marrowgar"] = true,
-					["279.Lady Deathwhisper"] = true,
-					["280.Count"] = 7,
-				},
+				["lastUpdate"] = 1661875018,
 			},
 			["Default.Bleeding Hollow.Emoclëw"] = {
-				["lastUpdate"] = 1628283408,
+				["lastUpdate"] = 1662624480,
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297884"] = "456719|1662624480|0|1",
+				},
+			},
+			["Default.Bleeding Hollow.Diá"] = {
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297728"] = "459197|1662622002|0|1",
+				},
+				["lastUpdate"] = 1662622002,
 			},
 			["Default.Bleeding Hollow.Nolieper"] = {
-				["lastUpdate"] = 1629162825,
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297820"] = "458026|1662623173|0|1",
+				},
+				["lastUpdate"] = 1662623173,
 			},
 			["Default.Bleeding Hollow.Blù"] = {
-				["lastUpdate"] = 1627323406,
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297777"] = "458634|1662622565|0|1",
+				},
+				["lastUpdate"] = 1662622565,
+			},
+			["Default.Bleeding Hollow.Noliedin"] = {
+				["lastUpdate"] = 1661271611,
+			},
+			["Default.Bleeding Hollow.Noliee"] = {
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297753"] = "458918|1662622280|0|1",
+				},
+				["lastUpdate"] = 1662622280,
 			},
 			["Default.Bleeding Hollow.Emogin"] = {
-				["lastUpdate"] = 1656011556,
+				["lastUpdate"] = 1661874418,
 			},
 			["Default.Bleeding Hollow.Pándan"] = {
 				["DungeonIDs"] = {
-					["Ulduar Normal|799641787"] = "421070|1657216918|0|1",
-					["Icecrown Citadel 25 Player (Heroic)|799642043"] = "421070|1657216918|0|1",
+					["Ulduar Normal|803294571"] = "461232|1662619966|0|1",
 				},
-				["lastUpdate"] = 1657216918,
-				["LFGDungeons"] = {
-					["280.Professor Putricide"] = true,
-					["279.Rotface"] = true,
-					["280.Festergut"] = true,
-					["280.Rotface"] = true,
-					["279.Deathbringer Saurfang"] = true,
-					["280.Deathbringer Saurfang"] = true,
-					["279.Icecrown Gunship Battle"] = true,
-					["279.Professor Putricide"] = true,
-					["279.Festergut"] = true,
-					["280.Lady Deathwhisper"] = true,
-					["279.Lord Marrowgar"] = true,
-					["279.Count"] = 7,
-					["280.Icecrown Gunship Battle"] = true,
-					["280.Lord Marrowgar"] = true,
-					["279.Lady Deathwhisper"] = true,
-					["280.Count"] = 7,
-				},
+				["lastUpdate"] = 1662619966,
 			},
 		},
 	},

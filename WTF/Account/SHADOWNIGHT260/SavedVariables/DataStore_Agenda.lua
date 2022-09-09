@@ -3,44 +3,45 @@ DataStore_AgendaDB = {
 	["profileKeys"] = {
 		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
-		["Moodroo - Bleeding Hollow"] = "Moodroo - Bleeding Hollow",
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
+		["Moodroo - Bleeding Hollow"] = "Moodroo - Bleeding Hollow",
+		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
 		["Awkk - Bleeding Hollow"] = "Awkk - Bleeding Hollow",
-		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
-		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
+		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
-		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
-		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 	},
 	["global"] = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2022-07-12",
+			["NextWeeklyReset"] = "2022-09-13",
 		},
 		["Characters"] = {
 			["Default.Bleeding Hollow.Jerkk"] = {
-				["lastUpdate"] = 1651010455,
+				["lastUpdate"] = 1658675331,
 			},
 			["Default.Tichondrius.Dorkkore"] = {
 				["lastUpdate"] = 1552712405,
@@ -71,17 +72,20 @@ DataStore_AgendaDB = {
 			["Default.Area 52.Pricecheckin"] = {
 				["lastUpdate"] = 1629839209,
 			},
+			["Default.Tichondrius.Engidorkk"] = {
+				["lastUpdate"] = 1552713476,
+			},
 			["Default.Bleeding Hollow.Quirkk"] = {
-				["lastUpdate"] = 1650904710,
+				["lastUpdate"] = 1658675177,
 			},
 			["Default.Bleeding Hollow.Unorthodorkk"] = {
 				["lastUpdate"] = 1650904636,
 			},
-			["Default.Tichondrius.Engidorkk"] = {
-				["lastUpdate"] = 1552713476,
+			["Default.Darkspear.Genericbank"] = {
+				["lastUpdate"] = 1552711908,
 			},
-			["Default.The Forgotten Coast.Eore"] = {
-				["lastUpdate"] = 1634673871,
+			["Default.Bleeding Hollow.Wardorkk"] = {
+				["lastUpdate"] = 1649736079,
 			},
 			["Default.Mal'Ganis.Lildorkk"] = {
 				["lastUpdate"] = 1531726085,
@@ -92,14 +96,14 @@ DataStore_AgendaDB = {
 			["Default.Bleeding Hollow.Eisfyre"] = {
 				["lastUpdate"] = 1657471280,
 			},
-			["Default.Bleeding Hollow.Wardorkk"] = {
-				["lastUpdate"] = 1649736079,
-			},
 			["Default.Bleeding Hollow.Moodroo"] = {
 				["lastUpdate"] = 1619646481,
 			},
+			["Default.Bleeding Hollow.Awkk"] = {
+				["lastUpdate"] = 1630523147,
+			},
 			["Default.Kil'jaeden.Scongi"] = {
-				["lastUpdate"] = 1634673611,
+				["lastUpdate"] = 1661048487,
 			},
 			["Default.The Forgotten Coast.Smíte"] = {
 				["lastUpdate"] = 1634673758,
@@ -119,42 +123,27 @@ DataStore_AgendaDB = {
 			["Default.Area 52.Dorkkborne"] = {
 				["lastUpdate"] = 1629836764,
 			},
-			["Default.Bleeding Hollow.Awkk"] = {
-				["lastUpdate"] = 1630523147,
-			},
 			["Default.Bleeding Hollow.Illidorkk"] = {
 				["lastUpdate"] = 1650904472,
 			},
 			["Default.Bleeding Hollow.Dorkk"] = {
-				["DungeonIDs"] = {
-					["Sepulcher of the First Ones Mythic|796991985"] = "166972|1657471005|0|1",
-				},
-				["lastUpdate"] = 1657471005,
+				["lastUpdate"] = 1661214408,
+			},
+			["Default.The Forgotten Coast.Eore"] = {
+				["lastUpdate"] = 1634673871,
 			},
 			["Default.Emerald Dream.Albiorix"] = {
 				["lastUpdate"] = 1630267170,
 			},
-			["Default.Darkspear.Genericbank"] = {
-				["lastUpdate"] = 1552711908,
-			},
 			["Default.Bleeding Hollow.Lickk"] = {
 				["DungeonIDs"] = {
-					["Icecrown Citadel 25 Player (Heroic)|799635625"] = "1027643|1657215145|1|1",
-					["Ulduar Normal|799193020"] = "422843|1657215145|1|1",
+					["Ulduar Normal|799193020"] = "459507|1662621692|1|1",
+					["Ahn'Qiraj Temple 40 Player|803294454"] = "459507|1662621692|0|1",
 				},
-				["lastUpdate"] = 1657215145,
-				["LFGDungeons"] = {
-					["280.Deathbringer Saurfang"] = true,
-					["279.Icecrown Gunship Battle"] = true,
-					["279.Deathbringer Saurfang"] = true,
-					["280.Lady Deathwhisper"] = true,
-					["279.Lord Marrowgar"] = true,
-					["279.Count"] = 4,
-					["280.Count"] = 4,
-					["280.Lord Marrowgar"] = true,
-					["279.Lady Deathwhisper"] = true,
-					["280.Icecrown Gunship Battle"] = true,
-				},
+				["lastUpdate"] = 1662624292,
+			},
+			["Default.Altar of Storms.Holynoly"] = {
+				["lastUpdate"] = 1658725895,
 			},
 			["Default.Bleeding Hollow.Voodroo"] = {
 				["lastUpdate"] = 1657471171,

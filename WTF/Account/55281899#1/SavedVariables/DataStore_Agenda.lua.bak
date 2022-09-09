@@ -1,0 +1,84 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Trublmakr - Scarlet Crusade"] = "Trublmakr - Scarlet Crusade",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Pandan - Earthen Ring"] = "Pandan - Earthen Ring",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Nycee - Bleeding Hollow"] = "Nycee - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+	},
+	["global"] = {
+		["Options"] = {
+			["WeeklyResetHour"] = 6,
+			["WeeklyResetDay"] = 2,
+			["NextWeeklyReset"] = "2022-09-13",
+		},
+		["Characters"] = {
+			["Default.Bleeding Hollow.Katdoge"] = {
+				["lastUpdate"] = 1661196038,
+			},
+			["Default.Scarlet Crusade.Trublmakr"] = {
+				["DungeonIDs"] = {
+					["Ulduar Normal|802836254"] = "213234|1662263165|0|1",
+				},
+				["lastUpdate"] = 1662263165,
+			},
+			["Default.Bleeding Hollow.Inolie"] = {
+				["lastUpdate"] = 1660833094,
+			},
+			["Default.Bleeding Hollow.Holynoly"] = {
+				["lastUpdate"] = 1661214753,
+			},
+			["Default.Bleeding Hollow.Emogin"] = {
+				["lastUpdate"] = 1660833648,
+			},
+			["Default.Bleeding Hollow.Blù"] = {
+				["lastUpdate"] = 1660832164,
+			},
+			["Default.Bleeding Hollow.Trublmakr"] = {
+				["lastUpdate"] = 1660835406,
+			},
+			["Default.Bleeding Hollow.Emoclëw"] = {
+				["lastUpdate"] = 1660833710,
+			},
+			["Default.Bleeding Hollow.Stryfë"] = {
+				["lastUpdate"] = 1661196171,
+			},
+			["Default.Earthen Ring.Pandan"] = {
+				["lastUpdate"] = 1661907810,
+			},
+			["Default.Bleeding Hollow.Nolieper"] = {
+				["lastUpdate"] = 1660994710,
+			},
+			["Default.Bleeding Hollow.Nycee"] = {
+				["lastUpdate"] = 1662623857,
+				["DungeonIDs"] = {
+					["Ulduar Normal|803297858"] = "457342|1662623857|0|1",
+				},
+			},
+			["Default.Bleeding Hollow.Noliedin"] = {
+				["lastUpdate"] = 1657825805,
+			},
+			["Default.Bleeding Hollow.Diá"] = {
+				["lastUpdate"] = 1660994350,
+			},
+			["Default.Bleeding Hollow.Noliee"] = {
+				["lastUpdate"] = 1660994467,
+			},
+			["Default.Bleeding Hollow.Pándan"] = {
+				["lastUpdate"] = 1661196246,
+			},
+		},
+	},
+}

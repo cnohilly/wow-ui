@@ -2,7 +2,7 @@
 DecursiveDB = {
 	["global"] = {
 		["LastExpirationAlert"] = 1618960608,
-		["LastVersionAnnounce"] = 1657471461,
+		["LastVersionAnnounce"] = 1662621743,
 	},
 	["class"] = {
 		["DEATHKNIGHT"] = {
@@ -141,16 +141,17 @@ DecursiveDB = {
 	["profileKeys"] = {
 		["Katdoge - Bleeding Hollow"] = "Default",
 		["Noliee - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
 		["Emogin - Bleeding Hollow"] = "Default",
 		["Trublmakr - Bleeding Hollow"] = "Default",
 		["Stryfë - Bleeding Hollow"] = "Default",
-		["Nolieper - Bleeding Hollow"] = "Default",
-		["Diá - Bleeding Hollow"] = "Default",
 		["Pándan - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
 		["Blù - Bleeding Hollow"] = "Default",
 		["Holynoly - Bleeding Hollow"] = "Default",
-		["Emoclëw - Bleeding Hollow"] = "Default",
 		["Inolie - Bleeding Hollow"] = "Default",
+		["Emoclëw - Bleeding Hollow"] = "Default",
+		["Noliedin - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

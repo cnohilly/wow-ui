@@ -1,79 +1,6 @@
 
 ElvCharacterDB = {
-	["CliqueDatatext"] = {
-	},
-	["ChatEditHistory"] = {
-		"/ec", -- [1]
-		"idt i wanna play anything until i fix my general ui lol", -- [2]
-		"im lazy", -- [3]
-	},
 	["ChatHistoryLog"] = {
-		{
-			"took me a second. That was a good troll lol", -- [1]
-			"Noj-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Noj-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4118, -- [11]
-			"Player-73-0B737577", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cNoj|r",
-			[51] = 1611206669,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"did Q predict Trmp losing?", -- [1]
-			"Crushe-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crushe-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4119, -- [11]
-			"Player-73-0AB26B70", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Crushe|r",
-			[51] = 1611206669,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"part 2 of the operation is for him to expose them without under constant media scrutiny", -- [1]
-			"Wingsmon-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wingsmon-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4120, -- [11]
-			"Player-73-0E44E306", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Wingsmon|r",
-			[51] = 1611206720,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
 		{
 			"whats part 3?", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -95,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206728,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
+		}, -- [1]
 		{
 			"part 3 is coping", -- [1]
 			"Séamas-BleedingHollow", -- [2]
@@ -117,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Séamas|r",
 			[51] = 1611206735,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [2]
 		{
 			"part 3 is dictatorship", -- [1]
 			"Spekzo-BleedingHollow", -- [2]
@@ -139,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpekzo|r",
 			[51] = 1611206736,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [3]
 		{
 			"New lizard overlords", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -161,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206744,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [4]
 		{
 			"100g per guild signatures need 3", -- [1]
 			"Kaidanz-BleedingHollow", -- [2]
@@ -183,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKaidanz|r",
 			[51] = 1611206745,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [5]
 		{
 			"part 3 is 2024 dawg", -- [1]
 			"Babamm-BleedingHollow", -- [2]
@@ -205,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBabamm|r",
 			[51] = 1611206745,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [6]
 		{
 			"what's prt 4?", -- [1]
 			"Meta-BleedingHollow", -- [2]
@@ -227,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMeta|r",
 			[51] = 1611206746,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [7]
 		{
 			"part 4 is ww3", -- [1]
 			"Spekzo-BleedingHollow", -- [2]
@@ -249,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpekzo|r",
 			[51] = 1611206752,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [8]
 		{
 			"whats part 4? learning to suck your own dick because nobody else ever will?", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -271,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206755,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [9]
 		{
 			"what's part 5?", -- [1]
 			"Meta-BleedingHollow", -- [2]
@@ -293,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMeta|r",
 			[51] = 1611206757,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [10]
 		{
 			"wot about p5?", -- [1]
 			"Leis-BleedingHollow", -- [2]
@@ -315,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Leis|r",
 			[51] = 1611206757,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [11]
 		{
 			"I WAN KNOW MORE", -- [1]
 			"Leis-BleedingHollow", -- [2]
@@ -337,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Leis|r",
 			[51] = 1611206761,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [12]
 		{
 			"guys can we keep this chanel for trade only plz", -- [1]
 			"Seankemp-BleedingHollow", -- [2]
@@ -359,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Seankemp|r",
 			[51] = 1611206761,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [13]
 		{
 			"part 5 is coping", -- [1]
 			"Spekzo-BleedingHollow", -- [2]
@@ -381,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpekzo|r",
 			[51] = 1611206767,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [14]
 		{
 			"2020 number 2, electric boogaloo", -- [1]
 			"Malicemaw-BleedingHollow", -- [2]
@@ -403,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMalicemaw|r",
 			[51] = 1611206771,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [15]
 		{
 			"no sean we cant", -- [1]
 			"Lulbrah-BleedingHollow", -- [2]
@@ -425,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Lulbrah|r",
 			[51] = 1611206778,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [16]
 		{
 			"wow so thats what you really want to do?", -- [1]
 			"Babamm-BleedingHollow", -- [2]
@@ -447,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBabamm|r",
 			[51] = 1611206779,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [17]
 		{
 			"wow its sean kemp huge fan", -- [1]
 			"Booming-BleedingHollow", -- [2]
@@ -469,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Booming|r",
 			[51] = 1611206779,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [18]
 		{
 			"2021 is a fraud, its still 2020", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -491,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206787,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [19]
 		{
 			"<Sparta> 1/10 M 9/10H Recruiting to fill heroic & Mythic Raid Roster WED/Thurs 8-11 EST raid nights.   LF   Warlock, ,. All interested players apply,  M+ and PVP. Casuals Welcome", -- [1]
 			"Maghunt-BleedingHollow", -- [2]
@@ -513,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Maghunt|r",
 			[51] = 1611206790,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [20]
 		{
 			"Wheres Bill Gates all of a sudden? I ask you that.", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -535,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611206796,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [21]
 		{
 			"CaN wE kEeP iT tRsDe OnLy", -- [1]
 			"Thelkuzad-BleedingHollow", -- [2]
@@ -557,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edThelkuzad|r",
 			[51] = 1611206796,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [22]
 		{
 			"im trying to move |cffffffff|Hitem:172055::::::::60:253:::::::|h[Phantasmal Haunch]|h|r guys, plz", -- [1]
 			"Seankemp-BleedingHollow", -- [2]
@@ -579,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Seankemp|r",
 			[51] = 1611206797,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Think for yourself trade chat.", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -601,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611206804,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [24]
 		{
 			"hes busy giving people brain chips by himself", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -623,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206816,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [25]
 		{
 			"CoUnT oNlY tHe LeGaL vOtEs", -- [1]
 			"Malicemaw-BleedingHollow", -- [2]
@@ -645,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMalicemaw|r",
 			[51] = 1611206817,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [26]
 		{
 			"you just asked trade chat to think..........", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -667,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206817,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [27]
 		{
 			"LF HEALER FOR RBGS THEN G2G..GOOD GRP..1600 CR", -- [1]
 			"Snuppi-BleedingHollow", -- [2]
@@ -689,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Snuppi|r",
 			[51] = 1611206817,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [28]
 		{
 			"<Not Just Madness> is recruiting for Heroic & Mythic Nathria. Raids are Wed/Thur/Sat 9pm EST. Would you like to know more?", -- [1]
 			"Plaz-BleedingHollow", -- [2]
@@ -711,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPlaz|r",
 			[51] = 1611206819,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [29]
 		{
 			"CAn U kEeP iT GAnstA", -- [1]
 			"Leis-BleedingHollow", -- [2]
@@ -733,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Leis|r",
 			[51] = 1611206819,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [30]
 		{
 			"because billionaires do that stuff", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -755,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206822,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [31]
 		{
 			"How do I know 5g isnt keeping th earth round?", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -777,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206842,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [32]
 		{
 			"the auction house is for selling items, trade chat is for politcs gtfo", -- [1]
 			"Booming-BleedingHollow", -- [2]
@@ -799,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Booming|r",
 			[51] = 1611206844,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [33]
 		{
 			"WTF ROfl", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -821,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206851,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [34]
 		{
 			"Trump had to extend secret service to his children because the FBI wants his family dead. its crazy ", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -843,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611206855,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [35]
 		{
 			"cause 4g made it flat", -- [1]
 			"Spekzo-BleedingHollow", -- [2]
@@ -865,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpekzo|r",
 			[51] = 1611206855,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [36]
 		{
 			"Pure gold", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -887,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206863,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [37]
 		{
 			"have you forgotten already? smh", -- [1]
 			"Spekzo-BleedingHollow", -- [2]
@@ -909,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpekzo|r",
 			[51] = 1611206864,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [38]
 		{
 			"the earth is not round. it is a pear-shaped oblique spheroid.", -- [1]
 			"Meta-BleedingHollow", -- [2]
@@ -931,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMeta|r",
 			[51] = 1611206868,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [39]
 		{
 			"Thats what the 5g wants you to think man", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -953,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206879,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [40]
 		{
 			"Selling 168 gear for your fresh 60s, all main slots.  Shadowsteel (Plate), Shadebound (Leather), Shadowscale (Mail) available on the AH! Will also craft your full set for you, PST for details. Also doing rank 1 legendary bases for free with your mats!", -- [1]
 			"Protechted-BleedingHollow", -- [2]
@@ -975,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Protechted|r",
 			[51] = 1611206880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [41]
 		{
 			"honestly just step out into the world to leave trade not that hard", -- [1]
 			"Babamm-BleedingHollow", -- [2]
@@ -997,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBabamm|r",
 			[51] = 1611206880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [42]
 		{
 			"fuck you baba", -- [1]
 			"Spekzo-BleedingHollow", -- [2]
@@ -1019,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpekzo|r",
 			[51] = 1611206896,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [43]
 		{
 			"Trade chat keeps me safe from COVID ", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -1041,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611206905,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [44]
 		{
 			"WTB |cffa335ee|Hitem:109171::::::::60:261::13:1:3524::::|h[Night-Vision Mechshades]|h|r", -- [1]
 			"Pdog-BleedingHollow", -- [2]
@@ -1063,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Pdog|r",
 			[51] = 1611206906,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [45]
 		{
 			"it's cold out fuck that", -- [1]
 			"Lulbrah-BleedingHollow", -- [2]
@@ -1085,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Lulbrah|r",
 			[51] = 1611206910,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [46]
 		{
 			"lmao", -- [1]
 			"Binese-BleedingHollow", -- [2]
@@ -1107,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Binese|r",
 			[51] = 1611206912,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [47]
 		{
 			"but not trade AIDS", -- [1]
 			"Wildshock-BleedingHollow", -- [2]
@@ -1129,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Wildshock|r",
 			[51] = 1611206915,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [48]
 		{
 			"i can leave trade chat anytime i want! watch.", -- [1]
 			"Meta-BleedingHollow", -- [2]
@@ -1151,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMeta|r",
 			[51] = 1611206918,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [49]
 		{
 			"i'm back!", -- [1]
 			"Meta-BleedingHollow", -- [2]
@@ -1173,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMeta|r",
 			[51] = 1611206925,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [50]
 		{
 			"They wont leave, no one ever does", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -1195,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206930,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [51]
 		{
 			"welcome back!", -- [1]
 			"Booming-BleedingHollow", -- [2]
@@ -1217,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Booming|r",
 			[51] = 1611206935,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [52]
 		{
 			"Ther it is", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -1239,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206936,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [53]
 		{
 			"surviving cancer is the same as surving AIDS. COVID is a biochemical weapon.", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -1261,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611206943,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [54]
 		{
 			"wake up, Neo", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -1283,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206943,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [55]
 		{
 			"100g per guild signatures need 3", -- [1]
 			"Kaidanz-BleedingHollow", -- [2]
@@ -1305,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKaidanz|r",
 			[51] = 1611206946,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [56]
 		{
 			"take the blue pill!", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -1327,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206953,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [57]
 		{
 			"the game is just a chat room with a guy you can move around", -- [1]
 			"Babamm-BleedingHollow", -- [2]
@@ -1349,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBabamm|r",
 			[51] = 1611206962,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [58]
 		{
 			"To overcome a biochemical weapon is like surviving a nuclear blast only the strong can do it.", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -1371,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611206963,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [59]
 		{
 			"isnt the blue pill if you suck in the bedroom?", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -1393,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206964,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [60]
 		{
 			"vaginal prolapse", -- [1]
 			"Medivhi-BleedingHollow", -- [2]
@@ -1415,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMedivhi|r",
 			[51] = 1611206967,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [61]
 		{
 			"does it taste like blue raspberry?", -- [1]
 			"Spekzo-BleedingHollow", -- [2]
@@ -1437,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpekzo|r",
 			[51] = 1611206968,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [62]
 		{
 			"no one wants to be in your guild dude", -- [1]
 			"Lulbrah-BleedingHollow", -- [2]
@@ -1459,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Lulbrah|r",
 			[51] = 1611206971,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [63]
 		{
 			"Ill be in thier guild", -- [1]
 			"Laureth-BleedingHollow", -- [2]
@@ -1481,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLaureth|r",
 			[51] = 1611206980,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [64]
 		{
 			"take both pills at the same time", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -1503,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206982,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [65]
 		{
 			"idk", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -1525,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611206985,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [66]
 		{
 			"whats the guild name", -- [1]
 			"Frída-BleedingHollow", -- [2]
@@ -1547,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFrída|r",
 			[51] = 1611206988,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [67]
 		{
 			"<Elon Musk>", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -1569,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611206993,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [68]
 		{
 			"pass", -- [1]
 			"Frída-BleedingHollow", -- [2]
@@ -1591,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFrída|r",
 			[51] = 1611207000,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [69]
 		{
 			"Elon Muskateers would be a good one", -- [1]
 			"Malicemaw-BleedingHollow", -- [2]
@@ -1613,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMalicemaw|r",
 			[51] = 1611207009,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [70]
 		{
 			"YEEEEEEEEEEEEEEEEEEEEEE", -- [1]
 			"Ogmudcabbage-BleedingHollow", -- [2]
@@ -1635,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ogmudcabbage|r",
 			[51] = 1611207010,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [71]
 		{
 			"REEEEEEEEEEEEEEEEEEE", -- [1]
 			"Ogmudcabbage-BleedingHollow", -- [2]
@@ -1657,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ogmudcabbage|r",
 			[51] = 1611207016,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [72]
 		{
 			"the apartheid heiress?", -- [1]
 			"Bigterps-BleedingHollow", -- [2]
@@ -1679,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaBigterps|r",
 			[51] = 1611207021,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [73]
 		{
 			"NOXIS is a friendly raiding and pvp guild progressing HEROIC castle nathria this FRIDAY/SAT, 10/10 NORM. 4/10 H. Recruiting ALL for the raid and RBG team, along with daily mythics. Raid times are Fri-Sat 8-12 CST. PST. ", -- [1]
 			"Cuzulu-BleedingHollow", -- [2]
@@ -1701,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Cuzulu|r",
 			[51] = 1611207023,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [74]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-204754-73-40165908|h[Guild: Never Lucky]|h|ris recruiting for Heroic Raid Progression (Wed/Sun 7-10pm EST). Recruiting Healers, DPS OR anyone just looking for a fun casual guild ((10/10N) (4/10H) Nathria)", -- [1]
 			"Fooksmash-BleedingHollow", -- [2]
@@ -1723,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFooksmash|r",
 			[51] = 1611207026,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [75]
 		{
 			"WTB |cffa335ee|Hitem:109171::::::::60:261::13:1:3524::::|h[Night-Vision Mechshades]|h|r", -- [1]
 			"Pdog-BleedingHollow", -- [2]
@@ -1745,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Pdog|r",
 			[51] = 1611207043,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [76]
 		{
 			"serious question if I had schizophrenia how would I know?", -- [1]
 			"Wingsmon-BleedingHollow", -- [2]
@@ -1767,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Wingsmon|r",
 			[51] = 1611207044,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [77]
 		{
 			"everybody on trtade chat should get vaccinated because you cant get autism twice ", -- [1]
 			"Crushe-BleedingHollow", -- [2]
@@ -1789,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crushe|r",
 			[51] = 1611207044,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [78]
 		{
 			"knew the guild plugs were coming", -- [1]
 			"Lulbrah-BleedingHollow", -- [2]
@@ -1811,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Lulbrah|r",
 			[51] = 1611207045,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [79]
 		{
 			"NOXIS IS THE BEST FK THE REST ", -- [1]
 			"Ogmudcabbage-BleedingHollow", -- [2]
@@ -1833,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ogmudcabbage|r",
 			[51] = 1611207045,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [80]
 		{
 			"wts |cffa335ee|Hitem:184778::::::::60:260::6:4:7187:6652:1498:6646:1:28:753:::|h[Decadent Nathrian Shawl]|h|r 490k pst", -- [1]
 			"Elzukkor-BleedingHollow", -- [2]
@@ -1855,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elzukkor|r",
 			[51] = 1611207047,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [81]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-259724-73-101166551|h[Guild: Casino Nathria]|h|r LF Unholy DK and rDPS to fill out our core raiding team 1/10M 10/10H. Tuesday and Wednesday 9pm-12am server as well as Sunday 10pm-1am server. Bench spots open! Pst for more info!", -- [1]
 			"Kuramae-BleedingHollow", -- [2]
@@ -1877,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaKuramae|r",
 			[51] = 1611207050,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [82]
 		{
 			"LIVE AND DIE FOR NOXIS BLOOD IN BLOOD OUT", -- [1]
 			"Healmon-BleedingHollow", -- [2]
@@ -1899,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHealmon|r",
 			[51] = 1611207066,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [83]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-116463-73-91265548|h[Guild: Sparta]|h|r [1/10M, 9/10H) is looking for more hot dudes to progress Heroic then Mythic CN [Wed/Thu @8pm EST]. Warlock/Priest/DK high priority for raid. M+ and PVP daily. All welcome to join even if you're ugly.", -- [1]
 			"Warvoca-BleedingHollow", -- [2]
@@ -1921,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWarvoca|r",
 			[51] = 1611207073,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [84]
 		{
 			"wts |cffa335ee|Hitem:184778::::::::60:260::6:4:7187:6652:1498:6646:1:28:753:::|h[Decadent Nathrian Shawl]|h|r 470k pst", -- [1]
 			"Elzukkor-BleedingHollow", -- [2]
@@ -1943,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elzukkor|r",
 			[51] = 1611207080,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [85]
 		{
 			"wts |cffa335ee|Hitem:182978::::::::60:103::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|r", -- [1]
 			"Cyphert-BleedingHollow", -- [2]
@@ -1965,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Cyphert|r",
 			[51] = 1619399794,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [86]
 		{
 			"!!WTS +15 Only 170k/(BUY 2 GET FREE LOOT FUNNELS)+15 243k TIMED SPECIFIC KEY/Mythic Keys +7-20!/+14 145K /+12 125k /+10 105K /(SPECIAL DEAL FOR 4 RUNS/ 8 RUNS)<WTS  CN>!WTS! Torghast/WTS leveling 51-60)(Rbg 0-2400) ONLY GOLD >>HUOKAN COMMUNITY<<", -- [1]
 			"Achily-BleedingHollow", -- [2]
@@ -1987,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Achily|r",
 			[51] = 1619399799,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [87]
 		{
 			">Huokan Community<!WTS M+7-20! M+15 170K ||M+14 145K ||M+12 125K ||M+10 105K >>Buy 2 Get FREE LOOT Funnel ||WTS Specific KEY +15 243k TIMED ||Gearing Deals Bundles 4 or 8 Keys || WTS CN M & HC ||Torghast 1-8 ||Gold Only.", -- [1]
 			"Drakké-BleedingHollow", -- [2]
@@ -2009,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDrakké|r",
 			[51] = 1619399823,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [88]
 		{
 			"<<<<<FLASH SALE AOTC RUNNING NOW FULL CLEARS STARTING AT 11 EST  >>>>> PST GOLD ONLY", -- [1]
 			"Solarwar-BleedingHollow", -- [2]
@@ -2031,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSolarwar|r",
 			[51] = 1619399849,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [89]
 		{
 			"[>KILLING NOW!<] AOTC ONLY slots are available for TONIGHT! Come join us! [BEST PRICES] for the cleanest carry you will find. M+ and Torghast also available. PST now for info! (gold only)", -- [1]
 			"Roonisat-BleedingHollow", -- [2]
@@ -2053,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaRoonisat|r",
 			[51] = 1619399855,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [90]
 		{
 			"<<WTS>> Bring the best services for you +15 TIMED SPECIFIC KEY (KSM)(>> MYTHIC KEYS +0-20s<<)/ SPECIAL DEAL FOR 4 RUNS-8 RUNS / Valor Farm /Rent a Team/ Torghast Layer 1-8-Twisting Corridors 1-8/<<ONLY GOLD>>Only buy from Huokan GuildBanks", -- [1]
 			"Julietha-BleedingHollow", -- [2]
@@ -2075,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Julietha|r",
 			[51] = 1619399856,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [91]
 		{
 			"WTS|cffa335ee|Hitem:59901::::::::50:70::::1:28:1027:::|h[Heaving Plates of Protection]|h|r 1.5k", -- [1]
 			"Pureinheart-BleedingHollow", -- [2]
@@ -2097,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pureinheart|r",
 			[51] = 1619399876,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [92]
 		{
 			"wts |cffa335ee|Hitem:182978::::::::60:103::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|r", -- [1]
 			"Cyphert-BleedingHollow", -- [2]
@@ -2119,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Cyphert|r",
 			[51] = 1619399904,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [93]
 		{
 			"idt i wanna play anything until i fix my general ui lol", -- [1]
 			"|Kq16|k", -- [2]
@@ -2142,7 +2069,7 @@ ElvCharacterDB = {
 			[51] = 1619400071,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
-		}, -- [97]
+		}, -- [94]
 		{
 			"[BigWigs] I'm busy in combat with 'Sire Denathrius' (Heroic) and 17/17 people are alive: Sire Denathrius (95.7%)", -- [1]
 			"|Kq16|k", -- [2]
@@ -2165,7 +2092,7 @@ ElvCharacterDB = {
 			[51] = 1619400072,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dorkk",
-		}, -- [98]
+		}, -- [95]
 		{
 			"im lazy", -- [1]
 			"|Kq16|k", -- [2]
@@ -2188,6 +2115,80 @@ ElvCharacterDB = {
 			[51] = 1619400073,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dorkk",
+		}, -- [96]
+		{
+			"WTS Mythic +15 ||KSM|| Torghast 12 - 16|| Lvl 51 to 60|| !!GOLD ONLY!! ", -- [1]
+			"Miguelb-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Miguelb-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			300, -- [11]
+			"Player-73-0E5E3FB7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Miguelb|r",
+			[51] = 1657827516,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"WTS AotC Jailer Kill at 170K! Get your mount and a chance to get 272 loot. Whisp if interested! (11/11M Guild, no community) Gold only :)", -- [1]
+			"Wayu-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Wayu-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			330, -- [11]
+			"Player-73-0EBF8395", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Wayu|r",
+			[51] = 1657827660,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Wts M+15 runs for gold! Selling Tazavesh HM Mount quick run! Group ready to go! Pst for more info.", -- [1]
+			"Ðropdead-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ðropdead-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			333, -- [11]
+			"Player-73-0D1A73C6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeÐropdead|r",
+			[51] = 1657827661,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
+	},
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/ec", -- [1]
+		"idt i wanna play anything until i fix my general ui lol", -- [2]
+		"im lazy", -- [3]
+	},
+	["CliqueDatatext"] = {
 	},
 }

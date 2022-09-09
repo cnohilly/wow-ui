@@ -1,49 +1,91 @@
 
 HandyNotesDB = {
 	["profileKeys"] = {
-		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
 	},
 	["profiles"] = {
-		["Stryfë - Bleeding Hollow"] = {
+		["Katdoge - Bleeding Hollow"] = {
 		},
-		["Holynoly - Bleeding Hollow"] = {
+		["Noliedin - Bleeding Hollow"] = {
 		},
-		["Inolie - Bleeding Hollow"] = {
-		},
-		["Pándan - Bleeding Hollow"] = {
+		["Diá - Bleeding Hollow"] = {
 		},
 		["Emogin - Bleeding Hollow"] = {
 		},
 		["Trublmakr - Bleeding Hollow"] = {
+		},
+		["Stryfë - Bleeding Hollow"] = {
+		},
+		["Pándan - Bleeding Hollow"] = {
+		},
+		["Nolieper - Bleeding Hollow"] = {
+		},
+		["Blù - Bleeding Hollow"] = {
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Holynoly - Bleeding Hollow"] = {
+		},
+		["Emoclëw - Bleeding Hollow"] = {
+		},
+		["Noliee - Bleeding Hollow"] = {
 		},
 	},
 }
 HandyNotes_HandyNotesDB = {
 	["profileKeys"] = {
-		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Noliedin - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
 	},
 	["profiles"] = {
-		["Stryfë - Bleeding Hollow"] = {
+		["Katdoge - Bleeding Hollow"] = {
 		},
-		["Holynoly - Bleeding Hollow"] = {
+		["Noliedin - Bleeding Hollow"] = {
 		},
-		["Inolie - Bleeding Hollow"] = {
-		},
-		["Pándan - Bleeding Hollow"] = {
+		["Diá - Bleeding Hollow"] = {
 		},
 		["Emogin - Bleeding Hollow"] = {
 		},
 		["Trublmakr - Bleeding Hollow"] = {
+		},
+		["Stryfë - Bleeding Hollow"] = {
+		},
+		["Pándan - Bleeding Hollow"] = {
+		},
+		["Nolieper - Bleeding Hollow"] = {
+		},
+		["Blù - Bleeding Hollow"] = {
+		},
+		["Inolie - Bleeding Hollow"] = {
+		},
+		["Holynoly - Bleeding Hollow"] = {
+		},
+		["Emoclëw - Bleeding Hollow"] = {
+		},
+		["Noliee - Bleeding Hollow"] = {
 		},
 	},
 }

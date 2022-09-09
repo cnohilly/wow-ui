@@ -2,73 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"yeah hunter pumps 24/7", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5909, -- [11]
-			false, -- [12]
-			58, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Party|r",
-			[51] = 1650857580,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Party",
-		}, -- [1]
-		{
-			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5913, -- [11]
-			"Player-73-083743C5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1650857614,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"Interrupted Grand Overseer's |cff71d5ff|Hspell:326837:0|h[Gloom Burst]|h|r!", -- [1]
-			"Jerkk-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jerkk-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5918, -- [11]
-			"Player-73-083743C5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Jerkk|r",
-			[51] = 1650857668,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:326836:0|h[Curse of Suppression]|h|r!", -- [1]
 			"Peezuh-BleedingHollow", -- [2]
 			"", -- [3]
@@ -89,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Peezuh|r",
 			[51] = 1650857682,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
+		}, -- [1]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -111,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857699,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
+		}, -- [2]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -133,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857701,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
+		}, -- [3]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -155,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857723,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
+		}, -- [4]
 		{
 			"Interrupted Grand Overseer's |cff71d5ff|Hspell:326837:0|h[Gloom Burst]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -177,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857732,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
+		}, -- [5]
 		{
 			"Interrupted Dark Acolyte's |cff71d5ff|Hspell:326712:0|h[Dark Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -199,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857747,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
+		}, -- [6]
 		{
 			"Interrupted Grand Overseer's |cff71d5ff|Hspell:326837:0|h[Gloom Burst]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -221,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857801,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
+		}, -- [7]
 		{
 			"Interrupted Depths Warden's |cff71d5ff|Hspell:335305:0|h[Barbed Shackles]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -243,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857914,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
+		}, -- [8]
 		{
 			"Interrupted Infused Quill-feather's |cff71d5ff|Hspell:326952:0|h[Fiery Cantrip]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -265,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857925,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
+		}, -- [9]
 		{
 			"Interrupted Depths Warden's |cff71d5ff|Hspell:335305:0|h[Barbed Shackles]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -287,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857925,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
+		}, -- [10]
 		{
 			"Interrupted Infused Quill-feather's |cff71d5ff|Hspell:326952:0|h[Fiery Cantrip]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -309,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650857965,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
+		}, -- [11]
 		{
 			"Interrupted Chamber Sentinel's |cff71d5ff|Hspell:322433:0|h[Stoneskin]|h|r!", -- [1]
 			"Peezuh-BleedingHollow", -- [2]
@@ -331,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Peezuh|r",
 			[51] = 1650858049,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [12]
 		{
 			"Interrupted Depths Warden's |cff71d5ff|Hspell:335305:0|h[Barbed Shackles]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -353,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858057,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+		}, -- [13]
 		{
 			"Interrupted Chamber Sentinel's |cff71d5ff|Hspell:322433:0|h[Stoneskin]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -375,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858074,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
+		}, -- [14]
 		{
 			"Details!: Overall Interrupts for -- x -- x -- [13:54 EF]", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -397,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858095,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [15]
 		{
 			"1. Jerkk ............ 30 (69.5%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -419,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858095,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [16]
 		{
 			"2. Flaktastic ..... 4 (9.3%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -441,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858095,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
+		}, -- [17]
 		{
 			"3. Peezuh ........ 4 (9.3%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -463,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858095,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [18]
 		{
 			"4. Tarnius ......... 4 (9.3%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -485,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858096,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
+		}, -- [19]
 		{
 			"5. Ohgodnowhy  1 (2.3%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -507,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858096,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+		}, -- [20]
 		{
 			"Castigate on Peezuh", -- [1]
 			"Peezuh-BleedingHollow", -- [2]
@@ -529,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Peezuh|r",
 			[51] = 1650858109,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [21]
 		{
 			"Castigate on Flaktastic", -- [1]
 			"Flaktastic-BleedingHollow", -- [2]
@@ -551,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFlaktastic|r",
 			[51] = 1650858130,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [22]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -573,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858204,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -595,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858217,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
+		}, -- [24]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -617,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858217,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [25]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:326836:0|h[Curse of Suppression]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -639,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858222,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
+		}, -- [26]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:326836:0|h[Curse of Suppression]|h|r!", -- [1]
 			"Peezuh-BleedingHollow", -- [2]
@@ -661,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Peezuh|r",
 			[51] = 1650858223,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [27]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -683,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858251,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
+		}, -- [28]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:321038:0|h[Wrack Soul]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -705,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858409,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
+		}, -- [29]
 		{
 			"Interrupted Wicked Oppressor's |cff71d5ff|Hspell:326836:0|h[Curse of Suppression]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -727,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858414,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
+		}, -- [30]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15493:Player-73-08A8D853:1:4:24:22:4294967295:4294967295:4294967295:4294967295|h[Ephemeral Plains]|h|r!", -- [1]
 			"Shamantater-BleedingHollow", -- [2]
@@ -749,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcShamantater|r",
 			[51] = 1650858429,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [34]
+		}, -- [31]
 		{
 			"Interrupted Chamber Sentinel's |cff71d5ff|Hspell:322433:0|h[Stoneskin]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -771,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858442,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
+		}, -- [32]
 		{
 			"Interrupted Chamber Sentinel's |cff71d5ff|Hspell:322433:0|h[Stoneskin]|h|r!", -- [1]
 			"Peezuh-BleedingHollow", -- [2]
@@ -793,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Peezuh|r",
 			[51] = 1650858466,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [33]
 		{
 			"Guards! Slay them all!", -- [1]
 			"", -- [2]
@@ -815,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1650858504,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [37]
+		}, -- [34]
 		{
 			"Guards! Slay them all!", -- [1]
 			"", -- [2]
@@ -837,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1650858504,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [38]
+		}, -- [35]
 		{
 			"Interrupted Dark Acolyte's |cff71d5ff|Hspell:326712:0|h[Dark Bolt]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -859,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858515,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [36]
 		{
 			"Shining Radiance on Flaktastic", -- [1]
 			"Flaktastic-BleedingHollow", -- [2]
@@ -881,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFlaktastic|r",
 			[51] = 1650858542,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [40]
+		}, -- [37]
 		{
 			"That prisoner belongs to the Master. You will not take it!", -- [1]
 			"", -- [2]
@@ -903,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1650858584,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [41]
+		}, -- [38]
 		{
 			"That prisoner belongs to the Master. You will not take it!", -- [1]
 			"", -- [2]
@@ -925,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1650858584,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [42]
+		}, -- [39]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:15418:Player-73-0C04ED5A:1:4:24:22:4294967295:4294967295:4294967295:4294967295|h[The Grand Design]|h|r!", -- [1]
 			"Velindraice-BleedingHollow", -- [2]
@@ -947,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Velindraice|r",
 			[51] = 1650858610,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [43]
+		}, -- [40]
 		{
 			"These halls will be your tomb!", -- [1]
 			"", -- [2]
@@ -969,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1650858631,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [44]
+		}, -- [41]
 		{
 			"These halls will be your tomb!", -- [1]
 			"", -- [2]
@@ -991,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1650858631,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [45]
+		}, -- [42]
 		{
 			"Interrupted Chamber Sentinel's |cff71d5ff|Hspell:322433:0|h[Stoneskin]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1013,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858684,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [43]
 		{
 			"Interrupted Ravenous Dreadbat's |cff71d5ff|Hspell:321105:0|h[Sap Lifeblood]|h|r!", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1035,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858772,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
+		}, -- [44]
 		{
 			"Wicked Rush on Flaktastic", -- [1]
 			"Flaktastic-BleedingHollow", -- [2]
@@ -1057,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFlaktastic|r",
 			[51] = 1650858808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [45]
 		{
 			"Wicked Rush on Tarnius", -- [1]
 			"Tarnius-BleedingHollow", -- [2]
@@ -1079,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Tarnius|r",
 			[51] = 1650858808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [46]
 		{
 			"Wicked Rush on Peezuh", -- [1]
 			"Peezuh-BleedingHollow", -- [2]
@@ -1101,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Peezuh|r",
 			[51] = 1650858824,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [47]
 		{
 			"Shining Radiance on Flaktastic", -- [1]
 			"Flaktastic-BleedingHollow", -- [2]
@@ -1123,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFlaktastic|r",
 			[51] = 1650858841,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [51]
+		}, -- [48]
 		{
 			"Wicked Rush on Peezuh", -- [1]
 			"Peezuh-BleedingHollow", -- [2]
@@ -1145,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Peezuh|r",
 			[51] = 1650858883,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [49]
 		{
 			"Wicked Rush on Ohgodnowhy", -- [1]
 			"Ohgodnowhy-BleedingHollow", -- [2]
@@ -1167,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOhgodnowhy|r",
 			[51] = 1650858883,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [50]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:180653:382:18:10:6:13:130|h[Keystone: Theater of Pain (18)]|h|r (Kyrian)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1189,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858912,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [54]
+		}, -- [51]
 		{
 			"Details!: Overall Explosives - Damage Taken (custom) for -- x -- x -- [25:47 EF]", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1211,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858972,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
+		}, -- [52]
 		{
 			"1. Ohgodnowhy  34.2K (62.3%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1233,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858972,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
+		}, -- [53]
 		{
 			"2. Jerkk ............ 11.2K (20.4%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1255,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858972,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+		}, -- [54]
 		{
 			"3. Flaktastic ..... 4.3K (7.8%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1277,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858973,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [55]
 		{
 			"4. Peezuh ........ 3.6K (6.6%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1299,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858973,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
+		}, -- [56]
 		{
 			"5. Tarnius ......... 1.6K (3.0%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1321,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858973,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [57]
 		{
 			"i did the Jailer lfr and got |cffa335ee|Hitem:188252::::::::60:261::4:4:7186:6652:1485:6646:1:28:2168:::::|h[Chains of Domination]|h|r", -- [1]
 			"Velindraice-BleedingHollow", -- [2]
@@ -1343,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Velindraice|r",
 			[51] = 1650858977,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [58]
 		{
 			"Details!: Explosives - Damage Taken (custom) for The Necrotic Wake +17 (overall) [19:22 EF]", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1365,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858984,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
+		}, -- [59]
 		{
 			"1. Wheystedpal  14.5K (32.4%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1387,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858984,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [60]
 		{
 			"2. Jerkk ............ 13.5K (30.1%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1409,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858984,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+		}, -- [61]
 		{
 			"3. Tarnius ......... 6.9K (15.4%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1431,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858985,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [62]
 		{
 			"4. Flaktastic ..... 5.3K (11.8%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1453,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858985,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [66]
+		}, -- [63]
 		{
 			"5. Peezuh ........ 4.6K (10.3%)", -- [1]
 			"Jerkk-BleedingHollow", -- [2]
@@ -1475,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Jerkk|r",
 			[51] = 1650858985,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
+		}, -- [64]
 		{
 			"do asian people age 20 years in 3 years past 40?", -- [1]
 			"Esperanzita-BleedingHollow", -- [2]
@@ -1497,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEsperanzita|r",
 			[51] = 1651006862,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [65]
 		{
 			"wacist", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -1519,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1651006873,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [66]
 		{
 			"reported for racism", -- [1]
 			"Xxandos-BleedingHollow", -- [2]
@@ -1541,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Xxandos|r",
 			[51] = 1651006878,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [67]
 		{
 			"bro im asking, im not stating", -- [1]
 			"Esperanzita-BleedingHollow", -- [2]
@@ -1563,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEsperanzita|r",
 			[51] = 1651010486,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [68]
 		{
 			"also i can't be racist im not white", -- [1]
 			"Esperanzita-BleedingHollow", -- [2]
@@ -1585,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEsperanzita|r",
 			[51] = 1651010496,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [69]
 		{
 			"he's stating he's a racist", -- [1]
 			"Mageperson-BleedingHollow", -- [2]
@@ -1607,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMageperson|r",
 			[51] = 1651010498,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [70]
 		{
 			"<Atlantic> 6/11M || Selling Heroic Tier Bosses tonight at 8:30 PM EST! Booking now - Dreadful, Venerated, Zenith tier slots open. PST for more information!", -- [1]
 			"Chonkyboi-BleedingHollow", -- [2]
@@ -1629,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Chonkyboi|r",
 			[51] = 1651010499,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [71]
 		{
 			"reported for asking", -- [1]
 			"Foodfish-BleedingHollow", -- [2]
@@ -1651,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaFoodfish|r",
 			[51] = 1651010501,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [72]
 		{
 			"ugh good lord", -- [1]
 			"Mackinac-BleedingHollow", -- [2]
@@ -1673,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMackinac|r",
 			[51] = 1651010502,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [73]
 		{
 			"selling is viable no shit, thats why ppl do it, but its ruining the trade chat can u deny it?", -- [1]
 			"Avcii-BleedingHollow", -- [2]
@@ -1695,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Avcii|r",
 			[51] = 1651010506,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [74]
 		{
 			"cancelled", -- [1]
 			"Sikeyzlol-BleedingHollow", -- [2]
@@ -1717,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaSikeyzlol|r",
 			[51] = 1651010509,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [75]
 		{
 			"what are you if not white", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -1739,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1651010509,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [76]
 		{
 			"reported again for a claim of being racist", -- [1]
 			"Xxandos-BleedingHollow", -- [2]
@@ -1761,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Xxandos|r",
 			[51] = 1651010509,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [77]
 		{
 			"WTS |cffa335ee|Hitem:94290::::::::60:65:::::::::|h[Reins of the Bone-White Primal Raptor]|h|r :) ! Comes with Achievement!", -- [1]
 			"Imadeyoulol-BleedingHollow", -- [2]
@@ -1783,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Imadeyoulol|r",
 			[51] = 1651010510,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [78]
 		{
 			"pink", -- [1]
 			"Mageperson-BleedingHollow", -- [2]
@@ -1805,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMageperson|r",
 			[51] = 1651010517,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [79]
 		{
 			"<Resonate 7/11M> WTS +15-20 Keys Timer Guaranteed.  Also selling 11/11H SoFO Clears Wednesdays at 9pm EST. Gold Only PST for more info.", -- [1]
 			"Dûmp-BleedingHollow", -- [2]
@@ -1827,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dûmp|r",
 			[51] = 1651010521,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [80]
 		{
 			"yes. i can ", -- [1]
 			"Thaluston-BleedingHollow", -- [2]
@@ -1849,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thaluston|r",
 			[51] = 1651010524,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [81]
 		{
 			"No, the are trading carries for gold ", -- [1]
 			"Avicado-BleedingHollow", -- [2]
@@ -1871,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Avicado|r",
 			[51] = 1651010532,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [82]
 		{
 			"Solid trade chat imo ", -- [1]
 			"Avicado-BleedingHollow", -- [2]
@@ -1893,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Avicado|r",
 			[51] = 1651010536,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [83]
 		{
 			"also if you honestly believe you can't be racist bc you aren't white i can't help you", -- [1]
 			"Xxandos-BleedingHollow", -- [2]
@@ -1915,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Xxandos|r",
 			[51] = 1651010539,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [84]
 		{
 			"hispanics are more racists to black people than white people", -- [1]
 			"Kibble-BleedingHollow", -- [2]
@@ -1937,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kibble|r",
 			[51] = 1651010539,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [85]
 		{
 			"Selling m15 De Other Side, cheap af 99k ! 278ilvl weekly chest guaranteed.", -- [1]
 			"Monpipal-BleedingHollow", -- [2]
@@ -1959,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Monpipal|r",
 			[51] = 1651010539,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [86]
 		{
 			"lol anyone can be racist, white people are just vulnerable to it because the majorty of VERY racist people ARE white", -- [1]
 			"Blorgii-BleedingHollow", -- [2]
@@ -1981,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Blorgii|r",
 			[51] = 1651010539,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [87]
 		{
 			"only white people can be racist, it applies in the US only tho", -- [1]
 			"Esperanzita-BleedingHollow", -- [2]
@@ -2003,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEsperanzita|r",
 			[51] = 1651010549,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [88]
 		{
 			"Is |cffffffff|Hitem:140192::::::::60:105::11:::::::|h[Dalaran Hearthstone]|h|r still relevant?", -- [1]
 			"Boulderhoof-BleedingHollow", -- [2]
@@ -2025,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Boulderhoof|r",
 			[51] = 1651010553,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [89]
 		{
 			"Thats racist Blorgii", -- [1]
 			"Mackys-BleedingHollow", -- [2]
@@ -2047,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Mackys|r",
 			[51] = 1651010559,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [90]
 		{
 			"i use mine as a hearth sometimes", -- [1]
 			"Blorgii-BleedingHollow", -- [2]
@@ -2069,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Blorgii|r",
 			[51] = 1651010562,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [91]
 		{
 			"fair. thanks", -- [1]
 			"Boulderhoof-BleedingHollow", -- [2]
@@ -2091,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Boulderhoof|r",
 			[51] = 1651010577,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [92]
 		{
 			"Keeping people from selling carries doesn't fix this game being pay to win", -- [1]
 			"Renado-BleedingHollow", -- [2]
@@ -2113,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renado|r",
 			[51] = 1651010580,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [93]
 		{
 			"\"Only white ppl can be racist\" lmao solid racist statement there", -- [1]
 			"Xxandos-BleedingHollow", -- [2]
@@ -2135,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Xxandos|r",
 			[51] = 1651010581,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [94]
 		{
 			"yeah its super racist mack, the statement i made is 100% racist against whites, but im white. ", -- [1]
 			"Blorgii-BleedingHollow", -- [2]
@@ -2157,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Blorgii|r",
 			[51] = 1651010585,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [95]
 		{
 			"im not racist as far as i know of", -- [1]
 			"Solstros-BleedingHollow", -- [2]
@@ -2179,11 +2112,82 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Solstros|r",
 			[51] = 1651010588,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"wtb 3v3 push", -- [1]
+			"Malfious-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Malfious-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			36, -- [11]
+			"Player-73-07C609DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Malfious|r",
+			[51] = 1658675425,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:7324:Player-73-06EE3479:1:7:24:22:4294967295:4294967295:4294967295:4294967295|h[One Step at a Time]|h|r!", -- [1]
+			"Holynoly-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holynoly-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-73-06EE3479", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHolynoly|r",
+			[51] = 1658675683,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [98]
+		{
+			"WTS|cffa335ee|Hitem:190625::::::::60:252::6:6:7187:8132:8117:6652:1524:6646:1:28:2167:::::|h[Pauldrons of Possible Afterlives]|h|r", -- [1]
+			"Ryse-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ryse-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			40, -- [11]
+			"Player-73-0E6E1C83", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Ryse|r",
+			[51] = 1658675817,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
+	},
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 0,
+		["MaxHealth"] = 0,
+		["IsInValidZone"] = true,
 	},
 	["CliqueDatatext"] = {
 	},
-	["ConvertKeybindings"] = true,
 	["ChatEditHistory"] = {
 		"i know when we first started we were having a lot of problems with people taking the portals on accident", -- [1]
 		"causing us not to have them for the actual people with debuff", -- [2]
@@ -2206,10 +2210,5 @@ ElvCharacterDB = {
 		"hunter slaps", -- [19]
 		"/pull 10", -- [20]
 	},
-	["BodyGuard"] = {
-		["IsInValidZone"] = true,
-		["MaxHealth"] = 0,
-		["Health"] = 0,
-		["Active"] = false,
-	},
+	["ConvertKeybindings"] = true,
 }

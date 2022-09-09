@@ -182,9 +182,9 @@ RaiderIO_DB_US_H: enabled
 RaiderIO_DB_US_A_R: enabled
 RaiderIO_DB_US_H_R: enabled
 RaiderIO_DB_US_F: enabled
-RaiderIO_DB_EU_F: enabled
-RaiderIO_DB_KR_F: enabled
-RaiderIO_DB_TW_F: enabled
+RaiderIO_DB_EU_F: disabled
+RaiderIO_DB_KR_F: disabled
+RaiderIO_DB_TW_F: disabled
 Rarity: enabled
 Rarity_Options: enabled
 RCLootCouncil: enabled
@@ -206,3 +206,12 @@ DBM-Challenges: enabled
 DBM-SanctumOfDomination: enabled
 DBM-Sepulcher: enabled
 DBM-VPVEM: enabled
+ElvUI_CustomTags: disabled
+kExtraBossFrames: disabled
+OPie_Classic: disabled
+RaiderIO_DB_TW_R: disabled
+RaiderIO_DB_TW_M: disabled
+RaiderIO_DB_KR_R: disabled
+RaiderIO_DB_KR_M: disabled
+RaiderIO_DB_EU_R: disabled
+RaiderIO_DB_EU_M: disabled

@@ -14,6 +14,20 @@ How to support Altoholic's development :
 
 If you like the addon, consider supporting it, this has been the long term effort and commitment of a single person. #ArmyOfOne
 
+9.2.006 (05/08/2022)
+
+- DataStore : Removed a check that caused a clean of the current alt's data.
+
+9.2.005 (03/08/2022)
+
+- Search Tab : Added a new icon to filter search results by expansion.
+This works particularly well with items that are known in LibItemInfo (thus most craft reagents, dungeon drops, etc..)
+Note that the game does not provide this info reliably, so your luck may vary.
+It remains quite helpful though for craft reagents. Need to find which herbs from Legion you still have ? now this is possible.
+- Achievements Tab : Reworked the "Raids" category to better group achievements by expansion/patch.
+- DataStore : fixed an issue where deleting an alt was not properly deleting all data.
+- DataStore : Added a sanity check in RegisterModule to clean orphan data in sub-modules.
+
 9.2.004 (05/06/2022)
 
 - Summary Tab : Added an icon in the "Cypher of the first ones" currency column, to display if the "Improvised Cypher Analysis Tool" has already been used on a given alt.

@@ -1,6 +1,9 @@
 ------------------------------------------------------------------------------
 - classic era
 -
+v1.14.3.2722
+
+	Classic Era re-release. (Build 44834)
 
 v2.7.00
 	toc update - 11402
@@ -17,6 +20,18 @@ v2.6.30
 ------------------------------------------------------------------------------
 - bcc
 -
+
+v2.5.4.2722
+	NIL.
+
+v2.7.20
+	Merciless, Vengeful, Brutal Gladiator set items added.
+	Localization updated for ruRU, zhTW
+
+v2.7.15
+	Feign Death will no longer grey-out the icons.
+	Fixed an issue where logging back in would incorrectly grey-out the icons.
+	Group inspection is now done periodically until the arena match begins.
 
 v2.7.11
 	Bumped toc for 2.5.4
@@ -61,8 +76,38 @@ v2.6.01-bcc
 
 
 ------------------------------------------------------------------------------
+- WOTLKC
+-
+
+v3.4.0.2722
+
+	Wrath of the Lich King Classic release. (Build 45435)
+	Phase 1 (season 5, tier 7 sets added)
+
+------------------------------------------------------------------------------
 - shadowlands
 -
+
+v9.2.7.2722
+	Fixed an issue where Barbed Shot wasn't reducing Bestial Wrath's remaining CD when Qa'pla, Eredun War Order (Runeforge) is equipped.
+	Anchors will correctly update whenever lead/role changes when you're using VuhDo raid frames.
+	Added oUF_Ruri support.
+	bump toc.
+
+v9.2.5.2721
+	Season 4 PvP trinkets added.
+
+v9.2.5.2720
+	Season 4 PvP changes.
+	Localization update.
+
+v9.2.5.2720
+	Season 4 PvP changes.
+		Greater Fade (PvP Talent) now has a 60 second cooldown (was 45 seconds).
+		Invigorating Shadowdust (Runecarving Power) now reduces the cooldown of your other abilities by 10 seconds in PvP combat (was 20 seconds).
+		Call Felhunter (PvP Talent) cooldown increased to 30 seconds (was 24 seconds).
+	Localization update.
+
 v2.7.19
 	Blizzard Class Tuning Update
 		JUNE 28, 2022

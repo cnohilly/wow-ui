@@ -1,0 +1,16 @@
+
+KeystoneManagerDb = {
+	["enabled"] = true,
+	["keystones"] = {
+	},
+	["guildKeys"] = {
+	},
+	["ldbStorage"] = {
+		["hide"] = true,
+	},
+	["minLevel"] = 0,
+	["target"] = "GUILD",
+	["whisper"] = "",
+	["announce"] = true,
+	["maxLevel"] = 20,
+}

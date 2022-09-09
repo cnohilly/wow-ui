@@ -13,6 +13,14 @@ CliqueDB3 = {
 		["Trickk - Bleeding Hollow"] = {
 			["alerthidden"] = true,
 		},
+		["Scongi - Kil'jaeden"] = {
+			["spec1_profileKey"] = "Scongi - Kil'jaeden",
+			["spec2_profileKey"] = "Scongi - Kil'jaeden",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["specswap"] = false,
+			["spec3_profileKey"] = "Scongi - Kil'jaeden",
+		},
 	},
 	["profileKeys"] = {
 		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
@@ -26,17 +34,19 @@ CliqueDB3 = {
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
 		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
+		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
 		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
-		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
-		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Quirkk - Bleeding Hollow"] = {
@@ -248,6 +258,25 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
+		["Scongi - Kil'jaeden"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
 		["Illidorkk - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
@@ -255,6 +284,25 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Platebaleful - Mal'Ganis"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -324,13 +372,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Platebaleful - Mal'Ganis"] = {
+		["Genericbank - Darkspear"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -381,13 +429,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Genericbank - Darkspear"] = {
+		["Holynoly - Altar of Storms"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -419,7 +467,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Geekk - Bleeding Hollow"] = {
+		["Jerkk - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -438,7 +486,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Jerkk - Bleeding Hollow"] = {
+		["Geekk - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",

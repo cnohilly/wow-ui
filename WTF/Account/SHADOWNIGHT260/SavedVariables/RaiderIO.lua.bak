@@ -1,27 +1,25 @@
 
 RaiderIO_Config = {
-	["disableScoreColors"] = false,
-	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = true,
 	["enableUnitTooltips"] = true,
+	["enableKeystoneTooltips"] = true,
 	["enableFriendsTooltips"] = true,
-	["showScoreInCombat"] = true,
+	["disableScoreColors"] = false,
+	["alwaysExtendTooltip"] = true,
+	["enableWhoTooltips"] = true,
 	["showDropDownCopyURL"] = true,
 	["showAverageScore"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Dorkk-bleeding-hollow"
+RaiderIO_LastCharacter = "us-Lickk-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Abozzie-bleeding-hollow"] = true,
-	["us-Xanestin-bleeding-hollow"] = true,
-	["us-Foofernutter-bleeding-hollow"] = true,
-	["us-Johnwayne-alterac-mountains"] = true,
+	["us-Sylvanasfan-malganis"] = true,
+	["us-Lickk-bleeding-hollow"] = true,
 }
 RaiderIO_MissingServers = {
 }

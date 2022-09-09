@@ -25,6 +25,7 @@ DraenorTreasuresDB = {
 		["Dorkk - Kil'jaeden"] = "Default",
 		["Unorthodorkk - Bleeding Hollow"] = "Default",
 		["Clothbaleful - Mal'Ganis"] = "Default",
+		["Holynoly - Altar of Storms"] = "Default",
 		["Voodroo - Bleeding Hollow"] = "Default",
 		["Holynohilly - Skullcrusher"] = "Default",
 		["Platebaleful - Mal'Ganis"] = "Default",

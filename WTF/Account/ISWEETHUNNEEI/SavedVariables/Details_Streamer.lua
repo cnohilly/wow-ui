@@ -2,16 +2,18 @@
 Details_StreamerDB = {
 	["characters"] = {
 		["Katdoge - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Noliedin - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Emogin - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Trublmakr - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Diá - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Nolieper - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Pándan - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Inolie - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Holynoly - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
-		["Emoclëw - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Nolieper - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 		["Blù - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Pándan - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Stryfë - Bleeding Hollow"] = {
@@ -42,13 +44,13 @@ Details_StreamerDB = {
 			["arrow_anchor_x"] = 0,
 			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
-			["main_frame_strata"] = "LOW",
-			["font_size"] = 10,
 			["author"] = "Details! Team",
+			["y"] = -1.52587890625e-05,
+			["main_frame_strata"] = "LOW",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -63,7 +65,7 @@ Details_StreamerDB = {
 				0.4, -- [4]
 			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = -1.52587890625e-05,
+			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",

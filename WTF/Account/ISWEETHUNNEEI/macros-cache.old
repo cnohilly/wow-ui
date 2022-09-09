@@ -16,30 +16,34 @@ VER 3 000000000000000D "cov abil" "INV_MISC_QUESTIONMARK"
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft"or G"Summon Steward")
 END
 VER 3 0000000000000001 "Decursive" "INV_MISC_QUESTIONMARK"
-/stopcasting
-/cast [@mouseover,nomod,exists] Purify Disease;  [@mouseover,exists,mod:ctrl] Dispel Magic; [@mouseover,exists,mod:shift] Purify Disease
+/script DecursiveRootTable.Dcr:Println('No spell available')
 END
-VER 3 000000000000000C "follow" "INV_MISC_QUESTIONMARK"
-/follow focus
-END
-VER 3 0000000000000004 "follow focus" "134331"
+VER 3 0000000000000013 "follow" "INV_MISC_QUESTIONMARK"
 /follow focus
 END
 VER 3 000000000000000B "quest" "INV_MISC_QUESTIONMARK"
 /tar Malfunctioned
 /use Kinematic Micro-Life Recalibrator
 END
-VER 3 0000000000000005 "shadow crash" "136201"
-/cast [@cursor] Shadow Crash
+VER 3 0000000000000011 "target" "135886"
+/tar maelie
+END
+VER 3 0000000000000015 "target tlpd" "INV_MISC_QUESTIONMARK"
+/targetexact Time-Lost Proto-Drake
+/targetexact Vyragosa
+/run local N = UnitName("Target");if N and (N=="Time-Lost Proto-Drake") then PlaySound(13363);print(date(),N,"Found");SetRaidTarget("target",8);end
 END
 VER 3 0000000000000006 "Trinket 1" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 13
 END
-VER 3 0000000000000007 "Trinket 2" "INV_MISC_QUESTIONMARK"
+VER 3 0000000000000012 "Trinket 2" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
 END
-VER 3 000000000000000E "vulpin" "304501"
-/target Playful Vulpin
+VER 3 0000000000000014 "vyr/tlpd spawns" "136103"
+/way The Storm Peaks 52.3, 35.0 Ulduar Ravine
+/way The Storm Peaks 51.1, 71.2 Brunn Village
+/way The Storm Peaks 35.0, 76.5 Waterfall
+/way The Storm Peaks 31.5, 70.0 Frozen Lake
 END

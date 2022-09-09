@@ -13,12 +13,22 @@ bind 9 NONE
 bind 0 NONE
 bind - NONE
 bind = NONE
+bind CTRL-F1 NONE
+bind CTRL-F2 NONE
+bind CTRL-F3 NONE
+bind CTRL-F4 NONE
+bind CTRL-F5 NONE
 bind CTRL-1 MULTIACTIONBAR1BUTTON7
 bind F1 CLICK ElvUI_StanceBarButton1:LeftButton
+bind SHIFT-F1 SHAPESHIFTBUTTON1
 bind F2 CLICK ElvUI_StanceBarButton2:LeftButton
 bind F3 CLICK ElvUI_StanceBarButton3:LeftButton
 bind F4 CLICK ElvUI_StanceBarButton4:LeftButton
 bind F5 CLICK ElvUI_StanceBarButton5:LeftButton
+bind SHIFT-F2 SHAPESHIFTBUTTON2
+bind SHIFT-F3 SHAPESHIFTBUTTON3
+bind SHIFT-F4 SHAPESHIFTBUTTON4
+bind SHIFT-F5 SHAPESHIFTBUTTON5
 bind F ACTIONBUTTON10
 bind V CLICK ExtraActionButton1:LeftButton
 bind SHIFT-V NAMEPLATES

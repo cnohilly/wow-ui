@@ -1,24 +1,25 @@
 
 RaiderIO_Config = {
-	["enableUnitTooltips"] = true,
-	["enableKeystoneTooltips"] = true,
-	["enableFriendsTooltips"] = true,
 	["disableScoreColors"] = false,
+	["enableKeystoneTooltips"] = true,
 	["alwaysExtendTooltip"] = true,
-	["enableWhoTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["showDropDownCopyURL"] = true,
 	["showAverageScore"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Dorkk-bleeding-hollow"
+RaiderIO_LastCharacter = "us-Lickk-bleeding-hollow"
 RaiderIO_MissingCharacters = {
-	["us-Magick-eredar"] = true,
+	["us-Emoclëw-bleeding-hollow"] = true,
+	["us-Lickk-bleeding-hollow"] = true,
 }
 RaiderIO_MissingServers = {
 }

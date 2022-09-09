@@ -5,23 +5,1489 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002129,
+							["damage_from"] = {
+								["Sunreaver Dragonhawk"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["aID"] = "9-064978E8",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002129,
+							["end_time"] = 1660938762,
+							["dps_started"] = false,
+							["total"] = 0.002129,
+							["damage_taken"] = 245.002129,
+							["last_event"] = 0,
+							["nome"] = "Scongi",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["spec"] = 253,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1660938762,
+							["serial"] = "Player-9-064978E8",
+							["classe"] = "HUNTER",
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003133,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Scongi"] = 245,
+							},
+							["delay"] = 1660938741,
+							["pets"] = {
+							},
+							["damage_taken"] = 0.003133,
+							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 245.003133,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1660938762,
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["nome"] = "Sunreaver Dragonhawk",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 136,
+										["targets"] = {
+											["Scongi"] = 245,
+										},
+										["n_dmg"] = 245,
+										["n_min"] = 109,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 245,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 245.003133,
+							["on_hold"] = false,
+							["fight_component"] = true,
+							["custom"] = 0,
+							["last_event"] = 1660938757,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1660938757,
+							["serial"] = "Creature-0-3022-870-13528-67676-00007EEA74",
+							["aID"] = "67676",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Scongi",
+							["spec"] = 253,
+							["grupo"] = true,
+							["aID"] = "9-064978E8",
+							["buff_uptime"] = 42,
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "HUNTER",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[332252] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 332252,
+										["uptime"] = 21,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[359082] = {
+										["counter"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 21,
+										["id"] = 359082,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[132119] = {
+										["appliedamt"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 0,
+										["id"] = 132119,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-9-064978E8",
+							["last_event"] = 1660953550,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Scongi"] = true,
+					["Holynoly-BleedingHollow"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Holynoly-BleedingHollow", -- [1]
+					"Scongi", -- [2]
+				},
+				["CombatStartedAt"] = 40742.459,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 32,
+				["playing_solo"] = true,
+				["totals"] = {
+					244.8121250001323, -- [1]
+					-0.009131, -- [2]
+					{
+						-0.01237500000002001, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = -0.008115000000000094,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "19:59:10",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Sunreaver Dragonhawk",
+				["TotalElapsedCombatTime"] = 4.869999999995343,
+				["CombatEndedAt"] = 40747.329,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Scongi"] = 0.002129,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 40747.329,
+				["combat_id"] = 3,
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["contra"] = "Sunreaver Dragonhawk",
+				["frags"] = {
+					["Longshadow Bull"] = 1,
+					["Rankbite Tortoise"] = 1,
+					["Longshadow Mushan"] = 6,
+				},
+				["data_inicio"] = "15:52:22",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["tempo_start"] = 1660938741,
+				["start_time"] = 25941.163,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002129,
+							["damage_from"] = {
+								["Sunreaver Dragonhawk"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["aID"] = "9-064978E8",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002129,
+							["end_time"] = 1660938762,
+							["dps_started"] = false,
+							["total"] = 0.002129,
+							["damage_taken"] = 245.002129,
+							["last_event"] = 0,
+							["nome"] = "Scongi",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["spec"] = 253,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1660938762,
+							["serial"] = "Player-9-064978E8",
+							["classe"] = "HUNTER",
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003133,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Scongi"] = 245,
+							},
+							["delay"] = 1660938741,
+							["pets"] = {
+							},
+							["damage_taken"] = 0.003133,
+							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 245.003133,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1660938762,
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["nome"] = "Sunreaver Dragonhawk",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 136,
+										["targets"] = {
+											["Scongi"] = 245,
+										},
+										["n_dmg"] = 245,
+										["n_min"] = 109,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 245,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 245.003133,
+							["on_hold"] = false,
+							["fight_component"] = true,
+							["custom"] = 0,
+							["last_event"] = 1660938757,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1660938757,
+							["serial"] = "Creature-0-3022-870-13528-67676-00007EEA74",
+							["aID"] = "67676",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Scongi",
+							["spec"] = 253,
+							["grupo"] = true,
+							["aID"] = "9-064978E8",
+							["buff_uptime"] = 42,
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "HUNTER",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[332252] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 332252,
+										["uptime"] = 21,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[359082] = {
+										["counter"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 21,
+										["id"] = 359082,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[132119] = {
+										["appliedamt"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 0,
+										["id"] = 132119,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-9-064978E8",
+							["last_event"] = 1660953550,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Scongi"] = true,
+					["Holynoly-BleedingHollow"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Holynoly-BleedingHollow", -- [1]
+					"Scongi", -- [2]
+				},
+				["CombatStartedAt"] = 40742.459,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 32,
+				["playing_solo"] = true,
+				["totals"] = {
+					244.9012720001359, -- [1]
+					-0.009131, -- [2]
+					{
+						-0.01237500000002001, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = -0.008115000000000094,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "19:59:10",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Sunreaver Dragonhawk",
+				["TotalElapsedCombatTime"] = 4.869999999995343,
+				["CombatEndedAt"] = 40747.329,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Scongi"] = 0.002129,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 40747.329,
+				["combat_id"] = 3,
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["contra"] = "Sunreaver Dragonhawk",
+				["frags"] = {
+					["Longshadow Bull"] = 1,
+					["Rankbite Tortoise"] = 1,
+					["Longshadow Mushan"] = 6,
+				},
+				["data_inicio"] = "15:52:22",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["tempo_start"] = 1660938741,
+				["start_time"] = 25941.163,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008264,
+							["damage_from"] = {
+								["Dreadsaber"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 0,
+							["aID"] = "9-064978E8",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008264,
+							["delay"] = 0,
+							["classe"] = "HUNTER",
+							["dps_started"] = false,
+							["end_time"] = 1660206445,
+							["damage_taken"] = 125.008264,
+							["total"] = 0.008264,
+							["nome"] = "Scongi",
+							["spec"] = 253,
+							["grupo"] = true,
+							["need_refresh"] = true,
+							["tipo"] = 1,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["start_time"] = 1660206445,
+							["serial"] = "Player-9-064978E8",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001789,
+							["damage_from"] = {
+								["Longneck Grazer"] = true,
+							},
+							["targets"] = {
+								["Scongi"] = 125,
+								["Longneck Grazer"] = 23708,
+							},
+							["delay"] = 1660866625,
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["aID"] = "28001",
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 23833.001789,
+							["fight_component"] = true,
+							["monster"] = true,
+							["end_time"] = 1660938741,
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["nome"] = "Dreadsaber",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 19,
+										["b_amt"] = 0,
+										["c_dmg"] = 2941,
+										["g_amt"] = 0,
+										["n_max"] = 98,
+										["targets"] = {
+											["Scongi"] = 104,
+											["Longneck Grazer"] = 21209,
+										},
+										["n_dmg"] = 18372,
+										["n_min"] = 15,
+										["g_dmg"] = 0,
+										["counter"] = 286,
+										["total"] = 21313,
+										["r_amt"] = 0,
+										["c_max"] = 188,
+										["b_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 21,
+										["a_amt"] = 0,
+										["extra"] = {
+										},
+										["PARRY"] = 5,
+										["c_min"] = 34,
+										["successful_casted"] = 0,
+										["spellschool"] = 1,
+										["n_amt"] = 230,
+										["a_dmg"] = 0,
+										["DODGE"] = 11,
+									}, -- [1]
+									[24187] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 98,
+										["targets"] = {
+											["Scongi"] = 21,
+											["Longneck Grazer"] = 2499,
+										},
+										["n_dmg"] = 2520,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 40,
+										["total"] = 2520,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 24187,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["PARRY"] = 4,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["extra"] = {
+										},
+										["n_amt"] = 33,
+										["MISS"] = 1,
+										["DODGE"] = 2,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 23833.001789,
+							["damage_taken"] = 23527.001789,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1660866625,
+							["on_hold"] = false,
+							["start_time"] = 1660938098,
+							["serial"] = "Creature-0-4214-571-66-28001-000074A9B2",
+							["dps_started"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Stryfë-BleedingHollow",
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["aID"] = "73-09B0681E",
+							["buff_uptime"] = 30,
+							["tipo"] = 4,
+							["last_event"] = 1660206445,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[132119] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 132119,
+										["uptime"] = 15,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[297871] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 297871,
+										["uptime"] = 15,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-73-09B0681E",
+							["classe"] = "HUNTER",
+						}, -- [1]
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 253,
+							["grupo"] = true,
+							["tipo"] = 4,
+							["buff_uptime"] = 15,
+							["nome"] = "Scongi",
+							["pets"] = {
+							},
+							["last_event"] = 1660206445,
+							["aID"] = "9-064978E8",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[230987] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 230987,
+										["uptime"] = 15,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-9-064978E8",
+							["classe"] = "HUNTER",
+						}, -- [2]
+						{
+							["monster"] = true,
+							["aID"] = "28001",
+							["nome"] = "Dreadsaber",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[24187] = 1,
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-4214-571-66-28001-000074A9B2",
+							["flag_original"] = 68168,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Scongi"] = true,
+					["Stryfë-BleedingHollow"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Stryfë-BleedingHollow", -- [1]
+					"Scongi", -- [2]
+				},
+				["CombatStartedAt"] = 25938.695,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 27,
+				["totals"] = {
+					23832.93229199999, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "04:27:26",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Dreadsaber",
+				["TotalElapsedCombatTime"] = 514869.988,
+				["CombatEndedAt"] = 514869.988,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "04:27:11",
+				["end_time"] = 514870.388,
+				["combat_id"] = 2,
+				["tempo_start"] = 1660206430,
+				["frags"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["contra"] = "Dreadsaber",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 514855.387,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Scongi"] = 0.008264,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+			}, -- [3]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007823,
+							["damage_from"] = {
+								["Dreadsaber"] = true,
+							},
+							["targets"] = {
+								["Dreadsaber"] = 1898,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["custom"] = 0,
+							["aID"] = "9-064978E8",
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1898.007823,
+							["damage_taken"] = 589.007823,
+							["dps_started"] = false,
+							["end_time"] = 1660201055,
+							["on_hold"] = false,
+							["tipo"] = 1,
+							["nome"] = "Scongi",
+							["spells"] = {
+								["_ActorTable"] = {
+									[75] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 546,
+										["targets"] = {
+											["Dreadsaber"] = 546,
+										},
+										["n_dmg"] = 546,
+										["n_min"] = 546,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 546,
+										["c_max"] = 0,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[217200] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 910,
+										["g_amt"] = 0,
+										["n_max"] = 442,
+										["targets"] = {
+											["Dreadsaber"] = 1352,
+										},
+										["n_dmg"] = 442,
+										["n_min"] = 442,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1352,
+										["c_max"] = 910,
+										["id"] = 217200,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 910,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["last_dps"] = 32.15872285664861,
+							["total"] = 1898.007823,
+							["colocacao"] = 1,
+							["last_event"] = 1660201054,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1660201052,
+							["serial"] = "Player-9-064978E8",
+							["classe"] = "HUNTER",
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005065,
+							["damage_from"] = {
+								["Scongi"] = true,
+								["Longneck Grazer"] = true,
+								["Jungleson-Aegwynn"] = true,
+							},
+							["targets"] = {
+								["Scongi"] = 589,
+								["Longneck Grazer"] = 17605,
+							},
+							["delay"] = 1660206371,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 18194.005065,
+							["monster"] = true,
+							["fight_component"] = true,
+							["total"] = 18194.005065,
+							["on_hold"] = false,
+							["last_event"] = 1660206371,
+							["nome"] = "Dreadsaber",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 10,
+										["b_amt"] = 0,
+										["c_dmg"] = 1510,
+										["g_amt"] = 0,
+										["n_max"] = 98,
+										["targets"] = {
+											["Scongi"] = 469,
+											["Longneck Grazer"] = 15484,
+										},
+										["n_dmg"] = 14443,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 221,
+										["total"] = 15953,
+										["r_amt"] = 0,
+										["c_max"] = 186,
+										["b_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 6,
+										["a_amt"] = 0,
+										["extra"] = {
+										},
+										["PARRY"] = 3,
+										["c_min"] = 32,
+										["successful_casted"] = 0,
+										["spellschool"] = 1,
+										["n_amt"] = 197,
+										["DODGE"] = 5,
+										["a_dmg"] = 0,
+									}, -- [1]
+									[24187] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 94,
+										["targets"] = {
+											["Scongi"] = 120,
+											["Longneck Grazer"] = 2121,
+										},
+										["n_dmg"] = 2241,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 38,
+										["total"] = 2241,
+										["c_max"] = 0,
+										["id"] = 24187,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 8,
+										["a_dmg"] = 0,
+										["n_amt"] = 34,
+										["MISS"] = 3,
+										["DODGE"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["end_time"] = 1660206430,
+							["dps_started"] = false,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 412344.005065,
+							["start_time"] = 1660206014,
+							["serial"] = "Creature-0-4214-571-66-28001-00007460B5",
+							["aID"] = "28001",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Stryfë-BleedingHollow",
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["aID"] = "73-09B0681E",
+							["buff_uptime"] = 118,
+							["tipo"] = 4,
+							["last_event"] = 1660201055,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[297871] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 297871,
+										["uptime"] = 59,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[88741] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 88741,
+										["uptime"] = 59,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-73-09B0681E",
+							["classe"] = "HUNTER",
+						}, -- [1]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[217200] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 217200,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+							},
+							["aID"] = "9-064978E8",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[97501] = {
+										["activedamt"] = 1,
+										["id"] = 97501,
+										["targets"] = {
+										},
+										["actived_at"] = 1660200996,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["appliedamt"] = 1,
+									},
+									[246152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 246152,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 2,
+							["nome"] = "Scongi",
+							["grupo"] = true,
+							["spell_cast"] = {
+								[217200] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1660201055,
+							["debuff_uptime_targets"] = {
+							},
+							["classe"] = "HUNTER",
+							["serial"] = "Player-9-064978E8",
+							["buff_uptime"] = 3,
+						}, -- [2]
+						{
+							["monster"] = true,
+							["aID"] = "28001",
+							["nome"] = "Dreadsaber",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[24187] = 8,
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-4214-571-66-28001-00007460B5",
+							["flag_original"] = 68168,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Scongi"] = true,
+					["Stryfë-BleedingHollow"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Stryfë-BleedingHollow", -- [1]
+					"Scongi", -- [2]
+				},
+				["CombatStartedAt"] = 514854.212,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals"] = {
+					20091.99067499999, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "02:57:35",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Dreadsaber",
+				["TotalElapsedCombatTime"] = 509479.229,
+				["CombatEndedAt"] = 509479.229,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "02:56:36",
+				["end_time"] = 509479.863,
+				["combat_id"] = 1,
+				["tempo_start"] = 1660200996,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Scongi"] = 1898.007823,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["combat_counter"] = 26,
+				["contra"] = "Dreadsaber",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1898, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 509420.843,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Dreadsaber"] = 1,
+				},
+			}, -- [4]
 		},
 	},
 	["ocd_tracker"] = {
 		["enabled"] = false,
 		["current_cooldowns"] = {
 		},
+		["lines_per_column"] = 12,
+		["show_options"] = false,
+		["pos"] = {
+		},
+		["height"] = 18,
 		["cooldowns"] = {
 		},
+		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["show_options"] = false,
-		["pos"] = {
+		["width"] = 120,
+		["filters"] = {
+			["defensive-raid"] = false,
+			["ofensive"] = true,
+			["defensive-target"] = false,
+			["utility"] = false,
+			["defensive-personal"] = false,
 		},
 	},
-	["last_version"] = "9.0.58514",
+	["last_version"] = "9.2.79824",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -35,7 +1501,7 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1623876767,
+		["nextreset"] = 1660974046,
 		["last_version"] = 14,
 	},
 	["last_instance_id"] = 0,
@@ -48,22 +1514,28 @@ _detalhes_database = {
 	},
 	["last_instance_time"] = 0,
 	["active_profile"] = "Jerkk-Bleeding Hollow",
-	["last_realversion"] = 144,
+	["last_realversion"] = 146,
 	["ignore_nicktag"] = false,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
-			["updatespeed"] = 1,
+			["enabled"] = true,
 			["animate"] = false,
-			["showamount"] = false,
-			["useplayercolor"] = false,
+			["hide_pull_bar"] = false,
 			["useclasscolors"] = false,
-			["author"] = "Details! Team",
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["enabled"] = true,
+			["usefocus"] = false,
+			["updatespeed"] = 1,
+			["disable_gouge"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["absolute_mode"] = false,
+			["author"] = "Details! Team",
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["playSound"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -77,20 +1549,28 @@ _detalhes_database = {
 			["food_tier3"] = true,
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
+			["tank_block_size_height"] = 50,
+			["show_power_bar"] = false,
+			["first_run"] = false,
+			["aura_timer_text_size"] = 14,
+			["tank_block_castbar_size_height"] = 16,
+			["show_health_bar"] = true,
+			["aura_offset_y"] = 0,
 			["enabled"] = true,
+			["show_cast_bar"] = false,
+			["author"] = "Tercio",
+			["tank_block_size"] = 150,
+			["bar_height"] = 24,
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = true,
+			["tank_block_height"] = 40,
+			["tank_block_powerbar_size_height"] = 10,
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
-			["show_inc_bars"] = true,
-			["author"] = "Tercio",
-			["first_run"] = false,
-			["tank_block_size"] = 150,
-			["bar_height"] = 24,
-			["tank_block_texture"] = "Details Serenity",
-			["tank_block_height"] = 40,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -140,7 +1620,7 @@ _detalhes_database = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["y"] = 4.57763671875e-05,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -155,6 +1635,7 @@ _detalhes_database = {
 				0.4, -- [4]
 			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -166,17 +1647,16 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["y"] = 4.57763671875e-05,
+			["font_size"] = 10,
 			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},
 	},
-	["last_day"] = "01",
+	["last_day"] = "19",
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
 		["started"] = false,
@@ -188,25 +1668,35 @@ _detalhes_database = {
 		["dungeon_zone_id"] = 0,
 		["previous_boss_killed_at"] = 0,
 	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
 	["announce_prepots"] = {
 		["enabled"] = false,
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["combat_id"] = 0,
+	["combat_counter"] = 35,
+	["combat_id"] = 3,
 	["savedStyles"] = {
 	},
-	["combat_counter"] = 10,
 	["cached_talents"] = {
+		["Player-73-06EE3479"] = {
+			22136, -- [1]
+			22315, -- [2]
+			23127, -- [3]
+			23375, -- [4]
+			22310, -- [5]
+			21719, -- [6]
+			21978, -- [7]
+		},
 	},
+	["force_font_outline"] = "",
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -217,6 +1707,267 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.014103,
+					["damage_from"] = {
+						["Scongi"] = true,
+					},
+					["targets"] = {
+						["Scongi"] = 714,
+						["Longneck Grazer"] = 0,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["friendlyfire"] = {
+					},
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 714.0141030000001,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["end_time"] = 1660201055,
+					["on_hold"] = false,
+					["tipo"] = 1,
+					["nome"] = "Dreadsaber",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 66,
+								["g_amt"] = 0,
+								["n_max"] = 21,
+								["targets"] = {
+									["Scongi"] = 573,
+									["Longneck Grazer"] = 0,
+								},
+								["n_dmg"] = 507,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 37,
+								["total"] = 573,
+								["c_max"] = 34,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_dmg"] = 0,
+								["n_amt"] = 29,
+								["DODGE"] = 1,
+								["MISS"] = 5,
+							}, -- [1]
+							[24187] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 21,
+								["targets"] = {
+									["Scongi"] = 141,
+									["Longneck Grazer"] = 0,
+								},
+								["n_dmg"] = 141,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 141,
+								["c_max"] = 0,
+								["id"] = 24187,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 9,
+								["a_amt"] = 0,
+								["n_amt"] = 8,
+								["extra"] = {
+								},
+								["MISS"] = 1,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["total"] = 714.0141030000001,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 1898.014103,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["last_dps"] = 0,
+					["start_time"] = 1660200978,
+					["serial"] = "Creature-0-4214-571-66-28001-00007460B5",
+					["aID"] = "28001",
+				}, -- [1]
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.026035,
+					["damage_from"] = {
+						["Dreadsaber"] = true,
+						["Sunreaver Dragonhawk"] = true,
+					},
+					["targets"] = {
+						["Dreadsaber"] = 1898,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["spells"] = {
+						["_ActorTable"] = {
+							[75] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 546,
+								["targets"] = {
+									["Dreadsaber"] = 546,
+								},
+								["n_dmg"] = 546,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 546,
+								["c_max"] = 0,
+								["id"] = 75,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[217200] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 910,
+								["g_amt"] = 0,
+								["n_max"] = 442,
+								["targets"] = {
+									["Dreadsaber"] = 1352,
+								},
+								["n_dmg"] = 442,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 1352,
+								["c_max"] = 910,
+								["id"] = 217200,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["end_time"] = 1660201055,
+					["aID"] = "9-064978E8",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 1898.026035,
+					["damage_taken"] = 959.0260350000001,
+					["dps_started"] = false,
+					["total"] = 1898.026035,
+					["on_hold"] = false,
+					["tipo"] = 1,
+					["nome"] = "Scongi",
+					["spec"] = 253,
+					["grupo"] = true,
+					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1660201049,
+					["serial"] = "Player-9-064978E8",
+					["classe"] = "HUNTER",
+				}, -- [2]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.006823,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Scongi"] = 245,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["aID"] = "67676",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 245.006823,
+					["total"] = 245.006823,
+					["fight_component"] = true,
+					["end_time"] = 1660938763,
+					["damage_taken"] = 0.006823,
+					["tipo"] = 1,
+					["nome"] = "Sunreaver Dragonhawk",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 136,
+								["targets"] = {
+									["Scongi"] = 245,
+								},
+								["n_dmg"] = 245,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 245,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1660938755,
+					["serial"] = "Creature-0-3022-870-13528-67676-00007EEA74",
+					["dps_started"] = false,
+				}, -- [3]
 			},
 		}, -- [1]
 		{
@@ -232,6 +1983,171 @@ _detalhes_database = {
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["buff_uptime_targets"] = {
+					},
+					["grupo"] = true,
+					["nome"] = "Stryfë-BleedingHollow",
+					["buff_uptime"] = 148,
+					["aID"] = "73-09B0681E",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["classe"] = "HUNTER",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[297871] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 297871,
+								["uptime"] = 74,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[88741] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 88741,
+								["uptime"] = 59,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[132119] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 132119,
+								["uptime"] = 15,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["serial"] = "Player-73-09B0681E",
+					["last_event"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[217200] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 217200,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["buff_uptime"] = 60,
+					["classe"] = "HUNTER",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[359082] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 359082,
+								["uptime"] = 21,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[246152] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 246152,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[97501] = {
+								["counter"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["actived_at"] = 1660200996,
+								["id"] = 97501,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[332252] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 332252,
+								["uptime"] = 21,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[132119] = {
+								["id"] = 132119,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[230987] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 230987,
+								["uptime"] = 15,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["debuff_uptime"] = 2,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 253,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[217200] = 1,
+					},
+					["aID"] = "9-064978E8",
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["pets"] = {
+					},
+					["nome"] = "Scongi",
+					["serial"] = "Player-9-064978E8",
+					["debuff_uptime_targets"] = {
+					},
+				}, -- [2]
+				{
+					["flag_original"] = 68168,
+					["tipo"] = 4,
+					["nome"] = "Dreadsaber",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[24187] = 9,
+					},
+					["monster"] = true,
+					["aID"] = "28001",
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4214-571-66-28001-00007460B5",
+					["fight_component"] = true,
+				}, -- [3]
 			},
 		}, -- [4]
 		{
@@ -243,36 +2159,54 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["tempo_start"] = 345781.851,
-		["last_events_tables"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 21.0010000000002,
+				["type"] = 0,
+				["name"] = "Sunreaver Dragonhawk",
+				["clock"] = "15:52:22",
+			}, -- [1]
+			{
+				["elapsed"] = 15.0010000000475,
+				["type"] = 0,
+				["name"] = "Dreadsaber",
+				["clock"] = "04:27:11",
+			}, -- [2]
+			{
+				["elapsed"] = 59.02000000001863,
+				["type"] = 0,
+				["name"] = "Dreadsaber",
+				["clock"] = "02:56:36",
+			}, -- [3]
+		},
+		["tempo_start"] = 1660200996,
+		["cleu_timeline"] = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 1,
-		["spells_cast_timeline"] = {
-		},
+		["combat_counter"] = 25,
 		["totals"] = {
-			0, -- [1]
+			2537714.046027, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 6.008115,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -281,66 +2215,71 @@ _detalhes_database = {
 		},
 		["__call"] = {
 		},
-		["data_inicio"] = 0,
+		["data_inicio"] = "02:56:36",
+		["end_time"] = 25962.164,
+		["last_events_tables"] = {
+		},
 		["totals_grupo"] = {
-			0, -- [1]
+			1898.018216, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
 		},
 		["overall_refreshed"] = true,
-		["hasSaved"] = true,
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_timeline"] = {
-		},
-		["CombatSkillCache"] = {
-		},
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["start_time"] = 0,
-		["TimeData"] = {
-		},
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage_section"] = {
+			["damage"] = {
 			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage"] = {
+			["damage_section"] = {
 			},
 		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = "15:52:43",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["frags"] = {
+		},
+		["start_time"] = 25867.14200000005,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
 	},
-	["force_font_outline"] = "",
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
 			["sub_attribute"] = 1,
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
-			["isLocked"] = false,
+			["isLocked"] = true,
 			["is_open"] = true,
 			["sub_atributo_last"] = {
 				1, -- [1]
@@ -356,10 +2295,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -440.0077362060547,
-					["x"] = 649.518310546875,
-					["w"] = 209.0001220703125,
-					["h"] = 151.9999542236328,
+					["y"] = -441.844352722168,
+					["x"] = 700.6256713867188,
+					["w"] = 209.0002746582031,
+					["h"] = 154,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -390,10 +2329,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -440.0077362060547,
-					["x"] = 857.0150146484375,
-					["w"] = 206.0001678466797,
-					["h"] = 151.9999542236328,
+					["y"] = -440.84423828125,
+					["x"] = 908.1210327148438,
+					["w"] = 206.0000610351563,
+					["h"] = 151.9998931884766,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -408,7 +2347,7 @@ _detalhes_database = {
 			["sub_attribute"] = 1,
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
-			["isLocked"] = false,
+			["isLocked"] = true,
 			["is_open"] = false,
 			["sub_atributo_last"] = {
 				1, -- [1]
@@ -424,10 +2363,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -1.00018310546875,
-					["x"] = 0,
-					["w"] = 310,
-					["h"] = 157.9999847412109,
+					["y"] = -243.8442687988281,
+					["x"] = 770.8519897460938,
+					["w"] = 188.9994964599609,
+					["h"] = 208.0010833740234,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -439,7 +2378,11 @@ _detalhes_database = {
 		}, -- [3]
 	},
 	["character_data"] = {
-		["logons"] = 5,
+		["logons"] = 17,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,
@@ -452,12 +2395,9 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["cached_roles"] = {
 	},
 	["cached_specs"] = {
 		["Player-9-064978E8"] = 253,
-		["Player-11-0B381758"] = 262,
 	},
 }

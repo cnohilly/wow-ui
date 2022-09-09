@@ -241,6 +241,8 @@ P['benikui']['skins'] = {
 		['tinyinspect'] = true,
 		['arkinventory'] = true,
 		['classTactics'] = true,
+		['hekili'] = true,
+		['wowpro'] = true,
 	},
 
 	['variousSkins'] = {
@@ -248,6 +250,7 @@ P['benikui']['skins'] = {
 		['objectiveTracker'] = true,
 		['inflight'] = true,
 		['kt'] = true,
+		['rt'] = true,
 	},
 }
 

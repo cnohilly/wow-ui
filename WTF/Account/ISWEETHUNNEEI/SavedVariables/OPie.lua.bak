@@ -2,8 +2,8 @@
 OneRing_Config = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "9.2.5",
-	["_OPieVersion"] = "Xe 6 (3.106)",
+	["_GameVersion"] = "9.2.7",
+	["_OPieVersion"] = "Xe 8 (3.107)",
 	["ProfileStorage"] = {
 		["default"] = {
 		},

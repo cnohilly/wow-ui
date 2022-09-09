@@ -1,7 +1,7 @@
 
 DecursiveDB = {
 	["global"] = {
-		["LastVersionAnnounce"] = 1657203747,
+		["LastVersionAnnounce"] = 1662618108,
 	},
 	["class"] = {
 		["HUNTER"] = {
@@ -87,14 +87,16 @@ DecursiveDB = {
 		["Prodigie - Tichondrius"] = "Default",
 		["Eore - The Forgotten Coast"] = "Default",
 		["Lildorkk - Mal'Ganis"] = "Default",
+		["Engidorkk - Tichondrius"] = "Default",
 		["Zzxzz - Skullcrusher"] = "Default",
 		["Dwarfdorkk - Dalaran"] = "Default",
+		["Scongi - Kil'jaeden"] = "Default",
 		["Unorthodorkk - Bleeding Hollow"] = "Default",
-		["Engidorkk - Tichondrius"] = "Default",
-		["Smíte - The Forgotten Coast"] = "Default",
 		["Lickk - Bleeding Hollow"] = "Default",
-		["Dorkkore - Tichondrius"] = "Default",
+		["Holynoly - Altar of Storms"] = "Default",
 		["Genericbank - Darkspear"] = "Default",
+		["Dorkkore - Tichondrius"] = "Default",
+		["Smíte - The Forgotten Coast"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -14,6 +14,7 @@ HandyNotesDB = {
 		["Dorkk - Kil'jaeden"] = "Dorkk - Kil'jaeden",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Clothbaleful - Mal'Ganis"] = "Clothbaleful - Mal'Ganis",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Holynohilly - Skullcrusher"] = "Holynohilly - Skullcrusher",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
@@ -21,28 +22,28 @@ HandyNotesDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Dorkkrip - Mal'Ganis"] = "Dorkkrip - Mal'Ganis",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Navi - Darkspear"] = "Navi - Darkspear",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
-		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
-		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
-		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
+		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
+		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
+		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
+		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
+		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
+		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Navi - Darkspear"] = "Navi - Darkspear",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Kanpeki - Kil'jaeden"] = "Kanpeki - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -72,6 +73,8 @@ HandyNotesDB = {
 		},
 		["Clothbaleful - Mal'Ganis"] = {
 		},
+		["Holynoly - Altar of Storms"] = {
+		},
 		["Voodroo - Bleeding Hollow"] = {
 		},
 		["Holynohilly - Skullcrusher"] = {
@@ -86,9 +89,9 @@ HandyNotesDB = {
 		},
 		["Dorkkrip - Mal'Ganis"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
+		["Navi - Darkspear"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Genericbank - Darkspear"] = {
 		},
 		["Dorkkore - Tichondrius"] = {
 		},
@@ -100,41 +103,159 @@ HandyNotesDB = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
-		["Quirkk - Bleeding Hollow"] = {
-		},
 		["Trickk - Bleeding Hollow"] = {
+		},
+		["Nizearisbad - Mal'Ganis"] = {
 		},
 		["Dorkkborne - Area 52"] = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Wardorkk - Bleeding Hollow"] = {
-		},
-		["Holynoly - The Forgotten Coast"] = {
-		},
-		["Lildorkk - Mal'Ganis"] = {
+		["Eisfyre - Bleeding Hollow"] = {
 		},
 		["Zzxzz - Skullcrusher"] = {
 		},
+		["Lildorkk - Mal'Ganis"] = {
+		},
+		["Holynoly - The Forgotten Coast"] = {
+		},
 		["Dwarfdorkk - Dalaran"] = {
 		},
-		["Eisfyre - Bleeding Hollow"] = {
+		["Wardorkk - Bleeding Hollow"] = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Nizearisbad - Mal'Ganis"] = {
+		["Quirkk - Bleeding Hollow"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
-		["Navi - Darkspear"] = {
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 		["Kanpeki - Kil'jaeden"] = {
 		},
 	},
 }
 HandyNotes_HandyNotesDB = {
+	["global"] = {
+		[534] = {
+			[25643166] = {
+				["title"] = "Felsworn Sentry",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp",
+			},
+			[43988438] = {
+				["title"] = "Tainted Maulclaw",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
+			},
+			[47965362] = {
+				["title"] = "Dreadwalker",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Can get by using the Zandalari Anklerender.\nEmerald Proto-Whelp very good secondary.",
+			},
+			[75933789] = {
+				["title"] = "Defiled Earth",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto third.",
+			},
+			[31903734] = {
+				["title"] = "Cursed Spirit",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Ikky main pet. \nEmerald Proto-Whelp and whatever else.",
+			},
+			[15284459] = {
+				["title"] = "Bleakclaw",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Water Spirit + Chrominius ?\nEmerald Proto third.",
+			},
+			[53416507] = {
+				["title"] = "Corrupted Thundertail",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Zandalari Anklerender main pet.\nAnubisath good secondary.",
+			},
+			[47693529] = {
+				["title"] = "Netherfist",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Unborn Valk + Howl (Chrominius / Stitched Pup).\nThird Emerald Proto-Whelp is good.",
+			},
+			[57643649] = {
+				["title"] = "Direflame",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp third.",
+			},
+			[55648063] = {
+				["title"] = "Felfly",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Chrominius.\nEmerald Proto-Whelp and whatever else.",
+			},
+			[47843218] = {
+				["title"] = "Skrillix",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "In cave. \nUnborn Valk + Stitched Pup (or Chrominius).\nEmerald Proto third.",
+			},
+			[42207089] = {
+				["title"] = "Mirecroak",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
+			},
+			[43624502] = {
+				["title"] = "Vile Blood of Draenor",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Zandalari Anklerender main pet. (Mine is slow so skip slow)\nEmerald Proto-Whelp and whatever.",
+			},
+			[25337493] = {
+				["title"] = "Chaos Pup",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Draenei Micro Defender.\nEmerald Proto-Whelp and whatever else.",
+			},
+			[53532976] = {
+				["title"] = "Dark Gazer",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "",
+			},
+		},
+		[543] = {
+			[47234179] = {
+				["cont"] = false,
+				["title"] = "viking pepe",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+		[535] = {
+			[51266312] = {
+				["cont"] = false,
+				["title"] = "knight pepe",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+		[550] = {
+			[80264977] = {
+				["cont"] = false,
+				["title"] = "ninja pepe",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+	},
 	["profileKeys"] = {
 		["Freakk - Bleeding Hollow"] = "Freakk - Bleeding Hollow",
 		["Engidorkk - Tichondrius"] = "Engidorkk - Tichondrius",
@@ -149,6 +270,7 @@ HandyNotes_HandyNotesDB = {
 		["Dorkk - Kil'jaeden"] = "Dorkk - Kil'jaeden",
 		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Clothbaleful - Mal'Ganis"] = "Clothbaleful - Mal'Ganis",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
 		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Holynohilly - Skullcrusher"] = "Holynohilly - Skullcrusher",
 		["Platebaleful - Mal'Ganis"] = "Platebaleful - Mal'Ganis",
@@ -156,147 +278,29 @@ HandyNotes_HandyNotesDB = {
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Dorkkrip - Mal'Ganis"] = "Dorkkrip - Mal'Ganis",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Navi - Darkspear"] = "Navi - Darkspear",
+		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
 		["Dorkkore - Tichondrius"] = "Dorkkore - Tichondrius",
 		["Smíte - The Forgotten Coast"] = "Smíte - The Forgotten Coast",
 		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
-		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
+		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
 		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
-		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
-		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
-		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
-		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
-		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
 		["Eisfyre - Bleeding Hollow"] = "Eisfyre - Bleeding Hollow",
+		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
+		["Lildorkk - Mal'Ganis"] = "Lildorkk - Mal'Ganis",
+		["Holynoly - The Forgotten Coast"] = "Holynoly - The Forgotten Coast",
+		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
+		["Wardorkk - Bleeding Hollow"] = "Wardorkk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
-		["Nizearisbad - Mal'Ganis"] = "Nizearisbad - Mal'Ganis",
+		["Quirkk - Bleeding Hollow"] = "Quirkk - Bleeding Hollow",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
-		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
-		["Navi - Darkspear"] = "Navi - Darkspear",
+		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 		["Kanpeki - Kil'jaeden"] = "Kanpeki - Kil'jaeden",
-	},
-	["global"] = {
-		[543] = {
-			[47234179] = {
-				["icon"] = 1,
-				["cont"] = false,
-				["title"] = "viking pepe",
-				["desc"] = "",
-			},
-		},
-		[534] = {
-			[25643166] = {
-				["icon"] = 8,
-				["title"] = "Felsworn Sentry",
-				["cont"] = false,
-				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp",
-			},
-			[53532976] = {
-				["icon"] = 8,
-				["title"] = "Dark Gazer",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[47965362] = {
-				["icon"] = 8,
-				["title"] = "Dreadwalker",
-				["cont"] = false,
-				["desc"] = "Can get by using the Zandalari Anklerender.\nEmerald Proto-Whelp very good secondary.",
-			},
-			[75933789] = {
-				["icon"] = 8,
-				["title"] = "Defiled Earth",
-				["cont"] = false,
-				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto third.",
-			},
-			[31903734] = {
-				["icon"] = 8,
-				["title"] = "Cursed Spirit",
-				["cont"] = false,
-				["desc"] = "Ikky main pet. \nEmerald Proto-Whelp and whatever else.",
-			},
-			[47693529] = {
-				["icon"] = 8,
-				["title"] = "Netherfist",
-				["cont"] = false,
-				["desc"] = "Unborn Valk + Howl (Chrominius / Stitched Pup).\nThird Emerald Proto-Whelp is good.",
-			},
-			[53416507] = {
-				["icon"] = 8,
-				["title"] = "Corrupted Thundertail",
-				["cont"] = false,
-				["desc"] = "Zandalari Anklerender main pet.\nAnubisath good secondary.",
-			},
-			[15284459] = {
-				["icon"] = 8,
-				["title"] = "Bleakclaw",
-				["cont"] = false,
-				["desc"] = "Water Spirit + Chrominius ?\nEmerald Proto third.",
-			},
-			[57643649] = {
-				["icon"] = 8,
-				["title"] = "Direflame",
-				["cont"] = false,
-				["desc"] = "Pandaren Water Spirit + Chrominius.\nEmerald Proto-Whelp third.",
-			},
-			[55648063] = {
-				["icon"] = 8,
-				["title"] = "Felfly",
-				["cont"] = false,
-				["desc"] = "Chrominius.\nEmerald Proto-Whelp and whatever else.",
-			},
-			[47843218] = {
-				["icon"] = 8,
-				["title"] = "Skrillix",
-				["cont"] = false,
-				["desc"] = "In cave. \nUnborn Valk + Stitched Pup (or Chrominius).\nEmerald Proto third.",
-			},
-			[42207089] = {
-				["icon"] = 8,
-				["title"] = "Mirecroak",
-				["cont"] = false,
-				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
-			},
-			[43624502] = {
-				["icon"] = 8,
-				["title"] = "Vile Blood of Draenor",
-				["cont"] = false,
-				["desc"] = "Zandalari Anklerender main pet. (Mine is slow so skip slow)\nEmerald Proto-Whelp and whatever.",
-			},
-			[25337493] = {
-				["icon"] = 8,
-				["title"] = "Chaos Pup",
-				["cont"] = false,
-				["desc"] = "Draenei Micro Defender.\nEmerald Proto-Whelp and whatever else.",
-			},
-			[43988438] = {
-				["icon"] = 8,
-				["title"] = "Tainted Maulclaw",
-				["cont"] = false,
-				["desc"] = "Ikky.\nEmerald Proto-Whelp and whatever else.",
-			},
-		},
-		[550] = {
-			[80264977] = {
-				["icon"] = 1,
-				["cont"] = false,
-				["title"] = "ninja pepe",
-				["desc"] = "",
-			},
-		},
-		[535] = {
-			[51266312] = {
-				["icon"] = 1,
-				["cont"] = false,
-				["title"] = "knight pepe",
-				["desc"] = "",
-			},
-		},
 	},
 	["profiles"] = {
 		["Freakk - Bleeding Hollow"] = {
@@ -325,6 +329,8 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Clothbaleful - Mal'Ganis"] = {
 		},
+		["Holynoly - Altar of Storms"] = {
+		},
 		["Voodroo - Bleeding Hollow"] = {
 		},
 		["Holynohilly - Skullcrusher"] = {
@@ -339,9 +345,9 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Dorkkrip - Mal'Ganis"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
+		["Navi - Darkspear"] = {
 		},
-		["Albiorix - Emerald Dream"] = {
+		["Genericbank - Darkspear"] = {
 		},
 		["Dorkkore - Tichondrius"] = {
 		},
@@ -353,35 +359,35 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},
-		["Quirkk - Bleeding Hollow"] = {
-		},
 		["Trickk - Bleeding Hollow"] = {
+		},
+		["Nizearisbad - Mal'Ganis"] = {
 		},
 		["Dorkkborne - Area 52"] = {
 		},
 		["Geekk - Bleeding Hollow"] = {
 		},
-		["Wardorkk - Bleeding Hollow"] = {
-		},
-		["Holynoly - The Forgotten Coast"] = {
-		},
-		["Lildorkk - Mal'Ganis"] = {
+		["Eisfyre - Bleeding Hollow"] = {
 		},
 		["Zzxzz - Skullcrusher"] = {
 		},
+		["Lildorkk - Mal'Ganis"] = {
+		},
+		["Holynoly - The Forgotten Coast"] = {
+		},
 		["Dwarfdorkk - Dalaran"] = {
 		},
-		["Eisfyre - Bleeding Hollow"] = {
+		["Wardorkk - Bleeding Hollow"] = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
-		["Nizearisbad - Mal'Ganis"] = {
+		["Quirkk - Bleeding Hollow"] = {
 		},
 		["Sasúke - Gilneas"] = {
 		},
-		["Genericbank - Darkspear"] = {
+		["Albiorix - Emerald Dream"] = {
 		},
-		["Navi - Darkspear"] = {
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 		["Kanpeki - Kil'jaeden"] = {
 		},

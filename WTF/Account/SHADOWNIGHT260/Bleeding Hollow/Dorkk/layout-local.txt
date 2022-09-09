@@ -9,7 +9,7 @@ H: 32
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -17
+X: -18
 Y: 46
 W: 235
 H: 480
@@ -23,7 +23,7 @@ H: 427
 Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: TOPRIGHT
-X: -399
+X: -400
 Y: -231
 W: 10
 H: 10
@@ -188,3 +188,10 @@ X: 0
 Y: 0
 W: 600
 H: 250
+Frame: scanner_button
+FrameLevel: 200
+Anchor: BOTTOM
+X: 0
+Y: 128
+W: 200
+H: 50

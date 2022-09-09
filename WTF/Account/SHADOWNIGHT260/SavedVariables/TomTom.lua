@@ -11,14 +11,16 @@ TomTomDB = {
 		["Geekk - Bleeding Hollow"] = "Default",
 		["Prodigie - Tichondrius"] = "Default",
 		["Eore - The Forgotten Coast"] = "Default",
+		["Scongi - Kil'jaeden"] = "Default",
 		["Zzxzz - Skullcrusher"] = "Default",
 		["Dwarfdorkk - Dalaran"] = "Default",
+		["Dorkkborne - Area 52"] = "Default",
 		["Jerkk - Bleeding Hollow"] = "Default",
 		["Albiorix - Emerald Dream"] = "Default",
 		["Sasúke - Gilneas"] = "Default",
 		["Genericbank - Darkspear"] = "Default",
+		["Holynoly - Altar of Storms"] = "Default",
 		["Voodroosaur - Bleeding Hollow"] = "Default",
-		["Dorkkborne - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -56,14 +58,16 @@ TomTomWaypointsM = {
 		["Geekk - Bleeding Hollow"] = "Geekk - Bleeding Hollow",
 		["Prodigie - Tichondrius"] = "Prodigie - Tichondrius",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Zzxzz - Skullcrusher"] = "Zzxzz - Skullcrusher",
 		["Dwarfdorkk - Dalaran"] = "Dwarfdorkk - Dalaran",
+		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
 		["Sasúke - Gilneas"] = "Sasúke - Gilneas",
 		["Genericbank - Darkspear"] = "Genericbank - Darkspear",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
 		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Dorkkborne - Area 52"] = "Dorkkborne - Area 52",
 	},
 	["profiles"] = {
 		["Platebaleful - Mal'Ganis"] = {
@@ -86,9 +90,61 @@ TomTomWaypointsM = {
 		},
 		["Eore - The Forgotten Coast"] = {
 		},
+		["Scongi - Kil'jaeden"] = {
+			[120] = {
+				["120:315000000:700000000:Frozen Lake"] = {
+					120, -- [1]
+					0.315, -- [2]
+					0.7, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Frozen Lake",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Frozen Lake",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["120:511000000:712000000:Brunn Village"] = {
+					120, -- [1]
+					0.511, -- [2]
+					0.7120000000000001, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Brunn Village",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Brunn Village",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+		},
 		["Zzxzz - Skullcrusher"] = {
 		},
 		["Dwarfdorkk - Dalaran"] = {
+		},
+		["Dorkkborne - Area 52"] = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
@@ -98,9 +154,9 @@ TomTomWaypointsM = {
 		},
 		["Genericbank - Darkspear"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
+		["Holynoly - Altar of Storms"] = {
 		},
-		["Dorkkborne - Area 52"] = {
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 	},
 }

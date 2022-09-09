@@ -1,0 +1,177 @@
+
+WorldBossTimersDB = {
+	["char"] = {
+		["Holynoly - Bleeding Hollow"] = {
+			["gui_position"] = {
+				["relativeToName"] = "UIParrent",
+				["point"] = "LEFT",
+				["relativePoint"] = "LEFT",
+				["yOfs"] = 43.73336029052734,
+				["xOfs"] = 250.9334106445313,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Pándan - Bleeding Hollow"] = "Pándan - Bleeding Hollow",
+		["Katdoge - Bleeding Hollow"] = "Katdoge - Bleeding Hollow",
+		["Nycee - Bleeding Hollow"] = "Nycee - Bleeding Hollow",
+		["Noliee - Bleeding Hollow"] = "Noliee - Bleeding Hollow",
+		["Inolie - Bleeding Hollow"] = "Inolie - Bleeding Hollow",
+		["Emogin - Bleeding Hollow"] = "Emogin - Bleeding Hollow",
+		["Trublmakr - Bleeding Hollow"] = "Trublmakr - Bleeding Hollow",
+		["Stryfë - Bleeding Hollow"] = "Stryfë - Bleeding Hollow",
+		["Holynoly - Bleeding Hollow"] = "Holynoly - Bleeding Hollow",
+		["Diá - Bleeding Hollow"] = "Diá - Bleeding Hollow",
+		["Blù - Bleeding Hollow"] = "Blù - Bleeding Hollow",
+		["Pandan - Earthen Ring"] = "Pandan - Earthen Ring",
+		["Nolieper - Bleeding Hollow"] = "Nolieper - Bleeding Hollow",
+		["Emoclëw - Bleeding Hollow"] = "Emoclëw - Bleeding Hollow",
+		["Trublmakr - Scarlet Crusade"] = "Trublmakr - Scarlet Crusade",
+	},
+	["global"] = {
+		["show_boss_zone_only"] = true,
+		["kill_infos"] = {
+			["Sha of Anger;BleedingHollow;Normal;379"] = {
+				["realm_type"] = "Normal",
+				["reset"] = false,
+				["map_id"] = 379,
+				["has_triggered_respawn"] = false,
+				["version"] = "v1.8",
+				["cyclic"] = false,
+				["safe"] = true,
+				["announce_times"] = {
+					1, -- [1]
+					2, -- [2]
+					3, -- [3]
+					10, -- [4]
+					30, -- [5]
+					60, -- [6]
+					300, -- [7]
+					600, -- [8]
+				},
+				["t_death"] = 1660851196,
+				["realm_name_normalized"] = "BleedingHollow",
+				["name"] = "Sha of Anger",
+				["realm_name"] = "Bleeding Hollow",
+				["db"] = {
+					["soundfile"] = 567275,
+					["map_id"] = 379,
+					["ids"] = {
+						60491, -- [1]
+					},
+					["color"] = "|cff8a1a9f",
+					["min_respawn"] = 600,
+					["random_spawn_time"] = true,
+					["name"] = "Sha of Anger",
+					["max_respawn"] = 1200,
+					["auto_announce"] = true,
+					["perimiter"] = {
+						["origin"] = {
+							["y"] = 0.64697766,
+							["x"] = 0.53787065,
+						},
+						["radius"] = 0.03,
+					},
+					["name_colored"] = "|cff8a1a9fSha of Anger|cffffffff",
+				},
+				["connected_realms_id"] = "BleedingHollow",
+				["until_time"] = 1660852396,
+				["remaining_time"] = -1413105,
+			},
+			["Rukhmar;BleedingHollow;Normal;542"] = {
+				["realm_type"] = "Normal",
+				["remaining_time"] = -1411689,
+				["map_id"] = 542,
+				["until_time"] = 1660853812,
+				["connected_realms_id"] = "BleedingHollow",
+				["cyclic"] = false,
+				["name"] = "Rukhmar",
+				["announce_times"] = {
+					1, -- [1]
+					2, -- [2]
+					3, -- [3]
+					10, -- [4]
+					30, -- [5]
+					60, -- [6]
+					300, -- [7]
+					600, -- [8]
+				},
+				["t_death"] = 1660852913,
+				["realm_name_normalized"] = "BleedingHollow",
+				["safe"] = true,
+				["realm_name"] = "Bleeding Hollow",
+				["db"] = {
+					["soundfile"] = "Interface/AddOns/WorldBossTimers/resources/sound/rukhmar1.mp3",
+					["map_id"] = 542,
+					["ids"] = {
+						83746, -- [1]
+					},
+					["color"] = "|cfffa6e06",
+					["min_respawn"] = 899,
+					["random_spawn_time"] = false,
+					["name"] = "Rukhmar",
+					["max_respawn"] = 899,
+					["auto_announce"] = true,
+					["perimiter"] = {
+						["origin"] = {
+							["y"] = 0.38439554,
+							["x"] = 0.37155128,
+						},
+						["radius"] = 0.04,
+					},
+					["name_colored"] = "|cfffa6e06Rukhmar|cffffffff",
+				},
+				["version"] = "v1.8",
+				["has_triggered_respawn"] = false,
+				["reset"] = false,
+			},
+			["Nalak;BleedingHollow;Normal;504"] = {
+				["realm_type"] = "Normal",
+				["remaining_time"] = -1320759,
+				["map_id"] = 504,
+				["until_time"] = 1660944742,
+				["connected_realms_id"] = "BleedingHollow",
+				["cyclic"] = false,
+				["name"] = "Nalak",
+				["announce_times"] = {
+					1, -- [1]
+					2, -- [2]
+					3, -- [3]
+					10, -- [4]
+					30, -- [5]
+					60, -- [6]
+					300, -- [7]
+					600, -- [8]
+				},
+				["t_death"] = 1660943542,
+				["realm_name_normalized"] = "BleedingHollow",
+				["version"] = "v1.8",
+				["realm_name"] = "Bleeding Hollow",
+				["db"] = {
+					["soundfile"] = 567275,
+					["map_id"] = 504,
+					["ids"] = {
+						69099, -- [1]
+					},
+					["color"] = "|cff0081cc",
+					["min_respawn"] = 600,
+					["random_spawn_time"] = true,
+					["name"] = "Nalak",
+					["max_respawn"] = 1200,
+					["auto_announce"] = true,
+					["perimiter"] = {
+						["origin"] = {
+							["y"] = 0.37266934,
+							["x"] = 0.60369474,
+						},
+						["radius"] = 0.04,
+					},
+					["name_colored"] = "|cff0081ccNalak|cffffffff",
+				},
+				["safe"] = false,
+				["has_triggered_respawn"] = false,
+				["reset"] = false,
+			},
+		},
+	},
+}

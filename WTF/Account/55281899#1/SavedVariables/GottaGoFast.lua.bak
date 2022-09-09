@@ -1,0 +1,26 @@
+
+GottaGoFastDB = {
+	["profileKeys"] = {
+		["Noliedin - Bleeding Hollow"] = "Default",
+		["Nycee - Bleeding Hollow"] = "Default",
+		["Katdoge - Bleeding Hollow"] = "Default",
+		["Blù - Bleeding Hollow"] = "Default",
+		["Noliee - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
+		["Emogin - Bleeding Hollow"] = "Default",
+		["Trublmakr - Bleeding Hollow"] = "Default",
+		["Stryfë - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
+		["Trublmakr - Scarlet Crusade"] = "Default",
+		["Emoclëw - Bleeding Hollow"] = "Default",
+		["Pandan - Earthen Ring"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Version"] = 40000,
+		},
+	},
+}

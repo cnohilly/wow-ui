@@ -15,12 +15,14 @@ PandariaTreasuresDB = {
 		["Eore - The Forgotten Coast"] = "Default",
 		["Lildorkk - Mal'Ganis"] = "Default",
 		["Trickk - Bleeding Hollow"] = "Default",
-		["Unorthodorkk - Bleeding Hollow"] = "Default",
 		["Jerkk - Bleeding Hollow"] = "Default",
 		["Genericbank - Darkspear"] = "Default",
-		["Voodroo - Bleeding Hollow"] = "Default",
+		["Unorthodorkk - Bleeding Hollow"] = "Default",
 		["Illidorkk - Bleeding Hollow"] = "Default",
+		["Holynoly - Altar of Storms"] = "Default",
+		["Voodroo - Bleeding Hollow"] = "Default",
 		["Dorkkborne - Area 52"] = "Default",
+		["Scongi - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

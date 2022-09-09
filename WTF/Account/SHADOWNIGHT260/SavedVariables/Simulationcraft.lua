@@ -16,12 +16,13 @@ SimulationCraftDB = {
 		["Illidorkk - Bleeding Hollow"] = "Illidorkk - Bleeding Hollow",
 		["Pricecheckin - Area 52"] = "Pricecheckin - Area 52",
 		["Trickk - Bleeding Hollow"] = "Trickk - Bleeding Hollow",
-		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Albiorix - Emerald Dream"] = "Albiorix - Emerald Dream",
-		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
-		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
+		["Unorthodorkk - Bleeding Hollow"] = "Unorthodorkk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
+		["Voodroo - Bleeding Hollow"] = "Voodroo - Bleeding Hollow",
 		["Eore - The Forgotten Coast"] = "Eore - The Forgotten Coast",
+		["Voodroosaur - Bleeding Hollow"] = "Voodroosaur - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Quirkk - Bleeding Hollow"] = {
@@ -58,17 +59,19 @@ SimulationCraftDB = {
 		},
 		["Trickk - Bleeding Hollow"] = {
 		},
-		["Unorthodorkk - Bleeding Hollow"] = {
-		},
 		["Albiorix - Emerald Dream"] = {
 		},
-		["Voodroosaur - Bleeding Hollow"] = {
-		},
-		["Voodroo - Bleeding Hollow"] = {
+		["Unorthodorkk - Bleeding Hollow"] = {
 		},
 		["Jerkk - Bleeding Hollow"] = {
 		},
+		["Holynoly - Altar of Storms"] = {
+		},
+		["Voodroo - Bleeding Hollow"] = {
+		},
 		["Eore - The Forgotten Coast"] = {
+		},
+		["Voodroosaur - Bleeding Hollow"] = {
 		},
 	},
 }

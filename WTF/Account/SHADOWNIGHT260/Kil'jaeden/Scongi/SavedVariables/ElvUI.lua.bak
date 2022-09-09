@@ -89,12 +89,274 @@ ElvCharacterDB = {
 			[51] = 1622570360,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
+		{
+			"*-", -- [1]
+			"Kúsh-Hakkar", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Kúsh-Hakkar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			721, -- [11]
+			"Player-1136-090B4C27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kúsh-Hakkar|r",
+			[51] = 1634659223,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [5]
+		{
+			"ill give u 1k if u sign", -- [1]
+			"Lowwgan-Tichondrius", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lowwgan-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			725, -- [11]
+			"Player-11-0E1FDB30", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Lowwgan-Tichondrius|r",
+			[51] = 1634662909,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [6]
+		{
+			"Selling FATED RAIDS 3 IN 1 BUNDLE for|cffa335ee|Hitem:190170::::::::1:1446:::::::::|h[Jigglesworth, Sr.]|h|r,Mythic+15s for|cffa335ee|Hitem:192557::::::::1:1446:::::::::|h[Restoration Deathwalker]|h|r ;and do Mythic Sylvanas for|cffa335ee|Hitem:186642::::::::1:1446:::::::::|h[Vengeance's Reins]|h|r}!,PST", -- [1]
+			"Cacelicia-Tichondrius", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Cacelicia-Tichondrius", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-11-0E3552DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cCacelicia-Tichondrius|r",
+			[51] = 1659667394,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"|cffffff00The Broken Front is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Icecrown", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Icecrown", -- [9]
+			0, -- [10]
+			25, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1659667572,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
+		{
+			"Anyone Here", -- [1]
+			"Wissegmini-Kil'jaeden", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Wissegmini-Kil'jaeden", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-9-0E204D45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Wissegmini|r",
+			[51] = 1659667591,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"nu", -- [1]
+			"Blckdinomite-Kil'jaeden", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Blckdinomite-Kil'jaeden", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-9-080AC00D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Blckdinomite|r",
+			[51] = 1659667671,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [10]
+		{
+			"|cff0070dd|Hitem:184489::::::::60:66:::::::::|h[Fae Harp]|h|rAnyone Give Me A Hand, Click On Drum Or Harp", -- [1]
+			"Wissegmini-Kil'jaeden", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Wissegmini-Kil'jaeden", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0E204D45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Wissegmini|r",
+			[51] = 1659667641,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [11]
+		{
+			"|cff1eff00|Hitem:175247::::::::60:268:::::::::|h[Unusually Large Mushroom]|h|r", -- [1]
+			"Wisegemini-Kil'jaeden", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Wisegemini-Kil'jaeden", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-9-07FAD7F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Wisegemini|r",
+			[51] = 1659672647,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [12]
+		{
+			"|cffffff00|Hworldmap:1565:3180:3040|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Wisegemini-Kil'jaeden", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Wisegemini-Kil'jaeden", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-9-07FAD7F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Wisegemini|r",
+			[51] = 1659672615,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [13]
+		{
+			"Homon'gozz", -- [1]
+			"Wisegemini-Kil'jaeden", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Wisegemini-Kil'jaeden", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			49, -- [11]
+			"Player-9-07FAD7F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Wisegemini|r",
+			[51] = 1659672626,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [14]
+		{
+			"Drops |cff71d5ff|Hspell:339632:0|h[Arboreal Gulper]|h|r", -- [1]
+			"Wisegemini-Kil'jaeden", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Wisegemini-Kil'jaeden", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-9-07FAD7F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Wisegemini|r",
+			[51] = 1659672636,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [15]
+		{
+			"i heard oyu looking cute today", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			40, -- [11]
+			false, -- [12]
+			32, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Sprootzz|r",
+			[51] = 1660927708,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sprootzz",
+		}, -- [16]
 	},
-	["BodyGuard"] = {
-		["Active"] = false,
-		["Health"] = 0,
-		["MaxHealth"] = 0,
-		["IsInValidZone"] = false,
+	["ConvertKeybindings"] = true,
+	["CliqueDatatext"] = {
 	},
 	["ChatEditHistory"] = {
 		" are you telling him to give me the pants over kim next drop ", -- [1]
@@ -102,12 +364,19 @@ ElvCharacterDB = {
 		" debuff", -- [3]
 		" back to mage", -- [4]
 		" brb", -- [5]
-		"/played", -- [6]
-		"rip", -- [7]
-		"back to mage", -- [8]
-		"/elvui", -- [9]
-		"debuff", -- [10]
-		"are you telling him to give me the pants over kim next drop", -- [11]
-		"brb", -- [12]
+		"/elvui", -- [6]
+		"are you telling him to give me the pants over kim next drop", -- [7]
+		"debuff", -- [8]
+		"brb", -- [9]
+		"/played", -- [10]
+		"back to mage", -- [11]
+		"rip", -- [12]
+		"/m", -- [13]
+	},
+	["BodyGuard"] = {
+		["Active"] = false,
+		["Health"] = 0,
+		["MaxHealth"] = 0,
+		["IsInValidZone"] = false,
 	},
 }

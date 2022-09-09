@@ -4,14 +4,16 @@ DecursiveDB = {
 		["Platebaleful - Mal'Ganis"] = "Default",
 		["Prodigie - Tichondrius"] = "Default",
 		["Eore - The Forgotten Coast"] = "Default",
+		["Smíte - The Forgotten Coast"] = "Default",
 		["Lildorkk - Mal'Ganis"] = "Default",
 		["Zzxzz - Skullcrusher"] = "Default",
 		["Dwarfdorkk - Dalaran"] = "Default",
+		["Dorkkore - Tichondrius"] = "Default",
 		["Unorthodorkk - Bleeding Hollow"] = "Default",
 		["Genericbank - Darkspear"] = "Default",
-		["Smíte - The Forgotten Coast"] = "Default",
+		["Holynoly - Altar of Storms"] = "Default",
 		["Lickk - Bleeding Hollow"] = "Default",
-		["Dorkkore - Tichondrius"] = "Default",
+		["Scongi - Kil'jaeden"] = "Default",
 		["Engidorkk - Tichondrius"] = "Default",
 	},
 	["class"] = {
@@ -94,7 +96,7 @@ DecursiveDB = {
 		},
 	},
 	["global"] = {
-		["LastVersionAnnounce"] = 1657215145,
+		["LastVersionAnnounce"] = 1662621691,
 	},
 	["profiles"] = {
 		["Default"] = {

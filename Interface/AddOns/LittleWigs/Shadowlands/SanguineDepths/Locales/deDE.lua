@@ -1,17 +1,16 @@
 local L = BigWigs:NewBossLocale("Sanguine Depths Trash", "deDE")
 if not L then return end
 if L then
-	--L.kaal_engage_trigger1 = "Guards! Slay them all!"
-	--L.kaal_engage_trigger2 = "That prisoner belongs to the Master. You will not take it!"
-	--L.kaal_engage_trigger3 = "These halls will be your tomb!"
-	--L.kaal_retreat_trigger1 = "Wretched mortals!"
-	--L.kaal_retreat_trigger2 = "You are nothing but Draven's dogs!"
-	--L.kaal_retreat_trigger3 = "Stubborn rebels. You will meet your end!"
+	L.kaal_engage_trigger1 = "Wachen! Tötet sie alle!"
+	L.kaal_engage_trigger2 = "Der Gefangene gehört dem Meister! Ihr bekommt ihn nicht!"
+	L.kaal_engage_trigger3 = "Diese Hallen werden Euer Grab!"
+	L.kaal_retreat_trigger1 = "Verfluchte Sterbliche!"
+	L.kaal_retreat_trigger2 = "Ihr seid doch nur Dravens Lakaien!"
+	L.kaal_retreat_trigger3 = "Sture Rebellen. Hier findet Ihr Euer Ende!"
 	L.anima_collector = "Animasammler"
 	L.chamber_sentinel = "Kammerwache"
 	L.depths_warden = "Tiefenwächter"
 	L.dreadful_huntmaster = "Schrecklicher Meisterjäger"
-	L.general_kaal = "Generalin Kaal"
 	L.grand_overseer = "Oberaufseher"
 	L.head_custodian_javlin = "Oberverwalter Javlin"
 	L.insatiable_brute = "Unersättlicher Schläger"
@@ -19,4 +18,5 @@ if L then
 	L.research_scribe = "Forschungsschreiberin"
 	L.wicked_oppressor = "Tückische Unterdrückerin"
 	L.ravenous_dreadbat = "Unersättliche Fleddermaus"
+	L.zrali = "Z'rali"
 end

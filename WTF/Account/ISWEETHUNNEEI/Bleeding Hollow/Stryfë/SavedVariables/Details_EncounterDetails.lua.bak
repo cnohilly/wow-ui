@@ -3,150 +3,600 @@ EncounterDetailsDB = {
 	["emotes"] = {
 		{
 			{
-				6.021000000007916, -- [1]
-				"I am the lucid dream.", -- [2]
+				7.058999999950174, -- [1]
+				"Yes! YES! Show them no mercy! Give no pause to your attacks!", -- [2]
 				"Sara", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				11.05900000000838, -- [1]
-				"The monster in your nightmares.", -- [2]
-				"Sara", -- [3]
-				7, -- [4]
+				8.256999999983236, -- [1]
+				"%s begins to boil upon touching Stryfë!", -- [2]
+				"Ominous Cloud", -- [3]
+				3, -- [4]
 			}, -- [2]
 			{
-				11.50900000002002, -- [1]
-				"What a battle! Did you see that, Rhydian?!", -- [2]
-				"Brann Bronzebeard", -- [3]
-				7, -- [4]
+				11.87699999997858, -- [1]
+				"%s begins to boil upon touching Stryfë!", -- [2]
+				"Ominous Cloud", -- [3]
+				3, -- [4]
 			}, -- [3]
 			{
-				15.92999999999302, -- [1]
-				"The fiend of a thousand faces.", -- [2]
+				23.30899999995017, -- [1]
+				"I am the lucid dream.", -- [2]
 				"Sara", -- [3]
 				7, -- [4]
 			}, -- [4]
 			{
-				20.40000000002328, -- [1]
-				"Our friends fought well, Brann, but we're not done yet.", -- [2]
-				"Archmage Rhydian", -- [3]
+				28.12299999996321, -- [1]
+				"The monster in your nightmares.", -- [2]
+				"Sara", -- [3]
 				7, -- [4]
 			}, -- [5]
 			{
-				20.76600000000326, -- [1]
-				"Cower before my true form.", -- [2]
+				32.97999999998137, -- [1]
+				"The fiend of a thousand faces.", -- [2]
 				"Sara", -- [3]
 				7, -- [4]
 			}, -- [6]
 			{
-				22.80099999997765, -- [1]
-				"BOW DOWN BEFORE THE GOD OF DEATH!", -- [2]
-				"Yogg-Saron", -- [3]
+				37.81500000000233, -- [1]
+				"Cower before my true form.", -- [2]
+				"Sara", -- [3]
 				7, -- [4]
 			}, -- [7]
 			{
-				28.9089999999851, -- [1]
-				"Perhaps so, but it's only a matter of time until we break back into Ulduar. Any luck finding a way to teleport inside?", -- [2]
-				"Brann Bronzebeard", -- [3]
+				40.23299999994924, -- [1]
+				"BOW DOWN BEFORE THE GOD OF DEATH!", -- [2]
+				"Yogg-Saron", -- [3]
 				7, -- [4]
 			}, -- [8]
 			{
-				31.34200000000419, -- [1]
+				48.75699999998324, -- [1]
 				"Portals open into %s's mind!", -- [2]
 				"Yogg-Saron", -- [3]
 				1, -- [4]
 			}, -- [9]
 			{
-				31.34200000000419, -- [1]
+				48.75699999998324, -- [1]
 				"MADNESS WILL CONSUME YOU!", -- [2]
 				"Yogg-Saron", -- [3]
 				7, -- [4]
 			}, -- [10]
 			{
-				37.3300000000163, -- [1]
-				"None at all. I suspect it has something to do with that giant mechanical construct that our scouts spotted in front of the gate.", -- [2]
-				"Archmage Rhydian", -- [3]
-				7, -- [4]
+				54.76199999998789, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
 			}, -- [11]
 			{
-				42.50099999998929, -- [1]
+				57.23299999994924, -- [1]
+				"Bad news, sire.", -- [2]
+				"Garona", -- [3]
+				4, -- [4]
+			}, -- [12]
+			{
+				57.74699999997392, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [13]
+			{
+				58.73099999997066, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [14]
+			{
+				59.78200000000652, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [15]
+			{
+				59.78200000000652, -- [1]
 				"Tremble, mortals, before the coming of the end!", -- [2]
 				"Sara", -- [3]
 				7, -- [4]
+			}, -- [16]
+			{
+				60.75, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [17]
+			{
+				61.75099999998929, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [18]
+			{
+				61.75099999998929, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [19]
+			{
+				62.74199999996927, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [20]
+			{
+				62.74199999996927, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [21]
+			{
+				63.31899999995949, -- [1]
+				"The clans are united under Blackhand in this assault. They will stand together until Stormwind has fallen.", -- [2]
+				"Garona", -- [3]
+				4, -- [4]
+			}, -- [22]
+			{
+				63.74199999996927, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [23]
+			{
+				63.74199999996927, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [24]
+			{
+				64.75299999996787, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [25]
+			{
+				64.75299999996787, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [26]
+			{
+				65.73699999996461, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [27]
+			{
+				65.73699999996461, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [28]
+			{
+				66.7379999999539, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [29]
+			{
+				66.7379999999539, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [30]
+			{
+				67.7719999999972, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [31]
+			{
+				67.7719999999972, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [32]
+			{
+				68.75599999999395, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [33]
+			{
+				68.75599999999395, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [34]
+			{
+				69.75699999998324, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [35]
+			{
+				69.75699999998324, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [36]
+			{
+				70.74099999997998, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [37]
+			{
+				71.64199999999255, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [38]
+			{
+				71.64199999999255, -- [1]
+				"Gul'dan is bringing up his warlocks by nightfall. Until then, the Blackrock clan will be trying to take the Eastern Wall.", -- [2]
+				"Garona", -- [3]
+				4, -- [4]
+			}, -- [39]
+			{
+				72.59499999997206, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [40]
+			{
+				73.77700000000186, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [41]
+			{
+				74.74400000000605, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [42]
+			{
+				75.62799999996787, -- [1]
+				"The illusion shatters and a path to the central chamber opens!", -- [2]
+				"Brain of Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [43]
+			{
+				80.28200000000652, -- [1]
+				"Look upon the true face of death, and know that your end comes soon!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [44]
+			{
+				81.51600000000326, -- [1]
+				"%s prepares to unleash Empowering Shadows!", -- [2]
+				"Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [45]
+			{
+				81.51600000000326, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [46]
+			{
+				83.51799999998184, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [47]
+			{
+				84.51899999997113, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [48]
+			{
+				85.51999999996042, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [49]
+			["boss"] = "Yogg-Saron",
+		}, -- [1]
+		{
+			{
+				2.385999999998603, -- [1]
+				"I am the lucid dream.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				6.459000000031665, -- [1]
+				"Our friends fought well, Brann, but we're not done yet.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				7.288999999989756, -- [1]
+				"The monster in your nightmares.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				12.11000000004424, -- [1]
+				"The fiend of a thousand faces.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				14.99600000004284, -- [1]
+				"Perhaps so, but it's only a matter of time until we break back into Ulduar. Any luck finding a way to teleport inside?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				16.99700000003213, -- [1]
+				"Cower before my true form.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				19.41600000002654, -- [1]
+				"BOW DOWN BEFORE THE GOD OF DEATH!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				23.46900000004098, -- [1]
+				"None at all. I suspect it has something to do with that giant mechanical construct that our scouts spotted in front of the gate.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				27.95600000000559, -- [1]
+				"Portals open into %s's mind!", -- [2]
+				"Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				27.95600000000559, -- [1]
+				"MADNESS WILL CONSUME YOU!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				30.94200000003912, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [11]
+			{
+				31.95900000003167, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
 			}, -- [12]
 			{
-				45.93699999997625, -- [1]
+				31.95900000003167, -- [1]
 				"Oi. So we'll have to contend with that thing after all then?", -- [2]
 				"Brann Bronzebeard", -- [3]
 				7, -- [4]
 			}, -- [13]
 			{
-				47.20400000002701, -- [1]
-				"That terrible glow... should that be?", -- [2]
-				"Ysera", -- [3]
-				4, -- [4]
+				39.1480000000447, -- [1]
+				"Tremble, mortals, before the coming of the end!", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
 			}, -- [14]
 			{
-				52.04200000001583, -- [1]
+				40.4660000000149, -- [1]
+				"What about the plated proto-drake and the fire giant that were spotted nearby? Think your mages can handle those?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				41.68700000003446, -- [1]
 				"The illusion shatters and a path to the central chamber opens!", -- [2]
 				"Brain of Yogg-Saron", -- [3]
 				1, -- [4]
+			}, -- [16]
+			{
+				48.98999999999069, -- [1]
+				"The Kirin Tor can't possibly spare any additional resources to take on anything that size. We may not have to though.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				51.00800000003073, -- [1]
+				"Look upon the true face of death, and know that your end comes soon!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				52.22600000002421, -- [1]
+				"%s prepares to unleash Empowering Shadows!", -- [2]
+				"Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [19]
+			{
+				52.22600000002421, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [20]
+			{
+				54.21100000001025, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [21]
+			{
+				55.21100000001025, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [22]
+			["boss"] = "Yogg-Saron",
+		}, -- [2]
+		{
+			{
+				4.387999999977183, -- [1]
+				"What a battle! Did you see that, Rhydian?!", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				4.387999999977183, -- [1]
+				"I am the lucid dream.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				9.224999999976717, -- [1]
+				"The monster in your nightmares.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				13.32799999997951, -- [1]
+				"Our friends fought well, Brann, but we're not done yet.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				14.13099999999395, -- [1]
+				"The fiend of a thousand faces.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				19.01600000000326, -- [1]
+				"Cower before my true form.", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				21.41800000000512, -- [1]
+				"BOW DOWN BEFORE THE GOD OF DEATH!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				21.70100000000093, -- [1]
+				"Perhaps so, but it's only a matter of time until we break back into Ulduar. Any luck finding a way to teleport inside?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				29.92399999999907, -- [1]
+				"Portals open into %s's mind!", -- [2]
+				"Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				29.92399999999907, -- [1]
+				"MADNESS WILL CONSUME YOU!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				30.30800000001909, -- [1]
+				"None at all. I suspect it has something to do with that giant mechanical construct that our scouts spotted in front of the gate.", -- [2]
+				"Archmage Rhydian", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				38.83799999998882, -- [1]
+				"Oi. So we'll have to contend with that thing after all then?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				40.91700000001583, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [13]
+			{
+				41.13300000003073, -- [1]
+				"Tremble, mortals, before the coming of the end!", -- [2]
+				"Sara", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				41.90299999999115, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
 			}, -- [15]
 			{
-				54.3300000000163, -- [1]
+				47.32199999998557, -- [1]
 				"What about the plated proto-drake and the fire giant that were spotted nearby? Think your mages can handle those?", -- [2]
 				"Brann Bronzebeard", -- [3]
 				7, -- [4]
 			}, -- [16]
 			{
-				59.74800000002142, -- [1]
-				"Look upon the true face of death, and know that your end comes soon!", -- [2]
-				"Yogg-Saron", -- [3]
+				55.87900000001537, -- [1]
+				"The Kirin Tor can't possibly spare any additional resources to take on anything that size. We may not have to though.", -- [2]
+				"Archmage Rhydian", -- [3]
 				7, -- [4]
 			}, -- [17]
 			{
-				60.53200000000652, -- [1]
-				"%s prepares to unleash Empowering Shadows!", -- [2]
-				"Yogg-Saron", -- [3]
-				1, -- [4]
+				59.91499999997905, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
 			}, -- [18]
 			{
-				60.53200000000652, -- [1]
-				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				60.89899999997579, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
 				"Stryfë", -- [3]
 				2, -- [4]
 			}, -- [19]
-			["boss"] = "Yogg-Saron",
-		}, -- [1]
-		{
 			{
-				0.2069999999948777, -- [1]
-				"You are forbidden from my master's domain, mortals.", -- [2]
-				"Baleroc", -- [3]
-				7, -- [4]
-			}, -- [1]
-			["boss"] = "Baleroc",
-		}, -- [2]
-		{
+				61.91700000001583, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 2%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [20]
 			{
-				0.1, -- [1]
-				"Hah? Hruumph? Soft little fleshy-things? Here? Nuisances, nuisances!", -- [2]
-				"Lord Rhyolith", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				3.332999999984168, -- [1]
-				"%s stumbles as his armor is shattered!", -- [2]
-				"Lord Rhyolith", -- [3]
+				62.71700000000419, -- [1]
+				"The illusion shatters and a path to the central chamber opens!", -- [2]
+				"Brain of Yogg-Saron", -- [3]
 				1, -- [4]
-			}, -- [2]
+			}, -- [21]
 			{
-				3.332999999984168, -- [1]
-				"Eons I have slept undisturbed... Now this... Creatures of flesh, now you will BURN!", -- [2]
-				"Lord Rhyolith", -- [3]
+				64.39199999999255, -- [1]
+				"We can sneak past them. As long as we can take down that construct in front of the gate, we should be able to get inside.", -- [2]
+				"Archmage Rhydian", -- [3]
 				7, -- [4]
-			}, -- [3]
-			["boss"] = "Lord Rhyolith",
+			}, -- [22]
+			{
+				71.30800000001909, -- [1]
+				"Look upon the true face of death, and know that your end comes soon!", -- [2]
+				"Yogg-Saron", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				72.52500000002328, -- [1]
+				"%s prepares to unleash Empowering Shadows!", -- [2]
+				"Yogg-Saron", -- [3]
+				1, -- [4]
+			}, -- [24]
+			{
+				72.52500000002328, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [25]
+			{
+				72.94199999998091, -- [1]
+				"Sneak?! What do you think we are, marmots?", -- [2]
+				"Brann Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				74.51000000000931, -- [1]
+				"|TInterface\\Icons\\Spell_Arcane_MindMastery.blp:24|t|cFFFF8900 4%% Sanity Lost|r", -- [2]
+				"Stryfë", -- [3]
+				2, -- [4]
+			}, -- [27]
+			["boss"] = "Yogg-Saron",
 		}, -- [3]
 	},
 	["encounter_spells"] = {
@@ -217,6 +667,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Skybreaker Hierophant",
 		},
+		[64157] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Corruptor Tentacle",
+		},
 		[69898] = {
 			["school"] = 8,
 			["token"] = {
@@ -260,6 +721,7 @@ EncounterDetailsDB = {
 		[63038] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Guardian of Yogg-Saron",
@@ -318,6 +780,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Qiang the Merciless",
 		},
+		[63891] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Sara",
+		},
 		[99530] = {
 			["school"] = 4,
 			["token"] = {
@@ -335,6 +805,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mogu'shan Warden",
 		},
+		[98837] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Right Foot",
+		},
 		[69963] = {
 			["school"] = 2,
 			["token"] = {
@@ -344,6 +822,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Skybreaker Vicar",
 		},
+		[99845] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Lord Rhyolith",
+		},
+		[63884] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
 		[117485] = {
 			["school"] = 1,
 			["token"] = {
@@ -351,12 +842,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Emperor's Courage",
 		},
+		[117539] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Undying Shadows",
+		},
 		[63134] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Sara",
+		},
+		[57688] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Crusher Tentacle",
 		},
 		[65301] = {
 			["school"] = 32,
@@ -375,14 +884,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Immortal Guardian",
 		},
-		[99913] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Unbound Smoldering Elemental",
-		},
 		[118303] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -392,6 +893,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Undying Shadows",
 		},
+		[118049] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Subetai the Swift",
+		},
 		[115771] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -399,87 +908,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Cobalt Guardian",
-		},
-		[98837] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Right Foot",
-		},
-		[99845] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Lord Rhyolith",
-		},
-		[64059] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Brain of Yogg-Saron",
-		},
-		[124947] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Elegon",
-		},
-		[63891] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Sara",
-		},
-		[117539] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Undying Shadows",
-		},
-		[116970] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Stone Quilen",
-		},
-		[72350] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "The Lich King",
-		},
-		[71139] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Skybreaker Vicar",
-		},
-		[57688] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Crusher Tentacle",
 		},
 		[71614] = {
 			["school"] = 16,
@@ -497,12 +925,41 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Guardian of Yogg-Saron",
 		},
-		[70985] = {
+		[64059] = {
 			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Brain of Yogg-Saron",
+		},
+		[124947] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Blood-Queen Lana'thel",
+			["source"] = "Elegon",
+		},
+		[71405] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Prince Keleseth",
+		},
+		[116970] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Stone Quilen",
+		},
+		[115827] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Jade Guardian",
 		},
 		[70952] = {
 			["school"] = 1,
@@ -511,12 +968,59 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Prince Valanar",
 		},
-		[71405] = {
-			["school"] = 32,
+		[71139] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Prince Keleseth",
+			["source"] = "Skybreaker Vicar",
+		},
+		[99333] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Beth'tilac",
+		},
+		[99913] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Unbound Smoldering Elemental",
+		},
+		[69912] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Skybreaker Dreadblade",
+		},
+		[117910] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Qiang the Merciless",
+		},
+		[115828] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Jasper Guardian",
+		},
+		[69634] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Muradin Bronzebeard",
 		},
 		[69925] = {
 			["school"] = 8,
@@ -543,13 +1047,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Svalna",
 		},
-		[99333] = {
-			["school"] = 4,
+		[64167] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Beth'tilac",
+			["source"] = "Laughing Skull",
 		},
 		[70084] = {
 			["school"] = 16,
@@ -603,27 +1108,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "The Lich King",
 		},
-		[115828] = {
-			["school"] = 1,
+		[68983] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Lich King",
+		},
+		[71769] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Jasper Guardian",
-		},
-		[117910] = {
-			["school"] = 1,
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Qiang the Merciless",
+			["source"] = "The Lich King",
 		},
-		[70475] = {
-			["school"] = 1,
+		[64775] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Putricide's Trap",
+			["source"] = "Sara",
 		},
 		[64163] = {
 			["school"] = 32,
@@ -634,23 +1142,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yogg-Saron",
 		},
-		[64167] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Laughing Skull",
-		},
-		[69634] = {
+		[101406] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Muradin Bronzebeard",
+			["source"] = "Deathbringer Saurfang",
+		},
+		[65719] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Guardian of Yogg-Saron",
 		},
 		[69926] = {
 			["school"] = 8,
@@ -667,19 +1173,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Deathwhisper",
 		},
-		[69869] = {
-			["school"] = 20,
+		[70475] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Skybreaker Sorcerer",
+			["source"] = "Putricide's Trap",
 		},
-		[68983] = {
-			["school"] = 16,
+		[100057] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "The Lich King",
+			["source"] = "Hell Hound",
 		},
 		[69958] = {
 			["school"] = 8,
@@ -720,21 +1226,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Stone Quilen",
 		},
+		[63830] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sara",
+		},
 		[64465] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Yogg-Saron",
-		},
-		[71769] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "The Lich King",
 		},
 		[70395] = {
 			["school"] = 8,
@@ -743,36 +1251,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spire Minion",
 		},
-		[70109] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Sindragosa",
-		},
-		[69916] = {
-			["school"] = 16,
+		[69967] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Skybreaker Dreadblade",
-		},
-		[69911] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Skybreaker Dreadblade",
-		},
-		[99812] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Giant Fire Scorpion",
+			["source"] = "Skybreaker Vicar",
 		},
 		[64153] = {
 			["school"] = 8,
@@ -784,13 +1269,34 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Corruptor Tentacle",
 		},
+		[69911] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Skybreaker Dreadblade",
+		},
+		[116977] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Stone Quilen",
+		},
+		[71943] = {
+			["school"] = 96,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Prince Keleseth",
+		},
 		[70189] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Spire Gargoyle",
 		},
@@ -803,27 +1309,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Deathbringer Saurfang",
 		},
-		[71943] = {
-			["school"] = 96,
+		[69916] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Prince Keleseth",
+			["source"] = "Skybreaker Dreadblade",
 		},
-		[116977] = {
+		[70109] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Stone Quilen",
-		},
-		[69967] = {
-			["school"] = 2,
-			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Skybreaker Vicar",
+			["source"] = "Sindragosa",
+		},
+		[99812] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Giant Fire Scorpion",
 		},
 		[69975] = {
 			["school"] = 4,
@@ -836,14 +1344,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Skybreaker Marksman",
 		},
-		[64775] = {
-			["school"] = 32,
+		[64013] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sara",
+			["source"] = "Suit of Armor",
 		},
 		[64144] = {
 			["school"] = 1,
@@ -877,12 +1384,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Corruptor Tentacle",
 		},
-		[100057] = {
-			["school"] = 1,
+		[64160] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Hell Hound",
+			["source"] = "Immortal Guardian",
 		},
 		[64164] = {
 			["school"] = 32,
@@ -891,12 +1398,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yogg-Saron",
 		},
-		[69912] = {
-			["school"] = 1,
+		[64168] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Skybreaker Dreadblade",
+			["source"] = "Laughing Skull",
 		},
 		[69920] = {
 			["school"] = 1,
@@ -905,13 +1412,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Skybreaker Assassin",
 		},
-		[101406] = {
-			["school"] = 1,
+		[69869] = {
+			["school"] = 20,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Deathbringer Saurfang",
+			["source"] = "Skybreaker Sorcerer",
 		},
 		[70444] = {
 			["school"] = 4,
@@ -934,13 +1440,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frost Freeze Trap",
 		},
-		[65719] = {
+		[70985] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Guardian of Yogg-Saron",
+			["source"] = "Blood-Queen Lana'thel",
 		},
 		[69968] = {
 			["school"] = 8,
@@ -950,13 +1455,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Skybreaker Hierophant",
 		},
-		[115827] = {
-			["school"] = 1,
+		[72350] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Jade Guardian",
+			["source"] = "The Lich King",
 		},
 		[71254] = {
 			["school"] = 32,
@@ -990,13 +1499,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zian of the Endless Shadow",
 		},
-		[118049] = {
-			["school"] = 1,
+		[64145] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Subetai the Swift",
+			["source"] = "Crusher Tentacle",
 		},
 	},
 }

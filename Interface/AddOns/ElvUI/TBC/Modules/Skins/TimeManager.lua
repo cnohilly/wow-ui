@@ -5,6 +5,14 @@ local _G = _G
 local unpack, select = unpack, select
 local hooksecurefunc = hooksecurefunc
 
+local function SetPlayTexture()
+	_G.StopwatchPlayPauseButton:SetNormalTexture(E.Media.Textures.Play)
+end
+
+local function SetPauseTexture()
+	_G.StopwatchPlayPauseButton:SetNormalTexture(E.Media.Textures.Pause)
+end
+
 function S:Blizzard_TimeManager()
 	if not (E.private.skins.blizzard.enable and E.private.skins.blizzard.timemanager) then return end
 
@@ -19,7 +27,7 @@ function S:Blizzard_TimeManager()
 
 	_G.TimeManagerStopwatchFrame:Point('TOPRIGHT', 10, -12)
 
-	_G.TimeManagerStopwatchCheck:SetTemplate('Default')
+	_G.TimeManagerStopwatchCheck:SetTemplate()
 	_G.TimeManagerStopwatchCheck:StyleButton(nil, true)
 
 	_G.TimeManagerStopwatchCheck:GetNormalTexture():SetInside()
@@ -54,7 +62,7 @@ function S:Blizzard_TimeManager()
 
 	S:HandleCloseButton(_G.StopwatchCloseButton)
 
-	_G.StopwatchPlayPauseButton:CreateBackdrop('Default', true)
+	_G.StopwatchPlayPauseButton:CreateBackdrop(nil, true)
 	_G.StopwatchPlayPauseButton:SetSize(12, 12)
 	_G.StopwatchPlayPauseButton:SetNormalTexture(E.Media.Textures.Play)
 	_G.StopwatchPlayPauseButton:SetHighlightTexture('')
@@ -66,13 +74,6 @@ function S:Blizzard_TimeManager()
 	_G.StopwatchResetButton:SetSize(16,16)
 	_G.StopwatchResetButton:SetNormalTexture(E.Media.Textures.Reset)
 	_G.StopwatchResetButton:Point('BOTTOMRIGHT', _G.StopwatchFrame, 'BOTTOMRIGHT', -4, 6)
-
-	local function SetPlayTexture()
-		_G.StopwatchPlayPauseButton:SetNormalTexture(E.Media.Textures.Play)
-	end
-	local function SetPauseTexture()
-		_G.StopwatchPlayPauseButton:SetNormalTexture(E.Media.Textures.Pause)
-	end
 
 	hooksecurefunc('Stopwatch_Play', SetPauseTexture)
 	hooksecurefunc('Stopwatch_Pause', SetPlayTexture)

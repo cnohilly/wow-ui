@@ -4,228 +4,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"i think the problem is they think they're on mythic level already and assume that heroic is just alt night", -- [1]
-			"|Kq40|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			98, -- [11]
-			false, -- [12]
-			5, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1623810480,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Dorkk",
-		}, -- [1]
-		{
-			"which it could be if half the raid wasn't dumb and undergeared probably", -- [1]
-			"|Kq40|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			99, -- [11]
-			false, -- [12]
-			5, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Dorkk|r",
-			[51] = 1623810498,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Dorkk",
-		}, -- [2]
-		{
-			"awe, well i can bakc up everything, but thank you for your comments, have a glorious day", -- [1]
-			"Mysteroctomy-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mysteroctomy-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			102, -- [11]
-			"Player-73-0E7EE5A3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Mysteroctomy|r",
-			[51] = 1623810553,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"Ad post here. Sellin everything that every other boosting community is but cheaper. You know the drill. Gold only - slide into my DM's ;)", -- [1]
-			"Mysteroctomy-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mysteroctomy-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			104, -- [11]
-			"Player-73-0E7EE5A3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Mysteroctomy|r",
-			[51] = 1623810556,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"<Trap>Is Recruiting Raiders!! With multiple Raid options, We Povide a Competitive/Organized/Fun Raid Environment! Active Discord/Casual-Alt Runs/Mythic+ Grps! [18+] 3 Raid Teams Pst for times/Days info. Our 9-12 Thur+Mon Slot is looking for raiders.", -- [1]
-			"Nephylm-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nephylm-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			106, -- [11]
-			"Player-73-068A536C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Nephylm|r",
-			[51] = 1623810567,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-241115-73-56674423|h[Guild: Innervate]|h|r (5/10M) is recruiting Tank and DPS for Mythic progression! We are a LATE NIGHT Raiding Guild! Raid times are Tues/Wed Midnight - 3am EST Accepting all LATE NIGHT players. ", -- [1]
-			"Cheerlead-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cheerlead-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			107, -- [11]
-			"Player-73-0E7F7BF4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaCheerlead|r",
-			[51] = 1623810580,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"im just joshin ya man ur adds funny", -- [1]
-			"Raxix-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Raxix-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			108, -- [11]
-			"Player-73-0E78FFDC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Raxix|r",
-			[51] = 1623810584,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"a bit too funny", -- [1]
-			"Scottip-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scottip-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			112, -- [11]
-			"Player-73-0E74EB5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Scottip|r",
-			[51] = 1623810601,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"ty, come buy something :)", -- [1]
-			"Mysteroctomy-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mysteroctomy-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			113, -- [11]
-			"Player-73-0E7EE5A3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Mysteroctomy|r",
-			[51] = 1623810605,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"lol", -- [1]
-			"Scottip-BleedingHollow", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scottip-BleedingHollow", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			114, -- [11]
-			"Player-73-0E74EB5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Scottip|r",
-			[51] = 1623810608,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
 			"hmmmmm <_< >_>", -- [1]
 			"Raxix-BleedingHollow", -- [2]
 			"", -- [3]
@@ -246,7 +24,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Raxix|r",
 			[51] = 1623810619,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [1]
 		{
 			"nah im just window shopping,thanks", -- [1]
 			"Raxix-BleedingHollow", -- [2]
@@ -268,7 +46,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Raxix|r",
 			[51] = 1623810662,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [2]
 		{
 			"WTS M+ 0-20 |||| Torghast Layers 1-8! Also Level Boosting! We offer specific keys and armor stacks (Ask me about the DEALS!) M+15s on time. Also WTS  Heroic/Mythic Castle Nathria !!GOLD ONLY!! <Huokan Community>", -- [1]
 			"Gøod-BleedingHollow", -- [2]
@@ -290,7 +68,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Gøod|r",
 			[51] = 1623810672,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [3]
 		{
 			"<OD Gaming> is LFM to join our Mythic CE team in need of all roles for 9.1 progression and M+ pushes. Raid times are Tues/Thurs 7:30-10:30 est. If you have any questions please feel free to reach out to Ceresc or Syvaraa.", -- [1]
 			"Ceresc-BleedingHollow", -- [2]
@@ -312,7 +90,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ceresc|r",
 			[51] = 1623810675,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [4]
 		{
 			"well let me know :))", -- [1]
 			"Mysteroctomy-BleedingHollow", -- [2]
@@ -334,7 +112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Mysteroctomy|r",
 			[51] = 1623810684,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [5]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6719:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Stone Guard]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -356,7 +134,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655708966,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [16]
+		}, -- [6]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6720:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Feng the Accursed]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -378,7 +156,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655709116,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [17]
+		}, -- [7]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6721:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Gara'jal the Spiritbinder]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -400,7 +178,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655709277,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [18]
+		}, -- [8]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6722:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Four Kings]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -422,7 +200,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655709533,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [19]
+		}, -- [9]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6723:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Elegon]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -444,7 +222,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655709892,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [20]
+		}, -- [10]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6724:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Will of the Emperor]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -466,7 +244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655710030,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [21]
+		}, -- [11]
 		{
 			"WTS |cff1eff00|Hitem:121012::::::::20:255:::3:6654:1808:1676:2:9:24:28:1705:::::|h[Azurewing Defender's Drape of the Quickblade]|h|r|cff1eff00|Hitem:121024::::::::20:255:::4:6654:1808:42:1687:2:9:24:28:1705:::::|h[Llothien Waistband of the Peerless]|h|r|cff1eff00|Hitem:121054::::::::20:255:::4:6654:1808:42:1681:2:9:25:28:1705:::::|h[Temporal Scholar's Shoulderpads of the Quickblade]|h|r", -- [1]
 			"Synx-BleedingHollow", -- [2]
@@ -488,7 +266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Synx|r",
 			[51] = 1655710195,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [12]
 		{
 			"ill give you 30s for all of them", -- [1]
 			"Heendra-BleedingHollow", -- [2]
@@ -510,7 +288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Heendra|r",
 			[51] = 1655710151,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [13]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6725:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Imperial Vizier Zor'lok]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -532,7 +310,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655710943,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [24]
+		}, -- [14]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5118:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halfus Wyrmbreaker]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -554,7 +332,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655711432,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [25]
+		}, -- [15]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5117:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Valiona and Theralion]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -576,7 +354,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655711499,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [26]
+		}, -- [16]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5119:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Ascendant Council]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -598,7 +376,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655711609,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [27]
+		}, -- [17]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5311:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Elementary]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -620,7 +398,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655711609,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [28]
+		}, -- [18]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5312:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[The Abyss Will Gaze Back Into You]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -642,7 +420,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655711683,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [29]
+		}, -- [19]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4850:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[The Bastion of Twilight]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -664,7 +442,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655711683,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [30]
+		}, -- [20]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5120:Player-73-09C7DA56:1:6:20:22:4294967295:4294967295:4294967295:4294967295|h[Heroic: Cho'gall]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -686,7 +464,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1655711683,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [31]
+		}, -- [21]
 		{
 			"GRATS", -- [1]
 			"|Kq35|k", -- [2]
@@ -709,7 +487,7 @@ ElvCharacterDB = {
 			[51] = 1656002719,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [32]
+		}, -- [22]
 		{
 			":O |Hitem:87777::::::::60:70::::1:28:872:::::|h[Reins of the Astral Cloud Serpent]|h", -- [1]
 			"|Kq35|k", -- [2]
@@ -732,7 +510,7 @@ ElvCharacterDB = {
 			[51] = 1656002720,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [33]
+		}, -- [23]
 		{
 			"wait you saw that?", -- [1]
 			"|Kq35|k", -- [2]
@@ -755,7 +533,7 @@ ElvCharacterDB = {
 			[51] = 1656002726,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [34]
+		}, -- [24]
 		{
 			"oh shit i didnt know it was an achievement lmao", -- [1]
 			"|Kq35|k", -- [2]
@@ -778,7 +556,7 @@ ElvCharacterDB = {
 			[51] = 1656002800,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [35]
+		}, -- [25]
 		{
 			"[10:47:04] [Pándan] has received [Reins of the Astral Cloud Serpent]!", -- [1]
 			"|Kq35|k", -- [2]
@@ -801,7 +579,7 @@ ElvCharacterDB = {
 			[51] = 1656002801,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [36]
+		}, -- [26]
 		{
 			"think if you are in the same guild it tells you when a mount drops", -- [1]
 			"|Kq35|k", -- [2]
@@ -824,7 +602,7 @@ ElvCharacterDB = {
 			[51] = 1656002817,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [37]
+		}, -- [27]
 		{
 			"that's new", -- [1]
 			"|Kq35|k", -- [2]
@@ -847,7 +625,7 @@ ElvCharacterDB = {
 			[51] = 1656002766,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [38]
+		}, -- [28]
 		{
 			"i think so, but GRATS", -- [1]
 			"|Kq35|k", -- [2]
@@ -870,7 +648,7 @@ ElvCharacterDB = {
 			[51] = 1656002777,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [39]
+		}, -- [29]
 		{
 			"hopefully the pet from the last boss drops so i dont have to come back here D;", -- [1]
 			"|Kq35|k", -- [2]
@@ -893,7 +671,7 @@ ElvCharacterDB = {
 			[51] = 1656002791,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [40]
+		}, -- [30]
 		{
 			"ty!", -- [1]
 			"|Kq35|k", -- [2]
@@ -916,7 +694,7 @@ ElvCharacterDB = {
 			[51] = 1656002793,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [41]
+		}, -- [31]
 		{
 			"you might go back to tame it now lol", -- [1]
 			"|Kq35|k", -- [2]
@@ -939,7 +717,7 @@ ElvCharacterDB = {
 			[51] = 1656002826,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [42]
+		}, -- [32]
 		{
 			"tryna put my game time in so i can get beta access to the next xpac", -- [1]
 			"|Kq35|k", -- [2]
@@ -962,7 +740,7 @@ ElvCharacterDB = {
 			[51] = 1656002843,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [43]
+		}, -- [33]
 		{
 			"wait whaT??!?", -- [1]
 			"|Kq35|k", -- [2]
@@ -985,7 +763,7 @@ ElvCharacterDB = {
 			[51] = 1656002846,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [44]
+		}, -- [34]
 		{
 			"tame what!?", -- [1]
 			"|Kq35|k", -- [2]
@@ -1008,7 +786,7 @@ ElvCharacterDB = {
 			[51] = 1656002915,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [45]
+		}, -- [35]
 		{
 			"yes you can tame the astral cloud serpent", -- [1]
 			"|Kq35|k", -- [2]
@@ -1031,7 +809,7 @@ ElvCharacterDB = {
 			[51] = 1656002923,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [46]
+		}, -- [36]
 		{
 			"on hunters", -- [1]
 			"|Kq35|k", -- [2]
@@ -1054,7 +832,7 @@ ElvCharacterDB = {
 			[51] = 1656002926,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [47]
+		}, -- [37]
 		{
 			":O", -- [1]
 			"|Kq35|k", -- [2]
@@ -1077,7 +855,7 @@ ElvCharacterDB = {
 			[51] = 1656002931,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [48]
+		}, -- [38]
 		{
 			"dont do this to me", -- [1]
 			"|Kq35|k", -- [2]
@@ -1100,7 +878,7 @@ ElvCharacterDB = {
 			[51] = 1656002881,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [49]
+		}, -- [39]
 		{
 			"lmao you know i like me pretty things", -- [1]
 			"|Kq35|k", -- [2]
@@ -1123,7 +901,7 @@ ElvCharacterDB = {
 			[51] = 1656002889,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [50]
+		}, -- [40]
 		{
 			"world bosses too like oondasta or whatever is called", -- [1]
 			"|Kq35|k", -- [2]
@@ -1146,7 +924,7 @@ ElvCharacterDB = {
 			[51] = 1656002893,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [51]
+		}, -- [41]
 		{
 			"you can rob it from ppl waiting for spawn :D", -- [1]
 			"|Kq35|k", -- [2]
@@ -1169,7 +947,7 @@ ElvCharacterDB = {
 			[51] = 1656002902,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [52]
+		}, -- [42]
 		{
 			"i think that one i always knew", -- [1]
 			"|Kq35|k", -- [2]
@@ -1192,7 +970,7 @@ ElvCharacterDB = {
 			[51] = 1656002908,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [53]
+		}, -- [43]
 		{
 			"lol so mean", -- [1]
 			"|Kq35|k", -- [2]
@@ -1215,7 +993,7 @@ ElvCharacterDB = {
 			[51] = 1656002977,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [54]
+		}, -- [44]
 		{
 			"oondasta isnt pretty enough for me", -- [1]
 			"|Kq35|k", -- [2]
@@ -1238,7 +1016,7 @@ ElvCharacterDB = {
 			[51] = 1656002985,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [55]
+		}, -- [45]
 		{
 			"but maybe if i go through a badass phase maybe ill get him", -- [1]
 			"|Kq35|k", -- [2]
@@ -1261,7 +1039,7 @@ ElvCharacterDB = {
 			[51] = 1656002994,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [56]
+		}, -- [46]
 		{
 			"the astral serpent is prettier", -- [1]
 			"|Kq35|k", -- [2]
@@ -1284,7 +1062,7 @@ ElvCharacterDB = {
 			[51] = 1656002965,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [57]
+		}, -- [47]
 		{
 			"no pet...sad", -- [1]
 			"|Kq35|k", -- [2]
@@ -1307,7 +1085,7 @@ ElvCharacterDB = {
 			[51] = 1656002972,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [58]
+		}, -- [48]
 		{
 			"that it is", -- [1]
 			"|Kq35|k", -- [2]
@@ -1330,7 +1108,7 @@ ElvCharacterDB = {
 			[51] = 1656003039,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [59]
+		}, -- [49]
 		{
 			"do another hunter run:D", -- [1]
 			"|Kq35|k", -- [2]
@@ -1353,7 +1131,7 @@ ElvCharacterDB = {
 			[51] = 1656003042,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [60]
+		}, -- [50]
 		{
 			"you will need to buy the book", -- [1]
 			"|Kq35|k", -- [2]
@@ -1376,7 +1154,7 @@ ElvCharacterDB = {
 			[51] = 1656003049,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [61]
+		}, -- [51]
 		{
 			"from the serpent cloud trainer", -- [1]
 			"|Kq35|k", -- [2]
@@ -1399,7 +1177,7 @@ ElvCharacterDB = {
 			[51] = 1656003003,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [62]
+		}, -- [52]
 		{
 			"on the serpent cloud vendor in pandaria, forgot the zone's name", -- [1]
 			"|Kq35|k", -- [2]
@@ -1422,7 +1200,7 @@ ElvCharacterDB = {
 			[51] = 1656003016,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [63]
+		}, -- [53]
 		{
 			"well she's the only one left so i might since dorkk isnt home yet", -- [1]
 			"|Kq35|k", -- [2]
@@ -1445,7 +1223,7 @@ ElvCharacterDB = {
 			[51] = 1656003016,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [64]
+		}, -- [54]
 		{
 			"to tame him?", -- [1]
 			"|Kq35|k", -- [2]
@@ -1468,7 +1246,7 @@ ElvCharacterDB = {
 			[51] = 1656003032,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [65]
+		}, -- [55]
 		{
 			"yes", -- [1]
 			"|Kq35|k", -- [2]
@@ -1491,7 +1269,7 @@ ElvCharacterDB = {
 			[51] = 1656003101,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [66]
+		}, -- [56]
 		{
 			"https://www.wowhead.com/guides/cloud-serpent-hunter-pet-tames", -- [1]
 			"|Kq35|k", -- [2]
@@ -1514,7 +1292,7 @@ ElvCharacterDB = {
 			[51] = 1656003065,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Riverb",
-		}, -- [67]
+		}, -- [57]
 		{
 			"ok imma do it", -- [1]
 			"|Kq35|k", -- [2]
@@ -1537,7 +1315,7 @@ ElvCharacterDB = {
 			[51] = 1656003068,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Riverb",
-		}, -- [68]
+		}, -- [58]
 		{
 			"<Resonate 11/11M> Offering 5/11M TONIGHT at 8pm EST.  Also offering Heroic Clears Wednesday at 9pm EST with funnels available.      -GOLD ONLY-       DM for prices and information.", -- [1]
 			"Dumpp-BleedingHollow", -- [2]
@@ -1559,7 +1337,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dumpp|r",
 			[51] = 1656449276,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [59]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10840:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Skorpyron]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1581,7 +1359,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656534447,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [70]
+		}, -- [60]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10678:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Cage Rematch]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1603,7 +1381,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656534447,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [71]
+		}, -- [61]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10842:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Chronomatic Anomaly]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1625,7 +1403,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656534592,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [72]
+		}, -- [62]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10829:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Arcing Aqueducts]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1647,7 +1425,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656534736,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
+		}, -- [63]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10843:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Trilliax]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1669,7 +1447,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656534736,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [74]
+		}, -- [64]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10742:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Gluten Free]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1691,7 +1469,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656534736,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [75]
+		}, -- [65]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10844:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Spellblade Aluriel]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1713,7 +1491,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656534908,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [76]
+		}, -- [66]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10704:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Not For You]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1735,7 +1513,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535011,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
+		}, -- [67]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10847:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tichondrius]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1757,7 +1535,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535011,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
+		}, -- [68]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10848:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Krosus]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1779,7 +1557,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535144,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
+		}, -- [69]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10846:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: High Botanist Tel'arn]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1801,7 +1579,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535401,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [80]
+		}, -- [70]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10837:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Royal Athenaeum]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1823,7 +1601,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535540,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [81]
+		}, -- [71]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10845:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Star Augur Etraeus]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1845,7 +1623,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535540,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [82]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10838:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Nightspire]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1867,7 +1645,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535893,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [83]
+		}, -- [73]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10849:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Grand Magistrix Elisande]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1889,7 +1667,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656535893,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [84]
+		}, -- [74]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10839:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Betrayer's Rise]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1911,7 +1689,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656536087,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [85]
+		}, -- [75]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10850:Player-73-09C7DA56:1:6:29:22:4294967295:4294967295:4294967295:4294967295|h[Mythic: Gul'dan]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1933,7 +1711,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656536087,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [86]
+		}, -- [76]
 		{
 			"|cffa335ee|Hitem:138348::::::::60:70::6:4:3518:1472:5855:3336:1:28:621:::::|h[Pauldrons of Shackled Elements]|h|r", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1955,7 +1733,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656536128,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [77]
 		{
 			"|cffa335ee|Hitem:45524::::::::60:70::3::1:28:1020:::::|h[Chestguard of Insidious Intent]|h|r", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1977,7 +1755,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656536141,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [78]
 		{
 			"|cffa335ee|Hitem:140903::::::::60:70::6:4:3445:1472:5855:3336:1:28:621:::::|h[Hood of Fading Opportunity]|h|r", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -1999,7 +1777,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1656536175,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
+		}, -- [79]
 		{
 			"WTS 15's timed, gold only, pst. ", -- [1]
 			"Tonkachonka-BleedingHollow", -- [2]
@@ -2021,7 +1799,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Tonkachonka|r",
 			[51] = 1656536234,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [80]
 		{
 			"like 50g for a time 15?", -- [1]
 			"Spaccatutto-BleedingHollow", -- [2]
@@ -2043,7 +1821,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Spaccatutto|r",
 			[51] = 1656536261,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [81]
 		{
 			"only if you can smoke dabs while they carry you", -- [1]
 			"Lânfear-BleedingHollow", -- [2]
@@ -2065,7 +1843,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLânfear|r",
 			[51] = 1656536294,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [82]
 		{
 			"ill smoke dabs while i carry you", -- [1]
 			"Seeznoevil-BleedingHollow", -- [2]
@@ -2087,7 +1865,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Seeznoevil|r",
 			[51] = 1656536305,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [83]
 		{
 			"trying to figure out how people can't time 15s, with dbl lego and 2 set you just have to roll your face over your keyboard right?", -- [1]
 			"Spaccatutto-BleedingHollow", -- [2]
@@ -2109,7 +1887,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Spaccatutto|r",
 			[51] = 1656536329,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [84]
 		{
 			"i am unemployed i dont require carries", -- [1]
 			"Lânfear-BleedingHollow", -- [2]
@@ -2131,7 +1909,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaLânfear|r",
 			[51] = 1656536347,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [85]
 		{
 			"its mostly people that are fresh 60s or alts :D", -- [1]
 			"Seeznoevil-BleedingHollow", -- [2]
@@ -2153,7 +1931,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Seeznoevil|r",
 			[51] = 1656536349,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [86]
 		{
 			"WTS |cffa335ee|Hitem:63042::::::::50:104:::::::::|h[Reins of the Phosphorescent Stone Drake]|h|r Aeonaxx Rare Mount - Up Right Now", -- [1]
 			"Porl-BleedingHollow", -- [2]
@@ -2175,7 +1953,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Porl|r",
 			[51] = 1657214291,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [87]
 		{
 			"WTS 2v2 boosts up to 2100 for gold pst", -- [1]
 			"Kraftyx-BleedingHollow", -- [2]
@@ -2197,7 +1975,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKraftyx|r",
 			[51] = 1657214296,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [88]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11320:Player-73-09C7DA56:1:7:7:22:4294967295:4294967295:4294967295:4294967295|h[Raiding with Leashes IV: Wrath of the Lick King]|h|r!", -- [1]
 			"Pándan-BleedingHollow", -- [2]
@@ -2218,6 +1996,226 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cfff38bb9Pándan|r",
 			[51] = 1657216750,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [89]
+		{
+			"UR HAWT THO", -- [1]
+			"Yunata-BleedingHollow", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yunata-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			633, -- [11]
+			"Player-73-0E675D58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yunata|r",
+			[51] = 1657847199,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [90]
+		{
+			"noice", -- [1]
+			"Devilyfox-BleedingHollow", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Devilyfox-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			634, -- [11]
+			"Player-73-0DCF0014", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Devilyfox|r",
+			[51] = 1657847202,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [91]
+		{
+			"WTS |cffa335ee|Hitem:49110::::::::60:105:::::::::|h[Nightmare Tear]|h|r", -- [1]
+			"Grannyedna-BleedingHollow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Grannyedna-BleedingHollow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			637, -- [11]
+			"Player-73-0C506AA8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Grannyedna|r",
+			[51] = 1657847219,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:15024:Player-73-0DE49603:1:7:28:22:4294967295:4294967295:4294967295:4294967295|h[Denying the Drought]|h|r!", -- [1]
+			"Felbearr-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Felbearr-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			588, -- [11]
+			"Player-73-0DE49603", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Felbearr|r",
+			[51] = 1659029334,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [93]
+		{
+			"ya", -- [1]
+			"Elomonk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1035, -- [11]
+			"Player-73-0CB34D6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Elomonk|r",
+			[51] = 1660196744,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"wanna join?", -- [1]
+			"Elomonk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1037, -- [11]
+			"Player-73-0CB34D6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Elomonk|r",
+			[51] = 1660196748,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"sure, in disc with medi atm so ill bring that guy too", -- [1]
+			"Rakalzul-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1069, -- [11]
+			"Player-73-0E8887F3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Rakalzul|r",
+			[51] = 1660196814,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"https://discord.com/channels/180092589700022272/611403977829122048", -- [1]
+			"Elomonk-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1082, -- [11]
+			"Player-73-0CB34D6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Elomonk|r",
+			[51] = 1660196783,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12934:Player-73-09C7DA56:1:8:30:22:4294967295:4294967295:4294967295:4294967295|h[A Horde of Hoofbeats]|h|r!", -- [1]
+			"Pándan-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pándan-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			660, -- [11]
+			"Player-73-09C7DA56", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Pándan|r",
+			[51] = 1661875072,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [98]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:696:Player-73-0E7A9DF5:1:9:7:22:4294967295:4294967295:4294967295:4294967295|h[Tempest Keep]|h|r!", -- [1]
+			"Poppacoolie-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Poppacoolie-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			278, -- [11]
+			"Player-73-0E7A9DF5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Poppacoolie|r",
+			[51] = 1662620016,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},

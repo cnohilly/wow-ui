@@ -20,29 +20,18 @@ L["BEST_FOR_DUNGEON"] = "Лучший для подземелья"
 L["BEST_RUN"] = "Лучший проход"
 L["BEST_SCORE"] = "Лучший Эпох+ счет (%s)"
 L["CANCEL"] = "Отменить"
-L["CHANGES_REQUIRES_UI_RELOAD"] = [=[Изменения были сохранены, но необходимо перезагрузить интерфейс, чтобы они вступили в силу.
-
-Сделать это сейчас?]=]
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_MPLUS"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_MPLUS_WITH_SCORE"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_PVP"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_RAID_DEFAULT"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_RAID_HEROIC"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_RAID_MYTHIC"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_RAID_NORMAL"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_GUILD_SOCIAL"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_TEAM_MPLUS_DEFAULT"] = ""--]] 
---[[Translation missing --]]
---[[ L["CHARACTER_LF_TEAM_MPLUS_WITH_SCORE"] = ""--]] 
+L["CHANGES_REQUIRES_UI_RELOAD"] = "Изменения были сохранены, но необходимо перезагрузить интерфейс, чтобы они вступили в силу. Сделать это сейчас?"
+L["CHARACTER_LF_GUILD_MPLUS"] = "Ищу гильдию для походов в Эпох+ подземелья."
+L["CHARACTER_LF_GUILD_MPLUS_WITH_SCORE"] = "Ищу гильдию для походов в Эпох+ подземелья"
+L["CHARACTER_LF_GUILD_PVP"] = "Ищу ПвП гильдию. "
+L["CHARACTER_LF_GUILD_RAID_DEFAULT"] = "Ищу гильдию для похода в рейды."
+L["CHARACTER_LF_GUILD_RAID_HEROIC"] = [=[Ищу гильдию для походов в героические рейды.
+]=]
+L["CHARACTER_LF_GUILD_RAID_MYTHIC"] = "Ищу гильдию для походов в эпохальные рейды."
+L["CHARACTER_LF_GUILD_RAID_NORMAL"] = "Ищу гильдию для походов в обычные рейды."
+L["CHARACTER_LF_GUILD_SOCIAL"] = "Ищу гильдию для социальных активностей"
+L["CHARACTER_LF_TEAM_MPLUS_DEFAULT"] = "Ищу статик для походов в Эпох+ подземелья"
+L["CHARACTER_LF_TEAM_MPLUS_WITH_SCORE"] = "Ищу %d+ статик для походов в Эпох+ подземелья"
 L["CHECKBOX_DISPLAY_WEEKLY"] = "Текущая неделя"
 L["CHOOSE_HEADLINE_HEADER"] = "Заголовок окна подсказки"
 L["CONFIG_WHERE_TO_SHOW_TOOLTIPS"] = "Отображение очков подземелий и рейдового прогресса"
@@ -53,27 +42,25 @@ L["COPY_RAIDERIO_PROFILE_URL"] = "Копировать ссылку Raider.IO"
 L["COPY_RAIDERIO_URL"] = "Копировать ссылку Raider.IO"
 L["CURRENT_MAINS_SCORE"] = "Текущий счет мейна"
 L["CURRENT_SCORE"] = "Текущие очки"
---[[Translation missing --]]
---[[ L["DB_MODULES"] = ""--]] 
---[[Translation missing --]]
---[[ L["DB_MODULES_HEADER_MYTHIC_PLUS"] = ""--]] 
---[[Translation missing --]]
---[[ L["DB_MODULES_HEADER_RAIDING"] = ""--]] 
---[[Translation missing --]]
---[[ L["DB_MODULES_HEADER_RECRUITMENT"] = ""--]] 
+L["DB_MODULES"] = "Модули базы данных"
+L["DB_MODULES_HEADER_MYTHIC_PLUS"] = "Эпохальные+ подземелья"
+L["DB_MODULES_HEADER_RAIDING"] = "Рейды"
+L["DB_MODULES_HEADER_RECRUITMENT"] = "Набор в гильдию"
 L["DISABLE_DEBUG_MODE_RELOAD"] = [=[Вы отключаете режим отладки.
 
 Нажмите Подтвердить, чтобы перезагрузить интерфейс.]=]
---[[Translation missing --]]
---[[ L["DISABLE_RWF_MODE_BUTTON"] = ""--]] 
+L["DISABLE_RWF_MODE_BUTTON"] = "Отключить"
 --[[Translation missing --]]
 --[[ L["DISABLE_RWF_MODE_BUTTON_TOOLTIP"] = ""--]] 
 --[[Translation missing --]]
 --[[ L["DISABLE_RWF_MODE_RELOAD"] = ""--]] 
 L["DPS"] = "Боец"
 L["DUNGEON_SHORT_NAME_DOS"] = "Та Сторона"
+L["DUNGEON_SHORT_NAME_GD"] = "Депо Мрачных Путей"
 L["DUNGEON_SHORT_NAME_GMBT"] = "Гамбит Со'леи"
 L["DUNGEON_SHORT_NAME_HOA"] = "Чертоги Покаяния"
+L["DUNGEON_SHORT_NAME_ID"] = "Железные доки"
+L["DUNGEON_SHORT_NAME_LOWR"] = "Каражан (нижний ярус)"
 L["DUNGEON_SHORT_NAME_MISTS"] = "Туманы Тирна Скитта"
 L["DUNGEON_SHORT_NAME_NW"] = "Смертельная тризна"
 L["DUNGEON_SHORT_NAME_PF"] = "Чумные каскады"
@@ -81,6 +68,9 @@ L["DUNGEON_SHORT_NAME_SD"] = "Кровавые катакомбы"
 L["DUNGEON_SHORT_NAME_SOA"] = "Шпили Перерождения"
 L["DUNGEON_SHORT_NAME_STRT"] = "Улицы Чудес"
 L["DUNGEON_SHORT_NAME_TOP"] = "Театр Боли"
+L["DUNGEON_SHORT_NAME_UPPR"] = "Каражан (верхний ярус)"
+L["DUNGEON_SHORT_NAME_WORK"] = "Мехагон — мастерская"
+L["DUNGEON_SHORT_NAME_YARD"] = "Мехагон — свалка"
 L["ENABLE_AUTO_FRAME_POSITION"] = "Автоматическая позиция окна профиля RaiderIO"
 L["ENABLE_AUTO_FRAME_POSITION_DESC"] = "Включение этого параметра будет удерживать подсказку Эпох+ профиля рядом с окном поиска группы или подсказкой игрока. "
 L["ENABLE_DEBUG_MODE_RELOAD"] = [=[Вы включаете режим отладки. Он предназначен только для тестирования и разработки и потребует дополнительного использования памяти.
@@ -92,8 +82,7 @@ L["ENABLE_NO_SCORE_COLORS"] = "Отключить цвета для очков"
 L["ENABLE_NO_SCORE_COLORS_DESC"] = "Отключает раскраску очков. Все очки будут отображены белым цветом."
 L["ENABLE_RAIDERIO_CLIENT_ENHANCEMENTS"] = "Расширенная информация из RaiderIO Client"
 L["ENABLE_RAIDERIO_CLIENT_ENHANCEMENTS_DESC"] = "Включает отображение расширенной информации по вашим персонажам, полученной с помощью RaiderIO Client."
---[[Translation missing --]]
---[[ L["ENABLE_RWF_MODE_BUTTON"] = ""--]] 
+L["ENABLE_RWF_MODE_BUTTON"] = "Включить"
 --[[Translation missing --]]
 --[[ L["ENABLE_RWF_MODE_BUTTON_TOOLTIP"] = ""--]] 
 --[[Translation missing --]]
@@ -105,20 +94,13 @@ L["GENERAL_TOOLTIP_OPTIONS"] = "Общие параметры подсказки
 L["GUILD_BEST_SEASON"] = "ГИ: Лучшие за сезон"
 L["GUILD_BEST_TITLE"] = "Рекорды Raider.IO"
 L["GUILD_BEST_WEEKLY"] = "ГИ: Лучшие за неделю"
---[[Translation missing --]]
---[[ L["GUILD_LF_MPLUS_DEFAULT"] = ""--]] 
---[[Translation missing --]]
---[[ L["GUILD_LF_MPLUS_WITH_SCORE"] = ""--]] 
---[[Translation missing --]]
---[[ L["GUILD_LF_PVP"] = ""--]] 
---[[Translation missing --]]
---[[ L["GUILD_LF_RAID_DEFAULT"] = ""--]] 
---[[Translation missing --]]
---[[ L["GUILD_LF_RAID_HEROIC"] = ""--]] 
---[[Translation missing --]]
---[[ L["GUILD_LF_RAID_MYTHIC"] = ""--]] 
---[[Translation missing --]]
---[[ L["GUILD_LF_RAID_NORMAL"] = ""--]] 
+L["GUILD_LF_MPLUS_DEFAULT"] = "Ищем игроков для походов в Эпох+ подземелья"
+L["GUILD_LF_MPLUS_WITH_SCORE"] = "Ищем %d+ игроков для походов в Эпох+ подземелья"
+L["GUILD_LF_PVP"] = "Ищем игроков для ПвП активностей"
+L["GUILD_LF_RAID_DEFAULT"] = "Ищем игроков для походов в рейды"
+L["GUILD_LF_RAID_HEROIC"] = "Ищем игроков для походов в героические рейды"
+L["GUILD_LF_RAID_MYTHIC"] = "Ищем игроков для походов в эпохальные рейды"
+L["GUILD_LF_RAID_NORMAL"] = "Ищем игроков для походов в обычные рейды"
 --[[Translation missing --]]
 --[[ L["GUILD_LF_SOCIAL"] = ""--]] 
 L["HEALER"] = "Лекарь"
@@ -135,8 +117,8 @@ L["MODULE_EUROPE"] = "Европа"
 L["MODULE_KOREA"] = "Корея"
 L["MODULE_TAIWAN"] = "Тайвань"
 L["MY_PROFILE_TITLE"] = "Профиль RaiderIO"
---[[Translation missing --]]
---[[ L["MYTHIC_PLUS_DB_MODULES"] = ""--]] 
+L["MYTHIC_PLUS_DB_MODULES"] = [=[Модули базы данных Эпох+ подземелий
+]=]
 L["MYTHIC_PLUS_SCORES"] = "Подсказки Эпох+ счета"
 L["NO_GUILD_RECORD"] = "Нет данных гильдии"
 L["OPEN_CONFIG"] = "Открыть настройки"
@@ -163,6 +145,37 @@ L["RAID_BOSS_CN_6"] = "Леди Инерва Дарквейн"
 L["RAID_BOSS_CN_7"] = "Совет Крови"
 L["RAID_BOSS_CN_8"] = "Грязешмяк"
 L["RAID_BOSS_CN_9"] = "Генералы Каменного легиона"
+L["RAID_BOSS_FCN_1"] = "Визгунья"
+L["RAID_BOSS_FCN_10"] = "Сир Денатрий"
+L["RAID_BOSS_FCN_2"] = "Ловчий Альтимор"
+L["RAID_BOSS_FCN_3"] = "Алчущий разрушитель"
+L["RAID_BOSS_FCN_4"] = "Изобретатель Зи'мокс"
+L["RAID_BOSS_FCN_5"] = "Спасение Солнечного короля"
+L["RAID_BOSS_FCN_6"] = "Леди Инерва Дарквейн"
+L["RAID_BOSS_FCN_7"] = "Совет Крови"
+L["RAID_BOSS_FCN_8"] = "Грязешмяк"
+L["RAID_BOSS_FCN_9"] = "Генералы Каменного легиона"
+L["RAID_BOSS_FSFO_1"] = "Бдительный Страж"
+L["RAID_BOSS_FSFO_10"] = "Ригелон"
+L["RAID_BOSS_FSFO_11"] = "Тюремщик"
+L["RAID_BOSS_FSFO_2"] = "Сколекс"
+L["RAID_BOSS_FSFO_3"] = "Изобретатель Зи'мокс"
+L["RAID_BOSS_FSFO_4"] = "Даусинь"
+L["RAID_BOSS_FSFO_5"] = "Прототип пантеона"
+L["RAID_BOSS_FSFO_6"] = "Лихувим"
+L["RAID_BOSS_FSFO_7"] = "Галондрий"
+L["RAID_BOSS_FSFO_8"] = "Андуин Ринн"
+L["RAID_BOSS_FSFO_9"] = "Властители Ужаса"
+L["RAID_BOSS_FSOD_1"] = "Таррагр"
+L["RAID_BOSS_FSOD_10"] = "Сильвана Ветрокрылая"
+L["RAID_BOSS_FSOD_2"] = "Око Тюремщика"
+L["RAID_BOSS_FSOD_3"] = "Девять"
+L["RAID_BOSS_FSOD_4"] = "Душа Нер'зула"
+L["RAID_BOSS_FSOD_5"] = "Дормацайн"
+L["RAID_BOSS_FSOD_6"] = "Разнал"
+L["RAID_BOSS_FSOD_7"] = "Стражница Предвечных"
+L["RAID_BOSS_FSOD_8"] = "Писарь судьбы Ро-Кало"
+L["RAID_BOSS_FSOD_9"] = "Кел'Тузад"
 L["RAID_BOSS_SFO_1"] = "Бдительный Страж"
 L["RAID_BOSS_SFO_10"] = "Ригелон"
 L["RAID_BOSS_SFO_11"] = "Тюремщик"
@@ -203,12 +216,10 @@ L["RAIDERIO_MYTHIC_OPTIONS"] = "Настройки аддона Raider.IO "
 L["RAIDING_DATA_HEADER"] = "Рейдовый прогресс"
 --[[Translation missing --]]
 --[[ L["RAIDING_DB_MODULES"] = ""--]] 
---[[Translation missing --]]
---[[ L["RECRUITMENT_DB_MODULES"] = ""--]] 
+L["RECRUITMENT_DB_MODULES"] = "Модули базы данных поиска новых игроков"
 L["RELOAD_LATER"] = "Перезагрузить позже"
 L["RELOAD_NOW"] = "Перезагрузить сейчас"
---[[Translation missing --]]
---[[ L["RELOAD_RWF_MODE_BUTTON"] = ""--]] 
+L["RELOAD_RWF_MODE_BUTTON"] = "Сохранить"
 --[[Translation missing --]]
 --[[ L["RELOAD_RWF_MODE_BUTTON_TOOLTIP"] = ""--]] 
 --[[Translation missing --]]
@@ -219,12 +230,9 @@ L["RELOAD_NOW"] = "Перезагрузить сейчас"
 --[[ L["RWF_SUBTITLE_LOGGING_LOOT"] = ""--]] 
 --[[Translation missing --]]
 --[[ L["RWF_TITLE"] = ""--]] 
---[[Translation missing --]]
---[[ L["SEARCH_NAME_LABEL"] = ""--]] 
---[[Translation missing --]]
---[[ L["SEARCH_REALM_LABEL"] = ""--]] 
---[[Translation missing --]]
---[[ L["SEARCH_REGION_LABEL"] = ""--]] 
+L["SEARCH_NAME_LABEL"] = "Имя персонажа"
+L["SEARCH_REALM_LABEL"] = "Игровой мир"
+L["SEARCH_REGION_LABEL"] = "Регион"
 L["SEASON_LABEL_1"] = "C1"
 L["SEASON_LABEL_2"] = "C2"
 L["SEASON_LABEL_3"] = "С3"
@@ -276,10 +284,8 @@ L["SHOW_SCORE_IN_COMBAT_DESC"] = "Отключите, чтобы минимиз�
 L["SHOW_SCORE_WITH_MODIFIER"] = "Показывать очки при удержании клавиши"
 L["SHOW_SCORE_WITH_MODIFIER_DESC"] = "Отключить отображение очков без удержания клавиши"
 L["TANK"] = "Танк"
---[[Translation missing --]]
---[[ L["TEAM_LF_MPLUS_DEFAULT"] = ""--]] 
---[[Translation missing --]]
---[[ L["TEAM_LF_MPLUS_WITH_SCORE"] = ""--]] 
+L["TEAM_LF_MPLUS_DEFAULT"] = "Ищем игроков для походов в Эпох+ подземелья"
+L["TEAM_LF_MPLUS_WITH_SCORE"] = "Ищем %d+ игроков для походов в Эпох+ подземелья"
 L["TIMED_10_RUNS"] = "Пройдено +10-14 вовремя"
 L["TIMED_15_RUNS"] = "Пройдено 15+ вовремя"
 L["TIMED_20_RUNS"] = "Пройдено 20+ вовремя"

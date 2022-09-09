@@ -1,13 +1,13 @@
 
 HandyNotes_ShadowlandsTreasuresDB = {
 	["profileKeys"] = {
-		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
 		["Jerkk - Bleeding Hollow"] = "Jerkk - Bleeding Hollow",
+		["Holynoly - Altar of Storms"] = "Holynoly - Altar of Storms",
+		["Lickk - Bleeding Hollow"] = "Lickk - Bleeding Hollow",
+		["Scongi - Kil'jaeden"] = "Scongi - Kil'jaeden",
 		["Dorkk - Bleeding Hollow"] = "Dorkk - Bleeding Hollow",
 	},
 	["profiles"] = {
-		["Lickk - Bleeding Hollow"] = {
-		},
 		["Jerkk - Bleeding Hollow"] = {
 			["collectablefound"] = false,
 			["show_npcs"] = false,
@@ -34,6 +34,12 @@ HandyNotes_ShadowlandsTreasuresDB = {
 			},
 			["achievedfound"] = false,
 			["upcoming"] = false,
+		},
+		["Holynoly - Altar of Storms"] = {
+		},
+		["Lickk - Bleeding Hollow"] = {
+		},
+		["Scongi - Kil'jaeden"] = {
 		},
 		["Dorkk - Bleeding Hollow"] = {
 		},

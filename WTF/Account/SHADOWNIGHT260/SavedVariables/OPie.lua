@@ -3,8 +3,8 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Bleeding Hollow-Dorkk-2"] = "default",
 	},
-	["_GameVersion"] = "9.2.5",
-	["_OPieVersion"] = "Xe 6 (3.106)",
+	["_GameVersion"] = "9.2.7",
+	["_OPieVersion"] = "Xe 8 (3.107)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
@@ -75,8 +75,8 @@ OneRing_Config = {
 			},
 			["Fishing"] = {
 				{
-					["sliceToken"] = "ABuez5CbYBwP",
 					["id"] = 271990,
+					["sliceToken"] = "ABuez5CbYBwP",
 				}, -- [1]
 				{
 					"toy", -- [1]
@@ -239,20 +239,20 @@ OneRing_Config = {
 					["sliceToken"] = "OPCCTb",
 				}, -- [3]
 				{
-					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
 					["sliceToken"] = "OPCCTe",
+					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
 				}, -- [4]
 				{
 					["id"] = "/cast {{spell:2259/51304}}",
 					["sliceToken"] = "OPCCTa",
 				}, -- [5]
 				{
-					["id"] = "/cast {{spell:4036/51306}}",
 					["sliceToken"] = "OPCCTg",
+					["id"] = "/cast {{spell:4036/51306}}",
 				}, -- [6]
 				{
-					["sliceToken"] = "OPCCTm",
 					["id"] = 2656,
+					["sliceToken"] = "OPCCTm",
 				}, -- [7]
 				{
 					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}};",
@@ -263,8 +263,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCCTi",
 				}, -- [9]
 				{
-					["sliceToken"] = "OPCCTr",
 					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+					["sliceToken"] = "OPCCTr",
 				}, -- [10]
 				{
 					["id"] = 53428,
@@ -302,12 +302,12 @@ OneRing_Config = {
 			},
 			["Cooking"] = {
 				{
-					["sliceToken"] = "ABuez5CbYBw0",
 					["id"] = 195128,
+					["sliceToken"] = "ABuez5CbYBw0",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuez5CbYBwG",
 					["id"] = 818,
+					["sliceToken"] = "ABuez5CbYBwG",
 				}, -- [2]
 				{
 					"battlepet", -- [1]

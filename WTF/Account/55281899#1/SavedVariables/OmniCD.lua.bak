@@ -1,0 +1,45 @@
+
+OmniCDDB = {
+	["profileKeys"] = {
+		["Blù - Bleeding Hollow"] = "Default",
+		["Nycee - Bleeding Hollow"] = "Default",
+		["Katdoge - Bleeding Hollow"] = "Default",
+		["Pándan - Bleeding Hollow"] = "Default",
+		["Noliedin - Bleeding Hollow"] = "Default",
+		["Inolie - Bleeding Hollow"] = "Default",
+		["Emogin - Bleeding Hollow"] = "Default",
+		["Trublmakr - Bleeding Hollow"] = "Default",
+		["Stryfë - Bleeding Hollow"] = "Default",
+		["Diá - Bleeding Hollow"] = "Default",
+		["Nolieper - Bleeding Hollow"] = "Default",
+		["Holynoly - Bleeding Hollow"] = "Default",
+		["Pandan - Earthen Ring"] = "Default",
+		["Trublmakr - Scarlet Crusade"] = "Default",
+		["Emoclëw - Bleeding Hollow"] = "Default",
+		["Noliee - Bleeding Hollow"] = "Default",
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["cooldowns"] = {
+	},
+	["version"] = 2.51,
+	["global"] = {
+		["disableElvMsg"] = true,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Party"] = {
+				["party"] = {
+					["manualPos"] = {
+						["interruptBar"] = {
+							["y"] = 556.4599952562639,
+							["x"] = 1126.739253756969,
+						},
+					},
+				},
+			},
+		},
+	},
+}
